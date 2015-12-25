@@ -1,10 +1,15 @@
 # Site settings
 title: The Appendix
 description: A journal of narrative and experimental history.
-email: info@theappendix.net
+email: support@theappendix.net
 baseurl: "" 
 url: "http://theappendix.net" # the base hostname & protocol for your site
 github_username:  theappendix
+
+# Collections
+collections:
+  issues:
+    output: true
 
 # Build settings
 markdown: kramdown
