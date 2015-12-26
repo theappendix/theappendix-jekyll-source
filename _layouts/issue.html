@@ -10,6 +10,20 @@ layout: default
 <p class="blurb">
   {{ page.blurb | markdownify | remove: '<p>' | remove: '</p>' }}
 </p>
+<ul class="personnel">
+  {% for listing in page.personnel %}
+    <li>
+      <span class="position">{{ listing.position }}:</span>
+      {% for name in listing.names %}
+        {% if forloop.last %}
+          {{ name }}
+        {% else %}
+          {{ name }}, 
+        {% endif %}
+      {% endfor %}
+    </li>
+  {% endfor %}
+</ul>
 
 {% if page.chapters.size > 0 %}
   {% for chapter in page.chapters %}
