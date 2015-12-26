@@ -1,0 +1,20 @@
+<li>
+  <span class="number">{{ include.article.toc }}</span>
+  <span class="title"><a href="{{ article.permalink }}">
+    {{ include.article.title | markdownify | remove: '<p>' | remove: '</p>' }}
+  </a></span>
+  {% if include.article.authors.size > 0 %}
+    <span class="authors">
+      {% if include.article.authors.size == 1 %}
+        By {{ include.article.authors[0] }}
+      {% elsif include.article.authors.size == 2 %}
+        By {{ include.article.authors[0] }} and 
+          {{ include.article.authors[1] }}
+      {% elsif include.article.authors.size == 3 %}
+        By {{ include.article.authors[0] }}, 
+          {{ include.article.authors[1] }}, and 
+          {{ include.article.authors[2] }}
+      {% endif %}
+    </span>
+  {% endif %}
+</li>

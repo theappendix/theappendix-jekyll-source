@@ -1,3 +1,32 @@
 ---
 layout: default
 ---
+
+<h2>{{ page.issue_title }}</h2>
+<p class="metadata">
+  {{ page.month | date: "%B" }} {{ page.year}} – 
+  Volume {{ page.volume }}, Number {{ page.number }}
+</p>
+<p class="blurb">
+  {{ page.blurb | markdownify | remove: '<p>' | remove: '</p>' }}
+</p>
+
+{% if page.chapters.size > 0 %}
+  {% for chapter in page.chapters %}
+    {% assign chapter_number = forloop.index %}
+    <h3>Chapter {{ chapter_number }}: {{ chapter }}</h3>
+    <ul>
+      {% assign posts = site.posts | sort: 'toc' %}
+      {% for post in posts %}{% if post.volume == page.volume %}{% if post.number == page.number %}{% if post.chapter == chapter_number %}
+        {% include issues/toc-line-item.html article=post %}
+      {% endif %}{% endif %}{% endif %}{% endfor %}
+    </ul>
+  {% endfor %}
+{% else %}
+  <ul>
+    {% assign posts = site.posts | sort: 'toc' %}
+    {% for post in posts %}{% if post.volume == page.volume %}{% if post.number == page.number %}
+      {% include issues/toc-line-item.html article=post %}
+    {% endif %}{% endif %}{% endfor %}
+  </ul>
+{% endif %}
