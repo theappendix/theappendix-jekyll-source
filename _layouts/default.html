@@ -6,7 +6,10 @@
   <body>
 
     {% if layout.issue_layout %}
-      {% include header.html issue_color=page.color volume=page.volume number=page.number %}
+      {% for issue in site.issues %}{% if issue.volume == page.volume %}{% if issue.number == page.number %}
+        {% assign this_issue = issue %}
+      {% endif %}{% endif %}{% endfor %}
+      {% include header.html issue=this_issue %}
     {% else %}
       {% include header.html %}
     {% endif %}
