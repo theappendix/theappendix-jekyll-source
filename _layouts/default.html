@@ -5,7 +5,11 @@
 
   <body>
 
-    {% include header.html %}
+    {% if layout.custom_accent_color %}
+      {% include header.html issue_color=page.color volume=page.volume number=page.number %}
+    {% else %}
+      {% include header.html %}
+    {% endif %}
 
     <div class="page-content">
       <div class="wrapper">

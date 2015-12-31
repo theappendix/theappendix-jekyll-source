@@ -4,6 +4,10 @@ body {
 }
 
 header.site-header {
+  background: {
+    position: 50% 50%;
+    repeat: no-repeat;
+  }
   border: {
     color: $accentColor;
     style: solid;

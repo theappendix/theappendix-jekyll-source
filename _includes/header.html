@@ -1,8 +1,14 @@
-<header class="site-header">
+<header class="site-header"{% if include.issue_color %} 
+    style="background-image: url('/images/issues/{{ include.volume }}/{{ include.number }}/issue-header.jpg'); background-color: {{ include.issue_color }}; border-color: {{ include.issue_color }}"{% endif %}>
   <div id="title-banner">
-    {% assign headerLogo = 'header-balloon.png' %}
-    {% assign headerType = 'masthead-logotype.png' %}
-    <a class="logo logomark" href="{{ site.baseurl }}"><img src="{{ site.baseurl }}/images/interface/{{ headerLogo }}" alt="Appendix logo" /></a>
-    <a class="logo logotype" href="{{ site.baseurl }}"><img src="{{ site.baseurl }}/images/interface/{{ headerType }}" alt="The Appendix" /></a>
+    {% if include.issue_color %}
+      {% assign header_logo = 'header-balloon-white.png' %}
+      {% assign header_type = 'masthead-logotype-white.png' %}
+    {% else %}
+      {% assign header_logo = 'header-balloon.png' %}
+      {% assign header_type = 'masthead-logotype.png' %}
+    {% endif %}
+    <a class="logo logomark" href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/images/interface/{{ header_logo }}" alt="Appendix logo" /></a>
+    <a class="logo logotype" href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/images/interface/{{ header_type }}" alt="The Appendix" /></a>
   </div>
 </header>
