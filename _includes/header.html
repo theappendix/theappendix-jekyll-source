@@ -1,4 +1,4 @@
-<header class="site-header"{% if include.issue_color %} 
+<header class="site-header"{% if layout.issue_layout %} 
     style="background-image: url('/images/issues/{{ include.volume }}/{{ include.number }}/issue-header.jpg'); background-color: {{ include.issue_color }}; border-color: {{ include.issue_color }}"{% endif %}>
   <div id="title-banner">
     {% if include.issue_color %}
@@ -11,4 +11,9 @@
     <a class="logo logomark" href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/images/interface/{{ header_logo }}" alt="Appendix logo" /></a>
     <a class="logo logotype" href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/images/interface/{{ header_type }}" alt="The Appendix" /></a>
   </div>
+  {% if layout.issue_layout %}
+    <div class="issue-meta">
+      {{ page.issue_title }}—{{ page.month | date: "%B" }} {{ page.year }}—Vol. {{ page.volume }}, No. {{ page.number }}
+    </div>
+  {% endif %}
 </header>

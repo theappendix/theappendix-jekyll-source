@@ -14,6 +14,22 @@ header.site-header {
     width: 9px 0 3px 0;
   }
 
+  div.issue-meta {
+    @include sans-serif-font-stack;
+    background-color: transparent;
+    background-color: rgba(0,0,0,0.1);
+    color: #fff;
+    font: {
+      size: 1em;
+      weight: bold;
+    }
+    margin: {
+      top: 1em;
+    }
+    padding: .5em 0;
+    text-align: center;
+  }
+
   div#title-banner {
     margin: 0 auto;
     max-width: 660px;
