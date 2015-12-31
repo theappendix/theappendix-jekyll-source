@@ -1,0 +1,85 @@
+@mixin box-sizing-stack($box: border-box) {
+  -webkit-box-sizing: $box;
+  -moz-box-sizing: $box;
+  -ms-box-sizing: $box;
+  box-sizing: $box;
+}
+
+@mixin rotation-stack($rotation) {
+  -webkit-transform: rotate($rotation);
+  -moz-transform: rotate($rotation);
+  -o-transform: rotate($rotation);
+  -khtml-transform: rotate($rotation);
+  -ms-transform: rotate($rotation);
+  transform: rotate($rotation);
+}
+
+@mixin transition-stack($duration: 0.3s,$property: all,$easing: ease) {
+  -webkit-transition: $property $duration $easing;
+  -moz-transition: $property $duration $easing;
+  -o-transition: $property $duration $easing;
+  -khtml-transition: $property $duration $easing;
+  transition: $property $duration $easing; 
+}
+
+@mixin border-radius($radii) {
+  -webkit-border-radius: $radii;
+  -moz-border-radius: $radii;
+  -o-border-radius: $radii;
+  -khtml-border-radius: $radii;
+  border-radius: $radii;
+}
+
+@mixin box-shadow($options) {
+  -webkit-box-shadow: $options;
+  -moz-box-shadow: $options;
+  -o-box-shadow: $options;
+  -khtml-box-shadow: $options;
+  box-shadow: $options;
+}
+
+@mixin opacity($multiplier) {
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=" + ($multiplier * 10) + ")";
+  filter:alpha(opacity=$multiplier * 10);
+  -moz-opacity: $multiplier * .1;
+  -khtml-opacity: $multiplier * .1;
+  -moz-opacity: $multiplier * .1;
+  opacity: $multiplier * .1;
+}
+
+@mixin gradient-button-background($baseColor) {
+    background-image: -o-linear-gradient(bottom, darken($baseColor,9%) 48%, $baseColor 74%, lighten($baseColor,9%) 87%);
+    background-image: -moz-linear-gradient(bottom, darken($baseColor,9%) 48%, $baseColor 74%, lighten($baseColor,9%) 87%);
+    background-image: -webkit-linear-gradient(bottom, darken($baseColor,9%) 48%, $baseColor 74%, lighten($baseColor,9%) 87%);
+    background-image: -ms-linear-gradient(bottom, darken($baseColor,9%) 48%, $baseColor 74%, lighten($baseColor,9%) 87%);
+    background-image: linear-gradient(bottom, darken($baseColor,9%) 48%, $baseColor 74%, lighten($baseColor,9%) 87%);
+    
+    background-image: -webkit-gradient(
+        linear,
+        left bottom,
+        left top,
+        color-stop(0.48, darken($baseColor,9%)),
+        color-stop(0.74, $baseColor),
+        color-stop(0.87, lighten($baseColor,9%))
+    );
+}
+
+@mixin sans-serif-font-stack {
+  font-family: Verdana, Geneva, sans-serif;
+}
+
+@mixin serif-font-stack {
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+@mixin serif-smallcaps-font-stack {
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+@mixin hyphens-stack {
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    -ms-hyphens: auto;
+    -o-hyphens: auto;
+    hyphens: auto;
+}

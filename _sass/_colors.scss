@@ -1,0 +1,24 @@
+$textColor: #555;
+$headerColor: #222;
+$negativeColor: #fff;
+$deemphasizedColor: #aaa;
+$lightInterfaceColor: #b9b9b9;
+$lightInterfaceStroke: #eee;
+$lightInterfaceBackground: #e9e9e9;
+$footerText: #ddd;
+$footerHighlight: #383838;
+$footerLowlight: #282828;
+$footerDark: #333;
+$accentColor: #3ad5ce;
+$accentBackgroundColor: lighten($accentColor,40%);
+$accentColorLinkHover: darken($accentColor,9%);
+$darkLinkColor: darken($accentColor,15%);
+$darkBackgroundAccentColor: lighten($accentColor,20%);
+
+$noticeBackground: #fbf7a0;
+$noticeBorder: #fff51d;
+$noticeText: #363400;
+
+$errorBorder: #f1b7b9;
+$errorBackground: #f5ddde;
+$errorText: #9f1e15;

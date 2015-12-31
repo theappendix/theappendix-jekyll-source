@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+header.site-header {
+  border: {
+    color: $accentColor;
+    style: solid;
+    width: 9px 0 3px 0;
+  }
+
+  div#title-banner {
+    margin: 0 auto;
+    max-width: 660px;
+    min-width: 300px;
+    padding: 0.5% 0;
+    width: 66.66667%;
+
+    a.logo {
+      display: block;
+
+      &.logomark {
+        margin-top: 3%;
+        max-width: 62px;
+        width: 9.1176471%;
+        float: left;
+      }
+
+      &.logotype {
+        margin-left: 12.05882353%;
+        max-width: 598px;
+        width: 87.9411765%;
+      }
+
+      img {
+        max-width: 100%;
+      }
+    }
+  }
+}
