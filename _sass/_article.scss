@@ -1,0 +1,64 @@
+.article-content {
+  margin-top: 3em;
+
+  p {
+    font: {
+      size: 1.25em;
+    }
+    line-height: 150%;
+  }
+
+  a {
+    color: $accentColor;
+
+    &:hover {
+      color: $accentColorLinkHover;
+    }
+  }
+
+  hr {
+    border: {
+      color: $accentColor;
+      style: dashed;
+      width: 1px 0 0 0;
+    }
+    height: 1px;
+    margin: 2em auto;
+    width: 66.6667%;
+
+    &.special {
+      background: {
+        color: $accentColor;
+        image: url('/images/interface/icons/wheel-divider.png');
+        position: center;
+        size: 16px 16px;
+      }
+      border-width: 0;
+      width: 16px;
+      height: 16px;
+    }
+  }
+
+  div.inline-image {
+    max-width: 640px;
+    margin: 2em auto;
+    width: 100%;
+
+    p.caption {
+      font: {
+        size: 1em;
+        weight: bold;
+      }
+      line-height: 100%;
+
+      span.credit {
+        color: $deemphasizedColor;
+        display: block;
+        font: {
+          size: .75em;
+          weight: normal;
+        }
+      }
+    }
+  }
+}

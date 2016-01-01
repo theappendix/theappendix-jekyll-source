@@ -3,23 +3,23 @@ layout: default
 issue_layout: true
 ---
 
-<h2>{{ page.title }}</h2>
-{% if page.authors.size > 0 %}
-  <p class="byline">
-    {% if page.authors.size == 1 %}
-      By {{ page.authors[0] }}
-    {% elsif page.authors.size == 2 %}
-      By {{ page.authors[0] }} and {{ page.authors[1] }}
-    {% elsif page.authors.size == 3 %}
-      By {{ page.authors[0] }}, {{ page.authors[1] }}, 
-        and {{ page.authors[2] }}
+<article class="page-wrap">
+  <h2>{{ page.title }}</h2>
+  <p class="article-meta">
+    {% if page.authors.size > 0 %}
+      {% if page.authors.size == 1 %}
+        By {{ page.authors[0] }} –
+      {% elsif page.authors.size == 2 %}
+        By {{ page.authors[0] }} and {{ page.authors[1] }}
+      {% elsif page.authors.size == 3 %} –
+        By {{ page.authors[0] }}, {{ page.authors[1] }}, 
+          and {{ page.authors[2] }} –
+      {% endif %}
     {% endif %}
+    Published {{ page.date | date: "%B %-d, %Y" }}
   </p>
-{% endif %}
-<p class="dateline">
-  Published {{ page.date | date: "%B %-d, %Y" }}
-</p>
 
-<div class="article-content">
-  {{ page.content }}
-</div>
+  <div class="article-content">
+    {{ page.content }}
+  </div>
+</article>
