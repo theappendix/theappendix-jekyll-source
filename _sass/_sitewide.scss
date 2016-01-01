@@ -30,11 +30,16 @@ header.site-header {
     }
     padding: .5em 0;
     text-align: center;
+
+    a {
+      color: #fff;
+      text-decoration: none;
+    }
   }
 
   div#title-banner {
     margin: 0 auto;
-    max-width: 660px;
+    max-width: 638px;
     min-width: 300px;
     padding: 0.5% 0;
     width: 66.66667%;
@@ -44,15 +49,16 @@ header.site-header {
 
       &.logomark {
         margin-top: 3%;
+        margin-left: -9.7179%;
         max-width: 62px;
-        width: 9.1176471%;
+        width: 9.7179%;
         float: left;
       }
 
       &.logotype {
-        margin-left: 12.05882353%;
+        margin: 0 auto;
         max-width: 598px;
-        width: 87.9411765%;
+        width: 93.7304%;
       }
 
       img {
