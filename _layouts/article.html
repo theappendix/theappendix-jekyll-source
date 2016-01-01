@@ -2,6 +2,9 @@
 layout: default
 issue_layout: true
 ---
+{% for issue in site.issues %}{% if issue.volume == page.volume %}{% if issue.number == page.number %}
+  {% assign this_issue = issue %}
+{% endif %}{% endif %}{% endfor %}
 
 <article class="page-wrap">
   <h2>{{ page.title }}</h2>
@@ -21,5 +24,38 @@ issue_layout: true
 
   <div class="article-content">
     {{ page.content }}
+  </div>
+
+  <div class="issue-footer">
+    <h2>Elsewhere in this issue…</h2>
+    {% if this_issue.chapters.size > 0 %}
+      {% for chapter in this_issue.chapters %}
+        {% assign chapter_number = forloop.index %}
+        <h3>Chapter {{ chapter_number }}: {{ chapter }}</h3>
+        <ul>
+          {% assign posts = site.posts | sort: 'toc' %}
+          {% for post in posts %}{% if post.volume == page.volume %}{% if post.number == page.number %}{% if post.chapter == chapter_number %}
+            <li>
+              {{ post.toc }}. 
+              <a href="{{ post.permalink }}">
+                {{ post.title | markdownify | remove: '<p>' | remove: '</p>' }}
+              </a>
+            </li>
+          {% endif %}{% endif %}{% endif %}{% endfor %}
+        </ul>
+      {% endfor %}
+    {% else %}
+      <ul>
+        {% assign posts = site.posts | sort: 'toc' %}
+        {% for post in posts %}{% if post.volume == page.volume %}{% if post.number == page.number %}
+          <li>
+            {{ post.toc }}. 
+            <a href="{{ post.permalink }}">
+              {{ post.title | markdownify | remove: '<p>' | remove: '</p>' }}
+            </a>
+          </li>
+        {% endif %}{% endif %}{% endfor %}
+      </ul>
+    {% endif %}
   </div>
 </article>
