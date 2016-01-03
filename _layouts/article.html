@@ -7,14 +7,14 @@ issue_layout: true
 {% endif %}{% endif %}{% endfor %}
 
 <article class="page-wrap">
-  <h2>{{ page.title }}</h2>
+  <h2>{{ page.title | markdownify | remove: '<p>' | remove: '</p>' }}</h2>
   <p class="article-meta">
     {% if page.authors.size > 0 %}
       {% if page.authors.size == 1 %}
         By {{ page.authors[0] }} –
       {% elsif page.authors.size == 2 %}
-        By {{ page.authors[0] }} and {{ page.authors[1] }}
-      {% elsif page.authors.size == 3 %} –
+        By {{ page.authors[0] }} and {{ page.authors[1] }} – 
+      {% elsif page.authors.size == 3 %}
         By {{ page.authors[0] }}, {{ page.authors[1] }}, 
           and {{ page.authors[2] }} –
       {% endif %}
