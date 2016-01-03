@@ -64,6 +64,56 @@
     }
   }
 
+  div.float-image {
+    max-width: 210px;
+
+    a {
+      border-width: 0;
+    }
+
+    img {
+      width: 210px;
+      border: $lightInterfaceColor solid 1px;
+      @include transition-stack;
+    }
+
+    img:hover {
+      border-color: $accentColor;
+    }
+
+    p.caption {
+      text-align: left;
+      width: auto;
+      font-size: .9em;
+      line-height: 100%;
+      height: auto;
+      min-height: .9em;
+      font-weight: bold;
+      margin: 0;
+    }
+
+    span.credit {
+      display: block;
+      float: right;
+      text-align: right;
+      font-size: .7em;
+      line-height: 1.25em;
+      color: $lightInterfaceColor;
+      font-weight: normal;
+      max-width: 33%;
+    }
+  }
+
+  div.float-image.left {
+    float: left;
+    margin: .5em 1em .5em -.5em;
+  }
+
+  div.float-image.right {
+    float: right;
+    margin: .5em -.5em .5em 1em;
+  }
+
   span.interview-participant {
     display: block;
     font: {
