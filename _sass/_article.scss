@@ -80,6 +80,18 @@
     }
   }
 
+  p.editorial-intro {
+    font-style: italic;
+
+    i {
+      font-style: normal;
+    }
+
+    em {
+      font-style: normal;
+    }
+  }
+
   blockquote {
     padding: 0 20px;
     width: 580px;
