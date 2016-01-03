@@ -79,4 +79,21 @@
       transform: uppercase;
     }
   }
+
+  blockquote {
+    padding: 0 20px;
+    width: 580px;
+    border-width: 0 0 0 1px;
+    border-style: dotted;
+    border-color: $accentColor;
+    margin-left: 20px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+
+    p {
+      width: auto;
+      font-size: .9em;
+      margin: 0 0 1em 0;
+    }
+  }
 }
