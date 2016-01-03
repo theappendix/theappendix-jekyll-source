@@ -80,6 +80,24 @@
     }
   }
 
+  p.alternate-voice {
+    position: relative;
+    margin: 0 -20px;
+    padding: 10px 20px;
+    font-size: 1em;
+    background-color: lighten($accentColor,40);
+    z-index: 5;
+
+    a {
+      color: $darkLinkColor;
+    }
+
+    a:hover {
+      color: $accentColor;
+      border-color: $accentColor;
+    }
+  }
+
   p.editorial-intro {
     font-style: italic;
 
@@ -104,7 +122,7 @@
 
     p {
       width: auto;
-      font-size: .9em;
+      font-size: 1em;
       margin: 0 0 1em 0;
     }
   }
