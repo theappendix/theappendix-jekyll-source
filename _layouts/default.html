@@ -1,14 +1,21 @@
 <!DOCTYPE html>
 <html>
 
-  {% include head.html %}
+  {% if layout.issue_layout %}
+    {% for issue in site.issues %}{% if issue.volume == page.volume %}{% if issue.number == page.number %}
+      {% assign this_issue = issue %}
+    {% endif %}{% endif %}{% endfor %}
+  {% endif %}
+
+  {% if layout.issue_layout %}
+    {% include head.html issue=this_issue %}
+  {% else %}
+    {% include head.html %}
+  {% endif %}
 
   <body>
 
     {% if layout.issue_layout %}
-      {% for issue in site.issues %}{% if issue.volume == page.volume %}{% if issue.number == page.number %}
-        {% assign this_issue = issue %}
-      {% endif %}{% endif %}{% endfor %}
       {% include header.html issue=this_issue %}
     {% else %}
       {% include header.html %}

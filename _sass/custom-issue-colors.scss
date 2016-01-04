@@ -1,0 +1,33 @@
+.article-content {
+  p.alternate-voice {
+    background-color: $alternateVoice;
+  }
+  
+  p.alternate-voice a {
+    color: $darkLinkColor;
+
+    &:hover {
+      color: $accentColor;
+    }
+  }
+
+  hr {
+    border-color: $accentColor;
+
+    &.special {
+      background-color: $accentColor;
+    }
+  }
+
+  blockquote {
+    border-color: $accentColor;
+  }
+
+  a {
+    color: $accentColor;
+
+    &:hover {
+      color: $hoverColor;
+    }
+  }
+}
