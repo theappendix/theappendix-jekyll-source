@@ -30,4 +30,26 @@
       color: $hoverColor;
     }
   }
+
+  div.inline-audio {
+    border: {
+      color: $accentColor;
+    }
+
+    a.sm2_button,
+    a.sm2_button.sm2_paused:hover {
+      background-color:$accentColor;
+    }
+
+    a.sm2_button:hover,
+    a.sm2_button.sm2_playing,
+    a.sm2_button.sm2_playing:hover {
+      background-color:$darkLinkColor;
+    }
+
+    a.sm2_button.sm2_paused,
+    a.sm2_button.sm2_paused:hover {
+      background-color:$hoverColor;
+    }
+  }
 }

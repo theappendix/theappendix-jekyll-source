@@ -31,7 +31,17 @@
 
     <script type="text/javascript">
       $(document).ready(function() {
-        $(".fancybox").fancybox();
+        $(".fancybox").fancybox({
+          helpers : {
+            title: {
+              type: 'inside'
+            }
+          }
+        });
+
+        soundManager.setup({
+          preferFlash: false
+        });
       });
     </script>
   </body>

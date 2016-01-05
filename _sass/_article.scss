@@ -188,4 +188,72 @@
       margin: 0 0 1em 0;
     }
   }
+
+  div.inline-audio {
+    border: {
+      color: $accentColor;
+      style: dotted;
+      width: 1px;
+    }
+    margin: 1em 0;
+
+    p.label {
+      @include sans-serif-font-stack;
+      font-size: 1em;
+      margin: 1em;
+      text-align: center;
+    }
+
+    a.sm2_button {
+      @include transition-stack(all 0.2s ease-in-out);
+      @include border-radius(16px);
+      border: {
+        width: 0;
+      }
+      display:block;
+      margin: 1em auto;
+      overflow:hidden;
+      position:relative;
+        width:64px;
+        height:64px;
+      text-indent:-9999px;
+      vertical-align:middle;
+    }
+
+    a.sm2_button:focus {
+      outline:none;
+    }
+
+    a.sm2_button,
+    a.sm2_button.sm2_paused:hover {
+      background-color:$accentColor;
+      background-size: 32px 32px;
+      background-image:url("/images/interface/buttons/play-button.png");
+      background-repeat:no-repeat;
+      background-position:50% 50%;
+    }
+
+    a.sm2_button:hover,
+    a.sm2_button.sm2_playing,
+    a.sm2_button.sm2_playing:hover {
+      background-color:$darkLinkColor;
+    }
+
+    a.sm2_button.sm2_playing,
+    a.sm2_button.sm2_playing:hover {
+      -moz-transform:rotate(90deg);
+      -webkit-transform:rotate(90deg);
+      -ms-transform:rotate(90deg);
+    }
+
+    a.sm2_button.sm2_paused,
+    a.sm2_button.sm2_paused:hover {
+      background-color:$accentColorLinkHover;
+    }
+
+    a.sm2_button.sm2_loading,
+    a.sm2_button.sm2_loading:hover {
+      background-color:$deemphasizedColor;
+    }
+  }
 }
