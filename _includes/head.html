@@ -13,6 +13,12 @@
   <title>{{ page_title }}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
+  <script src="{{ "/scripts/jquery-1.10.1.min.js" | prepend: site.baseurl }}"></script>
+  <script src="{{ "/scripts/jquery.mousewheel-3.0.6.pack.js" | prepend: site.baseurl }}"></script>
+  <script src="{{ "/scripts/fancybox/jquery.fancybox.pack.js" | prepend: site.baseurl }}"></script>
+
+  <link rel="stylesheet" href="{{ "/scripts/fancybox/jquery.fancybox.css" | prepend: site.baseurl }}">
+
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
 
   {% if layout.issue_layout %}
