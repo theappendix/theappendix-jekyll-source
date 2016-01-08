@@ -1,5 +1,4 @@
-<header class="site-header"{% if layout.issue_layout %} 
-    style="background-image: url('/images/issues/{{ include.issue.volume }}/{{ include.issue.number }}/issue-header.jpg'); background-color: {{ include.issue.color }}; border-color: {{ include.issue.color }}"{% endif %}>
+<header class="site-header">
   <div id="title-banner">
     {% if layout.issue_layout %}
       {% assign header_logo = 'header-balloon-white.png' %}

@@ -53,3 +53,20 @@
     }
   }
 }
+
+header.site-header {
+  background: {
+    color: $accentColor;
+    image: $backgroundHeader;
+  }
+
+  border-color: $accentColor;
+}
+
+.page-content {
+  background: {
+    image: $backgroundFooter;
+    position: bottom;
+    repeat: no-repeat;
+  }
+}
