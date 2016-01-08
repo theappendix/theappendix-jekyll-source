@@ -5,6 +5,13 @@ body {
   padding: 0;
 }
 
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
 header.site-header {
   background: {
     position: 50% 50%;

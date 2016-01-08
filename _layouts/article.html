@@ -32,30 +32,30 @@ issue_layout: true
       {% for chapter in this_issue.chapters %}
         {% assign chapter_number = forloop.index %}
         <h3>Chapter {{ chapter_number }}: {{ chapter }}</h3>
-        <ul>
+        <ul class="table-of-contents"><!--
           {% assign posts = site.posts | sort: 'toc' %}
           {% for post in posts %}{% if post.volume == page.volume %}{% if post.number == page.number %}{% if post.chapter == chapter_number %}
-            <li>
+            --><li>
               {{ post.toc }}. 
               <a href="{{ post.permalink }}">
                 {{ post.title | markdownify | remove: '<p>' | remove: '</p>' }}
               </a>
-            </li>
+            </li><!--
           {% endif %}{% endif %}{% endif %}{% endfor %}
-        </ul>
+        --></ul>
       {% endfor %}
     {% else %}
-      <ul>
+      <ul class="table-of-contents"><!--
         {% assign posts = site.posts | sort: 'toc' %}
         {% for post in posts %}{% if post.volume == page.volume %}{% if post.number == page.number %}
-          <li>
+          --><li>
             {{ post.toc }}. 
             <a href="{{ post.permalink }}">
               {{ post.title | markdownify | remove: '<p>' | remove: '</p>' }}
             </a>
-          </li>
+          </li><!--
         {% endif %}{% endif %}{% endfor %}
-      </ul>
+      --></ul>
     {% endif %}
   </div>
 </article>

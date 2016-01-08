@@ -54,6 +54,22 @@
   }
 }
 
+.issue-footer ul.table-of-contents {
+  background-color: $alternateVoice;
+  background-color: rgba($alternateVoice, 0.5);
+  padding: 0.5em 0;
+
+  a {
+    color: $darkLinkColor;
+    line-height: 125%;
+    text-decoration: none;
+
+    &:hover {
+      color: $accentColor;
+    }
+  }
+}
+
 header.site-header {
   background: {
     color: $accentColor;

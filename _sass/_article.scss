@@ -257,3 +257,30 @@
     }
   }
 }
+
+.issue-footer {
+  margin-top: 6em;
+
+  h2 {
+    text-align: left;
+  }
+  
+  ul.table-of-contents {
+    list-style-type: none;
+    margin: 0 0 2em 0;
+    padding: 0;
+
+    li {
+      display: inline-block;
+      margin: .25em 0 .25em 1%;
+      padding: .25em .25em .25em 1.25em;
+      text-indent: -1em;
+      vertical-align: top;
+      width: 32%;
+
+      &:nth-child(3n) {
+        margin-right: 1%;
+      }
+    }
+  }
+}
