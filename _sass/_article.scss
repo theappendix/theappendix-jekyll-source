@@ -203,6 +203,76 @@
     }
   }
 
+  table {
+    @include sans-serif-font-stack;
+    margin: 2em auto;
+    width: 640px;
+
+    caption {
+      font-weight: bold;
+      margin: .25em auto .75em auto;
+      text: {
+        align: center;
+      }
+    }
+
+    th {
+      background-color: $negativeColor;
+      border: {
+        color: $negativeColor;
+        style: solid;
+        width: 0 0 1px 0;
+      }
+      font: {
+        size: .8em;
+        weight: bold;
+      }
+      padding: 0 0 .25em 0;
+      text: {
+        align: center;
+      }
+      vertical-align: bottom;
+
+      &.special {
+        border-width: 0;
+      }
+    }
+
+    td {
+      background-color: $accentBackgroundColor;
+      border: {
+        color: $negativeColor;
+        style: solid;
+        width: 0 0 1px 0;
+      }
+      font: {
+        size: .8em;
+      }
+      padding: .25em 0;
+      text: {
+        align: center;
+      }
+      vertical-align: middle;
+      width: 20%;
+
+      &.special {
+        background-color: $negativeColor;
+        border: {
+          color: $negativeColor;
+          style: solid;
+          width: 0 1px 0 0;
+        }
+        font: {
+          weight: bold;
+        }
+        padding-right: .25em;
+        text: {
+          align: left;
+        }
+      }
+    }
+  }
+
   div.inline-audio {
     border: {
       color: $accentColor;

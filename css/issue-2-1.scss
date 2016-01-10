@@ -5,6 +5,7 @@ $accentColor: #e06d2a;
 $hoverColor: #c96226;
 $darkLinkColor: #ba5b23;
 $alternateVoice: #ffefe5;
+$accentBackgroundColor: lighten($accentColor,40%);
 
 $backgroundHeader: url(/images/issues/2/1/issue-header.jpg);
 $backgroundFooter: url(/images/issues/2/1/issue-footer.jpg);

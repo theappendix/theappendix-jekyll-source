@@ -31,6 +31,10 @@
     }
   }
 
+  table td {
+    background-color: $accentBackgroundColor;
+  }
+
   div.inline-audio {
     border: {
       color: $accentColor;
