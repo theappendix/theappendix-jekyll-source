@@ -41,6 +41,10 @@
     }
   }
 
+  span.deemphasized {
+    color: $deemphasizedColor;
+  }
+
   ul.image-gallery {
     margin: 0;
     padding: 0;
