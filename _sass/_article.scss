@@ -7,6 +7,15 @@
     }
     margin: 1.5em auto;
     line-height: 150%;
+
+    &.stage-direction {
+      font-size: .9em;
+      font-style: italic;
+      margin: 2em auto;
+      position: relative;
+      text-align: left;
+      width: 67%;
+    }
   }
 
   a {
@@ -45,6 +54,17 @@
     color: $deemphasizedColor;
   }
 
+  ol {
+    list-style-type: decimal;
+    margin: 1em 0;
+    padding: 0 2em;
+
+    li {
+        margin-bottom: .5em;
+        line-height: 125%;
+    }
+}
+            
   ul.image-gallery {
     margin: 0;
     padding: 0;
