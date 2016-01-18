@@ -82,6 +82,36 @@ header.site-header {
   width: 75%;
 }
 
+.post-header-image {
+  overflow: hidden;
+  padding: 15.625% 0; // 200 over 1280
+  position: relative;
+  width: 100%;
+
+  img {
+    margin: 0 auto;
+    position: absolute;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+    width: 100%;
+    z-index: 0;
+  }
+
+  span.caption {
+    @include sans-serif-font-stack;
+    background-color: rgba(0,0,0,0.4);
+    color: $negativeColor;
+    font-size: 0.875em; // 14px
+    padding: .25em .5em;
+    position: absolute;
+      bottom: 0;
+      left: 0;
+    z-index: 1;
+  }
+}
+
 article {
   padding-top: 2em;
 

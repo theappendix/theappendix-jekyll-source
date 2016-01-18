@@ -6,6 +6,14 @@ issue_layout: true
   {% assign this_issue = issue %}
 {% endif %}{% endif %}{% endfor %}
 
+{% if page.header_image %}
+<div class="post-header-image">
+  <img src="/images/issues/{{ page.volume }}/{{ page.number }}/{{ page.header_image }}" />
+  {% if page.header_image_caption %}
+    <span class="caption">{{ page.header_image_caption }}</span>
+  {% endif %}
+</div>
+{% endif %}
 <article class="page-wrap">
   <h2>{{ page.title | markdownify | remove: '<p>' | remove: '</p>' }}</h2>
   <p class="article-meta">
