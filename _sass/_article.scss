@@ -26,12 +26,26 @@
     }
   }
 
+  h3 {
+    font-variant: small-caps;
+  }
+
+  h5 {
+    font: {
+      size: 1em;
+      style: italic;
+      weight: 300;
+    }
+    margin-top: -1em;
+  }
+
   hr {
     border: {
       color: $accentColor;
       style: dotted;
       width: 1px 0 0 0;
     }
+    clear: both;
     height: 1px;
     margin: 2.5em auto;
     width: 33.3333%;
