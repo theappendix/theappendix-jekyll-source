@@ -9,6 +9,7 @@ permalink: /issues/2013/10/local-history-feet-first
 toc: 18
 volume: 1
 number: 4
+leaflet: true
 ---
 <div class="inline-image">
 <a class="fancybox" href="/images/issues/1/4/large-adickeRED.jpg">
@@ -186,4 +187,24 @@ I walk through the Fourth Ward. Past a midday church service. Past the cemetery 
 <p>
 I roll forward. I close my eyes, straining to pick out the shouts of mule drivers from the hum of passing cars. A biker whizzes past me on the path. I look over my shoulder for others. At the water’s edge I see Dr. Adams taking potshots at painted turtles.
 </p>
+
+<div id="map-container-0" class="inline-leaflet-map"                     ></div>
+<script type="text/javascript">
+$(document).on('ready', function() {
+var leaflet_map_id_0 = "map-container-0";
+var leaflet_layer_0 = new L.StamenTileLayer("terrain");
+var leaflet_map_0 = L.map(leaflet_map_id_0, {
+center: new L.LatLng(29.759609, -95.375276), zoom: 10, minZoom: 6, maxZoom: 16});
+leaflet_map_0.attributionControl.addAttribution('Map tiles by <a href="http://stamen.com">Stamen Design</a>, under <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>. Data by <a href="http://openstreetmap.org">OpenStreetMap</a>, under <a href="http://creativecommons.org/licenses/by-sa/3.0">CC BY SA</a>.');
+leaflet_map_0.addLayer(leaflet_layer_0);
+L.marker([29.774063,-95.360493]).addTo(leaflet_map_0).bindPopup("Poppa Burger, famous burger stand just north of downtown.");
+L.marker([29.772899,-95.38489]).addTo(leaflet_map_0).bindPopup("David Adickes’ SculpturWorx Warehouse. Home to the presidential heads and statues of the Beatles.");
+L.marker([29.753489,-95.359622]).addTo(leaflet_map_0).bindPopup("Discovery Green, downtown Houston green and performance space. One of a few open, community spaces downtown.");
+L.marker([29.727143,-95.360749]).addTo(leaflet_map_0).bindPopup("Columbia TAP Rails-to-Trails path. Exercise and bike path that runs through the Third Ward towards downtown.");
+L.marker([29.753946,-95.379429]).addTo(leaflet_map_0).bindPopup("The African American Library at the Gregory School. Home to records of Houston’s black population.");
+L.marker([29.757893,-95.37953]).addTo(leaflet_map_0).bindPopup("Founders Memorial Cemetery, resting place of many prominent early white founders of Houston.");
+});
+</script>
+
+
 

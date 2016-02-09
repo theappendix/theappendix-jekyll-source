@@ -10,6 +10,7 @@ permalink: /issues/2013/4/open-source-lieutenant-nun
 toc: 3
 volume: 1
 number: 2
+leaflet: true
 ---
 <div class="inline-image">
 <a class="fancybox" href="/images/issues/1/2/large-catalinared.jpg">
@@ -124,6 +125,35 @@ I went on board, and we set sail from Sanlúcar on Holy Monday in the year 1603.
 <p class="alternate-voice">
 <b>Editor’s note:</b> Catalina de Erauso was employed as a cabin boy on the voyage to the New World. Upon arrival in modern day Colombia, she stole 500 <i>pesos</i> from the captain and ran away ashore. She eventually made her way down to Lima, Peru where Catalina found work with a prominent merchant. That is, until the merchant caught Catalina “frolicking” with his daughter in their front parlour. “I had my head in the folds of her skirt and she was combing my hair while I ran my hand up and down between her legs,” was how she put it. Catalina was fired and decided to join an army battalion headed for Chile, a violent frontier where the Spaniards were fighting a prolonged war with the Araucanian Indians.
 </p>
+
+<div id="map-container-0" class="inline-leaflet-map"                     ></div>
+<script type="text/javascript">
+$(document).on('ready', function() {
+var leaflet_map_id_0 = "map-container-0";
+var leaflet_layer_0 = new L.StamenTileLayer("watercolor");
+var leaflet_map_0 = L.map(leaflet_map_id_0, {
+center: new L.LatLng(10.0, 15.0), zoom: 2, minZoom: 1, maxZoom: 4});
+leaflet_map_0.attributionControl.addAttribution('Map tiles by <a href="http://stamen.com">Stamen Design</a>, under <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>. Data by <a href="http://openstreetmap.org">OpenStreetMap</a>, under <a href="http://creativecommons.org/licenses/by-sa/3.0">CC BY SA</a>.');
+leaflet_map_0.addLayer(leaflet_layer_0);
+L.marker([43.317684,-1.983089]).addTo(leaflet_map_0).bindPopup("<p><b>San Sebastian (Basque Country)</b>—After a dispute with a nun, a young Catalina escapes the convent, cuts her hair and fashions her habits into men’s clothes.</p>");
+L.marker([36.771892,-6.35994]).addTo(leaflet_map_0).bindPopup("<p><b>Sanlúcar (Kingdom of Castile)</b>—Catalina boards a ship to the Americas, working as a cabin boy.</p>");
+L.marker([-6.917736,-79.578438]).addTo(leaflet_map_0).bindPopup("<p><b>Saña (Peru)</b>—She finds good work with a merchant, but has to abruptly leave town after killing a man that had blocked her view at the theater.</p>");
+L.marker([-12.048386,-77.063112]).addTo(leaflet_map_0).bindPopup("<p><b>Lima (Peru)</b>—Catalina once again finds work with a merchant, but is fired after she gets caught frolicking with the boss’s daughter. She joins the army and leaves for the Chilean frontier.</p>");
+L.marker([-39.820667,-73.246536]).addTo(leaflet_map_0).bindPopup("<p><b>Valdivia (Chile)</b>—In the war against the Araucanian Indians, she rescues her company’s flag from an Indian chief in battle and is promoted to lieutenant.</p>");
+L.marker([-36.819454,-73.051243]).addTo(leaflet_map_0).bindPopup("<p><b>Concepción (Chile)</b>—After murdering another man over a gambling dispute, she flees with some guns and a horse, which she has to eat because the travel is rough.</p>");
+L.marker([-19.582758,-65.75798]).addTo(leaflet_map_0).bindPopup("<p><b>Potosí (Bolívia)</b>—Catalina joins an expedition to subdue an indigenous region. She writes: “[…] the Indians returned to the village more than ten thousand strong. We fell at them again with such spirit, and butchered so many of them, that blood ran like a river across the plaza, and we chased them to the Dorado River, and beyond, slaughtering all the way.”");
+L.marker([-19.043945,-65.256386]).addTo(leaflet_map_0).bindPopup("<p><b>La Plata (Bolívia)</b>—Catalina is put in charge of a herd of llama and a hundred-plus Indians. She buys and mills wheat in the Cochabamba plains, and then sells it in Potosi, for a higher price.");
+L.marker([-12.048386,-77.063112]).addTo(leaflet_map_0).bindPopup("<p><b>Lima (Peru)</b>—Catalina defends Lima with the Spanish navy against a Dutch siege of the city. The Dutch take her captive when her ship sinks, but drop her off at Paita, a hundred leagues away from Lima. She walks back.</p>");
+L.marker([-13.165742,-74.224434]).addTo(leaflet_map_0).bindPopup("<p><b>Guamanga (Peru)</b>—After a struggle with the local sheriff, Catalina takes refuge in the house of the local bishop. She told him her life story and decides to reveal her secret.</p>");
+L.marker([-12.048386,-77.063112]).addTo(leaflet_map_0).bindPopup("<p><b>Lima (Peru)</b>—Catalina is dressed as a nun, sent to Lima by the archbishop, and must live in a convent again for just over two years.</p>");
+L.marker([36.535295,-6.281776]).addTo(leaflet_map_0).bindPopup("<p><b>Cadiz (Kingdom of Castile)</b>—When documents arrive declaring that she is not a professed nun, Catalina is allowed to leave the convent. She leaves the Americas with the Spanish armada and reaches Iberia in 1624.</p>");
+L.marker([40.416567,-3.703766]).addTo(leaflet_map_0).bindPopup("<p><b>Madrid (Kingdom of Castile)</b>—Catalina is seen by king Philip IV, who grants her a lifetime pension for her services to the Spanish Crown.</p>");
+L.marker([41.899977,12.461872]).addTo(leaflet_map_0).bindPopup("<p><b>Rome</b>—Catalina sees Pope Urban the Eighth and after telling her story to him his Holiness gives her permission to pursue her life in men’s clothing.</p>");
+L.marker([19.435514,-99.272461]).addTo(leaflet_map_0).bindPopup("<p><b>Central Mexico</b>—Catalina’s last known location, where she was working as a small merchant and muleteer, under the name of Antonio de Erauso.</p>");
+});
+</script>
+
+
 
 <hr class="special" />
 

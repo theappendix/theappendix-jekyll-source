@@ -16,8 +16,19 @@
   <script src="{{ "/scripts/jquery-1.10.1.min.js" | prepend: site.baseurl }}"></script>
   <script src="{{ "/scripts/jquery.mousewheel-3.0.6.pack.js" | prepend: site.baseurl }}"></script>
   <script src="{{ "/scripts/fancybox/jquery.fancybox.pack.js" | prepend: site.baseurl }}"></script>
-  <script src="{{ "/scripts/soundmanager2-nodebug-jsmin.js" | prepend: site.baseurl }}"></script>
-  <script src="{{ "/scripts/mp3-player-button.js" | prepend: site.baseurl }}"></script>
+  {% if page.audio %}
+    <script src="{{ "/scripts/soundmanager2-nodebug-jsmin.js" | prepend: site.baseurl }}"></script>
+    <script src="{{ "/scripts/mp3-player-button.js" | prepend: site.baseurl }}"></script>
+  {% endif %}
+
+  {% if page.leaflet %}
+    <link rel="stylesheet" href="/scripts/leaflet/leaflet.css" />
+      <!--[if lte IE 8]>
+        <link rel="stylesheet" href="/scripts/leaflet/leaflet.ie.css" />
+      <![endif]-->
+    <script type="text/javascript" src="/scripts/leaflet/leaflet.js"></script>
+    <script type="text/javascript" src="/scripts/leaflet/tile.stamen.js?v1.2.1"></script>
+  {% endif %}
 
   <link rel="stylesheet" href="{{ "/scripts/fancybox/jquery.fancybox.css" | prepend: site.baseurl }}">
 

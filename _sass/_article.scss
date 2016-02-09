@@ -28,6 +28,7 @@
 
   h3 {
     font-variant: small-caps;
+    margin-top: 3em;
   }
 
   h5 {
@@ -91,6 +92,33 @@
     }
   }
 
+  div.inline-leaflet-map {
+    width: 100%;
+    margin: 30px 0;
+    padding: 31.25% 0; // 200 over 640
+
+    .leaflet-map-pane {
+      margin-top: -31.25%; // 200 over 640
+    }
+
+    a {
+      border-width: 0;
+    }
+
+    a.leaflet-control-zoom-in {
+      display: block;
+    }
+
+    a.leaflet-control-zoom-out {
+      display: block;
+    }
+
+    p {
+      width: auto;
+      margin: .5em 0;
+    }
+  }
+
   div.inline-video {
     max-width: 640px;
     margin: 2em auto;
@@ -107,7 +135,7 @@
 
   div.inline-image {
     max-width: 640px;
-    margin: 2em auto;
+    margin: 3em auto;
     width: 100%;
 
     p.caption {
