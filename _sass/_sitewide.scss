@@ -1,5 +1,6 @@
 body {
   @include serif-font-stack;
+  color: $textColor;
   font-size: 16px;
   margin: 0;
   padding: 0;
@@ -116,6 +117,7 @@ article {
   padding-top: 2em;
 
   h2 {
+    color: $headerColor;
     font: {
       size: 2em;
       weight: bold;
