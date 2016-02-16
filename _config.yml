@@ -10,6 +10,8 @@ github_username:  theappendix
 collections:
   issues:
     output: true
+  contributors:
+    output: false
 
 # Build settings
 markdown: kramdown

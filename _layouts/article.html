@@ -19,17 +19,19 @@ issue_layout: true
   <p class="article-meta">
     {% if page.authors.size > 0 %}
       {% if page.authors.size == 1 %}
-        By {{ page.authors[0] }} –
+        By {{ page.authors[0] | person_full_name }} –
       {% elsif page.authors.size == 2 %}
-        By {{ page.authors[0] }} and {{ page.authors[1] }} – 
+        By {{ page.authors[0] | person_full_name }} and 
+        {{ page.authors[1] | person_full_name }} – 
       {% elsif page.authors.size == 3 %}
-        By {{ page.authors[0] }}, {{ page.authors[1] }}, 
-          and {{ page.authors[2] }} –
+        By {{ page.authors[0] | person_full_name }}, 
+        {{ page.authors[1] | person_full_name }}, 
+        and {{ page.authors[2] | person_full_name }} –
       {% endif %}
     {% endif %}
     Published {{ page.date | date: "%B %-d, %Y" }}
     {% if page.illustrators.size > 0 %}
-      – Illustration by {{ page.illustrators[0] }}
+      – Illustration by {{ page.illustrators[0] | person_full_name }}
     {% endif %}
   </p>
 
