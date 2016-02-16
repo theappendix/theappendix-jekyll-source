@@ -37,6 +37,19 @@ issue_layout: true
 
   <div class="article-content">
     {{ page.content }}
+
+    <div class="bio-footer">
+      {% if page.authors.size > 0 %}
+        {% for author in page.authors %}
+          <p>{{ author | person_bio }}</p>
+        {% endfor %}
+      {% endif %}
+      {% if page.illustrators.size > 0 %}
+        {% for illustrator in page.illustrators %}
+          <p>{{ illustrator | person_bio }}</p>
+        {% endfor %}
+      {% endif %}
+    </div>
   </div>
 
   <div class="issue-footer">
