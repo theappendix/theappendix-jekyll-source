@@ -75,9 +75,9 @@ issue_layout: true
         {% assign posts = site.posts | sort: 'toc' %}
         {% for post in posts %}{% if post.volume == page.volume %}{% if post.number == page.number %}
           --><li>
-            {{ post.toc }}. 
             <a href="{{ post.permalink }}">
-              {{ post.title | markdownify | remove: '<p>' | remove: '</p>' }}
+              <span class="number">{{ post.toc }}.</span>
+              <span class="label">{{ post.title | markdownify | remove: '<p>' | remove: '</p>' }}</span>
             </a>
           </li><!--
         {% endif %}{% endif %}{% endfor %}

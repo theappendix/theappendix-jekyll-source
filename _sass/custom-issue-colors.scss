@@ -61,7 +61,15 @@
 .issue-footer ul.table-of-contents {
   background-color: $alternateVoice;
   background-color: rgba($alternateVoice, 0.5);
-  padding: 0.5em 0;
+
+  li {
+    &:hover, &.here {
+      background-color: $hoverColor;
+      background-color: rgba($hoverColor, 0.2);
+      border-color: $hoverColor;
+      border-color: rgba($hoverColor, 0.5);
+    }
+  }
 
   a {
     color: $darkLinkColor;
