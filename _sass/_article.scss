@@ -435,3 +435,15 @@
     }
   }
 }
+
+.fancybox-title {
+  @include sans-serif-font-stack;
+  color: $textColor;
+  font-size: 1em;
+
+  span.credit {
+    color: $deemphasizedColor;
+    display: block;
+    font-size: .8em;
+  }
+}
