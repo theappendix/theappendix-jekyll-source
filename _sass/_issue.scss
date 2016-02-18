@@ -1,0 +1,105 @@
+.issues-landing-content {
+  h2 {
+    @include sans-serif-font-stack;
+    font: {
+      size: 2em; // 32px
+      weight: bold;
+    }
+    margin: 1em auto;
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+    li {
+      margin: 0;
+      padding: 0;
+
+      a {
+        background-color: transparent;
+        border: {
+          color: transparent;
+          style: solid;
+          width: 2px 0 0 0;
+        }
+        display: block;
+        padding: .5em;
+        text-decoration: none;
+
+        &:hover {
+          &.issue-1-1 {
+            border-color: $issue11AccentColor;
+            background-color: $issue11BackgroundColor;
+          }
+          &.issue-1-2 {
+            border-color: $issue12AccentColor;
+            background-color: $issue12BackgroundColor;
+          }
+          &.issue-1-3 {
+            border-color: $issue13AccentColor;
+            background-color: $issue13BackgroundColor;
+          }
+          &.issue-1-4 {
+            border-color: $issue14AccentColor;
+            background-color: $issue14BackgroundColor;
+          }
+          &.issue-2-1 {
+            border-color: $issue21AccentColor;
+            background-color: $issue21BackgroundColor;
+          }
+          &.issue-2-2 {
+            border-color: $issue22AccentColor;
+            background-color: $issue22BackgroundColor;
+          }
+          &.issue-2-3 {
+            border-color: $issue23AccentColor;
+            background-color: $issue23BackgroundColor;
+          }
+          &.issue-2-4 {
+            border-color: $issue24AccentColor;
+            background-color: $issue24BackgroundColor;
+          }
+        }
+      }
+
+      .cover {
+        display: block;
+        float: left;
+        padding-right: 1em;
+        vertical-align: top;
+      }
+
+      .details {
+        display: block;
+        color: $textColor;
+        vertical-align: top;
+
+        h3 {
+          @include sans-serif-font-stack;
+          font: {
+            size: 1.5em; // 24px
+            weight: bold;
+          }
+          margin-bottom: 0;
+        }
+
+        p.metadata {
+          @include sans-serif-font-stack;
+          color: $deemphasizedColor;
+          margin-top: 0;
+        }
+
+        p.blurb {
+          font-size: 1.25em; // 20px
+          margin: 1em auto 1.5em auto;
+        }
+      }
+    }
+  }
+}
+
+.issue-content {
+
+}

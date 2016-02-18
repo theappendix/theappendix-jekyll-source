@@ -4,16 +4,20 @@ layout: default
 
 {% assign issues = site.issues | sort: 'number' | reverse %}
 
-<h2>Volume 2 (2014)</h2>
-<ul>
-  {% for issue in issues %}{% if issue.volume == 2 %}
-    {% include issues/issue-line-item.html issue=issue %}
-  {% endif %}{% endfor %}
-</ul>
+<div class="page-wrap">
+  <div class="issues-landing-content">
+    <h2>Volume 2 (2014)</h2>
+    <ul>
+      {% for issue in issues %}{% if issue.volume == 2 %}
+        {% include issues/issue-line-item.html issue=issue %}
+      {% endif %}{% endfor %}
+    </ul>
 
-<h2>Volume 1 (2012-2013)</h2>
-<ul>
-  {% for issue in issues %}{% if issue.volume == 1 %}
-    {% include issues/issue-line-item.html issue=issue %}
-  {% endif %}{% endfor %}
-</ul>
+    <h2>Volume 1 (2012-2013)</h2>
+    <ul>
+      {% for issue in issues %}{% if issue.volume == 1 %}
+        {% include issues/issue-line-item.html issue=issue %}
+      {% endif %}{% endfor %}
+    </ul>
+  </div>
+</div>

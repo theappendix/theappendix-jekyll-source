@@ -1,12 +1,18 @@
 <li>
-  <a href="{{ include.issue.permalink }}">
-    <h3>{{ include.issue.issue_title }}</h3>
-    <p class="metadata">
-      {{ include.issue.month | date: "%B" }} {{ include.issue.year }} – 
-      Volume {{ include.issue.volume }}, Number {{ include.issue.number }}
-    </p>
-    <p class="blurb">
-      {{ include.issue.short_blurb | markdownify | remove: '<p>' | remove: '</p>' }}
-    </p>
+  <a href="{{ include.issue.permalink }}" class="issue-{{ include.issue.volume }}-{{ include.issue.number }}">
+    <div class="cover">
+      <img src="/images/issues/{{ include.issue.volume }}/{{ include.issue.number }}/cover-small.jpg" height="180" alt="Issue {{ include.issue.volume }}.{{ include.issue.number }} Cover" />
+    </div>
+    <div class="details">
+      <h3>{{ include.issue.issue_title }}</h3>
+      <p class="metadata">
+        {{ include.issue.ymd | date: "%B" }} {{ include.issue.year }} – 
+        Volume {{ include.issue.volume }}, Number {{ include.issue.number }}
+      </p>
+      <p class="blurb">
+        {{ include.issue.short_blurb | markdownify | remove: '<p>' | remove: '</p>' }}
+      </p>
+    </div>
+    <div class="clear-block"></div>
   </a>
 </li>
