@@ -3,45 +3,59 @@ layout: default
 issue_layout: true
 ---
 
-<h2>{{ page.issue_title }}</h2>
-<p class="metadata">
-  {{ page.month | date: "%B" }} {{ page.year}} – 
-  Volume {{ page.volume }}, Number {{ page.number }}
-</p>
-<p class="blurb">
-  {{ page.blurb | markdownify | remove: '<p>' | remove: '</p>' }}
-</p>
-<ul class="personnel">
-  {% for listing in page.personnel %}
-    <li>
-      <span class="position">{{ listing.position }}:</span>
-      {% for name in listing.names %}
-        {% if forloop.last %}
-          {{ name }}
-        {% else %}
-          {{ name }}, 
-        {% endif %}
-      {% endfor %}
-    </li>
-  {% endfor %}
-</ul>
+<div class="page-wrap">
+  <div class="issue-frontmatter-content">
+    <div class="header">
+      <div class="cover">
+        <img src="/images/issues/{{ page.volume }}/{{ page.number }}/cover-large.jpg" alt="Issue {{ page.volume }}.{{ page.number }} Cover" />
+      </div>
+      <div class="details">
+        <h2>{{ page.issue_title }}</h2>
+        <p class="metadata">
+          {{ page.month | date: "%B" }} {{ page.year}} – 
+          Volume {{ page.volume }}, Number {{ page.number }}
+        </p>
+        <p class="blurb">
+          {{ page.blurb | markdownify | remove: '<p>' | remove: '</p>' }}
+        </p>
+        <ul class="personnel">
+          {% for listing in page.personnel %}
+            <li>
+              <span class="position">{{ listing.position }}:</span>
+              {% for name in listing.names %}
+                {% if forloop.last %}
+                  {{ name }}
+                {% else %}
+                  {{ name }}, 
+                {% endif %}
+              {% endfor %}
+            </li>
+          {% endfor %}
+        </ul>
+      </div>
+      <div class="clear-block"></div>
+    </div>
 
-{% if page.chapters.size > 0 %}
-  {% for chapter in page.chapters %}
-    {% assign chapter_number = forloop.index %}
-    <h3>Chapter {{ chapter_number }}: {{ chapter }}</h3>
-    <ul>
-      {% assign posts = site.posts | sort: 'toc' %}
-      {% for post in posts %}{% if post.volume == page.volume %}{% if post.number == page.number %}{% if post.chapter == chapter_number %}
-        {% include issues/toc-line-item.html article=post %}
-      {% endif %}{% endif %}{% endif %}{% endfor %}
-    </ul>
-  {% endfor %}
-{% else %}
-  <ul>
-    {% assign posts = site.posts | sort: 'toc' %}
-    {% for post in posts %}{% if post.volume == page.volume %}{% if post.number == page.number %}
-      {% include issues/toc-line-item.html article=post %}
-    {% endif %}{% endif %}{% endfor %}
-  </ul>
-{% endif %}
+    <div class="table-of-contents">
+      {% if page.chapters.size > 0 %}
+        {% for chapter in page.chapters %}
+          {% assign chapter_number = forloop.index %}
+          <h3>Chapter {{ chapter_number }}: {{ chapter }}</h3>
+          <ul>
+            {% assign posts = site.posts | sort: 'toc' %}
+            {% for post in posts %}{% if post.volume == page.volume %}{% if post.number == page.number %}{% if post.chapter == chapter_number %}
+              {% include issues/toc-line-item.html article=post %}
+            {% endif %}{% endif %}{% endif %}{% endfor %}
+          </ul>
+        {% endfor %}
+      {% else %}
+        <ul>
+          {% assign posts = site.posts | sort: 'toc' %}
+          {% for post in posts %}{% if post.volume == page.volume %}{% if post.number == page.number %}
+            {% include issues/toc-line-item.html article=post %}
+          {% endif %}{% endif %}{% endfor %}
+        </ul>
+      {% endif %}
+    </div>
+  </div>
+</div>

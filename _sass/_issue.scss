@@ -100,6 +100,109 @@
   }
 }
 
-.issue-content {
+.issue-frontmatter-content {
+  padding: 2em 0;
 
+  div.header {
+    div.details {
+      padding-top: 1em;
+      margin-left: 300px;
+    }
+
+    h2 {
+      @include sans-serif-font-stack;
+      font: {
+        size: 2em; // 32px
+        weight: bold;
+      }
+      margin: 0 auto 1em auto;
+    }
+
+    p.metadata {
+      @include sans-serif-font-stack;
+      color: $deemphasizedColor;
+      font: {
+        size: 1em;
+      }
+      line-height: 150%;
+      margin-top: -2em;
+    }
+
+    ul.personnel {
+      list-style-type: none;
+      padding-left: 0;
+
+      li {
+        margin-bottom: .5em;
+      }
+
+      span.position {
+        font-weight: bold;
+      }
+    }
+    
+    div.cover {
+      float: left;
+
+      img {
+        max-height: 400px;
+      }
+    }
+  }
+
+  div.table-of-contents {
+    margin-top: 2em;
+
+    h3 {
+      @include sans-serif-font-stack;
+      font-weight: bold;
+    }
+
+    ul {
+      list-style-type: none;
+      margin: 1em auto 2em auto;
+      padding-left: 0;
+
+      li {
+        margin-bottom: 1em;
+
+        span.number {
+          display: block;
+          font: {
+            size: 1.5em;
+            weight: bold;
+          }
+          float: left;
+          vertical-align: middle;
+        }
+
+        div.details {
+          display: block;
+          margin-left: 1.5em;
+          vertical-align: top;
+
+          span.title {
+            display: block;
+            font: {
+              size: 1.25em;
+              weight: bold;
+            }
+            line-height: 125%;
+
+            a {
+              text-decoration: none;
+
+              &:hover {
+                text-decoration: underline;
+              }
+            }
+          }
+
+          span.authors {
+            display: block;
+          }
+        }
+      }
+    }
+  }
 }

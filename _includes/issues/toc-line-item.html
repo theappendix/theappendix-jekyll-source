@@ -1,20 +1,22 @@
 <li>
   <span class="number">{{ include.article.toc }}</span>
-  <span class="title"><a href="{{ include.article.permalink }}">
-    {{ include.article.title | markdownify | remove: '<p>' | remove: '</p>' }}
-  </a></span>
-  {% if include.article.authors.size > 0 %}
-    <span class="authors">
-      {% if include.article.authors.size == 1 %}
-        By {{ include.article.authors[0] | person_full_name }}
-      {% elsif include.article.authors.size == 2 %}
-        By {{ include.article.authors[0] | person_full_name }} and 
-          {{ include.article.authors[1] | person_full_name }}
-      {% elsif include.article.authors.size == 3 %}
-        By {{ include.article.authors[0] | person_full_name }}, 
-          {{ include.article.authors[1] | person_full_name }}, and 
-          {{ include.article.authors[2] | person_full_name }}
-      {% endif %}
-    </span>
-  {% endif %}
+  <div class="details">
+    <span class="title"><a href="{{ include.article.permalink }}">
+      {{ include.article.title | markdownify | remove: '<p>' | remove: '</p>' }}
+    </a></span>
+    {% if include.article.authors.size > 0 %}
+      <span class="authors">
+        {% if include.article.authors.size == 1 %}
+          By {{ include.article.authors[0] | person_full_name }}
+        {% elsif include.article.authors.size == 2 %}
+          By {{ include.article.authors[0] | person_full_name }} and 
+            {{ include.article.authors[1] | person_full_name }}
+        {% elsif include.article.authors.size == 3 %}
+          By {{ include.article.authors[0] | person_full_name }}, 
+            {{ include.article.authors[1] | person_full_name }}, and 
+            {{ include.article.authors[2] | person_full_name }}
+        {% endif %}
+      </span>
+    {% endif %}
+  </div>
 </li>
