@@ -1,0 +1,39 @@
+---
+layout: blog
+title: "Discount on Subscriptions and a Sneak Peek of Issue Two"
+authors:
+date: 2013-03-20 06:00:00
+permalink: "/posts/2013/03/discount-on-subscriptions-and-a-sneak-peek-of-issue-two"
+excerpt: >
+  In which we reward readers if they subscribe before Issue Two goes live, and we share a sneak peek of its contents. Aztec crystal skulls, anyone?
+header_image: 
+---
+Today’s publication of ‘[_The Appendix_, Appendixed](http://theappendix.net/issues/2012/12/appendix-appendix)’ is a big milestone on our side of the Internet: the completion of our first issue, ‘The End?’, with a minimum of blood, sweat, and file transfer failure. We’re proud of what we delivered, and we’re humbled by the attention sent out way by [_The Atlantic_]( http://www.theatlantic.com/technology/archive/2013/01/do-not-try-to-recreate-this-16th-century-german-cat-bomb-at-home/272458/?utm_source=Announcements+from+The+Appendix&utm_campaign=f3a13b1c62-Limited_Discount_Announcement3_19_2013&utm_medium=email), [_Slate_]( http://www.slate.com/blogs/the_vault/2012/12/21/benjamin_the_anti_christ_a_document_reveals_a_failed_prophecy_from_1866.html?utm_source=Announcements+from+The+Appendix&utm_campaign=f3a13b1c62-Limited_Discount_Announcement3_19_2013&utm_medium=email), [_The Dish_]( http://dish.andrewsullivan.com/2013/02/28/canine-suicide/?utm_source=Announcements+from+The+Appendix&utm_campaign=f3a13b1c62-Limited_Discount_Announcement3_19_2013&utm_medium=email), [_Contents_](http://contentsmagazine.com/articles/neglected-histories-flourishing/), [_Smithsonian Magazine_]( http://blogs.smithsonianmag.com/smartnews/2013/02/the-fbi-once-freaked-out-about-nazi-monks-in-the-amazon-rainforest/?utm_source=Announcements+from+The+Appendix&utm_campaign=f3a13b1c62-Limited_Discount_Announcement3_19_2013&utm_medium=email), and [Digg]( http://digg.com/source/theappendix.net?utm_source=Announcements+from+The+Appendix&utm_campaign=f3a13b1c62-Limited_Discount_Announcement3_19_2013&utm_medium=email). Their excitement has helped share *The Appendix* and its vision of one possible future for history with over 40,000 visitors in the three months since we launched.
+
+In the meantime, we've been busily plotting our next issue, ‘Illusions.’ As a thank you to all of you for reading, we wanted to make it a little easier to get involved before it launches on April 1, and give you a peak of its content.
+
+Our primary means of financial support at *The Appendix* comes from subscribers. For $32 each year, or four $10 quarterly installments, [you can join their ranks]( https://theappendix.net/subscribe?utm_source=Announcements+from+The+Appendix&utm_campaign=f3a13b1c62-Limited_Discount_Announcement3_19_2013&utm_medium=email). Doing so will help us continue to cover the basic expenses involved in hosting and distributing our content online and achieve our first budgetary expansion goal of remunerating all of our contributing historians, writers, and artists for their work. Once we clear that milestone, we’ll be able to focus on our plans for expansion into even more exciting publishing ventures.
+
+So on the occasion of the end of our first issue we’re offering a one-week 10% discount on new subscriptions before the release of issue 2. To take advantage of the offer, head to [https://theappendix.net/subscribe]( https://theappendix.net/subscribe?utm_source=Announcements+from+The+Appendix&utm_campaign=f3a13b1c62-Limited_Discount_Announcement3_19_2013&utm_medium=email) and use the discount code ILLUSIONS before March 27. By subscribing soon, you’ll be among the many downloading the complete issue as an ebook (in PDF, ePub, and Kindle formats) when it’s ready on April 1.
+
+We hope you do, and that you spread the word. We’re even more excited about ‘Illusions’ than we were about ‘The End?’ and we promise to give you plenty to share. In fact, let’s start now. Here’s a few entries from the table of contents. Aztec crystal skulls, anyone?
+
+<div style="float: right; padding: 0 0 10px 20px; margin-right: -10px">
+    <a rel="lightbox" style="border-width: 0" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/336/large/Issue-_2-Cover.jpg?1363744315"><img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/336/medium/Issue-_2-Cover.jpg?1363744315" width="200" alt="cover" /></a>
+</div>
+
+3. Open Source: "Lieutenant Nun." _In 1600, a young novitiate named Catalina de Erauso fled her Basque convent, cut her hair, dressed like a man, and marauded her way through South America as a Spanish soldier. She lived to tell the tale. In this Open Source for our second issue, ‘Illusions,’ Catalina—who also went by Antonio, or Alonso, or Francisco—shares the story in her own words, in a translation by Gabriel and Michele Stepto._
+
+4. [Bess Lovejoy]( http://besslovejoy.com/), “Field Notes, The Double World: One Man’s Search for Meaning in the Seattle Public Library.” _A strange and tantalizing book found in the paranormal section of the Seattle Public Library takes Bess Lovejoy through the looking glass. In our second issue’s Field Note, she explores the life of the book’s early twentieth century author, who strained for meaning in the mundane, and got lost in the connections he found in his enchanted ‘Double World.’_
+
+5. Tina Post, “The Phantom Punch.” _In 1965, Muhammad Ali felled Sonny Liston with a punch so fast it was almost invisible. In this moving feature article, Tina Post chases Ali’s punch back in time, to its invention by fellow black boxer Jack Johnson and its transformation by the controversial actor Stepin Fetchit. It turns out that this is a punch Post knows._
+
+6. Jane Walsh and David Hunt, “The Fourth Skull.” _The nineteenth century French antiquarian Eugène Boban is most famous today for selling fake Mexican antiquities to collectors: the “crystal skulls” that have enchanted everyone from the British Museum to Indiana Jones. But what of the _real_ skulls he sold? Smithsonian anthropologists Jane Walsh and David Hunt take us inside one of them, which may or may not have belonged to a fearsome bandit from mid-nineteenth-century Mexico._
+
+17. Matt Gildner, “Andean Atlantis: Race Science and the Nazi Occult in Bolivia.” _Why did the Nazis believe that their Aryan ancestors once lived in the Bolivian Andes? Matt Gildner explains with a tale of racial science, nationalism, and the occult in the shadow of Tiwanaku, one of South America’s greatest archaeological ruins._
+
+19. Maggie Greene, “The Woman in Green: A Chinese Ghost Tale from Mao to Ming, 1981-1381.” _In 1965, a Chinese playwright named Meng Chao fell afoul of the cultural revolution because of a fictional ghost named Li Huiniang. In 1381, that ghost came to life, challenging a tyrant for the love of another poor writer. Maggie Greene follows Li Huiniang from Maoism on back to her Ming dynasty beginnings._
+
+20. Lisa Wynne Smith, "Bespelled in the Archives." _“A witch. A kabbalist. A magic book. I was hooked.” Lisa Smith finds an eighteenth century French book of spells in the archives and is charmed by its mixture of everyday magic and commonsense advice._
+
+We’ll see you soon.
