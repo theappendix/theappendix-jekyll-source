@@ -1,0 +1,47 @@
+---
+layout: default
+---
+
+{% if page.header_image %}
+<div class="post-header-image">
+  <img src="/images/blog/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.header_image }}" />
+  {% if page.header_image_caption %}
+    <span class="caption">{{ page.header_image_caption }}</span>
+  {% endif %}
+</div>
+{% endif %}
+<article class="page-wrap">
+  <h2>{{ page.title | markdownify | remove: '<p>' | remove: '</p>' }}</h2>
+  <p class="article-meta">
+    {% if page.authors.size > 0 %}
+      {% if page.authors.size == 1 %}
+        By {{ page.authors[0] | person_full_name }} –
+      {% elsif page.authors.size == 2 %}
+        By {{ page.authors[0] | person_full_name }} and 
+        {{ page.authors[1] | person_full_name }} – 
+      {% elsif page.authors.size == 3 %}
+        By {{ page.authors[0] | person_full_name }}, 
+        {{ page.authors[1] | person_full_name }}, 
+        and {{ page.authors[2] | person_full_name }} –
+      {% endif %}
+    {% endif %}
+    Published {{ page.date | date: "%B %-d, %Y" }}
+  </p>
+
+  <div class="article-content">
+    {{ page.content }}
+
+    <div class="bio-footer">
+      {% if page.authors.size > 0 %}
+        {% for author in page.authors %}
+          <p>{{ author | person_bio }}</p>
+        {% endfor %}
+      {% endif %}
+      {% if page.illustrators.size > 0 %}
+        {% for illustrator in page.illustrators %}
+          <p>{{ illustrator | person_bio }}</p>
+        {% endfor %}
+      {% endif %}
+    </div>
+  </div>
+</article>
