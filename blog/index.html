@@ -1,0 +1,9 @@
+---
+layout: default
+---
+{% assign posts = site.posts | sort: 'date' %}
+<ul>
+{% for post in posts %}{% if post.layout == 'blog' %}
+  <li><a href="{{ post.permalink }}">{{ post.title }}</a></li>
+{% endif %}{% endfor %}
+</ul>
