@@ -1,0 +1,31 @@
+---
+layout: blog
+title: "An Update from the Editors"
+authors:
+date: 2015-04-17 06:00:00
+permalink: "/posts/2015/04/an-update-from-the-appendix"
+excerpt: >
+  An update from the editors of <em>The Appendix</em>.
+header_image: header-appendix_banner.jpg
+---
+<em> Below, you'll find the letter we sent to our subscribers at the end of last year, which explains our hiatus these past few months. Although </em>The Appendix<em> will be winding down at the end of 2015, we'll also be resuming posting new content in the months between then and now, so keep reading. <br>
+
+And if you're interested in writing for us, please send us a short pitch at editors@theappendix.net. We'd love to hear from you. Thank you for your interest and support over the past three years. <br>
+—The Editors  </em>
+
+Dear Appendix subscribers,
+
+In the editorial letter to our current issue, we mentioned some upcoming changes for *The Appendix.* We’re writing now to explain what those changes are. The idea for *The Appendix* was hatched on a porch in Austin, TX about five years ago. Three years after that, we were scattered across Texas, Brazil, and Peru, putting the finishing touches on [our first issue](http://theappendix.net/issues/2012/12), a labor of love that we promised would serve as a salon for 'Things often tossed in the dustbin of history—but better off in *The Appendix*.' In retrospect, those 'things' were seeds, and with your support they flowered: stories of the [birth of fire](http://theappendix.net/issues/2014/7/quests-for-fire-neanderthals-and-science-fiction); [Chinese ghost tales](http://theappendix.net/issues/2013/4/the-woman-in-green-a-chinese-ghost-tale-from-mao-to-ming-1981-1381) told in reverse; ancient Andean [echo chambers](http://theappendix.net/issues/2013/7/tuned-to-the-senses-an-archaeoacoustic-perspective-on-ancient-chavin), [lost Soviet amusement parks](http://theappendix.net/issues/2014/1/the-most-soviet-park-in-russia), brave men and women, [running from enslavement](http://theappendix.net/issues/2013/10/reclaiming-a-fugitive-landscape), or [boxing](http://theappendix.net/issues/2013/4/the-phantom-punch) their way to freedom; and as many [balloon stories](http://theappendix.net/issues/2014/10/an-art-of-air-and-fire-brazils-renegade-balloonists) as your patience would bear.
+
+Now, after two years, eight issues, and 172 contributors later, we’re moving away from a quarterly issue format. The [current quarterly issue](http://theappendix.net/issues/2014/10) (“In Motion,” which wraps up at the end of this month) will be our last, and we'll no longer produce PDF and ebook formats, and will no longer accept subscriptions. However, new articles and blog posts will continue to appear on our website in the coming year.
+
+As far as what happens to your subscription: last month’s payment was the last we will charge you. This month’s installment is on us. The account you use to log in to theappendix.net to download the e-books will remain active well into next year in order to give you a chance to download any materials you haven’t had a chance to read yet or that you would like to archive. We realize that a loyal core of our readership—namely, you, our subscribers—have taken advantage of our PDF and ebook formats, and that many of you might be disappointed by this temporary narrowing of focus. We apologize for the inconvenience, and want to offer our sincere thanks for supporting our work. Since launching in the fall of 2012, *The Appendix* has become one of the most popular independent history websites in the world, and we owe that success to you.
+
+We’re looking forward to bringing you more great history at theappendix.net, and are accepting submissions. As always, if you’re interested in contributing, please email us at editors@theappendix.net with a two to three paragraph article pitch. Keep those flowers coming.
+
+Happy holidays from your Appendix co-founders,
+
+Benjamin Breen<br>
+Felipe Cruz<br>
+Christopher Heaney<br>
+Brian Jones
