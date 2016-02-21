@@ -26,7 +26,7 @@ It is 1975. A thirty year-old midwife from an English-Australian family of eight
 </i></p>
 
 <div class="inline-image">
-    <a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/020/large/Heaney_2_re-sized.jpg?1353275811"><img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/020/medium/Heaney_2_re-sized.jpg?1353275811" width="640" alt="Residents of the Wahgi Valley, Papua New Guinea" /></a>
+    <a rel="lightbox" href="/images/blog/2012/11/Heaney_2_re-sized-large.jpg"><img src="/images/blog/2012/11/Heaney_2_re-sized-medium.jpg" width="640" alt="Residents of the Wahgi Valley, Papua New Guinea" /></a>
     <p class="caption">
         <span class="credit">Photo courtesy of William Heaney</span>
         A family from the Wahgi Valley, Papua New Guinea, posing for a photo by a non-family member.

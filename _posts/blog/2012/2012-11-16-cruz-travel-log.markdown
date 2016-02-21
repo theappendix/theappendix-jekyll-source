@@ -11,7 +11,7 @@ header_image_caption: "Map of the Tocantins River"
 Expedition Diary - September 9th, 1931 - An American pilot, prospecting a future airline route through the Amazon, stops in the town of Palma, in the eastern Amazon. As it was customary, the foreign visitor was hosted by the mayor - who also explained how he had lost his arm:
 
 <div class="inline-image">
-    <a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/009/large/description.jpg?1353114898 "><img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/009/medium/description.jpg?1353114898" width="640" alt="Description of Mayor's Amputation" /></a>
+    <a rel="lightbox" href="/images/blog/2012/11/description-large.jpg"><img src="/images/blog/2012/11/description-medium.jpg" width="640" alt="Description of Mayor's Amputation" /></a>
     <p class="caption">
         <span class="credit">Smithsonian National Air & Space Museum</a></span>
       </p>
@@ -20,7 +20,7 @@ Expedition Diary - September 9th, 1931 - An American pilot, prospecting a future
 The self-amputation was probably a wise choice, given that the river trip from here to a major city on the coast would have taken an entire month. Palma was hundreds of miles down the Tocantins river, further beyond the lands this enterprising pilot marked as “bad Indian territory:”
 
 <div class="inline-image">
-    <a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/007/large/mapa.jpg?1353114856 "><img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/007/medium/mapa.jpg?1353114856 " width="640" alt="Map of the Tocantins River regions" /></a>
+    <a rel="lightbox" href="/images/blog/2012/11/mapa-large.jpg"><img src="/images/blog/2012/11/mapa-medium.jpg" width="640" alt="Map of the Tocantins River regions" /></a>
     <p class="caption">
         <span class="credit">Smithsonian National Air & Space Museum</a></span>
       
@@ -30,7 +30,7 @@ The self-amputation was probably a wise choice, given that the river trip from h
 Fortunately, his passage through the area also left us with a snapshot record of life in this small frontier town at the time. To help his bosses decide whether this would be a stop in their future airline, the pilot sketched a map, and wrote a small summary of the town's economy.
 
 <div class="inline-image">
-    <a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/006/large/palma.jpg?1353114806 "><img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/006/medium/palma.jpg?1353114806 " width="640" alt="Map of Palmas" /></a>
+    <a rel="lightbox" href="/images/blog/2012/11/palma-large.jpg"><img src="/images/blog/2012/11/palma-medium.jpg" width="640" alt="Map of Palmas" /></a>
     <p class="caption">
         <span class="credit">Smithsonian National Air & Space Museum</a></span>
        
@@ -40,7 +40,7 @@ Fortunately, his passage through the area also left us with a snapshot record of
 In the report, we find out some mundane details about the life of the town - or at least how this pilot understood the place. Mail took 45 days to be delivered to town. Syphilis was a problem. Food was cheap. Customs were quaint.
 
 <div class="inline-image">
-    <a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/011/large/report.jpg?1353116809 "><img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/011/medium/report.jpg?1353116809" width="640" alt="Description of Palma" /></a>
+    <a rel="lightbox" href="/images/blog/2012/11/report-large.jpg"><img src="/images/blog/2012/11/report-medium.jpg" width="640" alt="Description of Palma" /></a>
     <p class="caption">
         <span class="credit">Smithsonian National Air & Space Museum</a></span>
 
@@ -50,7 +50,7 @@ In the report, we find out some mundane details about the life of the town - or 
 It might sound strange that an American pilot was in this small town, so far into Brazil's interior. But a great number of aeronautic professionals was just starting to move into the country, the majority of them working for American or German airlines. Naturally, with air travel to Brazil came also narratives about air travel in Brazil. The book below, for instance, describes a Zeppelin journey from Germany to Brazil. The Zeppelins had round trip service to Brazil, once a month.
 
 <div class="inline-image">
-    <a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/012/large/zeppelin.jpg?1353117398 "><img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/012/medium/zeppelin.jpg?1353117398 " width="640" alt="" /></a>
+    <a rel="lightbox" href="/images/blog/2012/11/zeppelin-large.jpg"><img src="/images/blog/2012/11/zeppelin-medium.jpg" width="640" alt="" /></a>
     <p class="caption">
         <span class="credit">Smithsonian National Air & Space Museum</a></span>
     </p>
@@ -59,7 +59,7 @@ It might sound strange that an American pilot was in this small town, so far int
 This particular expedition left more than a written log. They also photographed extensively, leaving us an interesting visual record of this particular region.
 
 <div class="inline-image">
-    <a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/016/large/car.jpg?1353185014"><img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/016/medium/car.jpg?1353185014 " width="640" alt="car" /></a>
+    <a rel="lightbox" href="/images/blog/2012/11/car-large.jpg"><img src="/images/blog/2012/11/car-medium.jpg" width="640" alt="car" /></a>
     <p class="caption">
         <span class="credit">Smithsonian National Air & Space Museum</a></span>
         Traveling by car through the central plateaus of Brazil, before moving on to horses and boats.
@@ -67,14 +67,14 @@ This particular expedition left more than a written log. They also photographed 
 </div>
 
 <div class="inline-image">
-    <a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/017/large/hotel.jpg?1353185542"><img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/017/medium/hotel.jpg?1353185542 " width="640" alt="Hotel" /></a>
+    <a rel="lightbox" href="/images/blog/2012/11/hotel-large.jpg"><img src="/images/blog/2012/11/hotel-medium.jpg" width="640" alt="Hotel" /></a>
     <p class="caption">
         <span class="credit">Smithsonian National Air & Space Museum</a></span>
            </p>
 </div>
 
 <div class="inline-image">
-    <a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/018/large/turtles.jpg?1353185944 "><img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/018/medium/turtles.jpg?1353185944 " width="640" alt="Turtles" /></a>
+    <a rel="lightbox" href="/images/blog/2012/11/turtles-large.jpg"><img src="/images/blog/2012/11/turtles-medium.jpg" width="640" alt="Turtles" /></a>
     <p class="caption">
         <span class="credit">Smithsonian National Air & Space Museum</a></span>
         Notice also the leopard skin being sold on the other boat.
