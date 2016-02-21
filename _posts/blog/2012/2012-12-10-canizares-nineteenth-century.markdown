@@ -18,7 +18,7 @@ In the Victorian era, the smart and the curious fell in love with experimental t
  
 Galton doubled down on Quetelet’s  insights and transformed everything in sight into graphs and numbers: fingerprints, faces, skulls, “intelligence.” He invented IQs and [craniometry](http://en.wikipedia.org/wiki/Anthropometry#Craniometry_and_paleoanthropology). Galton and his Victorian peers became enamored of numerical regularities to be found in large “databases.”
 
-<div class="inline-image"> <a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/088/large/galton-weather.jpg?1355010188"><img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/088/medium/galton-weather.jpg?1355010188" width="640" alt="FBI memo" /></a> <p class="caption"> <span class="credit"></a>Image courtesy of the Wellcome Trust</span> A weather chart from Galton's <em>Meteorographica</em> (Macmillan, 1863). </p> </div>
+<div class="inline-image"> <a rel="lightbox" href="/images/blog/2012/12/galton-weather-large.jpg"><img src="/images/blog/2012/12/galton-weather-medium.jpg" width="640" alt="FBI memo" /></a> <p class="caption"> <span class="credit"></a>Image courtesy of the Wellcome Trust</span> A weather chart from Galton's <em>Meteorographica</em> (Macmillan, 1863). </p> </div>
  
 Yet it was up to Buckle to transform history into a “science.” Buckle sought to do for history what Javons did for political economy and Quetelet and Galton did for sociology, namely,  do away with narrative. Statistical regularities would yield true, deep understanding onto the changing behavior of collectivities though time. Buckle represented the triumph of statistics over narrative among historians.
  

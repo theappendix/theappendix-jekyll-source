@@ -30,16 +30,33 @@ I spent much of the past year in Lisbon, Portugal, researching the development o
 
 Others, however, (like the [Farmácia Andrade](http://www.farmaciaandrade.pt/?a-farmacia&cod=122), which I walked by nearly every day) looked more like this: 
 
-<div class="inline-image"> <a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/159/large/Apoteket_Storken.jpg?1355863559"><img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/159/medium/Apoteket_Storken.jpg?1355863559" width="640" alt="Stockholm Apothecary" /></a> <p class="caption"> <span class="credit"></a>Image courtesy of Wikimedia Commons.</span> The Apoteket Storken (Stork Pharmacy) in Stockholm, Sweden, 2009.</div>
+<div class="inline-image">
+  <a rel="lightbox" href="/images/blog/2012/12/Apoteket_Storken-large.jpg"><img src="/images/blog/2012/12/Apoteket_Storken-medium.jpg" width="640" alt="Stockholm Apothecary" /></a>
+  <p class="caption">
+    <span class="credit">Image courtesy of Wikimedia Commons.</span>
+    The Apoteket Storken (Stork Pharmacy) in Stockholm, Sweden, 2009.
+  </p>
+</div>
 
 Observant readers will note that this is a Stockholm *apoteket* rather than a Lisbon *farmácia*. This is also an especially grand and elegant permutation of the early modern pharmacy style. But the basics of this pharmacy mirror those found in the old parts of Lisbon: ceramic jars with hand-painted labels arranged on custom wood shelving, with an [apothecary cabinet](http://pinterest.com/hillaryvanm/apothecary-cabinets/) featuring dozens of tiny drawers beneath. 
 
 What is striking about these displays is how pre-modern they are. Indeed, the same basic design (ceramic jars of herbs, minerals and animal products lined on wooden shelves along with the occasional specimen of exotica) can be seen in engravings and paintings from the eighteenth century:
 
-<div class="inline-image"> <a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/160/large/Longhi.jpg?1355864073"><img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/160/medium/Longhi.jpg?1355864073" width="640" alt="Longhi Apothecary" /></a> <p class="caption"> <span class="credit"></a>Image courtesy of Wikimedia Commons.</span>Pietro Longhi, <em>The Apothecary,</em> Italian, 1752. Note the prominently displayed aloe, an exotic and valuable plant at the time.</div>
+<div class="inline-image">
+  <a rel="lightbox" href="/images/blog/2012/12/Longhi-large.jpg"><img src="/images/blog/2012/12/Longhi-medium.jpg" width="640" alt="Longhi Apothecary" /></a>
+  <p class="caption">
+    <span class="credit">Image courtesy of Wikimedia Commons.</span>Pietro Longhi, <em>The Apothecary,</em> Italian, 1752. Note the prominently displayed aloe, an exotic and valuable plant at the time.
+  </p>
+</div>
 
 Or the seventeenth:
-<div class="inline-image"> <a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/161/large/apothecary_1695_curiosa_aucta.jpg?1355864657"><img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/161/medium/apothecary_1695_curiosa_aucta.jpg?1355864657" width="640" alt="German Apothecary" /></a> <p class="caption"> <span class="credit"></a>Image courtesy of Wikimedia Commons.</span>Wolfgang Helmhard Hohberg, <em>Georgica curiosa aucta</em> (Nuremberg: 1697).</div>
+<div class="inline-image">
+  <a rel="lightbox" href="/images/blog/2012/12/apothecary_1695_curiosa_aucta-large.jpg"><img src="/images/blog/2012/12/apothecary_1695_curiosa_aucta-medium.jpg" width="640" alt="German Apothecary" /></a>
+  <p class="caption">
+    <span class="credit">Image courtesy of Wikimedia Commons.</span>
+    Wolfgang Helmhard Hohberg, <em>Georgica curiosa aucta</em> (Nuremberg: 1697).
+  </p>
+</div>
 
 Yet what did these jars actually contain? Are there links beyond the purely aesthetic between early modern drugs and their modern counterparts? 
 
@@ -47,7 +64,12 @@ Trying to actually learn the craft of early modern pharmacy is a difficult proce
 
 What emerges when one overcomes these various obstacles and actually gets to the bottom of what was being prescribed, however, is a fascinating picture. It turns out early modern Europeans were prescribing some very familiar items -- things found in herb teas sold in grocery stores today, like chamomile, fennel, licorice, and cardamom -- alongside some utterly bizarre ones, like powdered crab's eyes, Egyptian mummies, and human skull, or ["cranium humanum."](http://www.flickr.com/photos/botalex/6407756811/)
 
-<div class="inline-image"> <a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/162/large/Albarelli_Axung_Hominis_(1).jpg?1355865580"><img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/162/medium/Albarelli_Axung_Hominis_(1).jpg?1355865580" width="640" alt="Apothecary jar" /></a> <p class="caption"> <span class="credit"></a></span>Late 17th or early 18th century medicine jars that once contained human fat -- one of several gruesome "cannibal medicine" remedies now forgotten by all except collectors of antique jars and historians of early modern medicine.</div>
+<div class="inline-image">
+  <a rel="lightbox" href="/images/blog/2012/12/Albarelli_Axung_Hominis_(1)-large.jpg"><img src="/images/blog/2012/12/Albarelli_Axung_Hominis_(1)-medium.jpg" width="640" alt="Apothecary jar" /></a>
+  <p class="caption">
+    Late 17th or early 18th century medicine jars that once contained human fat -- one of several gruesome "cannibal medicine" remedies now forgotten by all except collectors of antique jars and historians of early modern medicine.
+  </p>
+</div>
 
 Below are a selection of medical recipes which I've transcribed from the rare book collections of the University of Pennsylvania and the National Archives of Portugal. Here's hoping they come in handy next time you suffer from consumption, rickets, or "fitts." 
 

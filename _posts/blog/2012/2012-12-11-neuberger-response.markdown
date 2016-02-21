@@ -3,8 +3,8 @@ layout: blog
 title: "Response to ‘A Nineteenth Century “Digital” Humanities?’"
 authors: 
   - neuberger-joan
-date: "/posts/2012/12/response-to-a-nineteenth-century-digital-humanities"
-permalink: 
+date: 2012-12-11 06:00:00
+permalink: "/posts/2012/12/response-to-a-nineteenth-century-digital-humanities"
 excerpt: >
   Joan Neuberger considers a few of the “big data” projects of history, continuing our ongoing conversation on the digital humanities.
 ---
