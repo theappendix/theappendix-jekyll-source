@@ -9,7 +9,7 @@ excerpt: >
   Artist Justin Berry explores the process by which he creates his unique landscapes of imaginary worlds, one of which, <i>Dual Horizon</i>, we recently featured in the pages of <i>The Appendix</i>.
 ---
 <div class="inline-image">
-    <a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/249/large/gildner1.jpg"><img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/249/medium/gildner1.jpg" width="640" alt="Image by Justin Berry" /></a>
+    <a rel="lightbox" href="/images/blog/2013/06/gildner1-large.jpg"><img src="/images/blog/2013/06/gildner1-medium.jpg" width="640" alt="Image by Justin Berry" /></a>
     <p class="caption">
         <i>Dual Horizon</i>, 2012.
         <span class="credit">Justin Berry</span>
@@ -53,14 +53,14 @@ When we look at traditional landscapes they are not empty images. Usually they a
 <hr class="special" />
 
 <div class="inline-image">
-<a rel="rel" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/443/large/dual-horizons-detail.jpg">
-<img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/443/medium/dual-horizons-detail.jpg" width="640" alt="Dual Horizon detail" />
+<a rel="rel" href="/images/blog/2013/06/dual-horizons-detail-large.jpg">
+<img src="/images/blog/2013/06/dual-horizons-detail-medium.jpg" width="640" alt="Dual Horizon detail" />
 </a>
 <p class="caption">
 Detail of book edges from <i>Dual Horizon</i>.
 <span class="credit">
 Justin Berry
-</p>
+</span>
 </p>
 </div>
 

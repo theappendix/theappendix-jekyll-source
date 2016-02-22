@@ -20,7 +20,7 @@ Samuel Pepys, the famous womanizer and diarist, was certainly no prude. This is 
 So what was the book that made even Pepys blush? It turns out to be a surprisingly modern exploration of sexuality written in the form of a dialogue between a teenage girl and her more experienced cousin. Originally written in French and published in English in 1680 as *The School of Venus, or the Ladies Delight Reduced into Rules of Practice,* the anonymous book’s frontispiece engraving made its subject matter clear:
 
 <div class="inline-image">
-    <a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/518/large/venus2.jpg?1372111028"><img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/518/medium/venus2.jpg?1372111028" width="640" alt="early modern sex manual" /></a>
+    <a rel="lightbox" href="/images/blog/2013/06/venus2-large.jpg"><img src="/images/blog/2013/06/venus2-medium.jpg" width="640" alt="early modern sex manual" /></a>
     <p class="caption">
  
         <span class="credit"></span>
@@ -32,7 +32,7 @@ The 166-page text, which has been [digitized by Google Books]( http://books.goog
 The main narrative then begins, introducing its two principle characters: Katherine, “a Virgin of admirable beauty” and “a Kins-Woman of hers named Frances.” Frances “come[s] to chat” with Katherine one morning, finding her alone and working “as if it were a Nunnery.” Frances reproaches her cousin for being “such a Fool [as] to believe you can't enjoy a mans company without being Married.” Katherine naively explains that she enjoys the companionship of many men (“my two Unkles, my Cousins, Mr. Richards and many others”) but Frances explains that she means something altogether different (note that the early modern 's' can sometimes look like an 'f'): 
 
 <div class="inline-image">
-    <a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/517/large/Venus2.jpeg?1372111009"><img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/517/medium/Venus2.jpeg?1372111009" width="640" alt="early modern sex manual" /></a>
+    <a rel="lightbox" href="/images/blog/2013/06/Venus2a-large.jpg"><img src="/images/blog/2013/06/Venus2a-medium.jpg" width="640" alt="early modern sex manual" /></a>
     <p class="caption">
  
         <span class="credit"></span>
@@ -42,7 +42,7 @@ The main narrative then begins, introducing its two principle characters: Kather
 Frances reveals that even Katy's parents indulge in “this mistery of Fucking,” and not necessarily with one another (she speculates that “your Father had often his pleasure of your Maid Servant Margaret” and that “your Mother herself” might have “some private friend”). Next, we’re treated to a seventeenth-century explication of the male and female anatomy:
 
 <div class="inline-image">
-    <a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/519/large/Venus3.jpeg?1372111042"><img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/519/medium/Venus3.jpeg?1372111042" width="640" alt="early modern sex manual" /></a>
+    <a rel="lightbox" href="/images/blog/2013/06/Venus3-large.jpg"><img src="/images/blog/2013/06/Venus3-medium.jpg" width="640" alt="early modern sex manual" /></a>
     <p class="caption">
  
         <span class="credit"></span>
@@ -62,7 +62,7 @@ At page thirty-four, the text shifts gears into a full-fledged sex manual. Popul
 The dialogue ends, well, with a bang. A series of crude mezzotints illustrate the various positions suggested by Frances:
 
 <div class="inline-image">
-    <a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/520/large/Venus4.jpeg?1372111057"><img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/520/medium/Venus4.jpeg?1372111057" width="640" alt="early modern sex manual" /></a>
+    <a rel="lightbox" href="/images/blog/2013/06/Venus4-large.jpg"><img src="/images/blog/2013/06/Venus4-medium.jpg" width="640" alt="early modern sex manual" /></a>
     <p class="caption">
  "Sometimes Wheelbarrow, with one leg upon his shoulders..."
         <span class="credit"></span>
@@ -70,7 +70,7 @@ The dialogue ends, well, with a bang. A series of crude mezzotints illustrate th
 </div>
 
 <div class="inline-image">
-    <a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/521/large/Venus5.jpeg?1372111075"><img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/521/medium/Venus5.jpeg?1372111075" width="640" alt="early modern sex manual" /></a>
+    <a rel="lightbox" href="/images/blog/2013/06/Venus5-large.jpg"><img src="/images/blog/2013/06/Venus5-medium.jpg" width="640" alt="early modern sex manual" /></a>
     <p class="caption">
  "It is pretty hard to learn it all."
         <span class="credit"></span>
@@ -78,7 +78,7 @@ The dialogue ends, well, with a bang. A series of crude mezzotints illustrate th
 </div>
 
 <div class="inline-image">
-    <a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/522/large/Venus6.jpeg?1372111099"><img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/522/medium/Venus6.jpeg?1372111099" width="640" alt="early modern sex manual" /></a>
+    <a rel="lightbox" href="/images/blog/2013/06/Venus6-large.jpg"><img src="/images/blog/2013/06/Venus6-medium.jpg" width="640" alt="early modern sex manual" /></a>
     <p class="caption">
  "Having his Prick in my hand, I guided."
         <span class="credit"></span>
@@ -86,7 +86,7 @@ The dialogue ends, well, with a bang. A series of crude mezzotints illustrate th
 </div>
 
 <div class="inline-image">
-    <a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/523/large/Venus7.jpeg?1372111114"><img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/523/medium/Venus7.jpeg?1372111114" width="640" alt="early modern sex manual" /></a>
+    <a rel="lightbox" href="/images/blog/2013/06/Venus7-large.jpg"><img src="/images/blog/2013/06/Venus7-medium.jpg" width="640" alt="early modern sex manual" /></a>
     <p class="caption">
  "Let him rather incline to Lean than Fat, his Hair of a dark Brown and long enough to Curl upon his Shoulders."
         <span class="credit"></span>
