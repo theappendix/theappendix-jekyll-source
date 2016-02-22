@@ -7,7 +7,7 @@ date: 2014-02-21 06:00:00
 permalink: "/posts/2014/02/how-a-little-person-became-the-most-famous-filipino-in-nineteenth-century-britain"
 excerpt: >
   An American giantess and a Filipino little person became one of the most famous couples in 1820s England.
-header_image: header-bannerdwarf.jp
+header_image: header-bannerdwarf.jpg
 links: 
   - label: "Read the original primary source on Google Books"
     url: http://books.google.com/books?id=W7wRAAAAYAAJ&pg=PA295&lpg=PA295&dq=%22converses+freely+in+Portuguese,+and+in+English%22&source=bl&ots=U5qMYUeh-t&sig=kr3pBHARSUhglimV6JqgAyrNo-0&hl=en&sa=X&ei=m-wGU8LfCOri2AWA1YGADQ&ved=0CCYQ6AEwAA#v=onepage&q=%22converses%20freely%20in%20Portuguese%2C%20and%20in%20English%22&f=false
@@ -21,11 +21,11 @@ This duo toured England together as part of a traveling show at some point betwe
 During his lifetime, Don Santiago de los Santos was undoubtedly the most famous Filipino in Britain. For me, a historian of the Philippines, this makes Don Santiago the most fascinating of the pair. 
 
 <div class="inline-image">
-<a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/074/large/AN00345346_001_l.jpg">
-<img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/074/medium/AN00345346_001_l.jpg" width="640" alt="puck" />
+<a rel="lightbox" href="/images/blog/2014/02/AN00345346_001_l-large.jpg">
+<img src="/images/blog/2014/02/AN00345346_001_l-medium.jpg" width="640" alt="puck" />
 </a>
 <p class="caption">"Miss Angelina Melius the celebrated giantess from the United States. 19 years of age and nearly 7 feet high. Attended by her page Senor Don Santiago de los Santos from the island of Manila."
-<span class="credit">British Museum
+<span class="credit">British Museum</span>
 </p>
 </div>
 

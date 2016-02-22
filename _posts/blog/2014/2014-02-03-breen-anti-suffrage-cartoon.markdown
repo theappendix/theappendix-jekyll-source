@@ -18,22 +18,22 @@ In early 1908, a magazine illustrator named Harry Grant Dart settled down to wor
 Dart was a cartoonist from the golden age of newspaper illustration, when photographs were still rare in daily periodicals and innovative comics like *Little Nemo in Slumberland* and *Krazy Kat* were winning huge audiences. Dart's specialty was slickly-executed visions of the future, particularly shiny airships like the ones featured in his comic strip [*The Explorigators,*](http://www.theatlantic.com/entertainment/archive/2011/06/the-king-of-the-sunday-funnies/240188/) or this cover for the magazine *The All-Story*:
 
 <div class="inline-image">
-<a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/046/large/Dart_aerostatic_cabrio_13554u.jpg">
-<img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/046/medium/Dart_aerostatic_cabrio_13554u.jpg" width="640" alt="puck" />
+<a rel="lightbox" href="/images/blog/2014/02/Dart_aerostatic_cabrio_13554u-large.jpg">
+<img src="/images/blog/2014/02/Dart_aerostatic_cabrio_13554u-medium.jpg" width="640" alt="puck" />
 </a>
 <p class="caption">Harry Grant Dart's cover illustration for the October, 1908 edition of <em>The All-Story</em>.
-<span class="credit">Wikimedia Commons
+<span class="credit">Wikimedia Commons</span>
 </p>
 </div>
 
 For his *Puck* assignment, however, Dart was inspired by a different vision of the future: a parodic, misogynistic one that imagined a world where women could vote and, consequently, had taken the traditional place of men as drinking, smoking, gambling barflies.
 
 <div class="inline-image">
-<a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/041/large/punch_poster.jpg">
-<img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/041/medium/punch_poster.jpg" width="640" alt="puck" />
+<a rel="lightbox" href="/images/blog/2014/02/punch_poster-large.jpg">
+<img src="/images/blog/2014/02/punch_poster-medium.jpg" width="640" alt="puck" />
 </a>
 <p class="caption">Harry Grant Dart, "Why Not Go the Limit?", March 18th, 1908 issue of <em>Puck</em> magazine.
-<span class="credit">Library of Congress
+<span class="credit">Library of Congress</span>
 </p>
 </div>
 
@@ -66,29 +66,29 @@ It seems safe to say that the image hit a nerve, playing to the internet's love 
 There's another more prosaic angle to the image's contemporary fascination, of course: it's incredibly detailed.
 
 <div class="inline-image">
-<a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/042/large/puck_detail_5.jpg">
-<img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/042/medium/puck_detail_5.jpg" width="640" alt="puck" />
+<a rel="lightbox" href="/images/blog/2014/02/puck_detail_5-large.jpg">
+<img src="/images/blog/2014/02/puck_detail_5-medium.jpg" width="640" alt="puck" />
 </a>
 <p class="caption"> Dart seems to have been fascinated by the phenomenon of women smoking, with almost every character in the image sporting a cigar, cigarette or pipe (or standing by a spittoon). Tobacco was still largely a man's world in 1908, but things were changing swiftly with the advent of mass-marketed cigarette brands. 
-<span class="credit">Library of Congress
+<span class="credit">Library of Congress</span>
 </p>
 </div>
 
 <div class="inline-image">
-<a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/043/large/puck_detail.jpg">
-<img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/043/medium/puck_detail.jpg" width="640" alt="puck" />
+<a rel="lightbox" href="/images/blog/2014/02/puck_detail-large.jpg">
+<img src="/images/blog/2014/02/puck_detail-medium.jpg" width="640" alt="puck" />
 </a>
 <p class="caption">Two women eying a stock ticker. 
-<span class="credit">Library of Congress
+<span class="credit">Library of Congress</span>
 </p>
 </div>
 
 <div class="inline-image">
-<a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/044/large/puck_detail_2.jpg">
-<img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/044/medium/puck_detail_2.jpg" width="640" alt="puck" />
+<a rel="lightbox" href="/images/blog/2014/02/puck_detail_2-large.jpg">
+<img src="/images/blog/2014/02/puck_detail_2-medium.jpg" width="640" alt="puck" />
 </a>
 <p class="caption">A dark future of complimentary fudge and almonds.
-<span class="credit">Library of Congress
+<span class="credit">Library of Congress</span>
 </p>
 </div>
 
@@ -99,11 +99,11 @@ This last detail is one of the oddest - why in the world would Dart have chosen 
 Dart was by no means the only artist from this period to envision the futuristic consequences of the women's movement. In our upcoming Summer 2014 issue "Futures of the Past," we'll feature more on the topic, including explanations of related images like this prediction of a wedding in the year 2001:
 
 <div class="inline-image">
-<a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/045/large/Standard18950427int08.jpg">
-<img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/045/medium/Standard18950427int08.jpg" width="640" alt="puck" />
+<a rel="lightbox" href="/images/blog/2014/02/Standard18950427int08-large.jpg">
+<img src="/images/blog/2014/02/Standard18950427int08-medium.jpg" width="640" alt="puck" />
 </a>
 <p class="caption">"In the Year 2001," <em>The Standard</em>, April 27th, 1895
-<span class="credit">I.T.C.H.
+<span class="credit">I.T.C.H.</span>
 </p>
 </div>
 

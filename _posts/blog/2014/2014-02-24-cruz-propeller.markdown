@@ -18,8 +18,8 @@ Once upon a time, motorcycles, trains, and even UFOs were driven by propellers. 
 Alberto Santos-Dumont is beloved in Brazil as the inventor of the airplane (his heart is even preserved in formaldehyde at Rio de Janeiro's Air and Space Museum). But it was in Paris, the global capital of ballooning, that the debonair Brazilian made his name. In 1898 he decided that he was not satisfied with the haphazard nature of navigation in his balloon. So he put an engine and a propeller on it. Soon, he was the only man in the world flying a dirigible - even winning a prize for maneuvering around the Eiffel Tower.
 
 <div class="inline-image">
-<a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/066/large/Eiffel.jpg">
-<img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/066/medium/Eiffel.jpg" width="640" alt="Airship" />
+<a rel="lightbox" href="/images/blog/2014/02/Eiffel-large.jpg">
+<img src="/images/blog/2014/02/Eiffel-medium.jpg" width="640" alt="Airship" />
 </a>
 <p class="caption">Santos-Dumont navigating around the Eiffel Tower in his airship.
 <span class="credit">Wikimedia Commons</span>
@@ -29,8 +29,8 @@ Alberto Santos-Dumont is beloved in Brazil as the inventor of the airplane (his 
 Before long, Santos-Dumont was piloting a self-invented personal flying machine to his favorite Parisian café, which he tied it to the same hitch post where horses were tethered. It made for a dashing entrance to his lunches at [Maxim](http://en.wikipedia.org/wiki/Maxim's_Paris)'s, where he often dined with Louis Cartier and Gustav Eiffel. He was also known for stopping by friends' houses and landing in front of their porches for a chat.
 
 <div class="inline-image">
-<a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/067/large/baladeuse.jpg">
-<img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/067/medium/baladeuse.jpg" width="640" alt="Baladeuse" />
+<a rel="lightbox" href="/images/blog/2014/02/baladeuse-large.jpg">
+<img src="/images/blog/2014/02/baladeuse-medium.jpg" width="640" alt="Baladeuse" />
 </a>
 <p class="caption">The <i>Baladeuse</i> - Santos-Dumont's smaller personal airship flying down a Parisian street. 
 <span class="credit">Wikimedia Commons</span>
@@ -41,8 +41,8 @@ Santos-Dumont was just one among hundreds of self-taught inventors who harnessed
 
 There was the [Aéromotocyclette](http://en.wikipedia.org/wiki/Ernest_Archdeacon#Archdeacon_A.C3.A9romotocyclette_Anzani). Commissioned by French lawyer and early aeronautical enthusiast Ernest Archdeacon (also a proponent of Esperanto), this dangerous-looking contraption achieved a speed of almost 80 kilometers per hour.
 <div class="inline-image">
-<a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/068/large/Aeromotocyclette1.jpg">
-<img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/068/medium/Aeromotocyclette1.jpg" width="640" alt="Aéromotocyclette " />
+<a rel="lightbox" href="/images/blog/2014/02/Aeromotocyclette1-large.jpg">
+<img src="/images/blog/2014/02/Aeromotocyclette1-medium.jpg" width="640" alt="Aéromotocyclette " />
 </a>
 <p class="caption"> The Aéromotocyclette reached almost 80 km/hr in 1906.
 <span class="credit">Wikimedia Commons</span>
@@ -52,8 +52,8 @@ There was the [Aéromotocyclette](http://en.wikipedia.org/wiki/Ernest_Archdeacon
 Electric cars were also born in this era of compulsive experimentation - indeed, it's seldom remembered today that the [first Porsche was electric](http://www.npr.org/blogs/thetwo-way/2014/01/29/268186276/missing-for-112-years-first-porsche-is-found-in-warehouse). But the newly-invented automobile and plane weren't the only machines that tinkerers revamped.  One Scottish engineer, George Bennie, created what he called a railplane - a train that hung from a top rail, and moved forward with propellers. His idea was to build this system above existing rail lines, so that faster passenger railplanes could glide above slower freight traffic. You can see it at work [here](http://www.youtube.com/watch?v=N4Qamg3C188).
 
 <div class="inline-image">
-<a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/069/large/benniepost1.jpg">
-<img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/069/medium/benniepost1.jpg" width="640" alt="RailPlane" />
+<a rel="lightbox" href="/images/blog/2014/02/benniepost1-large.jpg">
+<img src="/images/blog/2014/02/benniepost1-medium.jpg" width="640" alt="RailPlane" />
 </a>
 <p class="caption"> A postcard showing the George Bennie Railplane.
 <span class="credit">Secret Scotland Wiki</span>
@@ -61,8 +61,8 @@ Electric cars were also born in this era of compulsive experimentation - indeed,
 </div>
 
 <div class="inline-image">
-<a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/070/large/railplane.png">
-<img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/070/medium/railplane.png" width="640" alt="RailPlane" />
+<a rel="lightbox" href="/images/blog/2014/02/railplane-large.png">
+<img src="/images/blog/2014/02/railplane-medium.png" width="640" alt="RailPlane" />
 </a>
 <p class="caption"> A poster touting this transportation mashup.
 <span class="credit">Wikimedia Commons</span>
@@ -72,8 +72,8 @@ Electric cars were also born in this era of compulsive experimentation - indeed,
 Of course, our obsessions change as new technologies emerge - with the advent of the Jet Age, propellers lost their high-tech appeal. So how about a jet car? Chrysler made a [turbine car](http://en.wikipedia.org/wiki/Chrysler_Turbine_Car) in the 1970s that could run on diesel, gasoline, kerosene, jet fuel and even vegetable oil.
 
 <div class="inline-image">
-<a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/071/large/JetCar.jpg">
-<img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/071/medium/JetCar.jpg" width="640" alt="Turbine Car" />
+<a rel="lightbox" href="/images/blog/2014/02/JetCar-large.jpg">
+<img src="/images/blog/2014/02/JetCar-medium.jpg" width="640" alt="Turbine Car" />
 </a>
 <p class="caption">The Chrysler Turbine Car.
 <span class="credit">Wikimedia Commons</span>
@@ -81,8 +81,8 @@ Of course, our obsessions change as new technologies emerge - with the advent of
 </div>
 
 <div class="inline-image">
-<a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/072/large/Fiat_Turbina.jpg">
-<img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/072/medium/Fiat_Turbina.jpg" width="640" alt="Fiat Turbina" />
+<a rel="lightbox" href="/images/blog/2014/02/Fiat_Turbina-large.jpg">
+<img src="/images/blog/2014/02/Fiat_Turbina-medium.jpg" width="640" alt="Fiat Turbina" />
 </a>
 <p class="caption">The FIAT Turbina, a 1954 concept car - certainly a design for the jet age.
 <span class="credit">Wikimedia Commons</span>
@@ -92,8 +92,8 @@ Of course, our obsessions change as new technologies emerge - with the advent of
 But technology mashups of this sort don't belong strictly to the realm of _real_ devices. Imaginary ones also evolve with time. UFOs have since the 19th century changed from being balloons, to dirigibles, to having propellers. Check out this California UFO sighting from 1896:
 
 <div class="inline-image">
-<a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/073/large/propUFO.jpg">
-<img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/073/medium/propUFO.jpg" width="640" alt="Propeller UFO" />
+<a rel="lightbox" href="/images/blog/2014/02/propUFO-large.jpg">
+<img src="/images/blog/2014/02/propUFO-medium.jpg" width="640" alt="Propeller UFO" />
 </a>
 <p class="caption"> An 1896 UFO sighting over Sacramento, California.
 <span class="credit">Wikimedia Commons</span>
