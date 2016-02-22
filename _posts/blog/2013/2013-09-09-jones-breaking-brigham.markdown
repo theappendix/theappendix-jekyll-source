@@ -34,8 +34,8 @@ I’m sure this all comes as something of a disappointment to you *Breaking Bad*
 <hr class="special" />
 
 <div class="inline-image alternate-voice">
-<a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/750/large/dscn0113.jpg?1378741561">
-<img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/750/medium/dscn0113.jpg?1378741561" width="640" alt="Mormon tea" />
+<a rel="lightbox" href="/images/blog/2013/09/dscn0113-large.jpg">
+<img src="/images/blog/2013/09/dscn0113-medium.jpg" width="640" alt="Mormon tea" />
 </a>
 <p class="caption">
 <span class="credit">A cup of "Mormon tea" brewed from <em>Ephedra nevadensis</em> by the author of the <a href="http://joshuaobserves.wordpress.com/2008/09/13/mormon-tea/">Joshua Observed</a> blog. It was described as "wonderful... like a mixture of black tea and green tea." </span>

@@ -19,7 +19,7 @@ When we were putting together our third issue, ‘[Out Loud]( http://theappendix
 To wit: Lenin was a natural at the theremin, it turns out, and the Soviet State loved its creator so much that it imprisoned Leon Theremin in a secret Gulag laboratory to develop eavesdropping devices.  
 
 <div class="inline-image">
-    <a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/587/large/Leon_Theremin.jpg?1376758950"><img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/587/medium/Leon_Theremin.jpg?1376758950" /></a>
+    <a rel="lightbox" href="/images/blog/2013/09/Leon_Theremin-large.jpg"><img src="/images/blog/2013/09/Leon_Theremin-medium.jpg" /></a>
     <p class="caption">Lev Termen, or Leon Theremin, playing his theremin.
         <span class="credit">Wikimedia Commons
 </span>
@@ -37,7 +37,7 @@ When Theremin left Russia in 1989, after 51 years under state arrest, employment
 Mattis's entire interview is excellent, touching on Theremin’s invention of his famed instrument in 1920, and his “Terpsitone,” an instrument for dancing.
 
 <div class="inline-image">
-    <a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/588/large/Terpsitone_Rockmore_500_725.jpg?1376759111"><img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/588/medium/Terpsitone_Rockmore_500_725.jpg?1376759111" /></a>
+    <a rel="lightbox" href="/images/blog/2013/09/Terpsitone_Rockmore_500_725-large.jpg"><img src="/images/blog/2013/09/Terpsitone_Rockmore_500_725-medium.jpg" /></a>
     <p class="caption">Clara Rockmore plays the Theremin’s terpsitone at Carnegie Hall in 1932.
         <span class="credit">Calvert Journal
 </span>
@@ -47,8 +47,8 @@ Mattis's entire interview is excellent, touching on Theremin’s invention of hi
 The interview also covers Theremin’s return to the Soviet Union from New York in 1938. It had been rumored that he was kidnapped by Russian spies, but Theremin suggests it was at his own behest. He indeed was sent to a work Gulag for many months, and he ended up imprisoned in a laboratory developing listening devices for eight years. Theremin was awarded the Stalin prize for his espionage work in 1947.
 
 <div class="inline-image">
-    <a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/589/large/Hipster_Stalin.jpg?1376759290"><img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/589/medium/Hipster_Stalin.jpg?1376759290" /></a>
-    <p class="caption">A very young revelutionary Joseph Stalin—perhaps ready to time-travel to Williamsburg, Brooklyn ca. 2008, and play theremin in his new band?
+    <a rel="lightbox" href="/images/blog/2013/09/Hipster_Stalin-large.jpg"><img src="/images/blog/2013/09/Hipster_Stalin-medium.jpg" /></a>
+    <p class="caption">A very young revolutionary Joseph Stalin—perhaps ready to time-travel to Williamsburg, Brooklyn ca. 2008, and play theremin in his new band?
         <span class="credit">
 </span>
     </p>
