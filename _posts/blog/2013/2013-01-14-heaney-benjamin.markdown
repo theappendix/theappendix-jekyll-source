@@ -15,7 +15,7 @@ Our reader started with the 1867 copyright registration of the prophecy, and fou
 _Sacramento Daily Union newspaper_ that a book by an unnamed San Francisco author called "Prophecies of Benjamin, the True and Real Antichrist"  was copyrighted on [25 July 1867](http://cdnc.ucr.edu/cdnc/cgi-bin/cdnc?a=d&d=SDU18670725.1.3&cl=&srpos=0&dliv=none&st=1&e=-------en-logical-20--1-----all---). "Benjamin prophecies San Francisco will become a complete slaughter-house within seventeen months; Los Angles will be destroyed, etc.; but he spares Sacramento," the newspaper gloated.
 
 <div class="inline-image">
-    <a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/111/large/SigPuzzle.png?1355246976"><img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/111/medium/SigPuzzle.png?1355246976" width="640" alt="" /></a>
+    <a rel="lightbox" href="/images/blog/2013/01/SigPuzzle-large.png"><img src="/images/blog/2013/01/SigPuzzle-medium.png" width="640" alt="" /></a>
     <p class="caption">
         <span class="credit"></span>
     </p>
@@ -30,7 +30,7 @@ It's a terrific question. Copyrighting a prophecy seems like an extraordinarily 
 Could have been. I did some poking around on the internet this weekend and found that if G. C. Gorham was [George Congdon Gorham](http://www.senate.gov/artandhistory/history/common/generic/SOS_George_Gorham.htm) then he perhaps had the profile, if not the motive. He was a Connecticut-born 49er Republican California law clerk, railroad co-owner, and newspaper man— editor at the _Sacramento Daily Standard_ and the _San Francisco Daily Nation_. In 1867, he ran for governor in California and lost in part because he took a stand against [anti-Chinese nativist violence and sentiment](http://www.loc.gov/teachers/classroommaterials/connections/chinese-cal/history4.html). The political cartoon below pillories Gorham and the Republican party's platform of suffrage for [non-whites](http://www.loc.gov/pictures/collection/app/item/2008661701/), taking a series of deeply racist shots at blacks, Chinese and Indians along the way.
 
 <div class="inline-image">
-    <a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/182/large/gorham2.jpg?1358102987"><img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/182/medium/gorham2.jpg?1358102987" width="640" alt="Gorham cartoon" /></a>
+    <a rel="lightbox" href="/images/blog/2013/01/gorham2-large.jpg"><img src="/images/blog/2013/01/gorham2-medium.jpg" width="640" alt="Gorham cartoon" /></a>
     <p class="caption">
         <span class="credit">Courtesy of the <a href="http://www.loc.gov/pictures/collection/app/item/2008661701/">Library of Congress</a>.</span>"The reconstruction policy of Congress, as illustrated in California," political cartoon featuring George C. Gorham, 1867.
     </p>

@@ -32,7 +32,7 @@ Today seemed an especially auspicious day for such a list, because it ties in wi
 - **Harry “the Hipster” Gibson** was an up-and-coming New York-based singer known for his rakish persona in 1947, when his risque song [“Who Put the Benzadrine in Mrs. Murphy’s Ovaltine?”](http://www.youtube.com/watch?v=l2WJqnK3gAY) earned him a spot on the music industry's blacklist. **Benzadrine** was a trade name for amphetamine, popular both as "pep pills" among WW2 pilots and among the emerging Post-War counterculture, including jazz, blues and rockabilly musicians and writers of the Beat Generation. Gibson is today mainly remembered for the song that torpedoed his career; it is one of the earliest pop songs to feature explicit reference to drug use in its title. 
 
 <div class="inline-image">
-    <a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/180/large/HarryGibson.jpg?1357711125"><img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/180/medium/HarryGibson.jpg?1357711125" width="640" alt="Harry the Hipster" /></a>
+    <a rel="lightbox" href="/images/blog/2013/01/HarryGibson-large.jpg"><img src="/images/blog/2013/01/HarryGibson-medium.jpg" width="640" alt="Harry the Hipster" /></a>
     <p class="caption">
         <span class="credit">Courtesy of the Library of Congress.</span>
 Harry "The Hipster" Gibson with his band in New York, July 1948, as photographed by William Gottlieb.
@@ -50,7 +50,7 @@ Harry "The Hipster" Gibson with his band in New York, July 1948, as photographed
 - **Methamphetamine** is still approved by the FDA as a weight-loss drug, although it is almost never prescribed for this purpose these days. In the 1950s, however, it appears to have been quite normal for a doctor to prescribe meth for, say, a plump child to lose weight, or for a housewife who wanted to put a little more pep in her step. Pharmaceutical ads touting meth bragged of its safety profile. 
 
 <div class="inline-image">
-    <a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/179/large/meth_ad.gif?1357693098"><img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/179/medium/meth_ad.gif?1357693098" width="640" alt="Harry the Hipster" /></a>
+    <a rel="lightbox" href="/images/blog/2013/01/meth_ad-large.gif"><img src="/images/blog/2013/01/meth_ad-medium.gif" width="640" alt="Harry the Hipster" /></a>
     <p class="caption">
         <span class="credit">Courtesy of the <a href="http://www.bonkersinstitute.org/medshow/meth.html">Bonkers Institute</a>.</span>This 1951 Eli Lilly advertisement recommends methamphetamine as a "prudent choice" for "depression, narcolepsy, alcoholism, or obesity."
     </p>
@@ -67,7 +67,7 @@ Harry "The Hipster" Gibson with his band in New York, July 1948, as photographed
 - The quinine in tonic water (which was originally derived from the Amazonian plant *Cinchona officinalis*) possesses the unusual property of flourescing under ultraviolet light. Indeed, pure cinchona infused in water apparently even gives off a faint glow in direct sunlight, owing to the UV rays present in full spectrum light.
 
 <div class="inline-image">
-    <a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/555/large/tonic_water_for_blog_post_on_res_obscura_or_appendix.jpg?1375383593"><img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/555/medium/tonic_water_for_blog_post_on_res_obscura_or_appendix.jpg?1375383593" width="640" alt="quinine" /></a>
+    <a rel="lightbox" href="/images/blog/2013/01/tonic_water_for_blog_post_on_res_obscura_or_appendix-large.jpg"><img src="/images/blog/2013/01/tonic_water_for_blog_post_on_res_obscura_or_appendix-medium.jpg" width="640" alt="quinine" /></a>
     <p class="caption">
         <span class="credit">Wikimedia Commons</span>
     </p>
