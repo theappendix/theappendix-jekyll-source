@@ -22,12 +22,12 @@ Few scientific forgeries have captured the scientific and public imaginations as
 It would seem that just about everyone who is anyone in the paleo-community of the last sixty years has a theory about who perpetrated the fossil hoax; why it lasted as long as it did (forty years); and what Piltdown meant (and means) to paleoanthropology.  Suspects charged with perpetrating the hoax have included the fossil’s discoverer Charles Dawson, scientific notables like William J. Sollas and Sir Arthur Keith, and even Sir Arthur Conan Doyle and the philosopher Pierre Teilhard de Chardin.  
 
 <div class="inline-image">
-<a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/291/large/Piltdown_gang_(dark).jpg">
-<img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/291/medium/Piltdown_gang_(dark).jpg"
+<a rel="lightbox" href="/images/blog/2014/05/Piltdown_gang_(dark)-large.jpg">
+<img src="/images/blog/2014/05/Piltdown_gang_(dark)-medium.jpg"
  width="640" alt="Piltdown" />
 </a>
 <p class="caption"> A 1915 group portrait by John Cooke, Charles Dawson and others associated with the Piltdown find. 
-<span class="credit"> Wikimedia Commons
+<span class="credit"> Wikimedia Commons</span>
 </p>
 </div>
 
@@ -36,12 +36,12 @@ In the first decade of twentieth-century, the fledgling discipline had few fossi
 The Piltdown material itself came to the attention of British intellectuals, like paleontologist Arthur Smith Woodward, via the British Museum upon the fossil’s excavation in 1912.  The Piltdown fossil consisted of a mandibular fragment (the lower jaw) as well as portions of the crania (the skull), recovered from the Piltdown gravels of East Sussex by antiquarian Charles Dawson.  The find was promptly and rather grandiosely named *Eoanthropus dawsoni.*
 
 <div class="inline-image">
-<a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/292/large/Figure_2_Piltdown_fossil.jpg">
-<img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/292/medium/Figure_2_Piltdown_fossil.jpg"
+<a rel="lightbox" href="/images/blog/2014/05/Figure_2_Piltdown_fossil-large.jpg">
+<img src="/images/blog/2014/05/Figure_2_Piltdown_fossil-medium.jpg"
  width="640" alt="Piltdown" />
 </a>
 <p class="caption"> Skull of the “Eoanthropus Dawsoni” (Piltdown Man).
-<span class="credit"> Wellcome Images
+<span class="credit"> Wellcome Images</span>
 </p>
 </div>
 
@@ -50,22 +50,20 @@ Woodward claimed that the find pointed to a “missing link” in the chain of h
 Woodward wasn’t alone in his interpretation. The Piltdown fossils became readily accepted by the paleo-community. Indeed, many fossils found in subsequent decades (such as the 1925 Taung Child in South Africa) were ignored due to the influence of Piltdown.  Even prominent American paleontologist Henry Fairfield Osborn (then-president of the American Museum of Natural History) declared the skull and jaw a perfect fit and the specimen fascinating.  
 
 <div class="inline-image">
-<a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/294/large/Figure_5_UckfdPiltdown12.jpg">
-<img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/294/medium/Figure_5_UckfdPiltdown12.jpg"
- width="640" alt="Piltdown" />
+<a rel="lightbox" href="/images/blog/2014/05/Figure_5_UckfdPiltdown12-large.jpg">
+<img src="/images/blog/2014/05/Figure_5_UckfdPiltdown12-medium.jpg" width="640" alt="Piltdown" />
 </a>
 <p class="caption"> A photograph by John Frisby of Uckfield, showing excavations at the Piltdown gravels in 1912. Standing centre left in the picture is the white-bearded figure of Arthur Smith Woodward and working in the trench on the right is Charles Dawson, the local solicitor who had "discovered" the skull of "Piltdown Man."
-<span class="credit"> Photo and caption courtesy of http://www.photohistory-sussex.co.uk/index.htm. 
+<span class="credit"> Photo and caption courtesy of <a href="http://www.photohistory-sussex.co.uk/index.htm">photohistory-sussex.co.uk</a></span>
 </p>
 </div>
 
 <div class="inline-image">
-<a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/295/large/Figure_6_UckfdPiltown12a.jpg">
-<img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/295/medium/Figure_6_UckfdPiltown12a.jpg"
- width="640" alt="Piltdown" />
+<a rel="lightbox" href="/images/blog/2014/05/Figure_6_UckfdPiltown12a-large.jpg">
+<img src="/images/blog/2014/05/Figure_6_UckfdPiltown12a-medium.jpg" width="640" alt="Piltdown" />
 </a>
 <p class="caption"> Arthur Smith Woodward and Uckfield photographer John Frisby inspect the excavations at Piltdown in 1912. Arthur Smith Woodward was a palaeontologist and Keeper of Geology at the Natural History Museum in South Kensington.
-<span class="credit"> http://www.photohistory-sussex.co.uk/index.htm
+<span class="credit"><a href="http://www.photohistory-sussex.co.uk/index.htm">photohistory-sussex.co.uk</a></span>
 </p>
 </div>
 
@@ -76,12 +74,11 @@ But what was it? A forgery?  A hoax?  A joke?  A gross error in bending facts to
 On some level, the Piltdown “fossil” is all of these things. However, it is also an important lesson not only about early twentieth-century science's search for a missing link, but also our own.  In a discourse where chains, links, and linearity are treated not only as helpful metaphors ("the Great Chain of Being," "the Tree of Life"), but as actual explanation for biological phenomenon, Piltdown Man serves as a reminder that missing links can also be invented ones.
 
 <div class="inline-image">
-<a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/293/large/Figure_3_Piltdown_reconstruction.jpg">
-<img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/293/medium/Figure_3_Piltdown_reconstruction.jpg"
- width="640" alt="Piltdown" />
+<a rel="lightbox" href="/images/blog/2014/05/Figure_3_Piltdown_reconstruction-large.jpg">
+<img src="/images/blog/2014/05/Figure_3_Piltdown_reconstruction-medium.jpg" width="640" alt="Piltdown" />
 </a>
 <p class="caption"> A reconstruction of the Piltdown man in three quarters profile.
-<span class="credit"> Wellcome Images
+<span class="credit">Wellcome Images</span>
 </p>
 </div>  
 
