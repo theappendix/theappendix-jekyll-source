@@ -28,8 +28,8 @@ header_image_caption: "“Literature is a kind of intellectual light which, like
 - Friend of *The Appendix* and Austin-based fiction writer [Travis Klunick](thesemightysecrets.tumblr.com) found a [surrealist love telegram](http://tumblr.theappendix.net/post/67165169004/thesemightysecrets-i-was-helping-my-grandma#notes) sent to his great aunt in 1937.
 
 <div class="inline-image">
-<a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/812/large/tumblr_mvnojkmmRh1qzmympo1_1280.jpg">
-<img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/812/medium/tumblr_mvnojkmmRh1qzmympo1_1280.jpg" width="640" alt="Weekly Reading" />
+<a rel="lightbox" href="/images/blog/2013/11/tumblr_mvnojkmmRh1qzmympo1_1280-large.jpg">
+<img src="/images/blog/2013/11/tumblr_mvnojkmmRh1qzmympo1_1280-medium.jpg" width="640" alt="Weekly Reading" />
 </a>
 <p class="caption">
 “I was helping my grandma move and we found this old telegrammed love letter to my great aunt from her secret beau in 1935."
@@ -44,8 +44,8 @@ header_image_caption: "“Literature is a kind of intellectual light which, like
 - Res Obscura found a [map of Enlightenment London's Royal Exchange](http://books.google.com/books?id=0poHAAAAQAAJ&pg=PR1#v=onepage&q&f=false) showing the stalls of Jamaica merchants, druggists and others, and [transposed it](https://twitter.com/ResObscura/status/404671543218683904) onto a larger map of London.
 
 <div class="inline-image">
-<a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/813/large/royal_exchange.jpg">
-<img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/813/medium/royal_exchange.jpg" width="640" alt="Weekly Reading" />
+<a rel="lightbox" href="/images/blog/2013/11/royal_exchange-large.jpg">
+<img src="/images/blog/2013/11/royal_exchange-medium.jpg" width="640" alt="Weekly Reading" />
 </a>
 <p class="caption">
 Merchant stalls at the Royal Exchange, 1786.

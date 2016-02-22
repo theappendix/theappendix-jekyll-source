@@ -26,8 +26,8 @@ header_image_caption: "“To acquire the habit of reading is to construct for yo
 - John Glassie, the author of a recent book about the Jesuit polymath (and *Appendix* inspiration) Athanasius Kircher, [shared this dragon](https://www.facebook.com/photo.php?fbid=565070450234362&set=a.382403245167751.90178.378904818850927&type=1) from Kircher's 1664 *Mundus Subterraneus.*
 
 <div class="inline-image">
-<a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/779/large/1453536_565070450234362_357451349_n.jpg?1383591560">
-<img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/779/medium/1453536_565070450234362_357451349_n.jpg?1383591560" width="640" alt="Weekly Reading" />
+<a rel="lightbox" href="/images/blog/2013/11/1453536_565070450234362_357451349_n-large.jpg">
+<img src="/images/blog/2013/11/1453536_565070450234362_357451349_n-medium.jpg" width="640" alt="Weekly Reading" />
 </a>
 <p class="caption">
 “I am aware that two kinds of this animal have been distinguished by authors, the one with, the other without wings," Kircher wrote.

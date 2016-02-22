@@ -24,8 +24,8 @@ Like Machiavelli, we hope you’re received by them kindly.
 - At the Slate Vault, [Rebecca Onion explored](http://www.slate.com/blogs/the_vault/2013/10/31/blood_book_victorian_scrapbook_given_as_betrothal_gift_and_collected_by.html) one of our favorite pieces of book art, the Victorian "Blood Book" owned by the Harry Ransom Center.
 
 <div class="inline-image">
-<a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/768/large/BloodBook2Final_jpg.jpg.CROP.original-original.jpg?1383434478">
-<img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/768/medium/BloodBook2Final_jpg.jpg.CROP.original-original.jpg?1383434478" width="640" alt="Richard's Documents" />
+<a rel="lightbox" href="/images/blog/2013/11/BloodBook2Final_jpg.jpg.CROP.original-original-large.jpg">
+<img src="/images/blog/2013/11/BloodBook2Final_jpg.jpg.CROP.original-original-medium.jpg" width="640" alt="Richard's Documents" />
 </a>
 <p class="caption">
 A page from the "Blood Book," a macabre betrothal present from a father to his daughter in 1854.

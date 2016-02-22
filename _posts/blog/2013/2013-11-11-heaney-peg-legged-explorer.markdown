@@ -20,8 +20,8 @@ _Why Freuchen?_
 If you ever run across a description of the Danish explorer Peter Freuchen, it will invariably come with a lamentation that Freuchen isn't more famous than he is. Unlike pillars of polar exploration like Amundsen, Nansen, and Shackleton, Freuchen had lots of little adventures, all extremely colorful and written about at length, but in several books that I imagine are long out of print. I ran across one, [_Vagrant Viking_](http://www.amazon.com/Vagrant-Viking-My-life-adventures/dp/B0007DNDCC), in a used book store in Seattle, and bought it on a whim. I'm glad I did, because I think about it constantly. The book is a full account of Freuchen's life, from his misspent youth in Nykøbing Falster, Denmark to his many harrowing adventures in Greenland, Canada, and Siberia, and even to his time helping refugees during WWII and his later years as a Hollywood icon. Every page is filled with amazing and often hilarious anecdotes, and I've been waiting a long time to find an excuse to flesh out his adventures in cartoon form.
 
 <div class="inline-image">
-<a rel="lightbox"href=" http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/786/large/thule.jpg?1384125691">
-<img src=" http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/786/medium/thule.jpg?1384125691" width="640" alt="Cannon map" />
+<a rel="lightbox"href="/images/blog/2013/11/thule-large.jpg">
+<img src="/images/blog/2013/11/thule-medium.jpg" width="640" alt="Cannon map" />
 </a>
 <p class="caption"> Kevin Cannon's "cartographic biography" of Peter Freuchen and Knud Rasmussen (see link below for zoomable version.)
 <span class="credit">Kevin Cannon for <em>The Appendix</em></span>
@@ -42,8 +42,8 @@ _What was most hard about making the map? What was most fun?_
 The hardest part of making this map was limiting the scope. Initially the map was going to be a full biography of Freuchen's life. But as I went through my dog-eared copy of Vagrant Viking, meticulously noting each little anecdote and place that would go on the map, I soon realized that the map I was envisioning would be the size of a wall and would take a decade to produce. Fortunately Freuchen's description of The First Thule Expedition stuck in my head as something that could be a great map in its own right.
 
 <div class="inline-image">
-<a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/771/large/cannon2.jpg?1383509069">
-<img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/771/medium/cannon2.jpg?1383509069" width="640" alt="Cannon map" />
+<a rel="lightbox" href="/images/blog/2013/11/cannon2-large.jpg">
+<img src="/images/blog/2013/11/cannon2-medium.jpg" width="640" alt="Cannon map" />
 </a>
 <p class="caption"> A detail from Kevin Cannon's "cartographic biography" of Peter Freuchen and Knud Rasmussen.
 <span class="credit">Kevin Cannon for <em>The Appendix</em></span>
@@ -55,8 +55,8 @@ The fun of the map was in the research—following the explorer's notes and tran
 It should also be noted that this map is my personal interpretation of events, and the point of it is to excite and inspire people who—like me—once viewed Greenland as a big ice-covered rock. Real historians and cartographers will note that besides the obvious fact that the scale is completely off, certain place names are incorrect as I used Freuchen's account more than modern maps. Due to space limitations, I was also forced to leave out certain anecdotes, like Freuchen's dive underwater to fetch his lost theodolite or the fact that Freuchen himself was on the Mylius-Erichsen expedition that started the whole chain of events in the first place. In any case, I hope that this map inspires readers to dive into a copy of Freuchen's Vagrant Viking to see what other adventures this peg-legged explorer wrote about.
 
 <div class="inline-image">
-<a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/770/large/Cannon1.jpg?1383509057">
-<img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/770/medium/Cannon1.jpg?1383509057" width="640" alt="Cannon map" />
+<a rel="lightbox" href="/images/blog/2013/11/Cannon1-large.jpg">
+<img src="/images/blog/2013/11/Cannon1-medium.jpg" width="640" alt="Cannon map" />
 </a>
 <p class="caption"> A detail from Kevin Cannon's "cartographic biography" of Peter Freuchen and Knud Rasmussen.
 <span class="credit">Kevin Cannon for <em>The Appendix</em></span>

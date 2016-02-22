@@ -17,8 +17,8 @@ links:
 NASA spent nearly 20 years developing a form of [space ice cream](http://www.hickorees.com/brand/astronaut-ice-creams/product/astronaut-ice-cream-neapolitan) that astronauts found palatable. Meanwhile, the Soviet space program was working on stuff like this:
 
 <div class="inline-image">
-<a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/788/large/naz3.jpg?1384826271">
-<img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/788/medium/naz3.jpg?1384826271" width="640" alt="cosmonaut kit" />
+<a rel="lightbox" href="/images/blog/2013/11/naz3-large.jpg">
+<img src="/images/blog/2013/11/naz3-medium.jpg" width="640" alt="cosmonaut kit" />
 </a>
 <p class="caption"> 
 <span class="credit">Wikimedia Commons</span>
@@ -46,8 +46,8 @@ That's the NAZ-3 survival kit. It was designed in 1968 for the Soviet Soyuz spac
 The pistol was intended to scare off "wolves, bears, tigers, etc." on the event of a crash landing. Later Soviet survival kits expanded to include fishing tackle, improved cold suits, royal blue knit caps with the Cyrillic initials of each cosmonaut (shades of *The Life Aquatic*) and "ugh boots" lined with fur.
 
 <div class="inline-image">
-<a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/791/large/Moscow_Polytechnical_Museum__cosmonaut's_survival_kit.jpg?1384829022">
-<img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/791/medium/Moscow_Polytechnical_Museum__cosmonaut's_survival_kit.jpg?1384829022" width="640" alt="cosmonaut kit" />
+<a rel="lightbox" href="/images/blog/2013/11/Moscow_Polytechnical_Museum__cosmonaut's_survival_kit-large.jpg">
+<img src="/images/blog/2013/11/Moscow_Polytechnical_Museum__cosmonaut's_survival_kit-medium.jpg" width="640" alt="cosmonaut kit" />
 </a>
 <p class="caption"> Cosmonaut survival kit at the Polytechnical Museum, Moscow.
 <span class="credit">Mikhail Scherbakov/Wikimedia Commons</span>
@@ -55,8 +55,8 @@ The pistol was intended to scare off "wolves, bears, tigers, etc." on the event 
 </div>
 
 <div class="inline-image">
-<a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/789/large/soviet_kit.jpg?1384826606">
-<img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/789/medium/soviet_kit.jpg?1384826606" width="640" alt="cosmonaut kit" />
+<a rel="lightbox" href="/images/blog/2013/11/soviet_kit-large.jpg">
+<img src="/images/blog/2013/11/soviet_kit-medium.jpg" width="640" alt="cosmonaut kit" />
 </a>
 <p class="caption">Another Soviet cosmonaut survival kit.
 <span class="credit">Esther Dyson/Flickr</span>
@@ -68,8 +68,8 @@ These kits also featured a special "combination gun" (a rifle, shotgun and flare
 >American astronauts who trained for the 1995–1997 Mir visits, and later as part of the Soyuz spacecraft crews for the International Space Station, encountered a unique feature that cosmonauts need to master: target practice. They have to know how to load, aim, and fire the special survival gun that has been on board all Soyuz spacecraft throughout their 30-year history.
 
 <div class="inline-image">
-<a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/790/large/TP-82.jpg?1384827431">
-<img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/790/medium/TP-82.jpg?1384827431" width="640" alt="cosmonaut kit" />
+<a rel="lightbox" href="/images/blog/2013/11/TP-82-large.jpg">
+<img src="/images/blog/2013/11/TP-82-medium.jpg" width="640" alt="cosmonaut kit" />
 </a>
 <p class="caption">The Soviet TP-82, a combination gun and machete created specifically for the space program.
 <span class="credit">Wikimedia Commons</span>
@@ -84,8 +84,8 @@ By 2007, ammunition for this exceptionally rare firearm had become impossible to
 Special Russian space program bonus: just for the hell of it, here are the three coolest-looking cosmonauts I found while researching this post.
 
 <div class="inline-image">
-<a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/792/large/manarov_musa.jpg?1384834363">
-<img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/792/medium/manarov_musa.jpg?1384834363" width="640" alt="cosmonaut" />
+<a rel="lightbox" href="/images/blog/2013/11/manarov_musa-large.jpg">
+<img src="/images/blog/2013/11/manarov_musa-medium.jpg" width="640" alt="cosmonaut" />
 </a>
 <p class="caption">Manarov Musa, Azerbaijani flight engineer. Walked in space for 120 hours. Awarded "Hero of the Soviet Union Medal." Father of two children.
 <span class="credit">Wikimedia Commons</span>
@@ -93,8 +93,8 @@ Special Russian space program bonus: just for the hell of it, here are the three
 </div>
 
 <div class="inline-image">
-<a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/793/large/RIAN_archive_612748_Valentina_Tereshkova.jpg?1384834383">
-<img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/793/medium/RIAN_archive_612748_Valentina_Tereshkova.jpg?1384834383" 
+<a rel="lightbox" href="/images/blog/2013/11/RIAN_archive_612748_Valentina_Tereshkova-large.jpg">
+<img src="/images/blog/2013/11/RIAN_archive_612748_Valentina_Tereshkova-medium.jpg" 
 width="640" alt="cosmonaut" />
 </a>
 <p class="caption"> As the pilot of Vostok 6 in 1963, Valentina Tereshkova holds the distinction of being the first woman to enter space. Today she remains a Russian national hero. Earlier this year she volunteered for a one-way trip to Mars.
@@ -103,8 +103,8 @@ width="640" alt="cosmonaut" />
 </div>
 
 <div class="inline-image">
-<a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/794/large/kovalyonok_vladimir.jpg?1384834394">
-<img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/794/medium/kovalyonok_vladimir.jpg?1384834394" width="640" alt="cosmonaut" />
+<a rel="lightbox" href="/images/blog/2013/11/kovalyonok_vladimir-large.jpg">
+<img src="/images/blog/2013/11/kovalyonok_vladimir-medium.jpg" width="640" alt="cosmonaut" />
 </a>
 <p class="caption"> Vladimir Kovalyonok commanded three space missions, and looked like a cooler version of Tommy Lee Jones.
 <span class="credit">Wikimedia Commons</span>
@@ -114,8 +114,8 @@ width="640" alt="cosmonaut" />
 And a final note: it turns out that a lot of this stuff is actually up for auction these days, a testament to the dire financial straits of the Russian space program. That machete attachment for the TP-82, for instance, is about to be snapped up by a buyer for the [bargain price of $240](http://www.rrauction.com/bidtracker_detail.cfm?IN=105), and these cosmonaut leisure suits are even less at $200:
 
 <div class="inline-image">
-<a rel="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/795/large/3306477_1.jpg?1384899221">
-<img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/795/medium/3306477_1.jpg?1384899221" width="640" alt="cosmonaut" />
+<a rel="/images/blog/2013/11/3306477_1-large.jpg">
+<img src="/images/blog/2013/11/3306477_1-medium.jpg" width="640" alt="cosmonaut" />
 </a>
 <p class="caption"> 
 <span class="credit">RR Auction</span>

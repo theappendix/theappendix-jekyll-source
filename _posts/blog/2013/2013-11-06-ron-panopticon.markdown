@@ -22,8 +22,8 @@ But why did the residents of sleepy Lowville, New York, way upstate in the weste
 Yet somehow the idea made its way there, no mistaking it. Lowville village, still two decades away from incorporation, had no bank or fire company, but it did have an academy, and under the leadership of Principal Stephen W. Taylor, the school had grown enough by 1824 to need a larger building. Taylor’s plan “consisted in placing the pupils in small separate apartments, open on one side, so that every one, both in the main floor and in the gallery was under the eye of the teacher at his stand, while no one could see any other of the students.” In short, a Panopticon. 
 
 <div class="inline-image">
-<a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/784/large/Presidio-modelo2.JPG?1383756249">
-<img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/784/medium/Presidio-modelo2.JPG?1383756249" width="640" alt="Ron" />
+<a rel="lightbox" href="/images/blog/2013/11/Presidio-modelo2-large.jpg">
+<img src="/images/blog/2013/11/Presidio-modelo2-medium.jpg" width="640" alt="Ron" />
 </a>
 <p class="caption">The Presidio Modelo, Isla De la Juventud, Cuba, modelled on Bentham's panopticon.
 <span class="credit">Wikimedia Commons</span>
@@ -35,8 +35,8 @@ Taylor—once described as the possessor of “a huge mass of brains”—though
 The school’s architect, Philip Hooker, may have known better, though. A decade or so earlier he had designed the Albany jail so that a single guard could survey all of its cells simply by swiveling in place. “The octagonal saloon,” he explained, “has a communication with each room in each story.” It seems odd that this “profoundly conservative architect” would draw up something as manifestly visionary as a Panopticon. At just this time Bentham himself was struggling to convince British politicians of the plan’s workability. But actually, Hooker’s conservatism seems to have consisted mostly of neo-classicism, which comports just fine with Bentham’s supreme rationality, though there is no evidence that he actually knew who Bentham was. In any case, he had no trouble collaborating with Taylor’s “singularly mathematical and methodical mind.” 
 
 <div class="inline-image">
-<a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/781/large/Albany_Boys%E2%80%99_Academy_(1).jpg?1383754930">
-<img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/781/medium/Albany_Boys%E2%80%99_Academy_(1).jpg?1383754930" width="640" alt="Ron" />
+<a rel="lightbox" href="/images/blog/2013/11/Albany_Boys’_Academy_(1)-large.jpg">
+<img src="/images/blog/2013/11/Albany_Boys’_Academy_(1)-medium.jpg" width="640" alt="Ron" />
 </a>
 <p class="caption">Albany Boys’ Academy, designed by Philip Hooker in 1815 in conventional style, shown circa 1907.
 <span class="credit">Wikimedia Commons</span>
@@ -46,8 +46,8 @@ The school’s architect, Philip Hooker, may have known better, though. A decade
 Hooker and Taylor redesigned Lowville Academy as a twelve-sided, two-story brick structure. The main floor, twenty-three feet high and seventy feet in diameter, must have been an immense open space of something like 3,000 square feet. The floor plan shows “a series of ‘stalls’ or partitions” along the exterior wall and interior benches arranged in a semi-circle for class recitations. Near the center is the principal’s “high seat or throne overlooking the whole situation.” The attic story served as a girls’ department. The overlay of dotted lines indicates the original plan for student bedrooms, but in fact it was “constructed upon the solitary-cell principle . . . it being apparently thought that the young ladies needed watching while at their studies, as much as the young men.” 
 
 <div class="inline-image">
-<a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/782/large/Lowville_Panopticon_blueprint_(1).jpg?1383755078">
-<img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/782/medium/Lowville_Panopticon_blueprint_(1).jpg?1383755078" width="640" alt="Ron"/>
+<a rel="lightbox" href="/images/blog/2013/11/Lowville_Panopticon_blueprint_(1)-large.jpg">
+<img src="/images/blog/2013/11/Lowville_Panopticon_blueprint_(1)-medium.jpg" width="640" alt="Ron"/>
 </a>
 <p class="caption">
 <span class="credit"></span>
@@ -61,8 +61,8 @@ Besides student mutiny, the Lowville Panopticon suffered from the mundane proble
 At last the whole structure became unsafe. It was taken down in 1836. Years before that, Taylor had resigned in humiliation.
 
 <div class="inline-image">
-<a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/783/large/Lowvilles_Academy_circa_1859_(1).jpg?1383755572">
-<img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/783/medium/Lowvilles_Academy_circa_1859_(1).jpg?1383755572" width="640" alt="Ron"/>
+<a rel="lightbox" href="/images/blog/2013/11/Lowvilles_Academy_circa_1859_(1)-large.jpg">
+<img src="/images/blog/2013/11/Lowvilles_Academy_circa_1859_(1)-medium.jpg" width="640" alt="Ron"/>
 </a>
 <p class="caption">Lowville Academy, circa 1859, after Taylor’s Panopticon had been demolished
 <span class="credit">Hough, <em>History of Lewis County</em></span>
