@@ -23,8 +23,8 @@ In 1846, however, Jenny and Louisa were sold or sent to Houston Country, Georgia
 Jackson managed to trade some chickens for a pony that a neighboring slave had somehow obtained. He hid the pony deep in the woods. On Christmas day, he took advantage of the customary three-day holiday and fled on horseback for Charleston. He had often been to Charleston to drive his master’s cattle to market and knew the route well. Unlike many fugitives forced to brave unknown terrain, Jackson’s flight to Charleston was through familiar turf.
 
 <div class="inline-image alternate-voice">
-<a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/569/large/hepworth6.jpg">
-<img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/569/medium/hepworth6.jpg" width="640" alt="Jackson's Route" />
+<a rel="lightbox" href="/images/blog/2013/08/hepworth6-large.jpg">
+<img src="/images/blog/2013/08/hepworth6-medium.jpg" width="640" alt="Jackson's Route" />
 </a>
 <p class="caption">
 <span class="credit">Map of Charleston, 1846</span>
@@ -36,8 +36,8 @@ It was still dangerous, however, and while he had not worked out the details of 
 Fugitives from slavery each had their own horrible story to tell and their own circumstances that led them to seek freedom though “self-theft,” to use the parlance of runaway advertisements in newspapers of the time. But there are some general patterns within the flights of men and women enslaved in the inland South.
 
 <div class="inline-image">
-<a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/572/large/hepworth8.jpg">
-<img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/572/medium/hepworth8.jpg" width="640" alt="Jackson's Memoir" />
+<a rel="lightbox" href="/images/blog/2013/08/hepworth8-large.jpg">
+<img src="/images/blog/2013/08/hepworth8-medium.jpg" width="640" alt="Jackson's Memoir" />
 </a>
 <p class="caption">
 The title page and an illustration from Jackson’s memoir, <em>The Experience of a Slave in South Carolina</em> (London, 1862).

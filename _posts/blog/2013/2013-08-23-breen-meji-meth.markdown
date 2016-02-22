@@ -25,7 +25,7 @@ The invention of *Breaking Bad*’s blue meth has become the stuff of television
 Chemists have been fascinated by recreational drugs for a very long time. Robert Hooke, the short-tempered genius who discovered cells, was also the author of the first academic paper on cannabis. In the fall of 1689, Hooke ducked into a London coffee shop to purchase the drug from an East Indies merchant, and proceeded to test it on an unnamed “Patient.” It was evidently a large dose. “The Patient understands not, nor remembereth any Thing that he seeth, heareth, or doth,” [Hooke reported](http://books.google.com/books?id=ZWhYAAAAYAAJ&lpg=PA210&ots=1dD0wDeyiy&dq=%22The Patient understands not%2C nor remembereth%22&pg=PA210#v=onepage&q=%22The%20Patient%20understands%20not,%20nor%20remembereth%22&f=false). “Yet he is very merry, and laughs, and sings… and sheweth many odd Tricks.” Hooke observed that the drug eased stomach pains, provoked hunger, and could potentially “prove useful in the Treatment of Lunaticks.” 
 
 <div class="inline-image">
-    <a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/561/large/drugs1.jpg?1376620197"><img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/561/medium/drugs1.jpg?1376620197" width="640" alt="cannabis" /></a>
+    <a rel="lightbox" href="/images/blog/2013/08/drugs1-large.jpg"><img src="/images/blog/2013/08/drugs1-medium.jpg" width="640" alt="cannabis" /></a>
     <p class="caption">An early depiction of cannabis from Jean Vigier’s <em>Historia das Plantas</em> (1718), originally published in French in 1670. 
         <span class="credit">The John Carter Brown Library at Brown University
 </span>
@@ -39,7 +39,7 @@ Historians have largely ignored Hooke’s adventures with cannabis, entertaining
 Even LSD, however, has a more obscure prehistory. Roman physicians described a painful disease called the sacred fire (*sacer ignis*) which by the Middle Ages came to be known as [St. Anthony’s Fire](http://www.laphamsquarterly.org/roundtable/roundtable/the-botanical-origins-of-a-medieval-madness.php)—“an ulcerous Eruption, reddish, or mix’d of pale and red,” as one 1714 text put it. Sufferers of this gruesome illness, which could also cause hallucinations, were actually being poisoned by ergot, a fungus that grows on wheat. Several authors, most recently Oliver Sacks in his excellent book *Hallucinations*, have noted a potential link between ergot poisoning and cases of dancing mania and other forms of mass hysteria in premodern Europe.
 
 <div class="inline-image">
-    <a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/562/large/drugs2.jpg?1376620247"><img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/562/medium/drugs2.jpg?1376620247" width="640" alt="ergotism" /></a>
+    <a rel="lightbox" href="/images/blog/2013/08/drugs2-large.jpg"><img src="/images/blog/2013/08/drugs2-medium.jpg" width="640" alt="ergotism" /></a>
     <p class="caption">“The Beggars” by Pieter Bruegel the Elder, a painting believed to show victims of ergotism.
         <span class="credit">Wikimedia Commons
 </span>
@@ -64,7 +64,7 @@ One of the interesting aspects of Hoffman’s story is how detached it was, both
 This delay between the scientific identification and the popular adoption of a drug is a common story—and in no case is it more stark than in the gap between the discovery of meth and its widespread adoption as an illicit street drug. Methamphetamine was synthesized by a middle-aged, respectable Japanese chemist named Nagai Nagayoshi in 1893. 
 
 <div class="inline-image">
-    <a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/563/large/drugs3.jpg?1376620268"><img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/563/medium/drugs3.jpg?1376620268" width="640" alt="ergotism" /></a>
+    <a rel="lightbox" href="/images/blog/2013/08/drugs3-large.jpg"><img src="/images/blog/2013/08/drugs3-medium.jpg" width="640" alt="ergotism" /></a>
     <p class="caption">An elder statesman of Japanese science and medicine, Nagayoshi Nagai and his wife hosted Albert Einstein in 1923.
         <span class="credit">Wikimedia Commons
 </span>
@@ -82,7 +82,7 @@ As with LSD, it took the world a couple decades to catch on. In 1919, a younger 
 It wasn't until World War II, however, that meth became widespread as a handy tool for keeping tank and bomber crews awake. By 1942, Adolf Hitler was receiving regular IV injections of meth from his physician, Theodor Morell. Two years later the American pharmaceutical company Abbott Laboratories won FDA approval for meth as a prescription treatment for a host of ills ranging from alcoholism to weight gain.
 
 <div class="inline-image">
-    <a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/564/large/drugs4.jpg?1376624586"><img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/564/medium/drugs4.jpg?1376624586" width="640" alt="ergotism" /></a>
+    <a rel="lightbox" href="/images/blog/2013/08/drugs4-large.jpg"><img src="/images/blog/2013/08/drugs4-medium.jpg" width="640" alt="ergotism" /></a>
     <p class="caption">Ambar: a potent mixture of methamphetamine and phenorbarbital, shown here in a mean-spirited 1964 advertisement that appeared in the Journal of the American Medical Association (Vol. 1, No. 5385).         
 <span class="credit">
 </span>

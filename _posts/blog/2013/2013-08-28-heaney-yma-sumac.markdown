@@ -17,7 +17,7 @@ But the haters are wrong.
 Mostly. 
 
 <div class="inline-image">
-    <a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/651/large/yma_sumac_12.jpg?1377628644"><img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/651/medium/yma_sumac_12.jpg?1377628644" /></a>
+    <a rel="lightbox" href="/images/blog/2013/08/yma_sumac_12-large.jpg"><img src="/images/blog/2013/08/yma_sumac_12-medium.jpg" /></a>
     <p class="caption">Yma Sumac ... or Amy Camus?
         <span class="credit">
 </span>
