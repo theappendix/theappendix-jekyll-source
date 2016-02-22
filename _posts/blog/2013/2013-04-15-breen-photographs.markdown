@@ -35,70 +35,70 @@ Photographs are passports.
 
 
 <div class="inline-image"> 
-    <a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/345/large/blog2.jpg?1365802183"><img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/345/medium/blog2.jpg?1365802183" width="640" alt="family photo" /></a>
+    <a rel="lightbox" href="/images/blog/2013/04/blog2-large.jpg"><img src="/images/blog/2013/04/blog2-medium.jpg" width="640" alt="family photo" /></a>
     <p class="caption"> The shingles of my grandmother's house juxtaposed with a photo of it from the 1950s, when it belonged to her mother-in-law, visible in the photo.
         <span class="credit">Benjamin Breen, 2012. </span> 
     </p>
 </div>
 
 <div class="inline-image"> 
-    <a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/354/large/blog5.jpg?1366003923"><img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/354/medium/blog5.jpg?1366003923" width="640" alt="family photo" /></a>
+    <a rel="lightbox" href="/images/blog/2013/04/blog5-large.jpg"><img src="/images/blog/2013/04/blog5-medium.jpg" width="640" alt="family photo" /></a>
     <p class="caption"> This was the only photo I found which had a reliable date: September, 1957.
         <span class="credit">Benjamin Breen, 2012. </span> 
     </p>
 </div>
 
 <div class="inline-image"> 
-    <a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/346/large/blog8.jpg?1365802307"><img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/346/medium/blog8.jpg?1365802307" width="640" alt="family photo" /></a>
+    <a rel="lightbox" href="/images/blog/2013/04/blog8-large.jpg"><img src="/images/blog/2013/04/blog8-medium.jpg" width="640" alt="family photo" /></a>
     <p class="caption"> My grandmother on her way to Mass. The stop sign and boulder offer points of reference bridging the two scenes across time.
         <span class="credit">Benjamin Breen, 2012. </span> 
     </p>
 </div>
 
 <div class="inline-image"> 
-    <a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/348/large/blog6.jpg?1365802435"><img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/348/medium/blog6.jpg?1365802435" width="640" alt="family photo" /></a>
+    <a rel="lightbox" href="/images/blog/2013/04/blog6-large.jpg"><img src="/images/blog/2013/04/blog6-medium.jpg" width="640" alt="family photo" /></a>
     <p class="caption"> The same porch in 2012 and 1990.
         <span class="credit">Benjamin Breen, 2012. </span> 
     </p>
 </div>
 
 <div class="inline-image"> 
-    <a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/347/large/blog9.jpg?1365802368"><img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/347/medium/blog9.jpg?1365802368" width="640" alt="family photo" /></a>
+    <a rel="lightbox" href="/images/blog/2013/04/blog9-large.jpg"><img src="/images/blog/2013/04/blog9-medium.jpg" width="640" alt="family photo" /></a>
     <p class="caption"> My older cousins circa 1982.
         <span class="credit">Benjamin Breen, 2012. </span> 
     </p>
 </div>
 
 <div class="inline-image"> 
-    <a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/349/large/blog10.jpg?1365802474"><img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/349/medium/blog10.jpg?1365802474" width="640" alt="family photo" /></a>
+    <a rel="lightbox" href="/images/blog/2013/04/blog10-large.jpg"><img src="/images/blog/2013/04/blog10-medium.jpg" width="640" alt="family photo" /></a>
     <p class="caption"> A new boat in the 1960s.
         <span class="credit">Benjamin Breen, 2012. </span> 
     </p>
 </div>
 
 <div class="inline-image"> 
-    <a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/350/large/blog4.jpg?1365802808"><img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/350/medium/blog4.jpg?1365802808" width="640" alt="family photo" /></a>
+    <a rel="lightbox" href="/images/blog/2013/04/blog4-large.jpg"><img src="/images/blog/2013/04/blog4-medium.jpg" width="640" alt="family photo" /></a>
     <p class="caption"> A 1940s family photo, with a note on the back: "Get a load of the gams. Boy now I know I'm skinny."
         <span class="credit">Benjamin Breen, 2012. </span> 
     </p>
 </div>
 
 <div class="inline-image"> 
-    <a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/351/large/blog7.jpg?1365802881"><img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/351/medium/blog7.jpg?1365802881" width="640" alt="family photo" /></a>
+    <a rel="lightbox" href="/images/blog/2013/04/blog7-large.jpg"><img src="/images/blog/2013/04/blog7-medium.jpg" width="640" alt="family photo" /></a>
     <p class="caption"> 
         <span class="credit">Benjamin Breen, 2012. </span> 
     </p>
 </div>
 
 <div class="inline-image"> 
-    <a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/356/large/blog13.jpg?1366004247"><img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/356/medium/blog13.jpg?1366004247" width="640" alt="family photo" /></a>
+    <a rel="lightbox" href="/images/blog/2013/04/blog13-large.jpg"><img src="/images/blog/2013/04/blog13-medium.jpg" width="640" alt="family photo" /></a>
     <p class="caption"> I couldn't identify the people in this photo, but another from the same series shows my grandfather, evidently fresh out of the Navy. The post-World War 2 feeling here reminds me a bit of the recent P.T. Anderson film <em>The Master.</em> Note the crumpled beer cans piled in the sand behind them. 
         <span class="credit">Benjamin Breen, 2012. </span> 
     </p>
 </div>
 
 <div class="inline-image"> 
-    <a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/353/large/blog12.jpg?1365802964"><img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/353/medium/blog12.jpg?1365802964" width="640" alt="family photo" /></a>
+    <a rel="lightbox" href="/images/blog/2013/04/blog12-large.jpg"><img src="/images/blog/2013/04/blog12-medium.jpg" width="640" alt="family photo" /></a>
     <p class="caption"> This photo, unlike the others, is a mystery. I wasn't able to locate where it was taken, by whom, or why. It could conceivably be a relic of my grandfather's time in Japan immediately after WW2. 
         <span class="credit">Benjamin Breen, 2012. </span> 
     </p>
