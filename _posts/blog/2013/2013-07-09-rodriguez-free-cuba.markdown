@@ -14,7 +14,7 @@ The squares sit neatly in two rows. Cursive lettering labels them *barracones,* 
 Conditions in the barracks, of course, could not have been less desirable. In the 1810s, a visiting doctor named J.L.F de Madrid witnessed “a number of dying blacks naked and spread out on wooden planks, many of them reduced to skin and bones, and inhaling an intolerable stench.” 
 
 <div class="inline-image">
-    <a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/527/large/rodriguez1.jpg?1373379076"><img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/527/medium/rodriguez1.jpg?1373379076" width="640" alt="slave quarters in cuba" /></a>
+    <a rel="lightbox" href="/images/blog/2013/07/rodriguez1-large.jpg"><img src="/images/blog/2013/07/rodriguez1-medium.jpg" width="640" alt="slave quarters in cuba" /></a>
     <p class="caption">
  
         <span class="credit">José del Rio, “Du Port et De la Ville de la Havanne,” 1798.
@@ -27,7 +27,7 @@ In 1791, slaves and free people of color led major revolts in neighboring Saint 
 I study colonial Cuban art history during a time when the slave trade accelerated, particularly after the collapse of sugar production in Saint Domingue. Researching the history of art during this period necessarily means confronting the emergence of a slave society in Havana. I write about artists who were free men of color, and I think about how being an artist compared with other limited options of profession.  Did being an artist offer a radically different means of self-identification?  
 
 <div class="inline-image">
-    <a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/530/large/rodriguez0.jpg?1373379919"><img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/530/medium/rodriguez0.jpg?1373379919" width="640" alt="slave quarters in cuba" /></a>
+    <a rel="lightbox" href="/images/blog/2013/07/rodriguez0-large.jpg"><img src="/images/blog/2013/07/rodriguez0-medium.jpg" width="640" alt="slave quarters in cuba" /></a>
     <p class="caption">
  
         <span class="credit">Detail of slave barracks from “Plano de la Plaza de la Habana con sus fuertes adyacentes,” Author unknown, 1783
@@ -44,7 +44,7 @@ Reading the advertisements reveals the world of enslaved people in Havana. The a
 In particular, the ads allow us to piece together the urban geography of slavery. They indicate movement in physical and legal terms. For instance, advertisements often speculate on the current location and activity of the person in question. One reads, “it is assumed [he] is in Guanabacoa in the business of rented volantes or perhaps in Matanzas, where he lived for a long time in the house of his last owner, Doña Manuela Bermúdez.” The ads link these physical locations to employment, indicating business networks amongst free people of color and the enslaved.
 
 <div class="inline-image">
-    <a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/529/large/rodriguez3.jpg?1373379565"><img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/529/medium/rodriguez3.jpg?1373379565" width="640" alt="slaves in cuba" /></a>
+    <a rel="lightbox" href="/images/blog/2013/07/rodriguez3-large.jpg"><img src="/images/blog/2013/07/rodriguez3-medium.jpg" width="640" alt="slaves in cuba" /></a>
     <p class="caption">
  Slaves unloading ice in Havana circa 1832.
         <span class="credit">Samuel Goodrich, *A pictorial geography of the world* (Boston, 1832).
@@ -69,7 +69,7 @@ If the ads permit the tracking of physical and legal movements by escaped indivi
 >A black woman named María Luisa escaped from the house of her owner on February 21, about 32 years old, tall, thin, with filed teeth in the Carabalí fashion, she speaks French and Spanish, it is known that she usually carries a fake license: we ask that the person who knows her whereabouts bring her to Empredrado Street, no. 8, with the warning that the person who protects her will face charges.
 
 <div class="inline-image">
-    <a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/528/large/rodriguez2.jpg?1373379543"><img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/528/medium/rodriguez2.jpg?1373379543" width="640" alt="slave ad in cuba" /></a>
+    <a rel="lightbox" href="/images/blog/2013/07/rodriguez2-large.jpg"><img src="/images/blog/2013/07/rodriguez2-medium.jpg" width="640" alt="slave ad in cuba" /></a>
     <p class="caption">
  
         <span class="credit">A runaway slave advertisement in <em>Diario de la Habana</em>, April 13, 1829.

@@ -17,7 +17,7 @@ links:
 Last month, I came across a [recently digitized book](http://books.google.com/books?id=_9dNAAAAcAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false) from 1680 with the innocuous-sounding title *The School of Venus*. After browsing it for a few moments, however, I realized I'd stumbled onto something truly interesting. It was a sex manual, and a rather free-spirited one at that, as the frontispiece engraving suggests:
 
 <div class="inline-image">
-    <a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/518/large/venus2.jpg?1372111028"><img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/518/large/venus2.jpg?1372111028" width="640" alt="school of venus" /></a>
+    <a rel="lightbox" href="/images/blog/2013/07/venus2-large.jpg"><img src="/images/blog/2013/07/venus2-medium.jpg" width="640" alt="school of venus" /></a>
     <p class="caption">
  
         <span class="credit">
@@ -30,7 +30,7 @@ It occurred to me that this was the sort of thing that would appeal to people ou
 “If this has the reach I think it might,” he said, “you need to explain that.” I initially thought the suggestion was slightly condescending to my readers: doesn't everyone know about the old-timey S? Its right there in the [first line of the Bill of Rights](http://commons.wikimedia.org/wiki/File:Long-s-US-Bill-of-Rights.jpg), after all.
 
 <div class="inline-image">
-    <a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/517/large/Venus2.jpeg?1372111009"><img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/517/medium/Venus2.jpeg?1372111009" width="640" alt="school of venus" /></a>
+    <a rel="lightbox" href="/images/blog/2013/07/Venus2a-large.jpg"><img src="/images/blog/2013/07/Venus2a-medium.jpg" width="640" alt="school of venus" /></a>
     <p class="caption"> A sample page from <em>The School of Venus</em> (London, 1680), showing the characteristic long S (ſ) of early modern English.
         <span class="credit">
 </span>
@@ -44,7 +44,7 @@ So I write today to give an accessible overview of how to read books and manuscr
 So far so good. Things get trickier, however, when we try to read the earliest books printed in English, which typically featured variants of the German blackletter font. Here's a two page spread from one of the earliest English medical texts, Thomas Elyot's [*The Castell of Helth*](http://babel.hathitrust.org/cgi/pt?id=uc2.ark:/13960/t4gm84w94;view=1up;seq=9) (1536):
 
 <div class="inline-image">
-    <a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/550/large/paleography2castel.jpg?1375293839"><img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/550/medium/paleography2castel.jpg?1375293839" width="640" alt="castle of health" /></a>
+    <a rel="lightbox" href="/images/blog/2013/07/paleography2castel-large.jpg"><img src="/images/blog/2013/07/paleography2castel-medium.jpg" width="640" alt="castle of health" /></a>
     <p class="caption"> Thomas Elyot's <em> The Castell of Helth</em>, published in 1536, displaying its characteristic blackletter font.
         <span class="credit">
 </span>
@@ -62,7 +62,7 @@ The top of the second page is intended to help with diagnosing sexual trouble, a
 And so forth. I remember being a bit taken aback the first few times I tried to read books in this font, but it ends up registering in the brain as just that: a different font, but the same alphabet. Reading early modern manuscripts (the practice of which is called 'paleography') can be a different matter, however. To start us off easy, here's a lovely script from the late 17th century written by a clerk or secretary at the Royal Society of London:
 
 <div class="inline-image">
-    <a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/551/medium/paleography3.jpg?1375294016"><img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/551/medium/paleography3.jpg?1375294016" width="640" alt="school of venus" /></a>
+    <a rel="lightbox" href="/images/blog/2013/07/paleography3-large.jpg"><img src="/images/blog/2013/07/paleography3-medium.jpg" width="640" alt="school of venus" /></a>
     <p class="caption"> The minutes of a 1704 record book from the Royal Society, detailing an early experiment with a vacuum: "Mr Hawksbee shewed the following Experiment, viz: Placing two small Birds in two Glasses, & exhausting the Air from one, & injecting it into the other, that Bird which was plac'd in the Glass from which the Air was withdrawn, died in about 30 seconds of time, after his beginning to take away the Air. The other Bird which remain'd in the Glass, whereinto, by the same Operation, the Air was convey'd, was affected with Convulsions, but not unto Death." 
         <span class="credit"> The Royal Society of London, photograph by the author
 </span>
@@ -74,7 +74,7 @@ The script and language here is not all that different from modern English. The 
 Moving backwards in time to milieu of the great poet John Donne in the 1610s and '20s, we find things a little more unfamiliar. (Note that the original version of this post assumed that this text was actually written by Donne; two Donne specialists have informed me that this is quite unlikely, and that it is most likely a copy by a different hand).
 
 <div class="inline-image">
-    <a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/552/large/paleography4donne.jpg?1375294038"><img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/552/medium/paleography4donne.jpg?1375294038" width="640" alt="school of venus" /></a>
+    <a rel="lightbox" href="/images/blog/2013/07/paleography4donne-large.jpg"><img src="/images/blog/2013/07/paleography4donne-medium.jpg" width="640" alt="school of venus" /></a>
     <p class="caption"> An early copy of his poem "The Triple Fool": "I am two fooles, I knowe / For loving & for saying soe / in whyning Poetry;/ But where's yt wise man yt would not be I / If shee would not deny?"
         <span class="credit"> The Huntington Library, photograph by the author
 </span>
@@ -86,7 +86,7 @@ The 'E's here are typical of Donne's era in that they resembled reversed '3's, a
 Now lets move on to some truly difficult paleography. This is a photograph I took of a book at the John Carter Brown Library called *The Sea Surgeon, or the Guinea-Mans Vade Mecum* (1729). The inside flaps of this copy of the book feature some fascinating notes by an actual practicing marine surgeon who was trying out various cures for scurvy, plague and fevers found in the book. He used a handwriting that was marked by his profession, featuring a number of abbreviations that it took me some time to puzzle out. I'd say this is fairly advanced-level paleography - although I should add that compared to my colleagues who work on things like sixteenth-century French bankruptcy cases or Scottish witchcraft trials, reading this is absolute child's play. 
 
 <div class="inline-image">
-    <a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/553/large/paleography5.jpg?1375294058"><img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/553/medium/paleography5.jpg?1375294058" width="640" alt="sea surgeon" /></a>
+    <a rel="lightbox" href="/images/blog/2013/07/paleography5-large.jpg"><img src="/images/blog/2013/07/paleography5-medium.jpg" width="640" alt="sea surgeon" /></a>
     <p class="caption"> The inside pages of John Aubrey's <em> The Sea Surgeon</em> (1729).
         <span class="credit"> The John Carter Brown Library at Brown University, photograph by the author
 </span>
@@ -98,7 +98,7 @@ At upper left, we find the heading "Rubarb given wt. ye Bark," which is to say "
 Of the ingredients of this witches brew, the most familiar to modern readers is probably wormwood, the [possibly intoxicating](http://www.erowid.org/plants/wormwood/wormwood_article1.shtml) herb which makes absinthe so infamous. There's a good amount of shorthand being used here, of the sort that a doctor or apothecary would use in jotting notes to others in the field. But in fact this is a fairly easy to read example of how early modern apothecaries wrote - I've seen much, much worse, and there are countless pages of documents which even after five years of training, I'm still unable to read. With practice and patience, though, virtually [anything is readable](http://news.nationalgeographic.com/news/2005/04/0425_050425_papyrus.html). 
 
 <div class="inline-image">
-    <a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/554/large/paleography6.jpg?1375294113"><img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/554/medium/paleography6.jpg?1375294113" width="640" alt="lobo" /></a>
+    <a rel="lightbox" href="/images/blog/2013/07/paleography6-large.jpg"><img src="/images/blog/2013/07/paleography6-medium.jpg" width="640" alt="lobo" /></a>
     <p class="caption"> A late-seventeenth-century Portuguese report on coconut trees adapted from the writings of Jéronimo Lobo.
         <span class="credit"> The Royal Society of London, photograph by the author
 </span>
