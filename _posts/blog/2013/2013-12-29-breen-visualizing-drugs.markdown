@@ -14,8 +14,8 @@ As an historian of the early modern drug trade, I struggle to recreate the subje
 I often turn to visual sources for ways of conveying the effects of drugs and tracing how they were used, like these paintings of seventeenth-century Dutch holiday feasters drinking gin (at the time a newly invented "medicine") and smoking tobacco. 
 
 <div class="inline-image">
-<a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/006/large/The_way_you_hear_it.jpg">
-<img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/006/medium/The_way_you_hear_it.jpg" width="640" alt="drugs" />
+<a rel="lightbox" href="/images/blog/2013/12/The_way_you_hear_it-large.jpg">
+<img src="/images/blog/2013/12/The_way_you_hear_it-medium.jpg" width="640" alt="drugs" />
 </a>
 <p class="caption"> Jan Steen, "The way you hear it, is the way you sing it," ca. 1665 Oil on canvas, The Hague. The gin is on the windowsill at left.
 <span class="credit">Wikimedia Commons</span>
@@ -31,8 +31,8 @@ and revealed unique internal universes. Schönfeld explores the possibilities of
 The results are impressive as abstract compositions, but I also love how they offer a novel way of visualizing a poorly-understood corner of our contemporary world. Below are some favorites, and here's [the complete collection](http://www.sarahschoenfeld.de/en/works/all-you-can-feel-2/).
 
 <div class="inline-image">
-<a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/000/large/Ketamine.png">
-<img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/000/medium/Ketamine.png" width="640" alt="drugs" />
+<a rel="lightbox" href="/images/blog/2013/12/Ketamine-large.png">
+<img src="/images/blog/2013/12/Ketamine-medium.png" width="640" alt="drugs" />
 </a>
 <p class="caption"> Ketamine.
 <span class="credit">Sarah Schönfeld</span>
@@ -40,8 +40,8 @@ The results are impressive as abstract compositions, but I also love how they of
 </div>
 
 <div class="inline-image">
-<a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/001/large/LSD.png">
-<img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/001/medium/LSD.png" width="640" alt="Radio Freedom" />
+<a rel="lightbox" href="/images/blog/2013/12/LSD-large.png">
+<img src="/images/blog/2013/12/LSD-medium.png" width="640" alt="Radio Freedom" />
 </a>
 <p class="caption"> LSD.
 <span class="credit">Sarah Schönfeld</span>
@@ -49,8 +49,8 @@ The results are impressive as abstract compositions, but I also love how they of
 </div>
 
 <div class="inline-image">
-<a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/002/large/Cocaine.png">
-<img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/002/medium/Cocaine.png" width="640" alt="Radio Freedom" />
+<a rel="lightbox" href="/images/blog/2013/12/Cocaine-large.png">
+<img src="/images/blog/2013/12/Cocaine-medium.png" width="640" alt="Radio Freedom" />
 </a>
 <p class="caption"> Cocaine.
 <span class="credit">Sarah Schönfeld</span>
@@ -58,8 +58,8 @@ The results are impressive as abstract compositions, but I also love how they of
 </div>
 
 <div class="inline-image">
-<a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/007/large/Opium.png">
-<img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/007/medium/Opium.png" width="640" alt="Radio Freedom" />
+<a rel="lightbox" href="/images/blog/2013/12/Opium-large.png">
+<img src="/images/blog/2013/12/Opium-medium.png" width="640" alt="Radio Freedom" />
 </a>
 <p class="caption"> Opium.
 <span class="credit">Sarah Schönfeld</span>
@@ -67,8 +67,8 @@ The results are impressive as abstract compositions, but I also love how they of
 </div>
 
 <div class="inline-image">
-<a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/003/large/Adrenaline.png">
-<img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/003/medium/Adrenaline.png" width="640" alt="Radio Freedom" />
+<a rel="lightbox" href="/images/blog/2013/12/Adrenaline-large.png">
+<img src="/images/blog/2013/12/Adrenaline-medium.png" width="640" alt="Radio Freedom" />
 </a>
 <p class="caption"> Adrenaline.
 <span class="credit">Sarah Schönfeld</span>
@@ -76,8 +76,8 @@ The results are impressive as abstract compositions, but I also love how they of
 </div>
 
 <div class="inline-image">
-<a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/004/large/MDMA.png">
-<img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/004/medium/MDMA.png" width="640" alt="Radio Freedom" />
+<a rel="lightbox" href="/images/blog/2013/12/MDMA-large.png">
+<img src="/images/blog/2013/12/MDMA-medium.png" width="640" alt="Radio Freedom" />
 </a>
 <p class="caption"> MDMA and the powerful opioid Fentanyl.
 <span class="credit">Sarah Schönfeld</span>
@@ -85,8 +85,8 @@ The results are impressive as abstract compositions, but I also love how they of
 </div>
 
 <div class="inline-image">
-<a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/005/large/MDMA.png">
-<img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/005/medium/MDMA.png" width="640" alt="Radio Freedom" />
+<a rel="lightbox" href="/images/blog/2013/12/MDMA-alone-large.png">
+<img src="/images/blog/2013/12/MDMA-alone-medium.png" width="640" alt="Radio Freedom" />
 </a>
 <p class="caption"> MDMA alone.
 <span class="credit">Sarah Schönfeld</span>

@@ -26,6 +26,6 @@ Best wishes from your Appendix co-founders,
 
 Ben, Brian, Chris, and Felipe
 
-<div class="inline-image"> <a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/970/large/800px-1914_Santa_Claus.jpg "> <img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/970/medium/800px-1914_Santa_Claus.jpg " width="640" alt="British Library" /> </a> <p class="caption">Japanese illustration featuring Santa, artist unknown, 1914 <span class="credit">Wikimedia Commons</span> </p> </div>
+<div class="inline-image"> <a rel="lightbox" href="/images/blog/2013/12/800px-1914_Santa_Claus-large.jpg"> <img src="/images/blog/2013/12/800px-1914_Santa_Claus-medium.jpg" width="640" alt="British Library" /> </a> <p class="caption">Japanese illustration featuring Santa, artist unknown, 1914 <span class="credit">Wikimedia Commons</span> </p> </div>
 
 P.S. The British Library recently gave the world its own digital Christmas present in the form of over 1,000,000 high quality images from 19th century books released into the public domain. We invite you to [read our post about it](http://theappendix.net/blog/2013/12/the-british-library-just-made-one-million-images-public-domain) and [browse their database](http://www.flickr.com/photos/britishlibrary/).

@@ -30,8 +30,8 @@ The station played many roles. It was a recruiting tool, helping fill the ANC’
 Guy Berger, a South African radical who did three years in prison for his political activity, [observed](http://www.rjr.ru.ac.za/rjrpdf/rjr_no4/the_ether.pdf) in an essay last year that the station linked exiled revolutionaries and activists inside the country at a time when communication was virtually impossible. What’s more, he added, Radio Freedom “could provide truth that was absent from most of the legal media in apartheid South Africa.”
 
 <div class="inline-image">
-<a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/997/medium/Radio_Freedom_2.JPG">
-<img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/997/medium/Radio_Freedom_2.JPG" width="640" alt="Radio Freedom" />
+<a rel="lightbox" href="/images/blog/2013/12/Radio_Freedom_2-large.jpg">
+<img src="/images/blog/2013/12/Radio_Freedom_2-medium.jpg" width="640" alt="Radio Freedom" />
 </a>
 <p class="caption"> 1985 AMR poster.
 <span class="credit">Antiapartheid Movement Radio</span>
@@ -45,8 +45,8 @@ Radio Freedom was born in 1963, during the first wave of mass resistance to apar
 By 1963, though, it was clear that the hoped-for uprising wasn’t coming anytime soon. Mandela had been captured, and the ANC’s ranks were riddled with spies. The first broadcast, then, was an act of defiance—and also, perhaps, a proof of life. In June 1963, the station’s first transmission went out from the armed wing’s hideout on a farm north of Johannesburg. “I speak to you from somewhere in South Africa,” Walter [Sisulu](http://www.anc.org.za/show.php?id=4604), a party leader and Mandela’s mentor, announced. “Never has the country, and our people, needed leadership as they do now, in this hour of crisis. Our house is on fire.”
 
 <div class="inline-image">
-<a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/998/large/Radio_Freedom_worker_G.Mqwebu_reports_on_a_Soweto_commemmoration_in_Lusaka__Zambia__1866._Credit-_International_Institute_of_Social_History.jpeg">
-<img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/998/medium/Radio_Freedom_worker_G.Mqwebu_reports_on_a_Soweto_commemmoration_in_Lusaka__Zambia__1866._Credit-_International_Institute_of_Social_History.jpeg" width="640" alt="Radio Freedom" />
+<a rel="lightbox" href="/images/blog/2013/12/Radio_Freedom_worker_G.Mqwebu_reports_on_a_Soweto_commemmoration_in_Lusaka__Zambia__1866._Credit-_International_Institute_of_Social_History-large.jpg">
+<img src="/images/blog/2013/12/Radio_Freedom_worker_G.Mqwebu_reports_on_a_Soweto_commemmoration_in_Lusaka__Zambia__1866._Credit-_International_Institute_of_Social_History-medium.jpg" width="640" alt="Radio Freedom" />
 </a>
 <p class="caption"> Radio Freedom worker G.Mqwebu reports on a Soweto commemmoration in Lusaka, Zambia, 1966. 
 <span class="credit">International Institute of Social History</span>
