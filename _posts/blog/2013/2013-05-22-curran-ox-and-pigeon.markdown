@@ -22,7 +22,7 @@ Katie and I visited Lucas in Lima and spent most of the trip eating and talking 
 With everyone back in our own hemispheres, we started meeting at least once a week on Skype. We’ve stuck with these weekly calls ever since (the next time I chat with Lucas in person, it will be hard to get used to his voice without the robotic whirs and buzzes of Peruvian internet speeds). We picked a name, settling on a duo of animals we’re fond of and who each have some vague metaphoric significance to the project in our minds. Registering the business at city hall and setting up a bank account for it was a process none of us had experience with, and getting that stuff sorted out, as simple as it turned out to be, was an early source of momentum and motivation.
 
 <div class="inline-image"> 
-    <a rel="lightbox" href=" http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/389/large/curran1.jpg?1369157256"><img src=" http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/389/medium/curran1.jpg?1369157256" width="640" alt="pasadena" /></a>
+    <a rel="lightbox" href="/images/blog/2013/05/curran1-large.jpg"><img src="/images/blog/2013/05/curran1-medium.jpg" width="640" alt="pasadena" /></a>
     <p class="caption"> <em>Portable Museum</em> covers are handmade linoleum block prints made by Curran.
         <span class="credit">Ox and Pigeon </span> 
     </p>

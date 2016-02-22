@@ -22,7 +22,7 @@ When I began my dissertation research into the origins of the multinational crim
 L. Ron Hubbard moved Scientology’s headquarters to Sussex, England in 1960—ostensibly to spread the religion but also to avoid an impending investigation by the United States government on the basis of tax evasion. Hubbard had previous connections, of a sort, to England, having been a leading member of the [California branch of the Ordo Templo Orientalis](http://theappendix.net/blog/2013/5/magic-isnt-rocket-science), an offshoot of the Order of the Golden Dawn controlled by Aleister Crowley. Hubbard’s expulsion from the group for embezzlement was followed shortly thereafter by the publication of *Dianetics*, a theoretical work that forms the basis of the Church of Scientology. 
 
 <div class="inline-image"> 
-    <a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/379/large/whitaker1.jpg?1368565164"><img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/379/medium/whitaker1.jpg?1368565164" width="640" alt="pasadena" /></a>
+    <a rel="lightbox" href="/images/blog/2013/05/whitaker1-large.jpg"><img src="/images/blog/2013/05/whitaker1-medium.jpg" width="640" alt="pasadena" /></a>
     <p class="caption"> Audience members watching L. Ron Hubbard conduct a Dianetics seminar in Los Angeles, 1950.
         <span class="credit">Wikimedia Commons. </span> 
     </p>
@@ -45,7 +45,7 @@ The Church, well aware of its negative perception among national governments, ha
 Though I have not been able to confirm it, it is more than likely that this operation, or a similar one, also resulted in the public release of the Met’s profile of the Church of Scientology in West Germany in 1973. The release of this damning document led to a swift response by the Church, which filed suit against Interpol and the Metropolitan Police in German court. The Church followed this by organizing a propaganda campaign against Interpol that attacked it as a tool of totalitarianism, emphasizing in particular the organization’s Nazi past.  The early wave of this attack featured short newspaper articles and pamphlets that offered surviving photographs of Nazi-run Interpol conferences during the Second World War. 
 
 <div class="inline-image"> 
-    <a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/380/large/whitaker2.jpg?1368719593"><img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/380/medium/whitaker2.jpg?1368719593" width="640" alt="pasadena" /></a>
+    <a rel="lightbox" href="/images/blog/2013/05/whitaker2-large.jpg"><img src="/images/blog/2013/05/whitaker2-medium.jpg" width="640" alt="pasadena" /></a>
     <p class="caption"> A page from the 1990 pamphlet, "Interpol: Private Group, Public Menace."
         <span class="credit">Perry-Castañeda Library, University of Texas at Austin </span> 
     </p>

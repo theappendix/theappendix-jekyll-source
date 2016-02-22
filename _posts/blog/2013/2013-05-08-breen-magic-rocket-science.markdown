@@ -24,7 +24,7 @@ Every spring, residents of Pasadena, California confront a phenomenon they call 
 And surprisingly, the rocket science and the black magic sprang from the same source.
 
 <div class="inline-image"> 
-    <a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/366/large/pasadena.jpg?1367985641"><img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/366/medium/pasadena.jpg?1367985641" width="640" alt="pasadena" /></a>
+    <a rel="lightbox" href="/images/blog/2013/05/pasadena-large.jpg"><img src="/images/blog/2013/05/pasadena-medium.jpg" width="640" alt="pasadena" /></a>
     <p class="caption"> Pasadena on a rainy day in May, 2013.
         <span class="credit">Photo by the author. </span> 
     </p>
@@ -47,7 +47,7 @@ Four times that day they tried to test fire their small rocket motor. On the las
 In 1941, at a crucial moment in the arms race between the Allies and Axis powers, Parsons had a brilliant insight which led to the development of modern rocketry. Following his intuition, Parsons claimed, he struck on the combination of potassium perchlorate and common roofing tar as components in solid rocket fuel. The technology would later make possible both intercontinental nuclear missiles and the Apollo moon landing. 
 
 <div class="inline-image"> 
-    <a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/367/large/RocketBoys.jpg?1367986492"><img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/367/medium/RocketBoys.jpg?1367986492" width="640" alt="pasadena" /></a>
+    <a rel="lightbox" href="/images/blog/2013/05/RocketBoys-large.jpg"><img src="/images/blog/2013/05/RocketBoys-medium.jpg" width="640" alt="pasadena" /></a>
     <p class="caption"> Parsons (right foreground), Malina and their team at an early rocket test near Pasadena in 1936.
         <span class="credit">Courtesy of NASA/JPL.</span> 
     </p>
