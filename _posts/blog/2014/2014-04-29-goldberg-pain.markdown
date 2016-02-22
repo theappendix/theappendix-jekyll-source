@@ -29,12 +29,11 @@ This is (appropriately) carefully qualified, but even so, I do not think it is q
 First, it has long been argued that professional healers at least as far back as the Middle Ages generally were not focused on alleviating their patients’ pain.  Of course, then, as now, pain is a multivalent, rich, and highly ambiguous phenomenon, one that lends easily to metaphor and account in a wide variety of social domain.  So, as Esther Cohen [shows](http://books.google.com/books/about/The_Modulated_Scream.html?id=9WkBvu-wfjAC), most discussions of pain in Western medieval culture tend to appear in theological contexts, whereas early modern and modern expressions of pain often appear more in [literary formats](http://ukcatalogue.oup.com/product/9780198187172.do).  It is actually surprisingly difficult to find people discussing their own phenomenologies of pain specifically in therapeutic contexts.
 
 <div class="inline-image">
-<a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/290/large/quack.jpg">
-<img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/290/large/quack.jpg"
- width="640" alt="wheelie" />
+<a rel="lightbox" href="/images/blog/2014/04/quack-large.jpg">
+<img src="/images/blog/2014/04/quack-medium.jpg" width="640" alt="wheelie" />
 </a>
 <p class="caption"> A mid-17th century depiction of a quack doctor and his assistants performing public surgery on an unfortunate young man. Various medicinal liquors and unguents are on display to his right, and a recently treated man is hastily downing a post-op beer while being wheeled away from the scene.
-<span class="credit"> Jan Steen, "The Quack Doctor," c. 1660, Rijksmuseum Amsterdam.
+<span class="credit">Jan Steen, "The Quack Doctor," c. 1660, Rijksmuseum Amsterdam.</span>
 </p>
 </div>
 

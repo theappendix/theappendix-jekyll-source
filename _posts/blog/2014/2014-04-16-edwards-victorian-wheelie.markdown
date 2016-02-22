@@ -15,11 +15,11 @@ A hundred years before the rise of extreme sports, stunt bikers took big risks a
 In 1897, one of the top stunt bicyclists in the United States [called](http://mombat.org/MOMBAT/Museum/Hoefler_History.html) Canary "the father of us all." Canary performed amazing feats on the high-wheel, but when he got his hands on the newly-invented "safety bicycle," the father of the bikes we know today, he did even more: he invented the wheelie.
 
 <div class="inline-image">
-<a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/286/large/04142014canarytrick.jpg">
-<img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/286/medium/04142014canarytrick.jpg" width="640" alt="wheelie" />
+<a rel="lightbox" href="/images/blog/2014/04/04142014canarytrick-large.jpg">
+<img src="/images/blog/2014/04/04142014canarytrick-medium.jpg" width="640" alt="wheelie" />
 </a>
 <p class="caption"> "Canary at his tricks" portrayed on the cover of the sheet music for a song called "The Cycle Man," 1891. 
-<span class="credit"> Library of Congress
+<span class="credit">Library of Congress</span>
 </p>
 </div>
 
@@ -36,11 +36,11 @@ By the next year, he was already [writing to his hometown paper](http://news.goo
 1884 was a banner year for Canary. His most famous stunt to date took place that spring at the U.S. Capitol building. On May 20th, 1884, he rode down the steps of the Capitol on an ordinary bicycle (a feat that wasn't only difficult, but incredibly dangerous). That created enough of a story that two papers covered his plan to ride down the East side steps on just a front wheel, but the [police stopped him](http://chroniclingamerica.loc.gov/lccn/sn86053573/1884-05-22/ed-1/seq-6/) before he could attempt the feat. Nonetheless, Canary and other "fancy riders" stuck around to perform "a number of difficult and fancy maneuvers." 
 
 <div class="inline-image">
-<a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/288/large/hoef2.jpg">
-<img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/288/medium/hoef2.jpg" width="640" alt="wheelie" />
+<a rel="lightbox" href="/images/blog/2014/04/hoef2-large.jpg">
+<img src="/images/blog/2014/04/hoef2-medium.jpg" width="640" alt="wheelie" />
 </a>
 <p class="caption"> The 1880s were a golden age for "francy riding" featuring charismatic young stars like Canary and William Hoefler, portrayed here.
-<span class="credit"> <em>The Home Magazine,</em> Binghamton, NY, April, 1897.
+<span class="credit"><em>The Home Magazine,</em> Binghamton, NY, April, 1897.</span>
 </p>
 </div>
 
@@ -57,11 +57,11 @@ As the *Tribune* [reports](http://search.proquest.com/docview/175283246), Canary
 A few things make Canary's claim plausible. First, Canary was widely acknowledged as the foremost trick rider of his time. Second, the safety bike was almost brand new, and earlier bikes were probably too heavy to wheelie because of their wooden frames and metal tires. Finally, the same article mentions the Capitol stunt that the police canceled.
 
 <div class="inline-image">
-<a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/287/medium/04142014canaryad.jpg">
-<img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/287/medium/04142014canaryad.jpg" width="640" alt="wheelie" />
+<a rel="lightbox" href="/images/blog/2014/04/04142014canaryad-large.jpg">
+<img src="/images/blog/2014/04/04142014canaryad-medium.jpg" width="640" alt="wheelie" />
 </a>
 <p class="caption"> Canary portrayed in 1892.
-<span class="credit"> Ebay
+<span class="credit">Ebay</span>
 </p>
 </div> 
 
@@ -76,11 +76,11 @@ But it's better to remember an earlier moment in his life, when bicycle riders o
 Dan Canary wasn't one of them.
 
 <div class="inline-image">
-<a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/289/large/Dean_Jones_wheelies_a_bike__1967.jpg">
-<img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/289/medium/Dean_Jones_wheelies_a_bike__1967.jpg" width="640" alt="wheelie" />
+<a rel="lightbox" href="/images/blog/2014/04/Dean_Jones_wheelies_a_bike__1967-large.jpg">
+<img src="/images/blog/2014/04/Dean_Jones_wheelies_a_bike__1967-medium.jpg" width="640" alt="wheelie" />
 </a>
 <p class="caption"> Wheelies live on, even if Dan Canary's name is forgotten today.
-<span class="credit"> Dean Jones wheelies, 1967. Wikimedia Commons
+<span class="credit">Dean Jones wheelies, 1967. Wikimedia Commons</span>
 </p>
 </div>
 
