@@ -43,8 +43,8 @@ As Whitaker notes, such a scheme appears at first glance to be a modern inventio
 Whitaker has uncovered documents from 1905 supposedly written by a distressed Spaniard named Luis Ramos and Jean Richard, a prison chaplain. Addressed to a London shopkeeper named Paul Webb, these letters are straight out of the scam email playbook: Ramos claims to have “property valuable to £37.000” deposited “in a sure English Bank,” and he’ll give Webb a cut if the Englishman agrees to send Ramos a small amount of money to bail his fourteen-year-old daughter out of prison.
 
 <div class="inline-image">
-<a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/600/large/Whitaker4.jpg">
-<img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/600/medium/Whitaker4.jpg" width="640" alt="Richard's Documents" />
+<a rel="lightbox" href="/images/blog/2013/10/Whitaker4-large.jpg">
+<img src="/images/blog/2013/10/Whitaker4-medium.jpg" width="640" alt="Richard's Documents" />
 </a>
 <p class="caption">
 Supposed prison chaplain Jean Richard’s documents in support of Luis Ramos.

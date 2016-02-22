@@ -26,9 +26,7 @@ As Richard Holmes notes in [*The Age of Wonder*](http://www.amazon.com/The-Age-W
 By the end of Cook's third voyage in 1779, however, earlier impressions of Polynesia as a heaven on earth had grown more complicated. [Veneral disease]( http://www.jstor.org/stable/25168208) was already beginning to take a toll on island populations, sailors were growing restless, and even the normally steadyhanded Captain Cook had begun to act erratically. Recounting events in an official report, Cook's lieutenant James King wrote that he “firmly believed matters would not have been carried to the extremities they were, had not Capt. Cook attempted to chastise a man.”
 
 <div class="inline-image">
-    <a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/762/large/Cook1.jpg?1381276596
-"><img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/762/medium/Cook1.jpg?1381276596
-" width="640" alt="bay" /></a>
+    <a rel="lightbox" href="/images/blog/2013/10/Cook1-large.jpg"><img src="/images/blog/2013/10/Cook1-medium.jpg" width="640" alt="bay" /></a>
     <p class="caption"> An historical mash-up of the bay, merging a 1795 engraving by John Webber with a contemporary photograph. <span class="credit"> The author/Wikimedia Commons
  </span>
     </p>
@@ -42,9 +40,7 @@ Pareea had by this time recovered from the blow and (to his credit) actually beg
 In the confusion, a high-ranking Hawaiian noble named Kalimu was shot, and the violence escalated rapidly. The villagers took up their weapons and armor and charged Cook and his crew. The marines surrounding Cook had far superior weaponry with their flint-lock muskets, but no room to maneouvre and no time to fire, and four were killed almost instantly. Cook retreated to the shore, but was hit over the head with a club and then repeatedly stabbed. He died in the surf.
 
 <div class="inline-image">
-    <a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/763/large/'A_Man_of_the_Sandwich_Islands_with_His_Helmet'_(unknown_artist__c._1830)_may_have_been_chief_who_killed_cook.jpg?1381276620
-"><img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/763/medium/'A_Man_of_the_Sandwich_Islands_with_His_Helmet'_(unknown_artist__c._1830)_may_have_been_chief_who_killed_cook.jpg?1381276620
-" width="640" alt="bay" /></a>
+    <a rel="lightbox" href="/images/blog/2013/10/'A_Man_of_the_Sandwich_Islands_with_His_Helmet'_(unknown_artist__c._1830)_may_have_been_chief_who_killed_cook-large.jpg"><img src="/images/blog/2013/10/'A_Man_of_the_Sandwich_Islands_with_His_Helmet'_(unknown_artist__c._1830)_may_have_been_chief_who_killed_cook-medium.jpg" width="640" alt="bay" /></a>
     <p class="caption"> Anonymous 1830s copy of a painting by John Webber, "A Man of the Sandwich Islands with His Helmet." This is believed to be a portrait of Kanaina, one of the Hawaiian chiefs who killed Cook. <span class="credit"> Wikimedia Commons
  </span>
     </p>
@@ -55,9 +51,7 @@ After his death, Cook's second-in-command Charles Clerke assumed control of the 
 A remarkable artifact owned by the State Library of New South Wales in Australia confirms that Cook’s men also venerated his mortal remains. This small, intricately-carved coffin was created by an anonymous craftsman on Cook’s ship, the HMS Resolution, during the return journey from Hawai’i to Britain. 
 
 <div class="inline-image">
-    <a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/764/large/Cook2.jpg?1381276821
-"><img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/764/medium/Cook2.jpg?1381276821
-" width="640" alt="coffin" /></a>
+    <a rel="lightbox" href="/images/blog/2013/10/Cook2-large.jpg"><img src="/images/blog/2013/10/Cook2-medium.jpg" width="640" alt="coffin" /></a>
     <p class="caption"> A full view of the coffin and its stand. <span class="credit">State Library of New South Wales
  </span>
     </p>
@@ -66,18 +60,14 @@ A remarkable artifact owned by the State Library of New South Wales in Australia
 It features a number of striking details: the top lid swivels open in two pieces, revealing a watercolor painting of Cook's death on the beach and, below that, a lock of his hair.
 
 <div class="inline-image">
-    <a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/767/large/Cook3.jpg?1381277722
-"><img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/767/medium/Cook3.jpg?1381277722
-" width="640" alt="coffin" /></a>
+    <a rel="lightbox" href="/images/blog/2013/10/Cook3-large.jpg"><img src="/images/blog/2013/10/Cook3-medium.jpg" width="640" alt="coffin" /></a>
     <p class="caption">  <span class="credit">State Library of New South Wales
  </span>
     </p>
 </div>
 
 <div class="inline-image">
-    <a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/765/large/Cook4.jpg?1381276845
-"><img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/765/medium/Cook4.jpg?1381276845
-" width="640" alt="coffin" /></a>
+    <a rel="lightbox" href="/images/blog/2013/10/Cook4-large.jpg"><img src="/images/blog/2013/10/Cook4-medium.jpg" width="640" alt="coffin" /></a>
     <p class="caption">  <span class="credit">State Library of New South Wales
  </span>
     </p>
@@ -86,9 +76,7 @@ It features a number of striking details: the top lid swivels open in two pieces
 A silver plate set into the base of the box reveals that the wood itself had once been part of the ship (and that the box was a memento mori intended for Cook's widow): “Made of Resolution oak for Mrs Cook by crew.” There’s also a curious detail: another silver plate offers up the cryptic inscription “Lono and the Seaman's Idol.”
 
 <div class="inline-image">
-    <a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/766/large/Cook5.jpg?1381277693
-"><img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/766/medium/Cook5.jpg?1381277693
-" width="640" alt="coffin" /></a>
+    <a rel="lightbox" href="/images/blog/2013/10/Cook5-large.jpg"><img src="/images/blog/2013/10/Cook5-medium.jpg" width="640" alt="coffin" /></a>
     <p class="caption">  <span class="credit">State Library of New South Wales
  </span>
     </p>
