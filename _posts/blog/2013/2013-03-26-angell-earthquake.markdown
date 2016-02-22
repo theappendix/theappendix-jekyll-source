@@ -18,7 +18,7 @@ Before the [most recently predicted](http://theappendix.net/issues/2012/12/time-
 According to Camping, the great earthquake would begin at [Kiribati](http://en.wikipedia.org/wiki/Kiribati) (Christmas Island) on the International Date Line, and ripple across the globe time zone by time zone. Camping’s tens of thousands of followers, many of whom quit their jobs and sold their houses in anticipation, would ascend to heaven. Those left behind would endure a period of tribulation amid the rubble until the world itself came to an end on the 21st of October.  
 
 <div class="inline-image"> 
-    <a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/340/large/angell_apocalypse.jpg?1364063528"><img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/340/medium/angell_apocalypse.jpg?1364063528" width="640" alt="Camping" /></a>
+    <a rel="lightbox" href="/images/blog/2013/03/angell_apocalypse-large.jpg"><img src="/images/blog/2013/03/angell_apocalypse-medium.jpg" width="640" alt="Camping" /></a>
     <p class="caption"> A poster announcing Camping’s apocalyptic prediction.
         <span class="credit">By Christopher Paulin, used under Creative Commons license. </span> 
     </p>
@@ -35,7 +35,7 @@ Earthquakes have always held a special significance in Christian apocalyptic tra
 Amos Nur, a Stanford geophysicist, became so convinced that archaeologists were overlooking the impact of seismic activity on ancient sites in the Holy Land that he co-authored a book on the topic—which argues, among other things, that the Revelation earthquake narrative may be a “retrospective prophecy,” the hidden history of a devastating earthquake in the city known as Megiddo: Armageddon. Regardless of whether or not earthquakes can plausibly explain the destruction evident in the archaeological record, Nur’s argument is a pointed reminder that active fault lines cut across much of the Mediterranean and the Middle East.
 
 <div class="inline-image"> 
-    <a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/341/large/Marmara_earthquake_1509_(1).jpg?1364261026"><img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/341/medium/Marmara_earthquake_1509_(1).jpg?1364261026"   width="640" alt="Marmara earthquake" /></a>
+    <a rel="lightbox" href="/images/blog/2013/03/Marmara_earthquake_1509_(1)-large.jpg"><img src="/images/blog/2013/03/Marmara_earthquake_1509_(1)-medium.jpg"   width="640" alt="Marmara earthquake" /></a>
     <p class="caption"> A 16th century woodcut of the Marmara earthquake of 1509. 
         <span class="credit">Wikimedia Commons</span> 
     </p>
@@ -57,7 +57,7 @@ As in the Christian context, these scriptural references formed the basis for an
 In light of these discursive traditions, it’s not surprising that so many historical accounts of earthquakes incorporate references to the apocalypse. William James, in his lively [account](http://storyoftheweek.loa.org/2010/08/on-some-mental-effects-of-earthquake.html) of the 1906 earthquake, tells of a “lady in a San Francisco hotel” who thought she was witnessing “the end of the world and the beginning of the final judgment….she told me that the theological interpretation had kept fear from her mind, and made her take the shaking calmly.” In the aftermath of the devastating 1999 Marmara earthquake, a pair of Turkish sociologists asked survivors what terms had [come to mind](http://theappendix.net/issues/2012/12/time-and-the-maya-apocalypse-guatemala-1982-and-2012#supernotes-paragraph-6) during the initial moments of the earthquake, and 37 % of their respondents reported thoughts of kiyamet, or apocalypse. “*Dünyanın sonunun geldiğini ve kiyametin koptuğunu düşündüm,*” said one: “I thought it was the end of the world and the outbreak of the apocalypse.” 
 
 <div class="inline-image"> 
-    <a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/338/large/marmara_earthquake.jpg?1364062574"><img src=" http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/338/medium/marmara_earthquake.jpg?1364062574"  width="640" alt="Istanbul earthquake" /></a>
+    <a rel="lightbox" href="/images/blog/2013/03/marmara_earthquake-large.jpg"><img src="/images/blog/2013/03/marmara_earthquake-medium.jpg"  width="640" alt="Istanbul earthquake" /></a>
     <p class="caption"> A woodcut of the 1556 Istanbul earthquake and comet by Herman Gall.
         <span class="credit">Wikimedia Commons</span> 
     </p>
