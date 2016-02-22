@@ -28,12 +28,9 @@ Josh Marshall, founder of *Talking Points Memo* and a former history PhD student
 ***
 
 <div class="inline-image">
-<a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/219/large/Appendix_announcement_banner_1.jpg">
-<img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/219/medium/Appendix_announcement_banner_1.jpg" width="640" alt="popular history" />
+<a rel="lightbox" href="/images/blog/2014/03/Appendix_announcement_banner_1-large.jpg">
+<img src="/images/blog/2014/03/Appendix_announcement_banner_1-medium.jpg" width="640" alt="popular history" />
 </a>
-<p class="caption"> 
-<span class="credit">
-</p>
 </div>
 
 
@@ -75,7 +72,7 @@ Josh Marshall, founder of *Talking Points Memo* and a former history PhD student
 
 *Liam Brockey is a professor of history at Michigan State University.*
 
-*Josh Marshall is the founder and editor of *Talking Points Memo.
+*Josh Marshall is the founder and editor of* Talking Points Memo.
 
 *Jacob Soll is a professor of history at USC and a 2011 MacArthur Fellow.*
 
