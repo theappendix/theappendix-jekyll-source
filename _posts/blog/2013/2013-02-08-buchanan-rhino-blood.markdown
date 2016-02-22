@@ -23,7 +23,7 @@ Two summers ago in the state archive of Florence I discovered, filed under the h
 Born in 1667 in Florence, Anna Maria Luisa was the only daughter and second child of Cosimo III de Medici, Grand Duke of Tuscany, and Marguerite Louise d’Orléans. In 1691, she was married to Johann Wilhelm II von der Pfalz, the Elector of the Palatine in modern-day Germany. She lived in Düsseldorf, her husband’s capital, until his death in 1716. A year later Anna Maria Luisa returned to her native Florence. During her twenty-six year absence neither of her brothers, Ferdinando or Gian Gastone, produced a Medici heir. With the death of her father and both of her brothers, Anna Maria Luisa became the last Medici.
 
 <div class="inline-image">
-    <a rel="lightbox" href=" http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/193/large/medici.jpg?1360268686"><img src=" http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/193/medium/medici.jpg?1360268686" width="640" alt="Goa stone" /></a>
+    <a rel="lightbox" href="/images/blog/2013/02/medici-large.jpg"><img src="/images/blog/2013/02/medici-medium.jpg" width="640" alt="Goa stone" /></a>
     <p class="caption">
         <span class="credit">Wikimedia Commons</a></span>
        Anna Maria Luisa de’ Medici painted by Jan van Douven as a young woman.
@@ -39,7 +39,7 @@ Pieces of folded paper and letters of correspondence grouped many of the recipes
 In addition to recipes for fever water, perfumes, and ointments, directions for applying balsams, and therapeutics for epilepsy and pleurisy (lung pain or inflammation), Anna Maria Luisa’s collection also included a lengthy and detailed Portuguese inventory of raw medicinal materials. This inventory not only listed materia medica, like roots and seeds from the [Kingdom of Manica](http://en.wikipedia.org/wiki/Manyika_tribe), beans from Manila, and bark from Timor, it also detailed the uses and virtues of each. Two pages, one written in Portuguese the other in Italian, were dedicated to the uses and virtues of Pietre Cordiali, or Goa Stones. The unknown author of the inventory explained that these stones, created by the lay Jesuit Gaspar Antonio, were the best heart medicines he had ever found, but could also be used to combat fevers, animal venom, poisons, and even kidney stones.
 
 <div class="inline-image">
-    <a rel="lightbox" href=" http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/192/large/goastone.jpg?1360268150"><img src=" http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/192/medium/goastone.jpg?1360268150" width="640" alt="Goa stone" /></a>
+    <a rel="lightbox" href="/images/blog/2013/02/goastone-large.jpg"><img src="/images/blog/2013/02/goastone-medium.jpg" width="640" alt="Goa stone" /></a>
     <p class="caption">
         <span class="credit">The Metropolitan Museum of Art</a></span>
        A "Goa stone" or <em>lapis de Goa</em> from the late seventeenth or early eighteenth centuries.
