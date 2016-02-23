@@ -21,12 +21,11 @@ commissioned of himself at various ages and stages of life. I hesitate to call t
 This week marks the end of the Appendix's sixth issue, ["Bodies,"](http://theappendix.net/issues/2014/4) and in the past three months we've covered a lot of ground in the realm of the human form, from [Lincoln's quasi-beard](http://theappendix.net/issues/2014/4/abe-lincolns-whiskers) to [Tipu's tiger](http://theappendix.net/issues/2014/4/robot-of-jihad-a-guide-to-tipus-tiger). But we haven't done much on fashion and its history, and I wanted to remedy that with this post. We can debate to what degree these paintings are early manifestations of a distinctly modern ethos or simply a reflection of the abiding narcissism and love for self-display of all human beings (on this, see more below). But I think we can agree that they're a remarkable testimony of a life in clothes. 
 
 <div class="inline-image">
-<a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/472/large/image4-l_final.jpg">
-<img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/472/medium/image4-l_final.jpg"
- width="640" alt="fashion" />
+<a rel="lightbox" href="/images/blog/2014/06/image4-l_final-large.jpg">
+<img src="/images/blog/2014/06/image4-l_final-medium.jpg" width="640" alt="fashion" />
 </a>
 <p class="caption">
-<span class="credit">Herzog Anton Ulrich Museum in Braunschweig
+<span class="credit">Herzog Anton Ulrich Museum in Braunschweig</span>
 </p>
 </div>
 
@@ -34,177 +33,161 @@ A bit more about Schwarz and his remarkable book, the early pages of which you c
 
 ##Age One
 <div class="inline-image">
-<a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/473/large/MS_1.jpg">
-<img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/473/medium/MS_1.jpg"
- width="640" alt="fashion" />
+<a rel="lightbox" href="/images/blog/2014/06/MS_1-large.jpg">
+<img src="/images/blog/2014/06/MS_1-medium.jpg" width="640" alt="fashion" />
 </a>
 <p class="caption">Schwarz as a new-born infant. Note the five-pointed star on his cradle: perhaps a charm against evil?
-<span class="credit">Herzog Anton Ulrich Museum in Braunschweig
+<span class="credit">Herzog Anton Ulrich Museum in Braunschweig</span>
 </p>
 </div>
 
 ##Age Five
 <div class="inline-image">
-<a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/474/large/MS5.jpg">
-<img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/474/medium/MS5.jpg"
- width="640" alt="fashion" />
+<a rel="lightbox" href="/images/blog/2014/06/MS5-large.jpg">
+<img src="/images/blog/2014/06/MS5-medium.jpg" width="640" alt="fashion" />
 </a>
 <p class="caption">At age five, Schwarz is learning the alphabet and mourning the death of his mother. 
-<span class="credit">Herzog Anton Ulrich Museum in Braunschweig
+<span class="credit">Herzog Anton Ulrich Museum in Braunschweig</span>
 </p>
 </div>
 
 ##Age Eight
 <div class="inline-image">
-<a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/475/large/MS_8.5.jpg">
-<img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/475/medium/MS_8.5.jpg"
- width="640" alt="fashion" />
+<a rel="lightbox" href="/images/blog/2014/06/MS_8.5-large.jpg">
+<img src="/images/blog/2014/06/MS_8.5-medium.jpg" width="640" alt="fashion" />
 </a>
 <p class="caption"> Schwarz rides in the back of a wagon at eight and a half years old.
-<span class="credit">Herzog Anton Ulrich Museum in Braunschweig
+<span class="credit">Herzog Anton Ulrich Museum in Braunschweig</span>
 </p>
 </div>
 
 ##Age Nine
 <div class="inline-image">
-<a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/476/large/MS_9.jpg">
-<img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/476/medium/MS_9.jpg"
- width="640" alt="fashion" />
+<a rel="lightbox" href="/images/blog/2014/06/MS_9-large.jpg">
+<img src="/images/blog/2014/06/MS_9-medium.jpg" width="640" alt="fashion" />
 </a>
 <p class="caption"> Hawking in the countryside with a friend, nine years and four months old.
-<span class="credit">Herzog Anton Ulrich Museum in Braunschweig
+<span class="credit">Herzog Anton Ulrich Museum in Braunschweig</span>
 </p>
 </div>
 
 ##Age Fourteen
 <div class="inline-image">
-<a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/477/large/MS_14.jpg">
-<img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/477/medium/MS_14.jpg"
- width="640" alt="fashion" />
+<a rel="lightbox" href="/images/blog/2014/06/MS_14-large.jpg">
+<img src="/images/blog/2014/06/MS_14-medium.jpg" width="640" alt="fashion" />
 </a>
 <p class="caption"> Schwarz trampling on his schoolbooks as a rambunctious fourteen-year-old.
-<span class="credit">Herzog Anton Ulrich Museum in Braunschweig
+<span class="credit">Herzog Anton Ulrich Museum in Braunschweig</span>
 </p>
 </div>
 
 ##Age Fifteen
 <div class="inline-image">
-<a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/478/large/MS_15.jpg">
-<img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/478/medium/MS_15.jpg"
- width="640" alt="fashion" />
+<a rel="lightbox" href="/images/blog/2014/06/MS_15-large.jpg">
+<img src="/images/blog/2014/06/MS_15-medium.jpg" width="640" alt="fashion" />
 </a>
 <p class="caption"> Proudly riding his horse at fifteen.
-<span class="credit">Herzog Anton Ulrich Museum in Braunschweig
+<span class="credit">Herzog Anton Ulrich Museum in Braunschweig</span>
 </p>
 </div>
 
 ##Age Nineteen
 <div class="inline-image">
-<a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/479/large/MS_19.jpg">
-<img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/479/medium/MS_19.jpg"
- width="640" alt="fashion" />
+<a rel="lightbox" href="/images/blog/2014/06/MS_19-large.jpg">
+<img src="/images/blog/2014/06/MS_19-medium.jpg" width="640" alt="fashion" />
 </a>
 <p class="caption"> Hawking at nineteen and seven months in a fashionable suit with codpiece, sword at side
-<span class="credit">Herzog Anton Ulrich Museum in Braunschweig
+<span class="credit">Herzog Anton Ulrich Museum in Braunschweig</span>
 </p>
 </div>
 
 ##Age Nineteen
 <div class="inline-image">
-<a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/480/large/MS_19.8.jpg">
-<img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/480/medium/MS_19.8.jpg"
- width="640" alt="fashion" />
+<a rel="lightbox" href="/images/blog/2014/06/MS_19.8-large.jpg">
+<img src="/images/blog/2014/06/MS_19.8-medium.jpg" width="640" alt="fashion" />
 </a>
 <p class="caption"> A month later, working as a clerk to Jakob Fugger, one of the richest men of his era. This is the most interesting painting in the book to me, offering a peek into the world of high finance during the Renaissance. Note the pouches on the wall filled with letters to (or from?) major cities like Rome and Lisbon.
-<span class="credit">Herzog Anton Ulrich Museum in Braunschweig
+<span class="credit">Herzog Anton Ulrich Museum in Braunschweig</span>
 </p>
 </div>
 
 ##Age Twenty-One
 <div class="inline-image">
-<a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/481/large/MS_21.jpg">
-<img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/481/medium/MS_21.jpg"
- width="640" alt="fashion" />
+<a rel="lightbox" href="/images/blog/2014/06/MS_21-large.jpg">
+<img src="/images/blog/2014/06/MS_21-medium.jpg" width="640" alt="fashion" />
 </a>
 <p class="caption"> Practicing at sword fighting, twenty-one and two thirds. 
-<span class="credit">Herzog Anton Ulrich Museum in Braunschweig
+<span class="credit">Herzog Anton Ulrich Museum in Braunschweig</span>
 </p>
 </div>
 
 ##Age Twenty-Two
 <div class="inline-image">
-<a rel="lightbox" href=http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/482/large/MS_22.jpg">
-<img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/482/medium/MS_22.jpg"
- width="640" alt="fashion" />
+<a rel="lightbox" href="/images/blog/2014/06/MS_22-large.jpg">
+<img src="/images/blog/2014/06/MS_22-medium.jpg" width="640" alt="fashion" />
 </a>
 <p class="caption"> At an archery contest at twenty-two years of age, wearing a similar suit and a foppish ruffled hat.
-<span class="credit">Herzog Anton Ulrich Museum in Braunschweig
+<span class="credit">Herzog Anton Ulrich Museum in Braunschweig</span>
 </p>
 </div>
 
 ##Age Twenty-Three
 <div class="inline-image">
-<a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/483/large/MS_23_father_death.jpg">
-<img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/483/medium/MS_23_father_death.jpg"
- width="640" alt="fashion" />
+<a rel="lightbox" href="/images/blog/2014/06/MS_23_father_death-large.jpg">
+<img src="/images/blog/2014/06/MS_23_father_death-medium.jpg" width="640" alt="fashion" />
 </a>
 <p class="caption"> A fop no more: Matthäus mourns the death of his father. All four figures in this picture depict Schwarz wearing different varieties of mourning dress.
-<span class="credit">Herzog Anton Ulrich Museum in Braunschweig
+<span class="credit">Herzog Anton Ulrich Museum in Braunschweig</span>
 </p>
 </div>
 
 ##Age Twenty-Six
 <div class="inline-image">
-<a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/484/large/MS_26.png">
-<img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/484/medium/MS_26.png"
- width="640" alt="fashion" />
+<a rel="lightbox" href="/images/blog/2014/06/MS_26-large.png">
+<img src="/images/blog/2014/06/MS_26-medium.png" width="640" alt="fashion" />
 </a>
 <p class="caption"> This is a particular favorite of mine. Here Schwarz is a businessman of twenty-six visiting Nuremburg, and looking a little put out by the stray dog peeing at his right! Note the money-sacks at his belt and the fashionable cloak with arm holes.
-<span class="credit">Herzog Anton Ulrich Museum in Braunschweig
+<span class="credit">Herzog Anton Ulrich Museum in Braunschweig</span>
 </p>
 </div>
 
 ##Age Twenty-Nine
 <div class="inline-image">
-<a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/485/large/MS_29.jpg">
-<img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/485/medium/MS_29.jpg"
- width="640" alt="fashion" />
+<a rel="lightbox" href="/images/blog/2014/06/MS_29-large.jpg">
+<img src="/images/blog/2014/06/MS_29-medium.jpg" width="640" alt="fashion" />
 </a>
 <p class="caption"> Stark naked at twenty-nine. Schwarz noted in relation to this picture, "I had become fat and large."
-<span class="credit">Herzog Anton Ulrich Museum in Braunschweig
+<span class="credit">Herzog Anton Ulrich Museum in Braunschweig</span>
 </p>
 </div>
 
 ##Age Twenty-Nine
 <div class="inline-image">
-<a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/486/large/MS_46.jpg">
-<img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/486/medium/MS_46.jpg"
- width="640" alt="fashion" />
+<a rel="lightbox" href="/images/blog/2014/06/MS_46-large.jpg">
+<img src="/images/blog/2014/06/MS_46-medium.jpg" width="640" alt="fashion" />
 </a>
 <p class="caption"> Wearing plate armor and bearing halberd in preparation for the attack of Emperor Charles V, age forty-six.
-<span class="credit">Herzog Anton Ulrich Museum in Braunschweig
+<span class="credit">Herzog Anton Ulrich Museum in Braunschweig</span>
 </p>
 </div>
 
 ##Age Forty-Eight
 <div class="inline-image">
-<a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/487/large/MS_48.jpg">
-<img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/487/medium/MS_48.jpg"
- width="640" alt="fashion" />
+<a rel="lightbox" href="/images/blog/2014/06/MS_48-large.jpg">
+<img src="/images/blog/2014/06/MS_48-medium.jpg" width="640" alt="fashion" />
 </a>
 <p class="caption"> Now middle-aged and bearded at forty-eight, Schwarz walks with his squire (and perhaps son?)
-<span class="credit">Herzog Anton Ulrich Museum in Braunschweig
+<span class="credit">Herzog Anton Ulrich Museum in Braunschweig</span>
 </p>
 </div>
 
 #Age Sixty-Three
 <div class="inline-image">
-<a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/488/large/MS_63.jpg">
-<img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/488/medium/MS_63.jpg"
- width="640" alt="fashion" />
+<a rel="lightbox" href="/images/blog/2014/06/MS_63-large.jpg">
+<img src="/images/blog/2014/06/MS_63-medium.jpg" width="640" alt="fashion" />
 </a>
 <p class="caption"> The final portrait of Schwarz in the album. Wearing formal black in the "Spanish style" that would later evolve into the modern business suit, suffering the effects of a stroke, a sixty-three-year-old Schwarz attends the funeral of his employer, Jacob Fugger.
-<span class="credit">Herzog Anton Ulrich Museum in Braunschweig
+<span class="credit">Herzog Anton Ulrich Museum in Braunschweig</span>
 </p>
 </div>
 
