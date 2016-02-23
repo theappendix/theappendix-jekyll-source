@@ -20,12 +20,11 @@ After its Cuban Missile Crisis experience, Kremlin leaders wanted to ensure the 
 Throughout the 1970s, the Soviets launched a number of intimidating new weapons systems, from the SS-18 Satan missile to the Kiev, the Soviet Navy’s first aircraft carrier. Meanwhile, the Soviet Air Force launched the Tu-22M ’Backfire’ strategic bomber, which could deliver nuclear weapons over long distances. By 1974, meanwhile, Soviet engineers were working on a reusable spacecraft prototype that could be used to easily launch spy satellites - a program that resulted in the Buran craft, otherwise known as the Soviet space shuttle.
 
 <div class="inline-image">
-<a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/499/large/STS-Buran-grand.jpg">
-<img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/499/medium/STS-Buran-grand.jpg"
- width="640" alt="nukes" />
+<a rel="lightbox" href="/images/blog/2014/07/STS-Buran-grand-large.jpg">
+<img src="/images/blog/2014/07/STS-Buran-grand-medium.jpg" width="640" alt="nukes" />
 </a>
 <p class="caption"> NASA's space shuttle compared with its strikingly similar Soviet counterpart, the Buran. Both were the product of a heated technological race between the two superpowers in the 1970s and '80s.
-<span class="credit">Wikimedia Commons
+<span class="credit">Wikimedia Commons</span>
 </p>
 </div>
 
@@ -44,12 +43,11 @@ How so?
 In this scenario, CPD analysts reasoned, the submarine leg of the nuclear triad was useless, because seaborne nuclear warheads were not big or accurate enough for any mission other than ‘city busting’. But ‘city busting’ was a terrible option: would a president order a retaliatory strike on Soviet cities knowing that to do so would invite the destruction of American cities? (The ‘Second Strike’ problem).
 
 <div class="inline-image">
-<a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/500/large/tumblr_lz8wig7rEo1qf7r5lo1_1280.jpg">
-<img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/500/medium/tumblr_lz8wig7rEo1qf7r5lo1_1280.jpg"
- width="640" alt="nukes" />
+<a rel="lightbox" href="/images/blog/2014/07/tumblr_lz8wig7rEo1qf7r5lo1_1280-large.jpg">
+<img src="/images/blog/2014/07/tumblr_lz8wig7rEo1qf7r5lo1_1280-medium.jpg" width="640" alt="nukes" />
 </a>
 <p class="caption"> Dr. Strangelove pondering second strike options in Stanley Kubrick's 1964 film of the same name.
-<span class="credit">Wikimedia Commons
+<span class="credit">Wikimedia Commons</span>
 </p>
 </div>
 
@@ -60,12 +58,11 @@ In 1981, a number of Committee on the Present Danger members participated on an 
 In the report, the basing option that received the most attention was the ‘Multiple Protective Shelter (MPS)’ option. A new generation of American missiles, the MX missile, would move on road tracks between a number of silos. This would increase the number of targets for Soviet warheads, as Kremlin military planners would not know which silo a missile was in at any given moment. They would be forced to target them all, which would reduce the Soviet advantage in missile numbers.
 
 <div class="inline-image">
-<a rel="lightbox" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/498/large/MPS-basing.png">
-<img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/498/medium/MPS-basing.png"
- width="640" alt="nukes" />
+<a rel="lightbox" href="/images/blog/2014/07/MPS-basing-large.png">
+<img src="/images/blog/2014/07/MPS-basing-medium.png" width="640" alt="nukes" />
 </a>
 <p class="caption"> A map of the Multiple Protective Shelter basing configuration. 
-<span class="credit">US Air Force
+<span class="credit">US Air Force</span>
 </p>
 </div>
 
