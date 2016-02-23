@@ -6,7 +6,7 @@ authors:
 date: 2012-12-24 06:00:00
 permalink: "/posts/2012/12/doctored-beatles-images-rolling-stone-puppies-and-the-regression-of-history"
 excerpt: >
-  Contributor Michael Schmidt explains why East German authorities were as worried about the Beatles and Rolling Stones' haircuts as they were about their music.
+  Contributor Michael Schmidt explains why East German authorities were as worried about the Beatles and Rolling Stones’ haircuts as they were about their music.
 ---
 In the middle of 1965—more than a year into the trans-cultural phenomenon of Beatlemania and the British Invasion—the East German pop music magazine _Melodie und Rhythmus_ (Melody and Rhythm) published a rather poorly punned article titled “A Hairy Issue.” It begins with a fan letter from the Queens resident and Beatle-hysteric Cookie E.:
 
@@ -15,21 +15,23 @@ In the middle of 1965—more than a year into the trans-cultural phenomenon of B
 Below the letter, the photographed face of Ringo grins. Instead of his signature Beatle hair, however, someone has doctored the photo to give him a military-issue high and tight. Underneath, he gives a penciled-in two-thumbs-up with the gem-laden hands of some sort of caricatured Scrooge McDuck. 
 
 <div class="inline-image">
-    <a rel="lightbox" href="/images/blog/2012/12/ShavedRingo-large.jpg"><img src="/images/blog/2012/12/ShavedRingo-medium.jpg" width="640" alt="Shaved Ringo" /></a>
-    <p class="caption">
-        <span class="credit"></span>
-From John Stave, “Eine haarige Angelegenheit,” Melodie und Rhythmus 11 (1965): 3-4.
-    </p>
+  <a rel="lightbox" href="/images/blog/2012/12/ShavedRingo-large.jpg">
+    <img src="/images/blog/2012/12/ShavedRingo-medium.jpg" width="640" alt="Shaved Ringo" />
+  </a>
+  <p class="caption">
+    From John Stave, “Eine haarige Angelegenheit,” Melodie und Rhythmus 11 (1965): 3-4.
+  </p>
 </div>
 
 On the following page, there is a pictorial comparison and competition between two “rivals”: Brian Jones of the Rolling Stones (mop topped, suited, and wielding a Vox Mark VI) vs. a full-maned curly haired dog (standing up-right, dressed in an oversized dark sweater, and holding an unidentifiable acoustic guitar). 
 
 <div class="inline-image">
-    <a rel="lightbox" href="/images/blog/2012/12/BrianJonesPoodle-large.jpg"><img src="/images/blog/2012/12/BrianJonesPoodle-medium.jpg" width="640" alt="Shaved Ringo" /></a>
-    <p class="caption">
-        <span class="credit"></span>
-From John Stave, “Eine haarige Angelegenheit,” Melodie und Rhythmus 11 (1965): 3-4.
-    </p>
+  <a rel="lightbox" href="/images/blog/2012/12/BrianJonesPoodle-large.jpg">
+    <img src="/images/blog/2012/12/BrianJonesPoodle-medium.jpg" width="640" alt="Shaved Ringo" />
+  </a>
+  <p class="caption">
+    From John Stave, “Eine haarige Angelegenheit,” Melodie und Rhythmus 11 (1965): 3-4.
+  </p>
 </div>
 
 Why so much attention to hair in a piece ostensibly about music?

@@ -8,7 +8,7 @@ permalink: "/posts/2012/12/a-nineteenth-century-digital-humanities"
 excerpt: >
   Historian Jorge Cañizares-Esguerra reflects on whether the statistical methods of nineteenth-century political economists can be regarded as digital humanities <em>avant la lettre</em>.
 header_image: header-jorge_banner.jpg
-header_image_caption: "The London Science Museum's replica of Charles Babbage’s “Difference Engine #2,” (1847-9), one of the earliest mechanical computers."
+header_image_caption: "The London Science Museum’s replica of Charles Babbage’s “Difference Engine #2,” (1847-9), one of the earliest mechanical computers."
 ---
 Reading Ben Breen’s [blog post](https://theappendix.net/blog/2012/11/tempora-mutantur:-between-experimental-and-narrative-history) on the experimental techniques available to historians today, including  digital tools like data visualization, OCR, ebook databases, Google Ngrams and culturomics, I was struck by a sense of déjà vu. Suddenly I remembered having read about similar debates in the late nineteenth century. Since my doctoral degree was on the history of the social sciences, with such concentration fields as the history of Victorian social thought,  I spent countless afternoons crouching in dark carrels in libraries reading Victorians like [William Jevons](http://en.wikipedia.org/wiki/Jevons_paradox), [Adolph Quetelet](http://en.wikipedia.org/wiki/Adolphe_Quetelet), [Francis Galton](http://en.wikipedia.org/wiki/Francis_Galton), and [Henry Thomas Buckle](http://web.inter.nl.net/hcc/rekius/buckle.htm).
  
@@ -18,7 +18,17 @@ In the Victorian era, the smart and the curious fell in love with experimental t
  
 Galton doubled down on Quetelet’s  insights and transformed everything in sight into graphs and numbers: fingerprints, faces, skulls, “intelligence.” He invented IQs and [craniometry](http://en.wikipedia.org/wiki/Anthropometry#Craniometry_and_paleoanthropology). Galton and his Victorian peers became enamored of numerical regularities to be found in large “databases.”
 
-<div class="inline-image"> <a rel="lightbox" href="/images/blog/2012/12/galton-weather-large.jpg"><img src="/images/blog/2012/12/galton-weather-medium.jpg" width="640" alt="FBI memo" /></a> <p class="caption"> <span class="credit"></a>Image courtesy of the Wellcome Trust</span> A weather chart from Galton's <em>Meteorographica</em> (Macmillan, 1863). </p> </div>
+<div class="inline-image">
+  <a rel="lightbox" href="/images/blog/2012/12/galton-weather-large.jpg">
+    <img src="/images/blog/2012/12/galton-weather-medium.jpg" width="640" alt="FBI memo" />
+  </a>
+  <p class="caption">
+    A weather chart from Galton’s <em>Meteorographica</em> (Macmillan, 1863).
+    <span class="credit">
+      Image courtesy of the Wellcome Trust
+    </span>
+  </p>
+</div>
  
 Yet it was up to Buckle to transform history into a “science.” Buckle sought to do for history what Javons did for political economy and Quetelet and Galton did for sociology, namely,  do away with narrative. Statistical regularities would yield true, deep understanding onto the changing behavior of collectivities though time. Buckle represented the triumph of statistics over narrative among historians.
  

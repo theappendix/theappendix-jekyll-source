@@ -70,7 +70,29 @@
     color: $deemphasizedColor;
   }
 
+  iframe {
+    margin: {
+      right: auto;
+      left: auto;
+    }
+    max-width: 640px;
+    width: 100%;
+  }
+
+  ul {
+    font-size: 1.25em;
+    list-style-type: disc;
+    margin: 1em 0;
+    padding: 0 2em;
+
+    li {
+      margin-bottom: .5em;
+      line-height: 125%;
+    }
+  }
+
   ol {
+    font-size: 1.25em;
     list-style-type: decimal;
     margin: 1em 0;
     padding: 0 2em;
@@ -79,7 +101,7 @@
         margin-bottom: .5em;
         line-height: 125%;
     }
-}
+  }
             
   ul.image-gallery {
     margin: 0;
@@ -138,6 +160,10 @@
     max-width: 640px;
     margin: 3em auto;
     width: 100%;
+
+    img {
+      width: 100%;
+    }
 
     p.caption {
       font: {
@@ -254,19 +280,27 @@
   }
 
   blockquote {
-    padding: 0 20px;
-    width: 580px;
     border-width: 0 0 0 1px;
     border-style: dotted;
     border-color: $accentColor;
     margin-left: 20px;
     margin-top: 40px;
     margin-bottom: 40px;
+    padding: 0 20px;
+    width: 580px;
 
     p {
       width: auto;
       font-size: 1em;
       margin: 0 0 1em 0;
+    }
+
+    ul {
+      font-size: 1em;
+    }
+
+    ol {
+      font-size: 1em;
     }
   }
 
