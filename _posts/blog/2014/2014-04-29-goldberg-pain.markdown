@@ -29,12 +29,15 @@ This is (appropriately) carefully qualified, but even so, I do not think it is q
 First, it has long been argued that professional healers at least as far back as the Middle Ages generally were not focused on alleviating their patients’ pain.  Of course, then, as now, pain is a multivalent, rich, and highly ambiguous phenomenon, one that lends easily to metaphor and account in a wide variety of social domain.  So, as Esther Cohen [shows](http://books.google.com/books/about/The_Modulated_Scream.html?id=9WkBvu-wfjAC), most discussions of pain in Western medieval culture tend to appear in theological contexts, whereas early modern and modern expressions of pain often appear more in [literary formats](http://ukcatalogue.oup.com/product/9780198187172.do).  It is actually surprisingly difficult to find people discussing their own phenomenologies of pain specifically in therapeutic contexts.
 
 <div class="inline-image">
-<a rel="lightbox" href="/images/blog/2014/04/quack-large.jpg">
-<img src="/images/blog/2014/04/quack-medium.jpg" width="640" alt="wheelie" />
-</a>
-<p class="caption"> A mid-17th century depiction of a quack doctor and his assistants performing public surgery on an unfortunate young man. Various medicinal liquors and unguents are on display to his right, and a recently treated man is hastily downing a post-op beer while being wheeled away from the scene.
-<span class="credit">Jan Steen, "The Quack Doctor," c. 1660, Rijksmuseum Amsterdam.</span>
-</p>
+  <a rel="lightbox" href="/images/blog/2014/04/quack-large.jpg">
+    <img src="/images/blog/2014/04/quack-medium.jpg" width="640" alt="wheelie" />
+  </a>
+  <p class="caption">
+    A mid-17th century depiction of a quack doctor and his assistants performing public surgery on an unfortunate young man. Various medicinal liquors and unguents are on display to his right, and a recently treated man is hastily downing a post-op beer while being wheeled away from the scene.
+    <span class="credit">
+      Jan Steen, “The Quack Doctor,” c. 1660, Rijksmuseum Amsterdam
+    </span>
+  </p>
 </div>
 
 But both medievalists and early modernists have set about revising or at least complicating some aspects of the long-held belief that analgesia was not a major priority.  Cohen shows beyond doubt in late medieval culture that both lay sufferers and healers focused much on pain, and that there is ample evidence from which to conclude that healers believed in the importance of and strove, where possible, to alleviate their charges’ pain.  She [notes](http://books.google.com/books?id=9WkBvu-wfjAC&pg=PA50&lpg=PA50&dq=%22Surcease+might+not+have+been+the+primary+goal+of+physicians%22&source=bl&ots=4K4vhObr-X&sig=hYTO8vfU25k8zURSNbkTpPGkLJg&hl=en&sa=X&ei=9-hfU-TDCsOjyATk0YHoDA&ved=0CCsQ6AEwAA#v=onepage&q=%22Surcease%20might%20not%20have%20been%20the%20primary%20goal%20of%20physicians%22&f=false):
@@ -60,7 +63,7 @@ What does it mean for a remedy to “work”? And in answering this question as 
 
 In historical context, historians of medicine should IMO aim to answer this question by asking what it meant for people in the periods in which we are interested for a remedy to “work.”  Although I am an historian of ideas rather than a social historian, I take the lessons of the New Social Turn seriously.  If we really want to gain insight into the phenomenology of pain and illness in the past, we have to inquire as to the social meaning of medicines and remedies in their own contexts.
 
-In his classic 1977 paper "The Therapeutic Revolution: Medicine, Meaning and Social Change in Nineteenth‑Century America," Charles Rosenberg argued that remedies that "worked" in the early 19th century were those that had visible effects consistent with what one would expect and desire in a humoral system:
+In his classic 1977 paper “The Therapeutic Revolution: Medicine, Meaning and Social Change in Nineteenth‑Century America,” Charles Rosenberg argued that remedies that “worked” in the early 19th century were those that had visible effects consistent with what one would expect and desire in a humoral system:
 
 >The American physician in 1800 had no diagnostic tools beyond his senses and it is hardly surprising that he would find congenial a framework of explanation which emphasized the importance of intake and outgo, of the significance of perspiration, of pulse, or urination and menstruation, of defecation, of the surface eruptions which might accompany fevers or other internal ills.  These were phenomena which he as physician, the patient, and the patient’s family could see, evaluate, and scrutinize for clues as to the sick person’s fate.
 
