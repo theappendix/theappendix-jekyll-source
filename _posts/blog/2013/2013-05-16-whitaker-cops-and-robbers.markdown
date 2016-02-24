@@ -22,10 +22,15 @@ When I began my dissertation research into the origins of the multinational crim
 L. Ron Hubbard moved Scientology’s headquarters to Sussex, England in 1960—ostensibly to spread the religion but also to avoid an impending investigation by the United States government on the basis of tax evasion. Hubbard had previous connections, of a sort, to England, having been a leading member of the [California branch of the Ordo Templo Orientalis](http://theappendix.net/blog/2013/5/magic-isnt-rocket-science), an offshoot of the Order of the Golden Dawn controlled by Aleister Crowley. Hubbard’s expulsion from the group for embezzlement was followed shortly thereafter by the publication of *Dianetics*, a theoretical work that forms the basis of the Church of Scientology. 
 
 <div class="inline-image"> 
-    <a rel="lightbox" href="/images/blog/2013/05/whitaker1-large.jpg"><img src="/images/blog/2013/05/whitaker1-medium.jpg" width="640" alt="pasadena" /></a>
-    <p class="caption"> Audience members watching L. Ron Hubbard conduct a Dianetics seminar in Los Angeles, 1950.
-        <span class="credit">Wikimedia Commons. </span> 
-    </p>
+  <a rel="lightbox" href="/images/blog/2013/05/whitaker1-large.jpg">
+    <img src="/images/blog/2013/05/whitaker1-medium.jpg" width="640" alt="Dianetics seminar" />
+  </a>
+  <p class="caption">
+    Audience members watching L. Ron Hubbard conduct a Dianetics seminar in Los Angeles, 1950.
+    <span class="credit">
+      Wikimedia Commons
+    </span> 
+  </p>
 </div>
 
 Hubbard lived in London on and off during the 1950s, but took up permanent residence in England at [Saint Hill Manor](http://en.wikipedia.org/wiki/Saint_Hill_Manor), Sussex in 1959. From its new headquarters in the United Kingdom, the Church began to spread into continental Europe. In 1968, West German police, concerned about the opening of Scientology auditing centers in their country, requested information on the organization from Interpol. Interpol had yet to create a dossier on the Church, and thus asked the London Metropolitan Police (the Met) to develop one. 
@@ -45,15 +50,20 @@ The Church, well aware of its negative perception among national governments, ha
 Though I have not been able to confirm it, it is more than likely that this operation, or a similar one, also resulted in the public release of the Met’s profile of the Church of Scientology in West Germany in 1973. The release of this damning document led to a swift response by the Church, which filed suit against Interpol and the Metropolitan Police in German court. The Church followed this by organizing a propaganda campaign against Interpol that attacked it as a tool of totalitarianism, emphasizing in particular the organization’s Nazi past.  The early wave of this attack featured short newspaper articles and pamphlets that offered surviving photographs of Nazi-run Interpol conferences during the Second World War. 
 
 <div class="inline-image"> 
-    <a rel="lightbox" href="/images/blog/2013/05/whitaker2-large.jpg"><img src="/images/blog/2013/05/whitaker2-medium.jpg" width="640" alt="pasadena" /></a>
-    <p class="caption"> A page from the 1990 pamphlet, "Interpol: Private Group, Public Menace."
-        <span class="credit">Perry-Castañeda Library, University of Texas at Austin </span> 
-    </p>
+  <a rel="lightbox" href="/images/blog/2013/05/whitaker2-large.jpg">
+    <img src="/images/blog/2013/05/whitaker2-medium.jpg" width="640" alt="Interpol pamphlet" />
+  </a>
+  <p class="caption">
+    A page from the 1990 pamphlet, "Interpol: Private Group, Public Menace."
+    <span class="credit">
+      Perry-Castañeda Library, University of Texas at Austin
+    </span> 
+  </p>
 </div>
 
 Subsequent attacks became more sophisticated, coming in the form of nonfiction publications that claimed to provide an unbiased discussion of Interpol’s historical and contemporary operation. In his 1976 book, *The Secret World of Interpol,* author Omar Garrison argued that Interpol maintains an “Orwellian dream” of establishing “a dossier-based dictatorship” that will bring an end to civil liberties around the world. In a more measured approach, authors Trevor Meldal- Johnsen and Vaughn Young (who famously went on to testify against COS) wrote that Interpol had the opportunity to become an effective organization, but it must first curb its despotic lust for information and surveillance of ordinary civilians.
 
-Scientology’s attack on Interpol could not have come at a worse time for the police group. The 1970s began with a drawn-out debate in the United Nations concerning Interpol’s status as an official NGO. This was followed by Senate hearings in the United States in 1976 and 1978 – partly inspired by Scientologist propaganda – that questioned the legality of Interpol’s operation as well as its benefits for America. 
+Scientology’s attack on Interpol could not have come at a worse time for the police group. The 1970s began with a drawn-out debate in the United Nations concerning Interpol’s status as an official NGO. This was followed by Senate hearings in the United States in 1976 and 1978—partly inspired by Scientologist propaganda—that questioned the legality of Interpol’s operation as well as its benefits for America. 
 
 Interpol, led by Secretary General [Jean Népote](http://news.google.com/newspapers?nid=1755&dat=19781122&id=Q_4jAAAAIBAJ&sjid=hWcEAAAAIBAJ&pg=6891,3622445), attempted to fight back by opening its doors to a new series of investigators including Michael Fooner, Iris Noble, Peter Lee, and Fenton Bresler. These writers helped to counter some of the more extreme arguments emanating from the Church of Scientology. What began as a propaganda assault ended with serious journalism and scholarship. 
 

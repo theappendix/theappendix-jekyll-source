@@ -24,14 +24,18 @@ Every spring, residents of Pasadena, California confront a phenomenon they call 
 And surprisingly, the rocket science and the black magic sprang from the same source.
 
 <div class="inline-image"> 
-    <a rel="lightbox" href="/images/blog/2013/05/pasadena-large.jpg"><img src="/images/blog/2013/05/pasadena-medium.jpg" width="640" alt="pasadena" /></a>
-    <p class="caption"> Pasadena on a rainy day in May, 2013.
-        <span class="credit">Photo by the author. </span> 
-    </p>
+  <a rel="lightbox" href="/images/blog/2013/05/pasadena-large.jpg">
+    <img src="/images/blog/2013/05/pasadena-medium.jpg" width="640" alt="pasadena" />
+  </a>
+  <p class="caption">
+    Pasadena on a rainy day in May, 2013.
+    <span class="credit">
+      Photo by the author
+    </span> 
+  </p>
 </div>
 
 <hr class="special" />
-
 
 I knew nothing of this history until the month before I moved to Pasadena to take up a fellowship at the Huntington Library, a palatial compound of interlocking gardens and villas created by the Gilded Age railroad tycoon of [the same name](http://en.wikipedia.org/wiki/Henry_E._Huntington). I was curious why the Huntington, the Jet Propulsion Lab, and Caltech had all emerged in the same sleepy suburb of Los Angeles. Did they share a common history?
 
@@ -47,17 +51,22 @@ Four times that day they tried to test fire their small rocket motor. On the las
 In 1941, at a crucial moment in the arms race between the Allies and Axis powers, Parsons had a brilliant insight which led to the development of modern rocketry. Following his intuition, Parsons claimed, he struck on the combination of potassium perchlorate and common roofing tar as components in solid rocket fuel. The technology would later make possible both intercontinental nuclear missiles and the Apollo moon landing. 
 
 <div class="inline-image"> 
-    <a rel="lightbox" href="/images/blog/2013/05/RocketBoys-large.jpg"><img src="/images/blog/2013/05/RocketBoys-medium.jpg" width="640" alt="pasadena" /></a>
-    <p class="caption"> Parsons (right foreground), Malina and their team at an early rocket test near Pasadena in 1936.
-        <span class="credit">Courtesy of NASA/JPL.</span> 
-    </p>
+  <a rel="lightbox" href="/images/blog/2013/05/RocketBoys-large.jpg">
+    <img src="/images/blog/2013/05/RocketBoys-medium.jpg" width="640" alt="Parsons and team" />
+  </a>
+  <p class="caption">
+    Parsons (right foreground), Malina and their team at an early rocket test near Pasadena in 1936.
+    <span class="credit">
+      Courtesy of NASA/JPL
+    </span> 
+  </p>
 </div>
 
 Strikingly, however, Parsons appears to have conceived of his work almost as an offshoot of early modern alchemy, regarding his insights as deriving from mystical sources. Around the time of his greatest creativity as a scientist, Parsons was becoming immersed in the world of Los Angeles occultism. He quickly became a leader of the Agape Lodge, the west coast branch of the English magus [Aleister Crowley’s](http://en.wikipedia.org/wiki/Aleister_Crowley) Ordo Templo Orientalis, itself an offshoot of the famed Victorian occult group the [Order of the Golden Dawn](http://en.wikipedia.org/wiki/Hermetic_Order_of_the_Golden_Dawn). In December of 1940, a member of the Lodge recorded in her “Magical Record” that Parsons, “a newcomer,” had “begun astral travels.” Just four months later, the lodge’s leader, Wilfred Smith, was [writing to Crowley](http://www.bibliotecapleyades.net/bb/parsons.htm) that
 
 >I think I have at long last a really excellent man, John Parsons. And starting next Tuesday he begins a course of talks with a view to enlarging our scope. He has an excellent mind and much better intellect then myself… John Parsons is going to be valuable. 
 
-Crowley soon became convinced of Parsons’ potential as an occult leader—but by the late 1940s, he had grown disappointed by what he regarded as the American scientist’s overly enthusiastic nature. Parsons had by this time become obsessed with the idea of performing magical rituals which would give material form to a spiritual being which he called an “elemental.” To his well-heeled neighbors' dismay, he had also converted his sprawling Pasadena mansion into an enclave of bohemian writers and fellow mystics (in the undated photo below, Parsons poses with Smith and Regina Kahl, the leaders of Agape Lodge).
+Crowley soon became convinced of Parsons’ potential as an occult leader—but by the late 1940s, he had grown disappointed by what he regarded as the American scientist’s overly enthusiastic nature. Parsons had by this time become obsessed with the idea of performing magical rituals which would give material form to a spiritual being which he called an “elemental.” To his well-heeled neighbors’ dismay, he had also converted his sprawling Pasadena mansion into an enclave of bohemian writers and fellow mystics (in the undated photo below, Parsons poses with Smith and Regina Kahl, the leaders of Agape Lodge).
 
 <div style="float: right; padding: 0 0 10px 20px; margin-right: -10px">
     <a rel="lightbox" style="border-width: 0" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/369/medium/Jack-Parsons-with-fellow-members-of-the-Agape-lodge.jpg?1367988804"><img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/369/medium/Jack-Parsons-with-fellow-members-of-the-Agape-lodge.jpg?1367988804" width="450" alt="agape" /></a>
@@ -67,10 +76,10 @@ Parsons’ closest friend during this period was an ex-Navy officer with a shado
 
 <hr class="special" />
 
-Parsons' life ended in tragedy: in 1951, he accidentally killed himself during one his chemical experiments by dropping a highly explosive substance called fulminate of mercury. By the time of his death, the world of high technology had already passed him by. While his peers at Caltech were helping develop nuclear weapons and space flight, he had been reduced to creating special effects for Hollywood films. 
+Parsons’ life ended in tragedy: in 1951, he accidentally killed himself during one his chemical experiments by dropping a highly explosive substance called fulminate of mercury. By the time of his death, the world of high technology had already passed him by. While his peers at Caltech were helping develop nuclear weapons and space flight, he had been reduced to creating special effects for Hollywood films. 
 
-Parsons' legacy, however, is all around us. The strange union between mysticism and technology that Parsons represented is woven into the fabric of twenty-first century life. In a future *Appendix* article, I intend to draw out what I mean by this. Although Parsons was (from my skeptical perspective) deluding himself with illusions of magical skill, he was indeed the possessor of a formidable power: technology. 
+Parsons’ legacy, however, is all around us. The strange union between mysticism and technology that Parsons represented is woven into the fabric of twenty-first century life. In a future *Appendix* article, I intend to draw out what I mean by this. Although Parsons was (from my skeptical perspective) deluding himself with illusions of magical skill, he was indeed the possessor of a formidable power: technology. 
 
-Parsons and his fellow magical acolytes believed that in the twentieth century the human race had entered a new, forward-looking era they called the age of Horus. “The Aeon of Horus,” Parsons wrote, “is of the nature of a child... perfectly ruthless, containing all possibilities.” But that childlike nature, he believed, “is also the nature of force—blind, terrible, unlimited force.” 
+Parsons and his fellow magical acolytes believed that in the twentieth century the human race had entered a new, forward-looking era they called the age of Horus. “The Aeon of Horus,” Parsons wrote, “is of the nature of a child… perfectly ruthless, containing all possibilities.” But that childlike nature, he believed, “is also the nature of force—blind, terrible, unlimited force.” 
 
 Writing, as he did in the era of the atom bomb, I can’t say he was wrong. 
