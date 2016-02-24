@@ -22,12 +22,15 @@ But why did the residents of sleepy Lowville, New York, way upstate in the weste
 Yet somehow the idea made its way there, no mistaking it. Lowville village, still two decades away from incorporation, had no bank or fire company, but it did have an academy, and under the leadership of Principal Stephen W. Taylor, the school had grown enough by 1824 to need a larger building. Taylor’s plan “consisted in placing the pupils in small separate apartments, open on one side, so that every one, both in the main floor and in the gallery was under the eye of the teacher at his stand, while no one could see any other of the students.” In short, a Panopticon. 
 
 <div class="inline-image">
-<a rel="lightbox" href="/images/blog/2013/11/Presidio-modelo2-large.jpg">
-<img src="/images/blog/2013/11/Presidio-modelo2-medium.jpg" width="640" alt="Ron" />
-</a>
-<p class="caption">The Presidio Modelo, Isla De la Juventud, Cuba, modelled on Bentham's panopticon.
-<span class="credit">Wikimedia Commons</span>
-</p>
+  <a rel="lightbox" href="/images/blog/2013/11/Presidio-modelo2-large.jpg">
+    <img src="/images/blog/2013/11/Presidio-modelo2-medium.jpg" width="640" alt="Ron" />
+  </a>
+  <p class="caption">
+    The Presidio Modelo, Isla De la Juventud, Cuba, modelled on Bentham’s panopticon.
+    <span class="credit">
+      Wikimedia Commons
+    </span>
+  </p>
 </div>
 
 Taylor—once described as the possessor of “a huge mass of brains”—thought the scheme so original that he applied for a patent. The authorities raised questions “inasmuch as an arrangement somewhat similar had been adopted in prisons in England.” But in the end, “the purposes to be accomplished were regarded as so dissimilar” that the patent was issued. As it turns out, Bentham had already written that panoptic architecture applied to a wide range of institutions. In *Chrestomathia* (1816), he applied the concept specifically to education. So it seems that these Americans were only dimly aware of who he was, if at all. 
@@ -35,23 +38,23 @@ Taylor—once described as the possessor of “a huge mass of brains”—though
 The school’s architect, Philip Hooker, may have known better, though. A decade or so earlier he had designed the Albany jail so that a single guard could survey all of its cells simply by swiveling in place. “The octagonal saloon,” he explained, “has a communication with each room in each story.” It seems odd that this “profoundly conservative architect” would draw up something as manifestly visionary as a Panopticon. At just this time Bentham himself was struggling to convince British politicians of the plan’s workability. But actually, Hooker’s conservatism seems to have consisted mostly of neo-classicism, which comports just fine with Bentham’s supreme rationality, though there is no evidence that he actually knew who Bentham was. In any case, he had no trouble collaborating with Taylor’s “singularly mathematical and methodical mind.” 
 
 <div class="inline-image">
-<a rel="lightbox" href="/images/blog/2013/11/Albany_Boys’_Academy_(1)-large.jpg">
-<img src="/images/blog/2013/11/Albany_Boys’_Academy_(1)-medium.jpg" width="640" alt="Ron" />
-</a>
-<p class="caption">Albany Boys’ Academy, designed by Philip Hooker in 1815 in conventional style, shown circa 1907.
-<span class="credit">Wikimedia Commons</span>
-</p>
+  <a rel="lightbox" href="/images/blog/2013/11/Albany_Boys’_Academy_(1)-large.jpg">
+    <img src="/images/blog/2013/11/Albany_Boys’_Academy_(1)-medium.jpg" width="640" alt="Ron" />
+  </a>
+  <p class="caption">
+    Albany Boys’ Academy, designed by Philip Hooker in 1815 in conventional style, shown circa 1907.
+    <span class="credit">
+      Wikimedia Commons
+    </span>
+  </p>
 </div>
 
 Hooker and Taylor redesigned Lowville Academy as a twelve-sided, two-story brick structure. The main floor, twenty-three feet high and seventy feet in diameter, must have been an immense open space of something like 3,000 square feet. The floor plan shows “a series of ‘stalls’ or partitions” along the exterior wall and interior benches arranged in a semi-circle for class recitations. Near the center is the principal’s “high seat or throne overlooking the whole situation.” The attic story served as a girls’ department. The overlay of dotted lines indicates the original plan for student bedrooms, but in fact it was “constructed upon the solitary-cell principle . . . it being apparently thought that the young ladies needed watching while at their studies, as much as the young men.” 
 
 <div class="inline-image">
-<a rel="lightbox" href="/images/blog/2013/11/Lowville_Panopticon_blueprint_(1)-large.jpg">
-<img src="/images/blog/2013/11/Lowville_Panopticon_blueprint_(1)-medium.jpg" width="640" alt="Ron"/>
-</a>
-<p class="caption">
-<span class="credit"></span>
-</p>
+  <a rel="lightbox" href="/images/blog/2013/11/Lowville_Panopticon_blueprint_(1)-large.jpg">
+    <img src="/images/blog/2013/11/Lowville_Panopticon_blueprint_(1)-medium.jpg" width="640" alt="Ron"/>
+  </a>
 </div>
 
 The kids hated it. There’s no direct testimony, but retrospective accounts unanimously stress the students’ objections to “this close espionage.” That word, which recurred in several versions of the story, is only fitting. Bentham addressed its use in [*The Rationale of Reward*](http://books.google.co.uk/books?id=L5Q7AAAAYAAJ), a work that tries to systematically elucidate a philosophy of social engineering by means of carrots and sticks. In one chapter, Bentham notes the popular distaste for rewarding informants because it “introduces into society a system of espionage.” This objection he waves off breezily. It is a case merely of stigma, he argues, and so “let us substitute the word inspection, which is unconnected with the same prejudice.” As long as “inspection” serves “the preservation of the public tranquility” rather than “an oppressive system of police,” all is well. It must have been these kinds of passages that led John Stuart Mill to write of Bentham, in an otherwise [laudatory reflection](http://oll.libertyfund.org/?option=com_staticxt&staticfile=show.php%3Ftitle=241&chapter=21491&layout=html&Itemid=27), “We must not look for subtlety, or the power of recondite analysis, among his intellectual characteristics. In the former quality, few great thinkers have ever been so deficient.” 
@@ -61,12 +64,15 @@ Besides student mutiny, the Lowville Panopticon suffered from the mundane proble
 At last the whole structure became unsafe. It was taken down in 1836. Years before that, Taylor had resigned in humiliation.
 
 <div class="inline-image">
-<a rel="lightbox" href="/images/blog/2013/11/Lowvilles_Academy_circa_1859_(1)-large.jpg">
-<img src="/images/blog/2013/11/Lowvilles_Academy_circa_1859_(1)-medium.jpg" width="640" alt="Ron"/>
-</a>
-<p class="caption">Lowville Academy, circa 1859, after Taylor’s Panopticon had been demolished
-<span class="credit">Hough, <em>History of Lewis County</em></span>
-</p>
+  <a rel="lightbox" href="/images/blog/2013/11/Lowvilles_Academy_circa_1859_(1)-large.jpg">
+    <img src="/images/blog/2013/11/Lowvilles_Academy_circa_1859_(1)-medium.jpg" width="640" alt="Ron"/>
+  </a>
+  <p class="caption">
+    Lowville Academy, circa 1859, after Taylor’s Panopticon had been demolished
+    <span class="credit">
+      Hough, <em>History of Lewis County</em>
+    </span>
+  </p>
 </div>
 
 We know all this because of Franklin B. Hough, a local historian and academy trustee. As far as I can tell, Hough is the only direct source concerning the episode. He seems to have regarded it as worthy of record precisely because of its ridiculousness. It is all the more ridiculous today, when Michel Foucault’s take on the Benthamite Panopticon has become a cliché of critical social theory. For Foucault, the Panopticon was about much more than sight lines. It represented the general disciplinary logic at the heart of all modern social institutions. In schools, hospitals, armies and, of course, in prisons, the same principle of surveillance reordered all it encountered, even the human body. 
