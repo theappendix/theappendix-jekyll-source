@@ -19,12 +19,15 @@ Perhaps it’s surprising that a beheading could be too grisly, too spectacularl
 The history of the professional executioner is a chronicle of perfecting the choreography of death. It’s a story of exacting skill and the never-ending search for a more efficient means to enact (and contain) the spectacle of death. The professionalization of death—a chilling business—was cultivated for centuries by a profane tribe of men who were denied civil status and ostracized from nearly every aspect of daily life. Forced to live at the margins, the executioner was defined by ambiguities: a pivotal actor in the multipart drama of public killing, an extension of the crown, and yet morally hazy and universally despised. 
 
 <div class="inline-image">
-<a rel="lightbox" href="/images/blog/2014/06/Figure_4__Exécution_de_Gosson_sur_la_place_d'Arras-large.jpg">
-<img src="/images/blog/2014/06/Figure_4__Exécution_de_Gosson_sur_la_place_d'Arras-medium.jpg" width="640" alt="execution" />
-</a>
-<p class="caption"> <em>Exécution de Gosson sur la place d'Arras,</em> 16th century
-<span class="credit"> BNF</span>
-</p>
+  <a rel="lightbox" href="/images/blog/2014/06/Figure_4__Exécution_de_Gosson_sur_la_place_d'Arras-large.jpg">
+    <img src="/images/blog/2014/06/Figure_4__Exécution_de_Gosson_sur_la_place_d'Arras-medium.jpg" width="640" alt="execution" />
+  </a>
+  <p class="caption">
+    <em>Exécution de Gosson sur la place d’Arras,</em> 16th century
+    <span class="credit">
+      BNF
+    </span>
+  </p>
 </div>
 
 
@@ -37,12 +40,15 @@ Thus the genealogy of the executioner, much like any European royal dynasty, can
 If the office of executioner was bound by a kind of primogeniture, it was because the families had few alternatives. The very presence of the executioner and his family in everyday society was so feared that their lives were highly governed. Early modern cities enacted laws dictating nearly every aspect of the executioner’s life, from where he could live to which buildings he could enter to whom he could touch.
 
 <div class="inline-image">
-<a rel="lightbox" href="/images/blog/2014/06/Figure_2__Death_of_Robespierre_Who_was_guillotined_in_Paris_the_28th_July_1794-large.jpg">
-<img src="/images/blog/2014/06/Figure_2__Death_of_Robespierre_Who_was_guillotined_in_Paris_the_28th_July_1794-medium.jpg" width="640" alt="execution" />
-</a>
-<p class="caption"> Engraving after a painting by J. Beys, <em>Death of Robespierre: Who was guillotined in Paris the 28th July 1794,</em> 1799.
-<span class="credit"> Bibliothèque Nacional de France (BNF)</span>
-</p>
+  <a rel="lightbox" href="/images/blog/2014/06/Figure_2__Death_of_Robespierre_Who_was_guillotined_in_Paris_the_28th_July_1794-large.jpg">
+    <img src="/images/blog/2014/06/Figure_2__Death_of_Robespierre_Who_was_guillotined_in_Paris_the_28th_July_1794-medium.jpg" width="640" alt="execution" />
+  </a>
+  <p class="caption">
+    Engraving after a painting by J. Beys, <em>Death of Robespierre: Who was guillotined in Paris the 28th July 1794,</em> 1799.
+    <span class="credit">
+      Bibliothèque Nacional de France (BNF)
+    </span>
+  </p>
 </div>
 
 In most of Europe, executioners were prohibited from living in the urban areas they served. Apart from required attendance at church services, where they and their families were restricted to a designated pew, executioners only entered the city to perform tasks relating to their office. Those entailed the duties, of course, of torturing or killing the condemned, but they also included a variety of *basses oeuvres* with peculiar perks, such as the exclusive right to clean cesspools (and any valuables contained therein), the right to claim stray animals, and ownership over animal carcasses (and hence their profitable hides) that might litter the streets. Included in the *basses oeuvres* was a [management role](http://books.google.com/books?id=uVcPEH96c2cC&pg=PA302&lpg=PA302&dq=Beyond+Deterrence:+Cadavers,+Effigies,+Animals+and+the+Logic+of+Executions+in+Premodern+France+Paul+Friedland&source=bl&ots=CDQqOjT98H&sig=bCan2AvHCOft1ZuLkO-JYObVthc&hl=en&sa=X&ei=0fiHU8ufFo7ksASrwIHYCA&ved=0CDcQ6AEwAg#v=onepage&q=Beyond%20Deterrence%3A%20Cadavers%2C%20Effigies%2C%20Animals%20and%20the%20Logic%20of%20Executions%20in%20Premodern%20France%20Paul%20Friedland&f=false) over other social pariahs, from whom the executioner could levy a tax, suggesting that he was a sort of sovereign of the underworld. In sixteenth-century Troyes, the executioner collected a one-time fee of five *sous* from prostitutes and one *liar* from lepers. 
@@ -54,12 +60,15 @@ Executioners were not, as is sometimes assumed, boorish uneducated sociopaths wh
 Most importantly, the executioner’s education included extensive instruction in human anatomy. Indeed, the executioner’s knowledge of the human body was so renowned that their services were often demanded in place of a physician. The author of a [1908 entry](http://books.google.com/books?id=aR4-AQAAMAAJ&printsec=frontcover#v=onepage&q&f=false) in the *British Medical Journal* noted, “On July 24, 1579 a license was issued by Frederick II to Anders Freimut, executioner of Copenhagen, granting him the right to set bones and treat old wounds though he was expressly forbidden to meddle with recent wounds,” adding that “in 1695, Andreas Liebknecht the Copenhagen executioner, was in such repute for his treatment of the venereal disease that he wrote a book on the subject.”
 
 <div class="inline-image">
-<a rel="lightbox" href="/images/blog/2014/06/Figure_3_The_Execution_of_Ravaillac-large.jpg">
-<img src="/images/blog/2014/06/Figure_3_The_Execution_of_Ravaillac-medium.jpg" width="640" alt="execution" />
-</a>
-<p class="caption"> <em>The Execution of Ravaillac,</em> c. 1610.
-<span class="credit"> BNF</span>
-</p>
+  <a rel="lightbox" href="/images/blog/2014/06/Figure_3_The_Execution_of_Ravaillac-large.jpg">
+    <img src="/images/blog/2014/06/Figure_3_The_Execution_of_Ravaillac-medium.jpg" width="640" alt="execution" />
+  </a>
+  <p class="caption">
+    <em>The Execution of Ravaillac,</em> c. 1610.
+    <span class="credit">
+      BNF
+    </span>
+  </p>
 </div>
 
 While the executioner’s knowledge of anatomy engendered these ironic side jobs, it was acquired with a singular purpose: efficiency. Each was judged on his meticulous ability to carry out a death sentence while avoiding the excessively bloody spectacle of a botched execution. Public executions—by sword, fire or wheel—were the culmination of a theatrical performance through which the crown enacted its deadly authority. The performance of justice needed to be seamless enough to appear natural—any disruption might be interpreted by the gathered crowd as an intervening act of God, a repudiation of the divine rite of kings. Hence it needed to be expertly enacted. To botch the highly choreographed routine was seen as an affront to justice.
@@ -71,12 +80,15 @@ Likewise, in the midst of the French Revolution, as Charles-Henri Sanson struggl
 The heavy workload had already cost Sanson his younger son, Gabriel, who upon displaying a decapitated head slipped in its pooling blood, fell from the scaffold, and met an untimely death. Afterward Sanson became one of the most vocal advocates for of Joseph-Ignace Guillotin’s new invention, [calling](http://books.google.com/books?id=xlSQE7VekvwC&printsec=frontcover#v=onepage&q&f=false) it a “fine machine.” Sanson tested the new-fangled death machine on live sheep and calves, then on the corpses of women and children. During his trials he found the cuts of the machine were not as clean on male corpses, and his observations prompted a redesign. Only after Sanson declared himself satisfied with the redesign did the guillotine become synonymous with the French Revolution. It was with that machine that he would [execute](http://www.archive.org/stream/memoirsofsansons02sansuoft/memoirsofsansons02sansuoft_djvu.txt) thousands of citizens, including Louis XVI and Charlotte Corday. 
 
 <div class="inline-image">
-<a rel="lightbox" href="/images/blog/2014/06/Figure_1_Brissot_et_20_de_ses_complices_%C3%A0_la_guillotine_le_10_brumaire_de_l'an_2_eme_de_la_R%C3%A9publique_fran%C3%A7aise_une_et_indivisible__Brissot_et_20_de_ses_complices_subirent_leur_jugement_sur_la_place_de_la_R%C3%A9volution-large.jpg">
-<img src="/images/blog/2014/06/Figure_1_Brissot_et_20_de_ses_complices_%C3%A0_la_guillotine_le_10_brumaire_de_l'an_2_eme_de_la_R%C3%A9publique_fran%C3%A7aise_une_et_indivisible__Brissot_et_20_de_ses_complices_subirent_leur_jugement_sur_la_place_de_la_R%C3%A9volution-medium.jpg" width="640" alt="execution" />
-</a>
-<p class="caption"> <em>Brissot et 20 de ses complices à la guillotine </em>["Brissot and twenty of his accomplices at the guillotine"], 1793
-<span class="credit">BNF</span>
-</p>
+  <a rel="lightbox" href="/images/blog/2014/06/Figure_1_Brissot_et_20_de_ses_complices_%C3%A0_la_guillotine_le_10_brumaire_de_l'an_2_eme_de_la_R%C3%A9publique_fran%C3%A7aise_une_et_indivisible__Brissot_et_20_de_ses_complices_subirent_leur_jugement_sur_la_place_de_la_R%C3%A9volution-large.jpg">
+    <img src="/images/blog/2014/06/Figure_1_Brissot_et_20_de_ses_complices_%C3%A0_la_guillotine_le_10_brumaire_de_l'an_2_eme_de_la_R%C3%A9publique_fran%C3%A7aise_une_et_indivisible__Brissot_et_20_de_ses_complices_subirent_leur_jugement_sur_la_place_de_la_R%C3%A9volution-medium.jpg" width="640" alt="execution" />
+  </a>
+  <p class="caption">
+    <em>Brissot et 20 de ses complices à la guillotine </em>[“Brissot and twenty of his accomplices at the guillotine”], 1793
+    <span class="credit">
+      BNF
+    </span>
+  </p>
 </div>
 
 ***
@@ -88,12 +100,15 @@ There were hold-outs, of course, Albert Pierrepoint continued his family’s wor
 Pierrepoint’s work was done in private, hidden behind the grim walls of the country’s main prison. Great Britain outlawed public execution in 1868 (though France would not outlaw public executions until the twentieth century, executions were moved from public squares to the prison courtyard making them harder and harder to witness). It’s hard to say why the public had lost its taste for the executioners’ meticulous work; perhaps it was a hangover from the bloody spectacles of the French Revolution, perhaps it was the privatization of the nineteenth century, with its preference for the warm corners of domestic drawing rooms. Perhaps the guillotine’s mechanization of death seemed too easily brutal.  
 
 <div class="inline-image">
-<a rel="lightbox" href="/images/blog/2014/06/Figure_5-large.jpg">
-<img src="/images/blog/2014/06/Figure_5-medium.jpg" width="640" alt="execution" />
-</a>
-<p class="caption">Engraved by L. Massard, <em>L'exécuteur des hautes oeuvres sous Louis XV (époque de Charles-Henri Sanson)</em>, from the book <em>Les Français sous la Révolution</em>, 1843.
-<span class="credit"> Wikimedia Commons</span>
-</p>
+  <a rel="lightbox" href="/images/blog/2014/06/Figure_5-large.jpg">
+    <img src="/images/blog/2014/06/Figure_5-medium.jpg" width="640" alt="execution" />
+  </a>
+  <p class="caption">
+    Engraved by L. Massard, <em>L’exécuteur des hautes oeuvres sous Louis XV (époque de Charles-Henri Sanson)</em>, from the book <em>Les Français sous la Révolution</em>, 1843.
+    <span class="credit">
+      Wikimedia Commons
+    </span>
+  </p>
 </div>
 
 The office of executioner was slowly phased out after World War II. As moral economies of punishment shifted, deterrence and reformation began to vie with one another. And after the requisite war criminals had been tried and executed, reformation triumphed and European nations began outlawing capital punishment. The last of his kind, Pierrepoint, happily left his family’s work behind him in in 1956 (the United Kingdom would abolish the death penalty in 1969), opened a pub and wrote an autobiography. “I do not now believe,” he [wrote](http://books.google.co.uk/books/about/Executioner_Pierrepoint.html?id=510vAQAAIAAJ) in his 1974 memoir, *Executioner: Pierrepoint*, “that any one of the hundreds of executions I carried out has in any way acted as a deterrent against future murder. Capital punishment, in my view, achieved nothing except revenge.” 
