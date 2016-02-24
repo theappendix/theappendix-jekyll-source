@@ -8,19 +8,22 @@ permalink: "/posts/2014/01/technofy-your-mind"
 excerpt: >
   A Vietnam vet collaborated with a precocious teenage futurist in deindustrializing Detroit and made music history. 
 header_image: header-cybotron_banner.jpg
-header_image_caption: "The album cover of Cybotron's <em>Enter</em> (1983)."
+header_image_caption: "The album cover of Cybotron’s <em>Enter</em> (1983)."
 ---
 Techno is black music. True, there’s more to it, but that statement can be justified on both general and specific grounds. General: its genealogical forbears, whether it came of age in Europe, America or elsewhere, are Disco and Rock ‘n’ Roll, the black roots of which are not in dispute. Specific: the earliest releases of bona fide Techno—not to mention the genre name itself—came from four black dudes trying to imagine the future in inner-eighties Detroit. And if you want to get technical, you can throw in the foundational influence of Chicago’s mostly black inventors of Acid House, which together with the “Detroit sound” swept post-industrial Europe in the late eighties and created electronic dance music as we know it. None of which is to diminish the importance of such Euro-pioneers as Kraftwerk, Giorgio Moroder, and Gary Numan, or of Japan’s Yellow Magic Orchestra. But Americans often mistake modern Techno for a foreign import. It is not.
 
 Preliminaries out of the way, let us now praise Cybotron’s *Enter*, released in 1983 and [reissued last month by Fantasy Records](http://www.discogs.com/Cybotron-Clear/master/133). Enter is not really a Techno album. You see, it has guitar solos in it. But it is a Techno album. You see, it has the driving beats, the hollow snares, the squelchy bass lines, the sweeping atmospherics. Most of all, *Enter* is an unlikely album, the product of a Hendrix-riffing Vietnam vet collaborating with a precocious teenage futurist within the very specific context of deindustrializing, urban-crisis Detroit. There will never be another album like it. 
 
 <div class="inline-image">
-<a rel="lightbox" href="/images/blog/2014/01/Detroit1967-large.jpg">
-<img src="/images/blog/2014/01/Detroit1967-medium.jpg" width="640" alt="techno" />
-</a>
-<p class="caption"> Detroit at the time of the 1967 riots.
-<span class="credit">Life Magazine</span>
-</p>
+  <a rel="lightbox" href="/images/blog/2014/01/Detroit1967-large.jpg">
+    <img src="/images/blog/2014/01/Detroit1967-medium.jpg" width="640" alt="techno" />
+  </a>
+  <p class="caption">
+    Detroit at the time of the 1967 riots.
+    <span class="credit">
+      Life Magazine
+    </span>
+  </p>
 </div>
 
 The responsible parties are as follows. Rik Davis, born 1950 or thereabouts, alias “3070,” mind deranged by comics at an early age, perhaps traumatized by the ‘67 riots, “joined the Marines to sail the Seven Seas with Captain Sinbad,” deployed after Tet, saw action, discharged in 1971, “invested his post-malaria, combat-disability pay in an Arp synthesizer and programmed it to replicate machine-gun fire.”  Juan Atkins, born 1962, aliases too many to enumerate including “Model 500,” “Channel One” and “Infiniti,” learned to play drums-bass-guitar at an early age, drove under the influence of Parliament-Funkadelic, became obsessed with synthesizers—“like UFOs landing on records”—circa 1978. They met in 1980 in an electronics class at Ann Arbor’s Washtenaw Community College.
@@ -32,12 +35,14 @@ The name Cybotron apparently had something to do with the anxious futurology of 
 Still, Toffler knew how to turn a phrase, and *Future Shock*’s central thesis that the pace of social change is as important as the substance of the change itself is a respectable bit of sociological wisdom that receives more-or-less canonical treatment in Karl Polanyi’s classic, *The Great Transformation*, probably the single most important theoretical statement of the principles of social democracy after Keynes’s *General Theory*.  It seems worth noting that the kind of change that was happening in Detroit when Cybotron came together at the dawn of the Reagan Era was just the kind of rapid social disintegration that Polanyi predicted would inevitably ensue if policymakers untethered the market economy from it social moorings. That plus [residential racism](http://press.princeton.edu/titles/8029.html).  But, anyway, in the same 1983 that Cybotron released *Enter*, Toffler came up again in Herbie Hancock’s electro-funk-jazz excursion, *Future Shock*, which featured the Grammy-winning masterpiece of early hip-hop futurism, “[Rockit](http://www.youtube.com/watch?v=XSxMtDnRS24).” So Toffler seems to have had a point when he wrote that, “in dealing with the future . . . it is more important to be imaginative and insightful than to be one hundred percent ‘right.’”
 
 <div class="inline-image">
-<a rel="lightbox" href="/images/blog/2014/01/FutureShock-large.jpg">
-<img src="/images/blog/2014/01/FutureShock-medium.jpg" width="640" alt="techno" />
-</a>
-<p class="caption"> 
-<span class="credit">Herbie Hancock, <em>Future Shock</em>, 1983</span>
-</p>
+  <a rel="lightbox" href="/images/blog/2014/01/FutureShock-large.jpg">
+    <img src="/images/blog/2014/01/FutureShock-medium.jpg" width="640" alt="techno" />
+  </a>
+  <p class="caption"> 
+    <span class="credit">
+      Herbie Hancock, <em>Future Shock</em>, 1983
+    </span>
+  </p>
 </div>
 
 What did Enter offer in the images and insights department? Let us take a brief but comprehensive tour. The eponymous first song has to be the most agonized invitation to a party ever:
@@ -92,12 +97,14 @@ And now, finally, mercifully, “Clear,” the track that invented modern Techno
 After “Clear,” Cybotron split up. Davis wanted to go in more of a rock direction and eventually did so with two albums released in the nineties under the Cybotron moniker. Atkins had different ideas. He thought that a track called “Nightdrive (Thru Babylon),” which he made largely on his own but that Davis helped complete, ought to be the next step. “You can’t come behind a record like Clear with a rock-n-roll record,” he would later say. A lot of the guys who returned from Vietnam, he thought, were stuck on Hendrix and the psychedelic rock that came out of the sixties. Davis “was like Jimi Hendrix on the synthesizer,” Atkins said. It wasn’t a bad thing, just not what he was trying to do.  
 
 <div class="inline-image">
-<a rel="lightbox" href="/images/blog/2014/01/Model500Classics-large.jpg">
-<img src="/images/blog/2014/01/Model500Classics-medium.jpg" width="640" alt="techno" />
-</a>
-<p class="caption"> 
-<span class="credit">Model 500, <em>Classics</em>, 1983</span>
-</p>
+  <a rel="lightbox" href="/images/blog/2014/01/Model500Classics-large.jpg">
+    <img src="/images/blog/2014/01/Model500Classics-medium.jpg" width="640" alt="techno" />
+  </a>
+  <p class="caption"> 
+    <span class="credit">
+      Model 500, <em>Classics</em>, 1983
+    </span>
+  </p>
 </div>
 
 Atkins left Cybotron but took “Nightdrive” with him. He made another track, “No UFOs,” to back it and shopped the record to every label he could think of. No one would touch it. So he released the record himself on his own Metroplex imprint under the new name, Model 500. Both tracks, but especially the instrumental version of “No UFOs,” remain clearly, unmistakably, Techno: dark fascination with technology and the horizons of consciousness explored through artificial rhythm tracks and spacey synths. The tunes struck a chord. Three of Atkins’s friends—Derrick May, Kevin Saunderson, and Eddie Fowlkes—joined him at Metroplex and together they developed the sound that Atkins had pioneered.
