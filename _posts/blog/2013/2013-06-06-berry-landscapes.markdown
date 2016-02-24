@@ -9,11 +9,15 @@ excerpt: >
   Artist Justin Berry explores the process by which he creates his unique landscapes of imaginary worlds, one of which, <i>Dual Horizon</i>, we recently featured in the pages of <i>The Appendix</i>.
 ---
 <div class="inline-image">
-    <a rel="lightbox" href="/images/blog/2013/06/gildner1-large.jpg"><img src="/images/blog/2013/06/gildner1-medium.jpg" width="640" alt="Image by Justin Berry" /></a>
-    <p class="caption">
-        <i>Dual Horizon</i>, 2012.
-        <span class="credit">Justin Berry</span>
-    </p>
+  <a rel="lightbox" href="/images/blog/2013/06/gildner1-large.jpg">
+    <img src="/images/blog/2013/06/gildner1-medium.jpg" width="640" alt="Image by Justin Berry" />
+  </a>
+  <p class="caption">
+    <i>Dual Horizon</i>, 2012.
+    <span class="credit">
+      Justin Berry
+    </span>
+  </p>
 </div>
 
 <p class="editorial-intro">
@@ -53,15 +57,15 @@ When we look at traditional landscapes they are not empty images. Usually they a
 <hr class="special" />
 
 <div class="inline-image">
-<a rel="rel" href="/images/blog/2013/06/dual-horizons-detail-large.jpg">
-<img src="/images/blog/2013/06/dual-horizons-detail-medium.jpg" width="640" alt="Dual Horizon detail" />
-</a>
-<p class="caption">
-Detail of book edges from <i>Dual Horizon</i>.
-<span class="credit">
-Justin Berry
-</span>
-</p>
+  <a rel="rel" href="/images/blog/2013/06/dual-horizons-detail-large.jpg">
+    <img src="/images/blog/2013/06/dual-horizons-detail-medium.jpg" width="640" alt="Dual Horizon detail" />
+  </a>
+  <p class="caption">
+    Detail of book edges from <i>Dual Horizon</i>.
+    <span class="credit">
+      Justin Berry
+    </span>
+  </p>
 </div>
 
 In my images I always leave the edges of the book intact. It is important that it is a book and not an isolated painting or drawing, that the image is tied to an object which occupies space. I retain all of the scrapes and bruises that the object has accrued, the creases and tears from years of readership or unkind storage. These creases and tears are ruptures that break up the image plane
