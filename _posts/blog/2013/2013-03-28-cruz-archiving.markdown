@@ -9,12 +9,12 @@ excerpt: >
   We often think of archives as repositories for tomes of crumbling paper. But what about our digital, online life of the past thirty years? Who is archiving the internet for future generations?
 header_image: header-archiving.png
 ---
-Yahoo recently announced that they would be closing down their [message board](http://messages.yahoo.com/) service on March 31, 2013. This might not seem like much of a tragedy to a generation of internet users whose main venues for social interaction are sites like Facebook or Twitter. But the Yahoo message boards have been around for fifteen years, and they contain millions of messages posted on a wide range of subjects. As such, they represent a tremendous archive for future historians of the internet. And not just historians: such repositories are potentially valuable to anyone working on any subject covered in the millions of messages, or even [anthropologists studying internet culture](http://thememorybank.co.uk/papers/notes-towards-an-anthropology-of-the-internet/) – something I would like to see more of. 
+Yahoo recently announced that they would be closing down their [message board](http://messages.yahoo.com/) service on March 31, 2013. This might not seem like much of a tragedy to a generation of internet users whose main venues for social interaction are sites like Facebook or Twitter. But the Yahoo message boards have been around for fifteen years, and they contain millions of messages posted on a wide range of subjects. As such, they represent a tremendous archive for future historians of the internet. And not just historians: such repositories are potentially valuable to anyone working on any subject covered in the millions of messages, or even [anthropologists studying internet culture](http://thememorybank.co.uk/papers/notes-towards-an-anthropology-of-the-internet/)—something I would like to see more of. 
 
-Yet Yahoo chose to not make these archives available. They are closing the message boards down for good, and no one will be able to view them in the future – from a historian’s perspective, certainly an enormous waste of precious digital archival material. Some began archiving it on their own, but Yahoo! has not cooperated, and started limiting the access of individual connections to their servers. The solution: distributed computing. 
+Yet Yahoo chose to not make these archives available. They are closing the message boards down for good, and no one will be able to view them in the future—from a historian’s perspective, certainly an enormous waste of precious digital archival material. Some began archiving it on their own, but Yahoo! has not cooperated, and started limiting the access of individual connections to their servers. The solution: distributed computing. 
 The good folks at [ArchiveTeam.org](http://archiveteam.org/) have dealt with this situation before. They specialize in salvaging data from what they call “sickly, dying or dead” web sites. They are now taking on the archiving of the Yahoo message boards. Due to Yahoo’s bandwidth limitation, they cannot do it alone. You can help by becoming an Archive Team Warrior.
 
-To donate some of your bandwidth to the cause of archiving fifteen years of internet history, you can [download](http://www.archiveteam.org/index.php?title=Yahoo!_Messages) a program that will use your internet connection to automatically download and archive thousands of messages. It is a worthy cause, and the message boards will shut down on March 31st – so log in and help out. Archive Team also has many other such projects, and in the past they have saved the archives of big web services, like [GeoCities](http://archiveteam.org/index.php?title=Geocities) and [Friendster](http://archiveteam.org/index.php?title=Friendster).
+To donate some of your bandwidth to the cause of archiving fifteen years of internet history, you can [download](http://www.archiveteam.org/index.php?title=Yahoo!_Messages) a program that will use your internet connection to automatically download and archive thousands of messages. It is a worthy cause, and the message boards will shut down on March 31st—so log in and help out. Archive Team also has many other such projects, and in the past they have saved the archives of big web services, like [GeoCities](http://archiveteam.org/index.php?title=Geocities) and [Friendster](http://archiveteam.org/index.php?title=Friendster).
 
 Yahoo is shutting down this service without doing much to preserve it for a generation to whom “Yahoo!” might be “Ya Who?” 
 
@@ -30,14 +30,19 @@ Some have also taken on the archiving of old software (especially games) no long
 But perhaps one of the most impressive of such projects is the [Internet Archive](http://archive.org/). Besides holding an enormous collection of all sorts of media, such as public domain books, videos and audio, they also offer a web site archive, called the *Way Back Machine.* In it, you can type the adress of any web site and you will get a list of dates when that web site was saved, so you can visit it and see what it looked like then. Wondering what google.com looked like in 1998? or how about aol.com in 1996? Visit the *[Way Back Machine](http://archive.org/web/web.php)* and find out!
 
 <div class="inline-image"> 
-    <a rel="lightbox" href="/images/blog/2013/03/Google_1998-large.png"><img src="/images/blog/2013/03/Google_1998-medium.png" width="640" alt="Google" /></a>
-    <p class="caption"> Google.com in 1998.
-        
-    </p>
+  <a rel="lightbox" href="/images/blog/2013/03/Google_1998-large.png">
+    <img src="/images/blog/2013/03/Google_1998-medium.png" width="640" alt="Google" />
+  </a>
+  <p class="caption">
+    Google.com in 1998.
+  </p>
 </div>
 
 <div class="inline-image"> 
-    <a rel="lightbox" href="/images/blog/2013/03/AOL1996-large.png"><img src="/images/blog/2013/03/AOL1996-medium.png" width="640" alt="AOL" /></a>
-    <p class="caption"> AOL.com in 1996
-    </p>
+  <a rel="lightbox" href="/images/blog/2013/03/AOL1996-large.png">
+    <img src="/images/blog/2013/03/AOL1996-medium.png" width="640" alt="AOL" />
+  </a>
+  <p class="caption">
+    AOL.com in 1996
+  </p>
 </div>
