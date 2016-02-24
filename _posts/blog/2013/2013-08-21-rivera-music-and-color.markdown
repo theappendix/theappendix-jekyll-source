@@ -14,15 +14,19 @@ links:
   - label: "<i>Painters and Public Life in Eighteenth-Century Paris</i>"
     url: http://yalepress.yale.edu/yupbooks/book.asp?isbn=9780300037647
 ---
-*While researching *The Appendix’s* [current issue](http://theappendix.net/issues/2013/7), which is devoted to music and sound, we grew interested by a related topic: that of synesthesia. How do sound and color fit together, and why do some minds draw intensely vivid connections between the two? Lawrence E. Marks'* The Unity of the Senses, *for instance, described Newton's belief in "a real analogy between elementary colors and the notes of the musical scale.” Newton’s prism experiments famously established the ROYGBIV rainbow of colors which combine into white light—red, orange, yellow, green, blue, indigo, and violet. But for Newton (as for other Enlightenment thinkers like Louis-Bertrand Castel, described in more detail below) the seven colors also corresponded to the seven notes of the musical scale.* 
+*While researching* The Appendix’s *[current issue](http://theappendix.net/issues/2013/7), which is devoted to music and sound, we grew interested by a related topic: that of synesthesia. How do sound and color fit together, and why do some minds draw intensely vivid connections between the two? Lawrence E. Marks’s* The Unity of the Senses, *for instance, described Newton’s belief in “a real analogy between elementary colors and the notes of the musical scale.” Newton’s prism experiments famously established the ROYGBIV rainbow of colors which combine into white light—red, orange, yellow, green, blue, indigo, and violet. But for Newton (as for other Enlightenment thinkers like Louis-Bertrand Castel, described in more detail below) the seven colors also corresponded to the seven notes of the musical scale.* 
 
-*We poked around the Internet looking for more information, and found useful resources like this chart by <a href=" http://rhythmiclight.com/archives/ideas/colorscales.html">Fred Collopy</a>, which visualizes three centuries of claims about the relationship between music and color*: 
+*We poked around the Internet looking for more information, and found useful resources like this chart by <a href="http://rhythmiclight.com/archives/ideas/colorscales.html">Fred Collopy</a>, which visualizes three centuries of claims about the relationship between music and color*: 
 
 <div class="inline-image">
-    <a rel="lightbox" href="/images/blog/2013/08/Rivera0-large.jpg"><img src="/images/blog/2013/08/Rivera0-medium.jpg" width="640" alt="color chart" /></a>
-    <p class="caption"> <span class="credit"> Fred Collopy
- </span>
-    </p>
+  <a rel="lightbox" href="/images/blog/2013/08/Rivera0-large.jpg">
+    <img src="/images/blog/2013/08/Rivera0-medium.jpg" width="640" alt="color chart" />
+  </a>
+  <p class="caption">
+    <span class="credit">
+      Fred Collopy
+     </span>
+  </p>
 </div>
 
 *Yet so much of what is available about sound and color online restricts itself to pointing out the inherent coolness of synesthesia and leaves it at that. Luckily, Gina Rivera, who recently received her PhD in historical musicology from Harvard, offered to fill in the blanks.* <br>
@@ -38,11 +42,15 @@ Fascination with the interplay between color and music dates to Hellenic times, 
 The primary colors were most singled out for the ways that they gestured toward musical intervals—an analogy which opened up space for Newtonian theory. In the sixteenth century, the composer and theorist [Gioseffo Zarlino](http://www.britannica.com/EBchecked/topic/655982/Gioseffo-Zarlino) associated the musical intervals of the unison and octave with the colors white and black, further speaking to the affinities of red, green, and blue.  In [*An Hypothesis explaining the Properties of Light, discoursed of in my several Papers*](http://www.newtonproject.sussex.ac.uk/view/texts/normalized/NATP00002) (1675), Newton himself associated the colors of the spectrum with tonal intervals, describing the strength of the vibrations produced by reds and yellows, the weakness of blues and violets, and the corresponding workings of the perception of diverse tones. As the harmony or dissonance of sounds proceeds from the proportions of vibrations in the air, the harmony of some colors like gold and blue proceeds from the proportions of ethereal vibrations.  
 
 <div class="inline-image">
-    <a rel="lightbox" href="/images/blog/2013/08/rivera2a-large.jpg"><img src="/images/blog/2013/08/rivera2a-medium.jpg" width="640" alt="color chart" /></a>
-    <p class="caption"> Claude Boutet's 1708 color wheel, based on Isaac Newton’s theory of colors.
- <span class="credit"> Wikimedia Commons
- </span>
-    </p>
+  <a rel="lightbox" href="/images/blog/2013/08/rivera2a-large.jpg">
+    <img src="/images/blog/2013/08/rivera2a-medium.jpg" width="640" alt="color chart" />
+  </a>
+  <p class="caption">
+    Claude Boutet’s 1708 color wheel, based on Isaac Newton’s theory of colors.
+    <span class="credit">
+      Wikimedia Commons
+    </span>
+  </p>
 </div>
 
 Interestingly, almost a full century before Newton would develop his theories, the Venetian painter [Giuseppe Arcimboldo](http://tumblr.theappendix.net/post/47987292901/giuseppe-arcimboldo-water-1566-oil-on-limewood) was at work systematizing elaborate correspondences between music and color. The Mantuan historian and Tasso devotee Gregorio Comanini singled out this musical color system for its unique reliance on shading rather than hue.
@@ -50,19 +58,27 @@ Interestingly, almost a full century before Newton would develop his theories, t
 This genealogy of fascination with color and music held pride of place in Enlightenment and post-Enlightenment France, where the composer Jean-Philippe Rameau was an avid reader of Zarlino and where the vogue for such naturalistic colorists as the painter [Antoine Watteau](http://www.metmuseum.org/toah/hd/watt/hd_watt.htm) extended well into the eighteenth century. As the musicologist Georgia Cowart has pointed out, the popularity of Watteau maintained ties to the subjects of many of his portraits, including figures from the world of contemporary ballet and *commedia dell’arte*.  
 
 <div class="inline-image">
-    <a rel="lightbox" href="/images/blog/2013/08/rivera1-large.jpg"><img src="/images/blog/2013/08/rivera1-medium.jpg" width="640" alt="Gilles" /></a>
-    <p class="caption"> Antoine Watteau, <em>Pierrot, autrefois dit Gilles</em> (1721) <span class="credit"> Paris, Musée du Louvre, Département des peintures, M.I. 1121
-
- </span>
-    </p>
+  <a rel="lightbox" href="/images/blog/2013/08/rivera1-large.jpg">
+    <img src="/images/blog/2013/08/rivera1-medium.jpg" width="640" alt="Gilles" />
+  </a>
+  <p class="caption">
+    Antoine Watteau, <em>Pierrot, autrefois dit Gilles</em> (1721).
+    <span class="credit">
+      Paris, Musée du Louvre, Département des peintures, M.I. 1121
+    </span>
+  </p>
 </div>
 
 <div class="inline-image">
-    <a rel="lightbox" href="/images/blog/2013/08/Rivera2-large.jpg"><img src="/images/blog/2013/08/Rivera2-medium.jpg" width="640" alt="Gilles" /></a>
-    <p class="caption"> Antoine Watteau, <em>Comédiens italiens</em> (1721) <span class="credit"> Washington, National Gallery of Art, Samuel H. Kress Collection, 1946.7.9
-
- </span>
-    </p>
+  <a rel="lightbox" href="/images/blog/2013/08/Rivera2-large.jpg">
+    <img src="/images/blog/2013/08/Rivera2-medium.jpg" width="640" alt="Gilles" />
+  </a>
+  <p class="caption">
+    Antoine Watteau, <em>Comédiens italiens</em> (1721).
+    <span class="credit">
+      Washington, National Gallery of Art, Samuel H. Kress Collection, 1946.7.9
+    </span>
+  </p>
 </div>
 
 Thomas Crow has even remarked on connections between these paintings and the custom of donning costumes in the manner of the [Comédie-Italienne](http://en.wikipedia.org/wiki/Com%C3%A9die-Italienne) as an expression of resistance to monarchical authority.  The affinity between musical practices and color theory nevertheless extended much deeper than this. 
@@ -71,16 +87,15 @@ Thomas Crow has even remarked on connections between these paintings and the cus
 
 As news of an “ocular harpsichord, with the capacity to paint sounds” spread through Paris and the provinces in the early decades of the eighteenth century, its mastermind Louis-Bertrand Castel, the Jesuit mathematician who would also publish the *Optique des couleurs* (1740) and a critical assessment of Newtonian optics, admitted that his project owed much to the musical thought of the German Jesuit Athanasius Kircher.
 
-Castel’s reading of Kircher’s [*Musurgia Universalis*](http://books.google.com/books?id=Fr1CAAAAcAAJ&dq=musurgia+universalis+kircher&source=gbs_navlinks_s) (1650) inspired him to imbue a musical instrument with visual properties. The idea was that listeners confronting its sounding material would “be astonished to see it sown with the most vivid colors."
+Castel’s reading of Kircher’s [*Musurgia Universalis*](http://books.google.com/books?id=Fr1CAAAAcAAJ&dq=musurgia+universalis+kircher&source=gbs_navlinks_s) (1650) inspired him to imbue a musical instrument with visual properties. The idea was that listeners confronting its sounding material would “be astonished to see it sown with the most vivid colors.”
 
 <div class="inline-image">
-    <a rel="lightbox" href="/images/blog/2013/08/Rivera4-large.jpg"><img src="/images/blog/2013/08/Rivera4-medium.jpg" width="640" alt="Gilles" /></a>
-    <p class="caption"> A graphic showing the comparative consideration of Newtonian spectral
-color and darkness and light, from the <em>Optique des couleurs</em> (1740)
-by Castel.
- <span class="credit"> 
- </span>
-    </p>
+  <a rel="lightbox" href="/images/blog/2013/08/Rivera4-large.jpg">
+    <img src="/images/blog/2013/08/Rivera4-medium.jpg" width="640" alt="Gilles" />
+  </a>
+  <p class="caption">
+    A graphic showing the comparative consideration of Newtonian spectral color and darkness and light, from the <em>Optique des couleurs</em> (1740) by Castel.
+  </p>
 </div>
 
 The engineering of the instrument proved more unwieldy than its conceptualization, leading a number of his colleagues to dismiss Castel as a misguided musical Newtonian. Voltaire accused him of sophistry in a letter to [Rameau](http://www.musictheory21.com/documents/rameau-studies/rameau-grove-ii.pdf), claiming that Castel was not the great mathematician he purported to be. 

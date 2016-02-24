@@ -8,9 +8,11 @@ excerpt: >
   A sneak peek of one our upcoming articles for Issue Four: “Jackson Unchained: Reclaiming a Fugutive Landscape” by Susanna Ashton and Jonathan Hepworth.
 header_image: header-hepworthblogbanner.jpg
 ---
-<p class="alternate-voice">We're currently in the midst of preparing Issue Four of <em>The Appendix</em>, which will be entitled "Off the Map" and will launch on October 2. Here's a sneak peek of an article we'e excited about: "Jackson Unchained: Reclaiming a Fugitive Landscape" by Susanna Ashton and Jonathan Hepworth. Look for the complete article this fall.</p>
+<p class="alternate-voice">
+  We’re currently in the midst of preparing Issue Four of <em>The Appendix</em>, which will be entitled "Off the Map" and will launch on October 2. Here’s a sneak peek of an article we’re excited about: “Jackson Unchained: Reclaiming a Fugitive Landscape” by Susanna Ashton and Jonathan Hepworth. Look for the complete article this fall.
+</p>
 
->"I may as well relate here, how I became acquainted with the fact of there being a Free State. The “Yankees,” or Northerners, when they visited our plantation, used to tell the negroes that there was a country called England, where there were no slaves, and that the city of Boston was free; and we used to wish we knew which way to travel to find those places. When we were picking cotton, we used to see the wild geese flying over our heads to some distant land, and we often used to say to each other, “O that we had wings like those geese, then we would fly over the heads of our masters to the ‘Land of the Free.’” <br> - John Andrew Jackson, *The Experience of a Slave in South Carolina* (London, 1862).
+>“I may as well relate here, how I became acquainted with the fact of there being a Free State. The “Yankees,” or Northerners, when they visited our plantation, used to tell the negroes that there was a country called England, where there were no slaves, and that the city of Boston was free; and we used to wish we knew which way to travel to find those places. When we were picking cotton, we used to see the wild geese flying over our heads to some distant land, and we often used to say to each other, “O that we had wings like those geese, then we would fly over the heads of our masters to the ‘Land of the Free.’” <br> - John Andrew Jackson, *The Experience of a Slave in South Carolina* (London, 1862).
 
 Although many accounts of runaway slaves from the Antebellum South survive, the story of John Andrew Jackson’s escape is something special. Finding an advertisement calling for the capture of a specific person is rare in slave history, but we have found a detailed one seeking Jackson. We can use that advertisement alongside his own account of his escape, and our own geographical understanding of the region, to triangulate his multiple routes to freedom. Not only can his specific and vague references to landmarks help us re-imagine his route over rivers and roads, thus validating his claims, but we can also discover how freedom-seekers like Jackson manipulated their enslavers’ notions of flight.
 
@@ -23,12 +25,14 @@ In 1846, however, Jenny and Louisa were sold or sent to Houston Country, Georgia
 Jackson managed to trade some chickens for a pony that a neighboring slave had somehow obtained. He hid the pony deep in the woods. On Christmas day, he took advantage of the customary three-day holiday and fled on horseback for Charleston. He had often been to Charleston to drive his master’s cattle to market and knew the route well. Unlike many fugitives forced to brave unknown terrain, Jackson’s flight to Charleston was through familiar turf.
 
 <div class="inline-image alternate-voice">
-<a rel="lightbox" href="/images/blog/2013/08/hepworth6-large.jpg">
-<img src="/images/blog/2013/08/hepworth6-medium.jpg" width="640" alt="Jackson's Route" />
-</a>
-<p class="caption">
-<span class="credit">Map of Charleston, 1846</span>
-</p>
+  <a rel="lightbox" href="/images/blog/2013/08/hepworth6-large.jpg">
+    <img src="/images/blog/2013/08/hepworth6-medium.jpg" width="640" alt="Jackson’s Route" />
+  </a>
+  <p class="caption">
+    <span class="credit">
+      Map of Charleston, 1846
+    </span>
+  </p>
 </div>
 
 It was still dangerous, however, and while he had not worked out the details of what precisely he would do in Charleston, simply and plausibly traveling the over 100 miles of main roads to the city was going to be his greatest challenge. Jackson’s flight over that landscape was thus both typical and atypical of the larger fugitive slave experience.
@@ -36,13 +40,15 @@ It was still dangerous, however, and while he had not worked out the details of 
 Fugitives from slavery each had their own horrible story to tell and their own circumstances that led them to seek freedom though “self-theft,” to use the parlance of runaway advertisements in newspapers of the time. But there are some general patterns within the flights of men and women enslaved in the inland South.
 
 <div class="inline-image">
-<a rel="lightbox" href="/images/blog/2013/08/hepworth8-large.jpg">
-<img src="/images/blog/2013/08/hepworth8-medium.jpg" width="640" alt="Jackson's Memoir" />
-</a>
-<p class="caption">
-The title page and an illustration from Jackson’s memoir, <em>The Experience of a Slave in South Carolina</em> (London, 1862).
-<span class="credit"><a href="http://docsouth.unc.edu/fpn/jackson/jackson.html" target="_blank">Documenting the American South, University of North Carolina</a></span>
-</p>
+  <a rel="lightbox" href="/images/blog/2013/08/hepworth8-large.jpg">
+    <img src="/images/blog/2013/08/hepworth8-medium.jpg" width="640" alt="Jackson’s Memoir" />
+  </a>
+  <p class="caption">
+    The title page and an illustration from Jackson’s memoir, <em>The Experience of a Slave in South Carolina</em> (London, 1862).
+    <span class="credit">
+      <a href="http://docsouth.unc.edu/fpn/jackson/jackson.html" target="_blank">Documenting the American South, University of North Carolina</a>
+    </span>
+  </p>
 </div>
 
 To begin with, a vast majority of runaways likely left without any specific plans to abscond north. Rather, they were often fleeing immediate punishment or danger with the intent of returning once the circumstances or threat had changed. A northern escape was a colossal undertaking for people enslaved in the Deep South who had little access to trains or boats. The geographic challenges alone were huge.
@@ -51,4 +57,4 @@ Another common motivation for short-term flight, sometimes termed *petit marrona
 
 Jackson’s flight this time, though, was the less common form of escape: *grand marronage*. He was heading south to Charleston, with plans to then head north for permanent freedom. He had no knowing assistance from anyone, black or white, and he travelled on the roads in plain sight on a pony.
 
-<p class="alternate-voice">Please considering <a href="https://theappendix.net/subscribe">subscribing</a> to receive PDF and ebook versions of the complete Issue Four, including the remainder of "Jackson Unchained," on the day of its release.</p>
+<p class="alternate-voice">Please considering <a href="https://theappendix.net/subscribe">subscribing</a> to receive PDF and ebook versions of the complete Issue Four, including the remainder of “Jackson Unchained,” on the day of its release.</p>
