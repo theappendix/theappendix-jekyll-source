@@ -6,13 +6,13 @@ authors:
 date: 2014-02-05 06:00:00
 permalink: "/posts/2014/02/deklarasyon-endepandans"
 excerpt: >
-  A translation of Julia Gaffield's <em>Appendix</em> article into Haitian Kréyol.
+  A translation of Julia Gaffield’s <em>Appendix</em> article into Haitian Kréyol.
 header_image: header-haiti_banner.png
 links:
   - label: "The English language version of this article."
     url: http://theappendix.net/issues/2014/1/haitis-declaration-of-independence-digging-for-lost-documents-in-the-archives-of-the-atlantic-world
 ---
-<p class="alternate-voice"><b>Editor's note:</b> What follows is a Haitian Kreyòl translation of Julia Gaffield's article <a href="http://theappendix.net/issues/2014/1/haitis-declaration-of-independence-digging-for-lost-documents-in-the-archives-of-the-atlantic-world">"Haiti’s Declaration of Independence: Digging for Lost Documents in the Archives of the Atlantic World"</a>. It was translated by Marie Lucienne Megie. </p>
+<p class="alternate-voice"><b>Editor’s note:</b> What follows is a Haitian Kreyòl translation of Julia Gaffield’s article <a href="http://theappendix.net/issues/2014/1/haitis-declaration-of-independence-digging-for-lost-documents-in-the-archives-of-the-atlantic-world">“Haiti’s Declaration of Independence: Digging for Lost Documents in the Archives of the Atlantic World”</a>. It was translated by Marie Lucienne Megie. </p>
 
 Premye janvye 1804, Ayiti tounen dezyèm nasyon endepandan nan Amerik la. Deklarasyon Endepandans Ayiti a se dènye degre viktwa ke sèl grenn revòlt esklav ki te reyisi nan listwa a te atenn. Moun te vin rive konnen sa ki te ekri nan Deklarasyon Ayiti a gras ak transkripsyon epi enpresyon dokiman an ke yo te vin fè aprè; paske nan lane aprè revolisyon an yo, tout kopi ki te genyen de dokiman ofisyèl ke gouvènman an te fè soti a te gentan disparèt. Kontrèman ak Deklarasyon Endepandans Etazini an ki, antanke yon bagay materyèl, gen yon sans senbolik a travè listwa (daprè Nicholas Cage), yo te bliye dokiman Deklarasyon Ayiti a nèt. Nan finisman diznevyèm syèk la, yo pat ka jwenn okenn kopi ofisyèl dokiman sa a ki te pèmèt Ayiti fè aparisyon l nan Mond lan e ki te fè konnen ke kounya gen yon gwoup sitwayen ini tankou yon sèl pèp ki se: Ayisyen yo. 
 
@@ -25,7 +25,7 @@ ki te 28 janvye 1903, jounal *Le Soir* rapòte ke “yo pa ka rive jwenn Deklara
 Twa lane apre santyèm fèt Deklarasyon Endepandans lan, yo pat janm ka rive jwenn dokiman sa a. Sekretè legasyon Ayiti nan vil Lond, Felix Viard, te ekri Lherisson yon lèt pou l te mande li gide l nan rechèch li tap kontinye fè pou l jwenn dokiman an. Viard te konnen ke se pat nan British Museum nan li te ye aprè ke l te fin chèche l nan “Depatman dokiman istorik ak otograf selèb” mize a.  Pandan ke li tap fè rechèch pou li wè si li ta jwenn yon dokiman ke Jean Jacques Dessalines ak lòt Jeneral an chèf Ayisyen yo te siyen, li te di ke si l jwenn dokiman sa a, ki daprè li “tap plis nan vrè plas li si sete nan Achiv Nasyonal nou an li te ye,” li tap fè foto l nan dimansyon 50×60.  Viard te fe konnen tou ke li tap voye tout imaj sa yo bay “Prezidan Ayiti a, ki san dout ta va afiche l nan palè a.” 
 Disparisyon Deklarasyon an se te yon mistè ki te vinn pi konplike chak peryòd dizan ki te pase. Preske senkantan aprè, alòs ke yap tann pou fete san senkantan Endepandans lan, Ayisyen yo te toujou ap chèche yon kopi orijinal Deklarasyon Endepandans lan. Nan dat 31 desanm 1952, entèlektyèl ayisyen ke yo rele Edmond Mangonès la te ekri Komisyon Ayisyèn Syans Sosyal pou San Senkantyèm Fèt Endepandans la yon lèt kote ke l te ba yo rezilta rechèch ke li te fè pou l te jwenn orijinal Deklarasyon.  Li te deklare ke “tout rechèch ki te fèt jiska prezan te fèt an ven.” Mangonès te okouran de tantativ premye chèchè yo te fè, men li te rapòte ke pat gen youn ladan yo ki te rive jwenn ni orijinal deklarasyon an, ni menm yon kopi siyen oubyen yon vèsyon ki te enprime nan peryòd la. Antouka, Mangonès te rete kwè ke ta dwe gen yon kopi ki egziste toujou, lè l konsidere ke gran istoryen ayisyen ki rele Beaubrun Ardouin an te fè konnen ke yo te enprime tout dokiman ki te pibliye nan Gonayiv yo e yo te voye yo bay tout dezyè otorite nan peyi yo, sa ki te fè ke tout moun te pran fete. 
 
-Pou Mangonès, disparisyon orijinal Deklarasyon Endepandans Ayiti a se konsekans fason yo te ekskli memwa Dessalines pandan 39 lane – soti 17 oktob 1806 [dat yo te asasinen li an] rive 10 desanm 1845, ki se dat Prezidan Pierrot te itilize lwa ki te rekonèt sèvis ke Anperè a te rann Nasyon an, yon fason pou l te retabli souvni yo dwe gen de li. Dapre sa istoryen Erin Zavitz rapòte, Prezidan Louis Pierrot te yon “nasyonalis e yon Jeneral nwa ki te fè pati de mouvman nwaris la,” e ki te “dekrete fineray nasyonal pou Dessalines nan dat 17 oktob.”  Malgre ke memwa Dessalines te rive retabli nan mwatye diznevyèm syèk la, Mangonès te deplore le fèt ke “nou pa genyen yon kopi, ni menm yon tèks enprime de Deklarasyon Endepandans nou an ki te pwoklame a.” Mangonès te desi pakse rechèch li yo te fèt o aza e ke gouvènman an pat jwe yon pi gran wòl nan lanse rechèch nan achiv yo. Li mande tou pou yo ta mete sou pye yon pi gwo misyon rechèch eksploratwa ki ta eseye rezoud pwoblèm dokiman istorik enpòtan Ayiti yo ki gaye nan peyi a e nan achiv peyi etranje yo. 
+Pou Mangonès, disparisyon orijinal Deklarasyon Endepandans Ayiti a se konsekans fason yo te ekskli memwa Dessalines pandan 39 lane—soti 17 oktob 1806 [dat yo te asasinen li an] rive 10 desanm 1845, ki se dat Prezidan Pierrot te itilize lwa ki te rekonèt sèvis ke Anperè a te rann Nasyon an, yon fason pou l te retabli souvni yo dwe gen de li. Dapre sa istoryen Erin Zavitz rapòte, Prezidan Louis Pierrot te yon “nasyonalis e yon Jeneral nwa ki te fè pati de mouvman nwaris la,” e ki te “dekrete fineray nasyonal pou Dessalines nan dat 17 oktob.”  Malgre ke memwa Dessalines te rive retabli nan mwatye diznevyèm syèk la, Mangonès te deplore le fèt ke “nou pa genyen yon kopi, ni menm yon tèks enprime de Deklarasyon Endepandans nou an ki te pwoklame a.” Mangonès te desi pakse rechèch li yo te fèt o aza e ke gouvènman an pat jwe yon pi gran wòl nan lanse rechèch nan achiv yo. Li mande tou pou yo ta mete sou pye yon pi gwo misyon rechèch eksploratwa ki ta eseye rezoud pwoblèm dokiman istorik enpòtan Ayiti yo ki gaye nan peyi a e nan achiv peyi etranje yo. 
 
 Aprè plis pase de syèk depi ke lidè ayisyen yo te pwoklame Deklarasyon Endepandans lan, mwen te deside ekri tèz mwen an, nan Inivèsite Duke, sou koumansman peryòd endependans lan.
 
@@ -43,13 +43,15 @@ Sa rive ke mwen te gen anpil chans. Yon jou, mwen te voye di yon zanmi m: “Dlo
 Rechèch mwen an te kondui m a youn nan ajan Nugent yo ki rele Edward Corbet, ki te pote yon kopi Deklarasyon Endepandans Ayiti a nan peyi Jamayik. Corbet te ekri Nugent yon lèt e nan lèt sa a, li te presize ke li te voye avèl yon dokiman enprime. Aprè li te tounnen sot Ayiti a li te di: “Ekselans, kounya pèmèt mwen prezante w Deklarasyon Endepandans yo a. Kèlkeswa kote dokiman sa a te ekri a, li pat ko pibliye jiskaprè lèm rive Pòtoprens lan, sa ki fè ke kopi sa a ke m gen onè prezante w la fèk te soti nan près la.”  An aprè, mwen ta pral dekouvri ke dokiman sa a te trè enpòtan. Mwen te jwenn nan kès ki te gen achiv yo yon transkripsyon Deklarasyon Endepandans Ayiti a ki te ekri a la men. Men le fèt ke te gen lòt vèsyon, ekri a la men oubyen enprime, ki te egziste nan lòt repètwa, sa vin fè ke dokiman an, nan li menm, pat yon twò gwo dekouvèt pou kòmansman peryòd istwa Dayiti a. 
 
 <div class="inline-image">
-<a rel="lightbox" href="/images/blog/2014/02/gaffield1a-large.jpg">
-<img src="/images/blog/2014/02/gaffield1a-medium.jpg" width="640" alt="Map of Hispaniola" />
-</a>
-<p class="caption">
-Deklarasyon Endepandans Ayisyèn nan, ki te enprime nan Pòtoprens nan lane 1804
-<span class="credit">Achiv Nasyonal Wayòm Ini</span>
-</p>
+  <a rel="lightbox" href="/images/blog/2014/02/gaffield1a-large.jpg">
+    <img src="/images/blog/2014/02/gaffield1a-medium.jpg" width="640" alt="Map of Hispaniola" />
+  </a>
+  <p class="caption">
+    Deklarasyon Endepandans Ayisyèn nan, ki te enprime nan Pòtoprens nan lane 1804
+    <span class="credit">
+      Achiv Nasyonal Wayòm Ini
+    </span>
+  </p>
 </div>
 
 Kisa ki te rive vèsyon Deklarasyon Endepandans ki te fèk soti nan près la? Nan reflechi mwen tap reflechi sou kesyon an, mwen te diskite de sa ki te ka pase, ak youn nan manm komite tèz mwen an ki rele Deborah Jenson e ki, oparava, te fè yon rechèch sou piblikasyon Deklarasyon Endepandans Ayiti a ki te fèt nan jounal ameriken yo.  Nou te fini pa konkli ke se pat de transkripsyon ki te ekri a la men ke m te jwenn nan Corbet tap pale, men se te de yon dokiman enprime. Donk, gen lè te gen yon bagay ki te rive kopi ofisyèl ke Corbèt te di ki te fèk soti nan près la.
@@ -72,23 +74,27 @@ Deklarasyon ofisyèl Endepandans la se te yon panflè ki te gen uit paj, e anlè
 Menm si dokiman an te enprime nan Pòtoprens, Deklarasyon Endepandans Ayisyèn nan te pwoklame pou la premyè fwa sou fòm yon diskou nan Gonayiv. Kòm prèv mwen te jwenn Jamayik la te revele ke Corbet te ale Jamayik ak panflè a nan zòn 21 janvye 1804, nou kapab dedui ke tèks dokiman ke Louis Felix Boisrond Tonnerre te ekri a e ke Dessalines te voye mande a te pakouri 112 kilomèt soti Gonayiv rive Pòtoprens nan de a twa semèn aprè premye janvye 1804.
 
 <div class="inline-image">
-<a rel="lightbox" href="/images/blog/2014/02/Gaffield2-large.jpg">
-<img src="/images/blog/2014/02/Gaffield2-medium.jpg" width="640" alt="Map of Hispaniola" />
-</a>
-<p class="caption">
-John Thomson, “Haiti, Hispaniola or St. Domingo” (1815).
-<span class="credit">David Rumsey’s Historical Map Collection</span>
-</p>
+  <a rel="lightbox" href="/images/blog/2014/02/Gaffield2-large.jpg">
+    <img src="/images/blog/2014/02/Gaffield2-medium.jpg" width="640" alt="Map of Hispaniola" />
+  </a>
+  <p class="caption">
+    John Thomson, “Haiti, Hispaniola or St. Domingo” (1815).
+    <span class="credit">
+      David Rumsey’s Historical Map Collection
+    </span>
+  </p>
 </div>
 
 <div class="inline-image">
-<a rel="lightbox" href="/images/blog/2014/02/Gaffield3-large.jpg">
-<img src="/images/blog/2014/02/Gaffield3-medium.jpg" width="640" alt="Map of Hispaniola" />
-</a>
-<p class="caption">
-John Thomson, “Haiti, Hispaniola or St. Domingo” (1815), detail.
-<span class="credit">David Rumsey’s Historical Map Collection</span>
-</p>
+  <a rel="lightbox" href="/images/blog/2014/02/Gaffield3-large.jpg">
+    <img src="/images/blog/2014/02/Gaffield3-medium.jpg" width="640" alt="Map of Hispaniola" />
+  </a>
+  <p class="caption">
+    John Thomson, “Haiti, Hispaniola or St. Domingo” (1815), detail.
+    <span class="credit">
+      David Rumsey’s Historical Map Collection
+    </span>
+  </p>
 </div>
 
 
@@ -109,26 +115,30 @@ Pandan li tap pale byen fò nan telefòn etan li Pòtoprens yon fason pou yo te 
 Apèn yon lane aprè premye vwayaj mwen te fè nan achiv vil Lond yo, mwen te retounen pou mwen te ale konplete rechèch pou tèz mwen an, kote ke mwen te al etidye dokiman ke Marin peyi Jamayik genyen nan Achiv Nasyonal yo. Sa ki te etonan, sè ke m te jwenn yon lòt kopi Deklarasyon Endepandans Ayisyèn nan ki te enprime e ki te fèt yon lòt jan; se yon paj ki tankou yon afich ke yo te fè pou mete nan zòn piblik yo. Nan ka dokiman sa a li menm, yo te retire l pami achiv Marin nan e yo te reklase l kòm yon kat jewografi, yon fason pou fèy li pa t pliye nan rejis la.
 
 <div class="inline-image">
-<a rel="lightbox" href="/images/blog/2014/02/gaffield4-large.jpg">
-<img src="/images/blog/2014/02/gaffield4-medium.jpg" width="640" alt="Document MFQ 1/184" />
-</a>
-<p class="caption">
-Document MFQ 1/184.
-<span class="credit">National Archives, U.K.</span>
-</p>
+  <a rel="lightbox" href="/images/blog/2014/02/gaffield4-large.jpg">
+    <img src="/images/blog/2014/02/gaffield4-medium.jpg" width="640" alt="Document MFQ 1/184" />
+  </a>
+  <p class="caption">
+    Document MFQ 1/184.
+    <span class="credit">
+      National Archives, U.K.
+    </span>
+  </p>
 </div>
 
 Dezyèm dekouvèt sa a soulinye youn nan prensipal eksplikasyon konsènan rezon ki fè ke tout tantativ ki te fèt avan yo pou te jwenn kopi ofisyèl Deklarasyon Endepandans Ayisyèn nan pat mache. Tou de vèsyon ki te egziste yo pat klase kote yo te panse yo kapab klase nan achiv yo. Mwen di ke se yon kote yo pat panse, amwens ke nou ta rekonèt konbyen, nan diznevyèm syèk la, Ayiti entegre nan Mond Atlantik la e konbyen plas li okipe a se yon bagay ki pa senp. Nan dezyèm ka sa a, pou voye mande dokiman an, ou dwe antre kòd MFQ 1/184 olye de MFQ 184, jan li te ekri nan fich la. Kòd antre pou dokiman Deklarasyon Endepandans Ayisyèn ki tankou afich enprime a pa t menm mansyone ke se yon dokiman ki te sot Ayiti (malgre ke li te klase pami twa lòt dokiman ayisyen enpòtan).
 
 
 <div class="inline-image">
-<a rel="lightbox" href="/images/blog/2014/02/Gaffield5-large.jpg">
-<img src="/images/blog/2014/02/Gaffield5-medium.jpg" width="640" alt="Online Catalog" />
-</a>
-<p class="caption">
- Katalog an liy pou dezyèm Deklarasyon Endepandans Ayisyèn nan ke yo fèk dekouvri a
-<span class="credit">National Archives, U.K.</span>
-</p>
+  <a rel="lightbox" href="/images/blog/2014/02/Gaffield5-large.jpg">
+    <img src="/images/blog/2014/02/Gaffield5-medium.jpg" width="640" alt="Online Catalog" />
+  </a>
+  <p class="caption">
+    Katalog an liy pou dezyèm Deklarasyon Endepandans Ayisyèn nan ke yo fèk dekouvri a
+    <span class="credit">
+      National Archives, U.K.
+    </span>
+  </p>
 </div>
 
 Mwen te voye mande plizyè fwa pou yo rantre dokiman an e pou yo reklase l (paske yo te retire vèsyon ki te sou fòm panflè a aprè ke m te fin jwenn li nan achiv kolonyal Jamayik yo, e yo mete l kounya yon kote ki an sekirite pou l ka konsève).
