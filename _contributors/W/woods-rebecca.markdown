@@ -1,5 +1,5 @@
 ---
-id: woods-rebecca
+slug: woods-rebecca
 last_name: Woods
 first_name: Rebecca
 ---

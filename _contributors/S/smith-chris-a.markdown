@@ -1,5 +1,5 @@
 ---
-id: smith-chris-a
+slug: smith-chris-a
 last_name: Smith
 first_name: 'Chris A.'
 ---

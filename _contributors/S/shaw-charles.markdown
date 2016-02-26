@@ -1,5 +1,5 @@
 ---
-id: shaw-charles
+slug: shaw-charles
 last_name: Shaw
 first_name: Charles
 ---

@@ -1,5 +1,5 @@
 ---
-id: sibblies-drury-jackie
+slug: sibblies-drury-jackie
 last_name: 'Sibblies Drury'
 first_name: Jackie
 ---

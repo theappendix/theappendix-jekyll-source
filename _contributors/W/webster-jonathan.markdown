@@ -1,5 +1,5 @@
 ---
-id: webster-jonathan
+slug: webster-jonathan
 last_name: Webster
 first_name: Jonathan
 ---

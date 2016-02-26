@@ -1,5 +1,5 @@
 ---
-id: roth-cassia
+slug: roth-cassia
 last_name: Roth
 first_name: Cassia
 ---

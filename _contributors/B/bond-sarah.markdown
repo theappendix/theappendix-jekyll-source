@@ -1,5 +1,5 @@
 ---
-id: bond-sarah
+slug: bond-sarah
 last_name: Bond
 first_name: Sarah
 ---

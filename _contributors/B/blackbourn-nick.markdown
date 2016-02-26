@@ -1,5 +1,5 @@
 ---
-id: blackbourn-nick
+slug: blackbourn-nick
 last_name: Blackbourn
 first_name: Nick
 ---

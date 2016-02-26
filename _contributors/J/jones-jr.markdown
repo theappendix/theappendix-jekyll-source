@@ -1,5 +1,5 @@
 ---
-id: jones-jr
+slug: jones-jr
 last_name: Jones
 first_name: J.R.
 ---

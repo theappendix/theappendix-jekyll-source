@@ -1,5 +1,5 @@
 ---
-id: marsh-katherine
+slug: marsh-katherine
 last_name: Marsh
 first_name: Katherine
 ---

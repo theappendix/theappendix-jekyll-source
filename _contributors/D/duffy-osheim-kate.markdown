@@ -1,5 +1,5 @@
 ---
-id: duffy-osheim-kate
+slug: duffy-osheim-kate
 last_name: 'Duffy Osheim'
 first_name: Kate
 ---

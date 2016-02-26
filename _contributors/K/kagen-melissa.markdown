@@ -1,5 +1,5 @@
 ---
-id: kagen-melissa
+slug: kagen-melissa
 last_name: Kagen
 first_name: Melissa
 ---

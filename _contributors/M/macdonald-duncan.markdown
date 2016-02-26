@@ -1,5 +1,5 @@
 ---
-id: macdonald-duncan
+slug: macdonald-duncan
 last_name: Macdonald
 first_name: Duncan
 ---

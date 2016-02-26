@@ -1,5 +1,5 @@
 ---
-id: remes-jacob
+slug: remes-jacob
 last_name: Remes
 first_name: Jacob
 ---

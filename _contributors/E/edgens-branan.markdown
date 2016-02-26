@@ -1,5 +1,5 @@
 ---
-id: edgens-branan
+slug: edgens-branan
 last_name: Edgens
 first_name: Branan
 ---

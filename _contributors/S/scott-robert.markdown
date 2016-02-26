@@ -1,5 +1,5 @@
 ---
-id: scott-robert
+slug: scott-robert
 last_name: Scott
 first_name: Robert
 ---

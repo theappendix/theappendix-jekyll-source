@@ -1,5 +1,5 @@
 ---
-id: shelton-kyle
+slug: shelton-kyle
 last_name: Shelton
 first_name: Kyle
 ---

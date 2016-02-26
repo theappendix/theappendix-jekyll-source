@@ -1,5 +1,5 @@
 ---
-id: bell-janet
+slug: bell-janet
 last_name: Bell
 first_name: Janet
 ---

@@ -1,5 +1,5 @@
 ---
-id: edwards-ryan
+slug: edwards-ryan
 last_name: Edwards
 first_name: Ryan
 ---

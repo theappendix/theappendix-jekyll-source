@@ -1,5 +1,5 @@
 ---
-id: burnett-d-graham
+slug: burnett-d-graham
 last_name: Burnett
 first_name: 'D. Graham'
 ---

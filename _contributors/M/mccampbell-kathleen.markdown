@@ -1,5 +1,5 @@
 ---
-id: mccampbell-kathleen
+slug: mccampbell-kathleen
 last_name: McCampbell
 first_name: Kathleen
 ---

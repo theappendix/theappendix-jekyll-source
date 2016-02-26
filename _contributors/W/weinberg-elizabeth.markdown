@@ -1,5 +1,5 @@
 ---
-id: weinberg-elizabeth
+slug: weinberg-elizabeth
 last_name: Weinberg
 first_name: Elizabeth
 ---

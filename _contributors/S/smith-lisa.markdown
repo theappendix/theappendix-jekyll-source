@@ -1,5 +1,5 @@
 ---
-id: smith-lisa
+slug: smith-lisa
 last_name: Smith
 first_name: Lisa
 ---

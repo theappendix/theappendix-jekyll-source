@@ -1,5 +1,5 @@
 ---
-id: mandelkern-india
+slug: mandelkern-india
 last_name: Mandelkern
 first_name: India
 ---

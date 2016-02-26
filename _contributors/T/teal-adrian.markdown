@@ -1,5 +1,5 @@
 ---
-id: teal-adrian
+slug: teal-adrian
 last_name: Teal
 first_name: Adrian
 ---

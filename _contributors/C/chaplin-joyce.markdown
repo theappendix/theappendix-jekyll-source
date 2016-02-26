@@ -1,5 +1,5 @@
 ---
-id: chaplin-joyce
+slug: chaplin-joyce
 last_name: Chaplin
 first_name: Joyce
 ---

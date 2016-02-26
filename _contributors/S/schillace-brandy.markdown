@@ -1,5 +1,5 @@
 ---
-id: schillace-brandy
+slug: schillace-brandy
 last_name: Schillace
 first_name: Brandy
 ---

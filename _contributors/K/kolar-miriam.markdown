@@ -1,5 +1,5 @@
 ---
-id: kolar-miriam
+slug: kolar-miriam
 last_name: Kolar
 first_name: Miriam
 ---

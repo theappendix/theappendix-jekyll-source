@@ -1,5 +1,5 @@
 ---
-id: onion-rebecca
+slug: onion-rebecca
 last_name: Onion
 first_name: Rebecca
 ---

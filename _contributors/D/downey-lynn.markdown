@@ -1,5 +1,5 @@
 ---
-id: downey-lynn
+slug: downey-lynn
 last_name: Downey
 first_name: Lynn
 ---

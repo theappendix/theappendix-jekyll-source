@@ -1,5 +1,5 @@
 ---
-id: stepto-gabriel
+slug: stepto-gabriel
 last_name: Stepto
 first_name: Gabriel
 ---

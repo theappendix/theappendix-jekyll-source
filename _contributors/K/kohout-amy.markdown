@@ -1,5 +1,5 @@
 ---
-id: kohout-amy
+slug: kohout-amy
 last_name: Kohout
 first_name: Amy
 ---

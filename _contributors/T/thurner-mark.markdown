@@ -1,5 +1,5 @@
 ---
-id: thurner-mark
+slug: thurner-mark
 last_name: Thurner
 first_name: Mark
 ---

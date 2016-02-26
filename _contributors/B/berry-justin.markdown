@@ -1,5 +1,5 @@
 ---
-id: berry-justin
+slug: berry-justin
 last_name: Berry
 first_name: Justin
 ---

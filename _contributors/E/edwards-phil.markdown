@@ -1,5 +1,5 @@
 ---
-id: edwards-phil
+slug: edwards-phil
 last_name: Edwards
 first_name: Phil
 ---

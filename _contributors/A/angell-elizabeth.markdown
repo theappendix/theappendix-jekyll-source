@@ -1,5 +1,5 @@
 ---
-id: angell-elizabeth
+slug: angell-elizabeth
 last_name: Angell
 first_name: Elizabeth
 ---

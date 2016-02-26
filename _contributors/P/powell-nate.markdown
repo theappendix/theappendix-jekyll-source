@@ -1,5 +1,5 @@
 ---
-id: powell-nate
+slug: powell-nate
 last_name: Powell
 first_name: Nate
 ---

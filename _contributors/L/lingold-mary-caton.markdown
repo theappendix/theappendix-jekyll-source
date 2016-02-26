@@ -1,5 +1,5 @@
 ---
-id: lingold-mary-caton
+slug: lingold-mary-caton
 last_name: Lingold
 first_name: 'Mary Caton'
 ---

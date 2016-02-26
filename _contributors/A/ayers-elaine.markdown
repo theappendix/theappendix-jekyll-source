@@ -1,5 +1,5 @@
 ---
-id: ayers-elaine
+slug: ayers-elaine
 last_name: Ayers
 first_name: Elaine
 ---

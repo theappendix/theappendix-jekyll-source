@@ -1,5 +1,5 @@
 ---
-id: heaney-christopher
+slug: heaney-christopher
 last_name: Heaney
 first_name: Christopher
 ---

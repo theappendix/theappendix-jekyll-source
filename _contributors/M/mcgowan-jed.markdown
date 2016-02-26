@@ -1,5 +1,5 @@
 ---
-id: mcgowan-jed
+slug: mcgowan-jed
 last_name: McGowan
 first_name: Jed
 ---

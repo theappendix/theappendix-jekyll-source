@@ -1,5 +1,5 @@
 ---
-id: lampert-corinne-wieben
+slug: lampert-corinne-wieben
 last_name: Lampert
 first_name: 'Corinne Wieben'
 ---

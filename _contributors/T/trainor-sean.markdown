@@ -1,5 +1,5 @@
 ---
-id: trainor-sean
+slug: trainor-sean
 last_name: Trainor
 first_name: Sean
 ---

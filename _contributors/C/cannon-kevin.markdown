@@ -1,5 +1,5 @@
 ---
-id: cannon-kevin
+slug: cannon-kevin
 last_name: Cannon
 first_name: Kevin
 ---

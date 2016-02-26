@@ -1,5 +1,5 @@
 ---
-id: hunter-douglas
+slug: hunter-douglas
 last_name: Hunter
 first_name: Douglas
 ---

@@ -1,5 +1,5 @@
 ---
-id: nagy-shannon
+slug: nagy-shannon
 last_name: Nagy
 first_name: Shannon
 ---

@@ -1,5 +1,5 @@
 ---
-id: hepworth-jonathan-d
+slug: hepworth-jonathan-d
 last_name: Hepworth
 first_name: 'Jonathan D.'
 ---

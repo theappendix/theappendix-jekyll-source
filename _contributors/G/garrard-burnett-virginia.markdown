@@ -1,5 +1,5 @@
 ---
-id: garrard-burnett-virginia
+slug: garrard-burnett-virginia
 last_name: Garrard-Burnett
 first_name: Virginia
 ---

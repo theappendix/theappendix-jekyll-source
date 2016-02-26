@@ -1,5 +1,5 @@
 ---
-id: gildner-matthew
+slug: gildner-matthew
 last_name: Gildner
 first_name: Matthew
 ---

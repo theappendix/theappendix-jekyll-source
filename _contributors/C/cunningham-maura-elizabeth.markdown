@@ -1,5 +1,5 @@
 ---
-id: cunningham-maura-elizabeth
+slug: cunningham-maura-elizabeth
 last_name: Cunningham
 first_name: 'Maura Elizabeth'
 ---

@@ -1,5 +1,5 @@
 ---
-id: lehman-kathryn
+slug: lehman-kathryn
 last_name: Lehman
 first_name: Kathryn
 ---

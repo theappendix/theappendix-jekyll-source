@@ -1,5 +1,5 @@
 ---
-id: bassi-ernesto
+slug: bassi-ernesto
 last_name: Bassi
 first_name: Ernesto
 ---

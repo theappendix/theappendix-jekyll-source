@@ -1,5 +1,5 @@
 ---
-id: koretzky-maya
+slug: koretzky-maya
 last_name: Koretzky
 first_name: Maya
 ---

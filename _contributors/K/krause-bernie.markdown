@@ -1,5 +1,5 @@
 ---
-id: krause-bernie
+slug: krause-bernie
 last_name: Krause
 first_name: Bernie
 ---

@@ -1,5 +1,5 @@
 ---
-id: fetter-vorm-jonathan
+slug: fetter-vorm-jonathan
 last_name: Fetter-Vorm
 first_name: Jonathan
 ---

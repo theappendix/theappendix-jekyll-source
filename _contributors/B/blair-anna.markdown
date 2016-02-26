@@ -1,5 +1,5 @@
 ---
-id: blair-anna
+slug: blair-anna
 last_name: Blair
 first_name: Anna
 ---

@@ -1,5 +1,5 @@
 ---
-id: harasemovitch-truax-alexis
+slug: harasemovitch-truax-alexis
 last_name: 'Harasemovitch Truax'
 first_name: Alexis
 ---

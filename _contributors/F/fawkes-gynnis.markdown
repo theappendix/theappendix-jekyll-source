@@ -1,5 +1,5 @@
 ---
-id: fawkes-glynnis
+slug: fawkes-glynnis
 last_name: Fawkes
 first_name: Glynnis
 ---

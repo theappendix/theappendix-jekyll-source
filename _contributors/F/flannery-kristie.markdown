@@ -1,5 +1,5 @@
 ---
-id: flannery-kristie
+slug: flannery-kristie
 last_name: Flannery
 first_name: Kristie
 ---

@@ -1,5 +1,5 @@
 ---
-id: early-capistran-michelle-maria
+slug: early-capistran-michelle-maria
 last_name: 'Early Capistrán'
 first_name: 'Michelle María'
 ---

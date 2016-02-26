@@ -1,5 +1,5 @@
 ---
-id: lerer-david
+slug: lerer-david
 last_name: Lerer
 first_name: David
 ---

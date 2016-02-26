@@ -1,5 +1,5 @@
 ---
-id: schmidt-michael
+slug: schmidt-michael
 last_name: Schmidt
 first_name: Michael
 ---

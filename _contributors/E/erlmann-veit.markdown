@@ -1,5 +1,5 @@
 ---
-id: erlmann-veit
+slug: erlmann-veit
 last_name: Erlmann
 first_name: Veit
 ---

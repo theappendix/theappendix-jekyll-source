@@ -1,5 +1,5 @@
 ---
-id: cohen-br
+slug: cohen-br
 last_name: Cohen
 first_name: B.R.
 ---

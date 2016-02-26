@@ -1,5 +1,5 @@
 ---
-id: press-michael
+slug: press-michael
 last_name: Press
 first_name: Michael
 ---

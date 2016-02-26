@@ -1,5 +1,5 @@
 ---
-id: payne-ansel
+slug: payne-ansel
 last_name: Payne
 first_name: Ansel
 ---

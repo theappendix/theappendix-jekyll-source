@@ -1,5 +1,5 @@
 ---
-id: lovejoy-bess
+slug: lovejoy-bess
 last_name: Lovejoy
 first_name: Bess
 ---

@@ -1,5 +1,5 @@
 ---
-id: brownell-emily
+slug: brownell-emily
 last_name: Brownell
 first_name: Emily
 ---

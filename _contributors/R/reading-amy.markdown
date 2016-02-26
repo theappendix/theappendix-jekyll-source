@@ -1,5 +1,5 @@
 ---
-id: reading-amy
+slug: reading-amy
 last_name: Reading
 first_name: Amy
 ---

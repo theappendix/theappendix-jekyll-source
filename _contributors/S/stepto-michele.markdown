@@ -1,5 +1,5 @@
 ---
-id: stepto-michele
+slug: stepto-michele
 last_name: Stepto
 first_name: Michele
 ---

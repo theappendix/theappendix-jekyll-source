@@ -1,5 +1,5 @@
 ---
-id: martin-laura-jane
+slug: martin-laura-jane
 last_name: Martin
 first_name: 'Laura Jane'
 ---

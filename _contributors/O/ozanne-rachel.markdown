@@ -1,5 +1,5 @@
 ---
-id: ozanne-rachel
+slug: ozanne-rachel
 last_name: Ozanne
 first_name: Rachel
 ---

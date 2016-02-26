@@ -1,5 +1,5 @@
 ---
-id: keller-kevin
+slug: keller-kevin
 last_name: Keller
 first_name: Kevin
 ---

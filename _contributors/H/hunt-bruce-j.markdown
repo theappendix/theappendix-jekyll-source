@@ -1,5 +1,5 @@
 ---
-id: hunt-bruce-j
+slug: hunt-bruce-j
 last_name: Hunt
 first_name: 'Bruce J.'
 ---

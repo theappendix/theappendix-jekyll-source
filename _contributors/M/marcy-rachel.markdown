@@ -1,5 +1,5 @@
 ---
-id: marcy-rachel
+slug: marcy-rachel
 last_name: Marcy
 first_name: Rachel
 ---

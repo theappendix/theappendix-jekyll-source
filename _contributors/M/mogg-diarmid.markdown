@@ -1,5 +1,5 @@
 ---
-id: mogg-diarmid
+slug: mogg-diarmid
 last_name: Mogg
 first_name: Diarmid
 ---

@@ -1,5 +1,5 @@
 ---
-id: wazer-caroline
+slug: wazer-caroline
 last_name: Wazer
 first_name: Caroline
 ---

@@ -1,5 +1,5 @@
 ---
-id: canizares-esguerra-jorge
+slug: canizares-esguerra-jorge
 last_name: Cañizares-Esguerra
 first_name: Jorge
 ---

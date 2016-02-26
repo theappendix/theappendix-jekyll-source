@@ -1,5 +1,5 @@
 ---
-id: odle-mairin
+slug: odle-mairin
 last_name: Odle
 first_name: Mairin
 ---

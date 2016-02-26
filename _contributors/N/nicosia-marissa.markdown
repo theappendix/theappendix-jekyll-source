@@ -1,5 +1,5 @@
 ---
-id: nicosia-marissa
+slug: nicosia-marissa
 last_name: Nicosia
 first_name: Marissa
 ---

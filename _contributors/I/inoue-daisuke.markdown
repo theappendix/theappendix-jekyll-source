@@ -1,5 +1,5 @@
 ---
-id: inoue-daisuke
+slug: inoue-daisuke
 last_name: Inoue
 first_name: Daisuke
 ---

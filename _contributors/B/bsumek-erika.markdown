@@ -1,5 +1,5 @@
 ---
-id: bsumek-erika
+slug: bsumek-erika
 last_name: Bsumek
 first_name: Erika
 ---

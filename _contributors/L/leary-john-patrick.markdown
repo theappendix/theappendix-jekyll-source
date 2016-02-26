@@ -1,5 +1,5 @@
 ---
-id: leary-john-patrick
+slug: leary-john-patrick
 last_name: Leary
 first_name: 'John Patrick'
 ---

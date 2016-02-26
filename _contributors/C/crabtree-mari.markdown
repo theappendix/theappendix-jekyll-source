@@ -1,5 +1,5 @@
 ---
-id: crabtree-mari
+slug: crabtree-mari
 last_name: Crabtree
 first_name: Mari
 ---

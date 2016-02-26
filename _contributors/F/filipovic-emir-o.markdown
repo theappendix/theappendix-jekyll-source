@@ -1,5 +1,5 @@
 ---
-id: filipovic-emir-o
+slug: filipovic-emir-o
 last_name: Filipović
 first_name: 'Emir O.'
 ---

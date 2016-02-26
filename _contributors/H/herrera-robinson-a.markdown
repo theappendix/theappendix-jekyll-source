@@ -1,5 +1,5 @@
 ---
-id: herrera-robinson-a
+slug: herrera-robinson-a
 last_name: Herrera
 first_name: 'Robinson A.'
 ---

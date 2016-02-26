@@ -1,5 +1,5 @@
 ---
-id: cannon-zander
+slug: cannon-zander
 last_name: Cannon
 first_name: Zander
 ---

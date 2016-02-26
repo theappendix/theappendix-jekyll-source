@@ -1,5 +1,5 @@
 ---
-id: greene-maggie
+slug: greene-maggie
 last_name: Greene
 first_name: Maggie
 ---

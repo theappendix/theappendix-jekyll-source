@@ -1,5 +1,5 @@
 ---
-id: noble-katherine
+slug: noble-katherine
 last_name: Katherine
 first_name: Noble
 ---

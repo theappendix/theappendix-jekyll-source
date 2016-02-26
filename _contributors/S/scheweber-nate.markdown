@@ -1,5 +1,5 @@
 ---
-id: schweber-nate
+slug: schweber-nate
 last_name: Schweber
 first_name: Nate
 ---

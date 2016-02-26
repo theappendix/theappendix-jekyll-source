@@ -1,5 +1,5 @@
 ---
-id: wythoff-grant
+slug: wythoff-grant
 last_name: Wythoff
 first_name: Grant
 ---

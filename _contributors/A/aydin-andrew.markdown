@@ -1,5 +1,5 @@
 ---
-id: aydin-andrew
+slug: aydin-andrew
 last_name: Aydin
 first_name: Andrew
 ---

@@ -1,5 +1,5 @@
 ---
-id: jack-caroline
+slug: jack-caroline
 last_name: Jack
 first_name: Caroline
 ---

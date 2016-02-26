@@ -1,5 +1,5 @@
 ---
-id: jones-brian
+slug: jones-brian
 last_name: Jones
 first_name: Brian
 ---

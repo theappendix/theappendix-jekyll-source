@@ -1,5 +1,5 @@
 ---
-id: cohen-andrew
+slug: cohen-andrew
 last_name: Cohen
 first_name: Andrew
 ---

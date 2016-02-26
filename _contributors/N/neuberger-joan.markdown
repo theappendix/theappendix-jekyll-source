@@ -1,5 +1,5 @@
 ---
-id: neuberger-joan
+slug: neuberger-joan
 last_name: Neuberger
 first_name: Joan
 ---

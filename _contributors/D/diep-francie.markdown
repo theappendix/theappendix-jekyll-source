@@ -1,5 +1,5 @@
 ---
-id: diep-francie
+slug: diep-francie
 last_name: Diep
 first_name: Francie
 ---

@@ -1,5 +1,5 @@
 ---
-id: hailwood-mark
+slug: hailwood-mark
 last_name: Hailwood
 first_name: Mark
 ---

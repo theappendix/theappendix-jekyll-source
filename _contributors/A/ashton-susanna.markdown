@@ -1,5 +1,5 @@
 ---
-id: ashton-susanna
+slug: ashton-susanna
 last_name: Ashton
 first_name: Susanna
 ---

@@ -1,5 +1,5 @@
 ---
-id: sachs-aaron
+slug: sachs-aaron
 last_name: Sachs
 first_name: Aaron
 ---

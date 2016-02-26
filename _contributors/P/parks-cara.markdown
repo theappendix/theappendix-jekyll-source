@@ -1,5 +1,5 @@
 ---
-id: parks-cara
+slug: parks-cara
 last_name: Parks
 first_name: Cara
 ---

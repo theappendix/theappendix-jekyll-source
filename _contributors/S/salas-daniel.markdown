@@ -1,5 +1,5 @@
 ---
-id: salas-daniel
+slug: salas-daniel
 last_name: Salas
 first_name: Daniel
 ---

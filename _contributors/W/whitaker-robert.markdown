@@ -1,5 +1,5 @@
 ---
-id: whitaker-robert
+slug: whitaker-robert
 last_name: Whitaker
 first_name: Robert
 ---

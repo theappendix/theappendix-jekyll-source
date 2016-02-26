@@ -1,5 +1,5 @@
 ---
-id: pyne-lydia
+slug: pyne-lydia
 last_name: Pyne
 first_name: Lydia
 ---

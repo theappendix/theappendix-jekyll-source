@@ -1,5 +1,5 @@
 ---
-id: hartman-darrell
+slug: hartman-darrell
 last_name: Hartman
 first_name: Darrell
 ---

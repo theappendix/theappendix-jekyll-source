@@ -1,5 +1,5 @@
 ---
-id: rand-lisa-ruth
+slug: rand-lisa-ruth
 last_name: Rand
 first_name: 'Lisa Ruth'
 ---

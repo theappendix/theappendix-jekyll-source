@@ -1,5 +1,5 @@
 ---
-id: pyne-steve
+slug: pyne-steve
 last_name: Pyne
 first_name: Steve
 ---

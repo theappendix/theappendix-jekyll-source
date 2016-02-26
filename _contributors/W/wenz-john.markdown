@@ -1,5 +1,5 @@
 ---
-id: wenz-john
+slug: wenz-john
 last_name: Wenz
 first_name: John
 ---

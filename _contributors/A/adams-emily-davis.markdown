@@ -1,5 +1,5 @@
 ---
-id: adams-emily-davis
+slug: adams-emily-davis
 last_name: Adams
 first_name: 'Emily Davis'
 ---

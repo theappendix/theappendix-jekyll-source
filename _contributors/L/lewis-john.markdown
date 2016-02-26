@@ -1,5 +1,5 @@
 ---
-id: lewis-john
+slug: lewis-john
 last_name: Lewis
 first_name: John
 ---

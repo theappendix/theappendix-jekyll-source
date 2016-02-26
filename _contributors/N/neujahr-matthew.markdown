@@ -1,5 +1,5 @@
 ---
-id: neujahr-matthew
+slug: neujahr-matthew
 last_name: Neujahr
 first_name: Matthew
 ---

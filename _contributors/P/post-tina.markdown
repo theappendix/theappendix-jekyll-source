@@ -1,5 +1,5 @@
 ---
-id: post-tina
+slug: post-tina
 last_name: Post
 first_name: Tina
 ---

@@ -4,11 +4,11 @@ module Jekyll
     attr_reader :last_name
     attr_reader :bio
 
-    def initialize(id, site)
-      @id = id
+    def initialize(slug, site)
+      @slug = slug
 
       people = site.collections['contributors'].docs.select do |p|
-        p.data['id'].to_s == id.to_s
+        p.data['slug'].to_s == slug.to_s
       end
 
       person = people.first

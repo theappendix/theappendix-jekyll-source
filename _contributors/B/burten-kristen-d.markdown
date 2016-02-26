@@ -1,5 +1,5 @@
 ---
-id: burton-kristen-d
+slug: burton-kristen-d
 last_name: Burton
 first_name: 'Kristen D.'
 ---

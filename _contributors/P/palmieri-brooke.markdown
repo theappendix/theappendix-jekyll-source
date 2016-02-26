@@ -1,5 +1,5 @@
 ---
-id: palmieri-brooke
+slug: palmieri-brooke
 last_name: Palmieri
 first_name: Brooke
 ---

@@ -1,5 +1,5 @@
 ---
-id: goodman-glenda
+slug: goodman-glenda
 last_name: Goodman
 first_name: Glenda
 ---

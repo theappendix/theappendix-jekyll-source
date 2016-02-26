@@ -1,5 +1,5 @@
 ---
-id: rodriguez-linda
+slug: rodriguez-linda
 last_name: Rodriguez
 first_name: Linda
 ---

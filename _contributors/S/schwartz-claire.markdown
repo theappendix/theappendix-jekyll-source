@@ -1,5 +1,5 @@
 ---
-id: schwartz-claire
+slug: schwartz-claire
 last_name: Schwartz
 first_name: Claire
 ---

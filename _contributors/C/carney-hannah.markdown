@@ -1,5 +1,5 @@
 ---
-id: carney-hannah
+slug: carney-hannah
 last_name: Carney
 first_name: Hannah
 ---

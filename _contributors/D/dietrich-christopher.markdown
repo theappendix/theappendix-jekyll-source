@@ -1,5 +1,5 @@
 ---
-id: dietrich-christopher
+slug: dietrich-christopher
 last_name: Dietrich
 first_name: Christopher
 ---

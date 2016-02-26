@@ -1,5 +1,5 @@
 ---
-id: bigelow-allison
+slug: bigelow-allison
 last_name: Bigelow
 first_name: Allison
 ---

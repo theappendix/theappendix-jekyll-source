@@ -1,5 +1,5 @@
 ---
-id: fernandes-cruz-felipe
+slug: fernandes-cruz-felipe
 last_name: 'Fernandes Cruz'
 first_name: Felipe
 ---

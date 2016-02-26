@@ -1,5 +1,5 @@
 ---
-id: bogaerts-gregory
+slug: bogaerts-gregory
 last_name: Bogaerts
 first_name: Gregory
 ---

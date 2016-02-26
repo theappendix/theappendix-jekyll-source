@@ -1,5 +1,5 @@
 ---
-id: scranton-roy
+slug: scranton-roy
 last_name: Scranton
 first_name: Roy
 ---

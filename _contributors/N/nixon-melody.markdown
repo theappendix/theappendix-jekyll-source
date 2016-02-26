@@ -1,5 +1,5 @@
 ---
-id: nixon-melody
+slug: nixon-melody
 last_name: Nixon
 first_name: Melody
 ---

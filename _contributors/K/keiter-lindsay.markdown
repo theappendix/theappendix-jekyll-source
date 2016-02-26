@@ -1,5 +1,5 @@
 ---
-id: keiter-lindsay
+slug: keiter-lindsay
 last_name: Keiter
 first_name: Lindsay
 ---

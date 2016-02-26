@@ -1,5 +1,5 @@
 ---
-id: meiburg-jonathan
+slug: meiburg-jonathan
 last_name: Meiburg
 first_name: Jonathan
 ---

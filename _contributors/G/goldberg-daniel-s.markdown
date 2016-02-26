@@ -1,5 +1,5 @@
 ---
-id: goldberg-daniel-s
+slug: goldberg-daniel-s
 last_name: Goldberg
 first_name: Daniel S.
 ---

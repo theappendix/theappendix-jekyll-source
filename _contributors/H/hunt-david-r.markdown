@@ -1,5 +1,5 @@
 ---
-id: hunt-david-r
+slug: hunt-david-r
 last_name: Hunt
 first_name: 'David R.'
 ---

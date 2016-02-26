@@ -1,5 +1,5 @@
 ---
-id: kinnison-andrea
+slug: kinnison-andrea
 last_name: Kinnison
 first_name: Andrea
 ---

@@ -1,5 +1,5 @@
 ---
-id: brodak-molly
+slug: brodak-molly
 last_name: Brodak
 first_name: Molly
 ---

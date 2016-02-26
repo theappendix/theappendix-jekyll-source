@@ -1,5 +1,5 @@
 ---
-id: ron-ariel
+slug: ron-ariel
 last_name: Ron
 first_name: Ariel
 ---

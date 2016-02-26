@@ -1,5 +1,5 @@
 ---
-id: fulford-tim
+slug: fulford-tim
 last_name: Fulford
 first_name: Tim
 ---

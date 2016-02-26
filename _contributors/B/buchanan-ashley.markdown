@@ -1,5 +1,5 @@
 ---
-id: buchanan-ashley
+slug: buchanan-ashley
 last_name: Buchanan
 first_name: Ashley
 ---

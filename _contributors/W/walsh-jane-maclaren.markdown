@@ -1,5 +1,5 @@
 ---
-id: walsh-jane-maclaren
+slug: walsh-jane-maclaren
 last_name: Walsh
 first_name: 'Jane MacLaren'
 ---

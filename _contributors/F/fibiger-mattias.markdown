@@ -1,5 +1,5 @@
 ---
-id: fibiger-mattias
+slug: fibiger-mattias
 last_name: Fibiger
 first_name: Mattias
 ---

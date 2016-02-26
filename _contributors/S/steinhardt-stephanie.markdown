@@ -1,5 +1,5 @@
 ---
-id: steinhardt-stephanie
+slug: steinhardt-stephanie
 last_name: Steinhardt
 first_name: Stephanie
 ---

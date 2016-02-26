@@ -1,5 +1,5 @@
 ---
-id: strang-cameron-b
+slug: strang-cameron-b
 last_name: Strang
 first_name: 'Cameron B.'
 ---

@@ -1,5 +1,5 @@
 ---
-id: rivera-gina
+slug: rivera-gina
 last_name: Rivera
 first_name: Gina
 ---

@@ -1,5 +1,5 @@
 ---
-id: smith-blake
+slug: smith-blake
 last_name: Smith
 first_name: Blake
 ---

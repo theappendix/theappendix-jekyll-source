@@ -1,5 +1,5 @@
 ---
-id: willis-matthew
+slug: willis-matthew
 last_name: Willis
 first_name: Matthew
 ---

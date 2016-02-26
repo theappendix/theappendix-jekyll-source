@@ -1,5 +1,5 @@
 ---
-id: skeehan-danielle
+slug: skeehan-danielle
 last_name: Skeehan
 first_name: Danielle
 ---

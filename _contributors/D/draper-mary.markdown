@@ -1,5 +1,5 @@
 ---
-id: draper-mary
+slug: draper-mary
 last_name: Draper
 first_name: Mary
 ---

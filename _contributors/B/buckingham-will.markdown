@@ -1,5 +1,5 @@
 ---
-id: buckingham-will
+slug: buckingham-will
 last_name: Buckingham
 first_name: Will
 ---

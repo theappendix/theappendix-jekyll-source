@@ -1,5 +1,5 @@
 ---
-id: harper-ryan
+slug: harper-ryan
 last_name: Harper
 first_name: Ryan
 ---

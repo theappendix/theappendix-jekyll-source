@@ -1,5 +1,5 @@
 ---
-id: williams-michael-p
+slug: williams-michael-p
 last_name: Williams
 first_name: 'Michael P.'
 ---

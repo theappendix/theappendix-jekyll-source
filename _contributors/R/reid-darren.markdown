@@ -1,5 +1,5 @@
 ---
-id: reid-darren
+slug: reid-darren
 last_name: Reid
 first_name: Darren
 ---

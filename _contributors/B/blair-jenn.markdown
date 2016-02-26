@@ -1,5 +1,5 @@
 ---
-id: blair-jenn
+slug: blair-jenn
 last_name: Blair
 first_name: Jenn
 ---

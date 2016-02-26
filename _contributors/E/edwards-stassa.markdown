@@ -1,5 +1,5 @@
 ---
-id: edwards-stassa
+slug: edwards-stassa
 last_name: Edwards
 first_name: Stassa
 ---

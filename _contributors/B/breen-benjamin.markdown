@@ -1,5 +1,5 @@
 ---
-id: breen-benjamin
+slug: breen-benjamin
 last_name: Breen
 first_name: Benjamin
 ---

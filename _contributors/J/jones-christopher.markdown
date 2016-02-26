@@ -1,5 +1,5 @@
 ---
-id: jones-christopher
+slug: jones-christopher
 last_name: Jones
 first_name: Christopher
 ---

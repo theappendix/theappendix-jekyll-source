@@ -1,5 +1,5 @@
 ---
-id: herrmann-rachel
+slug: herrmann-rachel
 last_name: Herrmann
 first_name: Rachel
 ---

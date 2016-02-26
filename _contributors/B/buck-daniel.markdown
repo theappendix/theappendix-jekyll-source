@@ -1,5 +1,5 @@
 ---
-id: buck-daniel
+slug: buck-daniel
 last_name: Buck
 first_name: Daniel
 ---

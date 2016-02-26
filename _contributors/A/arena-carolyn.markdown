@@ -1,5 +1,5 @@
 ---
-id: arena-carolyn
+slug: arena-carolyn
 last_name: Arena
 first_name: Carolyn
 ---

@@ -1,5 +1,5 @@
 ---
-id: ottaviani-jim
+slug: ottaviani-jim
 last_name: Ottaviani
 first_name: Jim
 ---

@@ -1,5 +1,5 @@
 ---
-id: pineda-erin
+slug: pineda-erin
 last_name: Pineda
 first_name: Erin
 ---

@@ -1,5 +1,5 @@
 ---
-id: klehm-carla
+slug: klehm-carla
 last_name: Klehm
 first_name: Carla
 ---

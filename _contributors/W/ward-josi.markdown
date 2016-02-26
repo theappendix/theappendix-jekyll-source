@@ -1,5 +1,5 @@
 ---
-id: ward-josi
+slug: ward-josi
 last_name: Ward
 first_name: Josi
 ---

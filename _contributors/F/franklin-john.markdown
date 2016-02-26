@@ -1,5 +1,5 @@
 ---
-id: franklin-john
+slug: franklin-john
 last_name: Franklin
 first_name: John
 ---

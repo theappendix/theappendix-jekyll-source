@@ -1,5 +1,5 @@
 ---
-id: mcnamara-charles
+slug: mcnamara-charles
 last_name: McNamara
 first_name: Charles
 ---

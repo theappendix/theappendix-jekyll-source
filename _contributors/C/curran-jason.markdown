@@ -1,5 +1,5 @@
 ---
-id: curran-jason
+slug: curran-jason
 last_name: Curran
 first_name: Jason
 ---

@@ -1,5 +1,5 @@
 ---
-id: ponce-rachel-n
+slug: ponce-rachel-n
 last_name: Ponce
 first_name: 'Rachel N.'
 ---

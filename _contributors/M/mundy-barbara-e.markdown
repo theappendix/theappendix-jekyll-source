@@ -1,5 +1,5 @@
 ---
-id: mundy-barbara-e
+slug: mundy-barbara-e
 last_name: Mundy
 first_name: 'Barbara E.'
 ---

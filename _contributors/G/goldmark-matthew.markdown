@@ -1,5 +1,5 @@
 ---
-id: goldmark-matthew
+slug: goldmark-matthew
 last_name: Goldmark
 first_name: Matthew
 ---

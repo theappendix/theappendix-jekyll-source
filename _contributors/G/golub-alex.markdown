@@ -1,5 +1,5 @@
 ---
-id: golub-alex
+slug: golub-alex
 last_name: Golub
 first_name: Alex
 ---

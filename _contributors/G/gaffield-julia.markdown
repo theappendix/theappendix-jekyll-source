@@ -1,5 +1,5 @@
 ---
-id: gaffield-julia
+slug: gaffield-julia
 last_name: Gaffield
 first_name: Julia
 ---

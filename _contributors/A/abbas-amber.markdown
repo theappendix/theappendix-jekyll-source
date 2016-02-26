@@ -1,5 +1,5 @@
 ---
-id: abbas-amber
+slug: abbas-amber
 last_name: Abbas
 first_name: Amber
 ---

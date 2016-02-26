@@ -1,5 +1,5 @@
 ---
-id: case-susana-h
+slug: case-susana-h
 last_name: Case
 first_name: 'Susana H.'
 ---

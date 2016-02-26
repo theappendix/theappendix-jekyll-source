@@ -1,5 +1,5 @@
 ---
-id: gissen-david
+slug: gissen-david
 last_name: Gissen
 first_name: David
 ---

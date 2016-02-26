@@ -1,5 +1,5 @@
 ---
-id: mendoza-zoila
+slug: mendoza-zoila
 last_name: Mendoza
 first_name: Zoila
 ---
