@@ -1,0 +1,59 @@
+.index-content {
+  ul.letters {
+    @include sans-serif-font-stack;
+    color: $deemphasizedColor;
+    list-style-type: none;
+    padding: 0;
+    margin: 1em 0;
+    text-align: center;
+
+    li {
+      display: inline-block;
+      margin: 0 .5em 0 0;
+
+      &:last-child {
+        margin-right: 0;
+      }
+
+      a {
+        color: $accentColor;
+        text-decoration: none;
+
+        &:hover {
+          color: $accentColorLinkHover;
+        }
+      }
+    }
+  }
+
+  h3 {
+    color: $headerColor;
+    font: {
+      size: 1.25em;
+      variant: small-caps;
+      weight: bold;
+    }
+    margin: 2em 0 0 0;
+  }
+
+
+  p.index-entry {
+    line-height: 150%;
+    margin: 0 0 1em 0;
+
+    a {
+      color: $accentColor;
+
+      &:hover {
+        color: $accentColorLinkHover;
+      }
+    }
+
+    span.crossref {
+      font: {
+        variant: small-caps;
+        weight: bold;
+      }
+    }
+  }
+}

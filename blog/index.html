@@ -8,12 +8,12 @@ title: Blog Archives
   {% assign posts = site.posts | sort: 'date' %}
   <ul class="blog-index">
       {% assign current_year = "2012" %}
-      <li><span class="date-header">2012</span></li>
+      <li><p class="section-bar"><span class="wrapper">2012</span></p></li>
     {% for post in posts %}{% if post.layout == 'blog' %}
       {% capture year %}{{ post.date | date: "%Y" }}{% endcapture %}
       {% if current_year != year %}
         {% capture current_year %}{{ post.date | date: "%Y" }}{% endcapture %}
-        <li><span class="date-header">{{ current_year }}</span></li>
+        <li><p class="section-bar"><span class="wrapper">{{ current_year }}</span></p></li>
       {% endif %}
       <li>
         <span class="title">

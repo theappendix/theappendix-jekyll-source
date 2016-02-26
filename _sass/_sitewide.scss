@@ -164,6 +164,28 @@ h1 {
   text-align: center;
 }
 
+p.section-bar {
+  @include sans-serif-font-stack;
+  border: {
+    color: $accentColor;
+    style: dotted;
+    width: 1px 0 0 0;
+  }
+  color: $headerColor;
+  font-weight: bold;
+  margin: 4em auto 1em auto;
+  position: relative;
+  text-align: center;
+
+  span.wrapper {
+    display: inline-block;
+    background-color: $negativeColor;
+    position: relative;
+      top: -.75em;
+    padding: 0 .5em;
+  }
+}
+
 article {
   padding-top: 2em;
 
