@@ -92,20 +92,22 @@ Unquestionably, the advertisements evoke the image of the person they describe. 
 
 The ads help us see individuals. Although the dark horror of slavery remains, the ads show for whom—and how—escape was possible.  They present us with a sense of their movements and motivations, like Francisco Puche. He escaped in April 1829 and was said to be somewhere near the docks of Guanabacoa, forged license in hand.
 
-***
+<hr class="special" />
 
-**Further Reading:**
-
-The advertisements crop up in the scholarly literature on slavery, abolition, and free people of color in colonial Cuba, but I have not come across a compilation that considers them as a whole or assembles them into a documentary history, like Lathan Algerna’s [*Runaway Slave Advertisements: A Documentary History from the 1730s to 1790*](http://www2.vcdh.virginia.edu/gos/source.html) for colonial Virginia. A website on the [“Geography of Slavery”](http://www2.vcdh.virginia.edu/gos/) expands the scope of Algerna’s project and includes a searchable database. A similar project for the Cuban advertisements would be invaluable.
-
-Childs, Matt D. [*The 1812 Aponte Rebellion in Cuba and the Struggle against Atlantic Slavery.*](http://www.amazon.com/dp/0807857726) Chapel Hill: The University of North Carolina Press, 2006.
-
-Deschamps Chapeaux, Pedro. [*El negro en la economia habanera del siglo XIX.*](http://www.worldcat.org/title/negro-en-la-economia-habanera-del-siglo-xix/oclc/432745509) La Habana: Union de Escritores y Artistas de Cuba, 1971.
-
-de la Fuente, Alejandro. “[Slaves and the Creation of Legal Rights in Cuba: Coartación and Papel](http://hahr.dukejournals.org/content/87/4/659.full.pdf).” _Hispanic American Historical Review_ 87, no. 4 (2007): 659-692.
-
-García, Guadalupe. “[Beyond the walled city: urban expansion in and around Havana, 1828-1909](http://dc.lib.unc.edu/cdm/ref/collection/etd/id/362).” PhD diss., The University of North Carolina at Chapel Hill, 2006.
-
-Knight, Franklin. [*Slave Society in Cuba during the Nineteenth Century.*](http://www.amazon.com/Slave-Society-During-Nineteenth-Century/dp/0299057941) Madison: University of Wisconsin Press, 1970.
-
-Ortiz, Fernando. [*Los negros curros.*](http://elpais.com/diario/1998/12/13/andalucia/913504945_850215.html) La Habana: Editorial de Ciencias Sociales, 1986.
+<p class="alternate-voice">
+<b>Further Reading:</b><br />
+<br />
+The advertisements crop up in the scholarly literature on slavery, abolition, and free people of color in colonial Cuba, but I have not come across a compilation that considers them as a whole or assembles them into a documentary history, like Lathan Algerna’s <a href="http://www2.vcdh.virginia.edu/gos/source.html"><i>Runaway Slave Advertisements: A Documentary History from the 1730s to 1790</i></a> for colonial Virginia. A website on the “<a href="http://www2.vcdh.virginia.edu/gos/">Geography of Slavery</a>” expands the scope of Algerna’s project and includes a searchable database. A similar project for the Cuban advertisements would be invaluable.<br />
+<br />
+Childs, Matt D. <i>The 1812 Aponte Rebellion in Cuba and the Struggle against Atlantic Slavery</i>. Chapel Hill: The University of North Carolina Press, 2006.<br />
+<br />
+Deschamps Chapeaux, Pedro. <i>El negro en la economia habanera del siglo XIX</i>. La Habana: Union de Escritores y Artistas de Cuba, 1971.<br />
+<br />
+de la Fuente, Alejandro. “Slaves and the Creation of Legal Rights in Cuba: Coartación and Papel.” <i>Hispanic American Historical Review</i> 87, no. 4 (2007): 659-692.<br />
+<br />
+García, Guadalupe. “Beyond the walled city: urban expansion in and around Havana, 1828-1909.” PhD diss., The University of North Carolina at Chapel Hill, 2006.<br />
+<br />
+Knight, Franklin. <i>Slave Society in Cuba during the Nineteenth Century</i>. Madison: University of Wisconsin Press, 1970.<br />
+<br />
+Ortiz, Fernando. <i>Los negros curros</i>. La Habana: Editorial de Ciencias Sociales, 1986.
+</p>

@@ -20,7 +20,6 @@ Like Machiavelli, we hope you’re received by them kindly.
 ***
 
 - Lou Reed, one of the greatest songwriters of the modern era, passed away. [In 1987 he told *Rolling Stone*](http://www.rollingstone.com/music/news/lou-reed-velvet-underground-leader-and-rock-pioneer-dead-at-71-20131027) that “if you thought of all of it as a book then you have the Great American Novel, every record as a chapter.” We also found [his high school yearbook entry](http://tumblr.theappendix.net/post/65280789117/rip-lou-reed-a-few-of-our-favorite-songs-by-him#notes). 
-
 - At the Slate Vault, [Rebecca Onion explored](http://www.slate.com/blogs/the_vault/2013/10/31/blood_book_victorian_scrapbook_given_as_betrothal_gift_and_collected_by.html) one of our favorite pieces of book art, the Victorian “Blood Book” owned by the Harry Ransom Center.
 
 <div class="inline-image">
@@ -36,19 +35,12 @@ Like Machiavelli, we hope you’re received by them kindly.
 </div>
 
 - *Atlas Obscura* [collected their thirty-one blog posts about spooky sites worldwide](http://www.atlasobscura.com/articles/2013-31-days-of-halloween-in-review) for Halloween. 
-
 - *The New Yorker* [picked our recent article](http://www.newyorker.com/online/blogs/books/2013/11/weekend-reading-a-close-call-with-a-serial-killer-human-stains.html) on the impostor George Psalmanazar as its weekend reading. 
-
 - *Scratch,* an intriguing new online magazine about the intersection between writing and money, conducted a [wide-ranging roundtable interview](http://scratchmag.net/free-preview-issue/web-editors-roundtable/) with editors at *Slate,* *The Atlantic* and *The Toast* that covered everything from how editors pick articles to the proper pronunciation of GIF.
-
 - We found a [1734 recipe for turkey](https://twitter.com/appendixjournal/status/396719918105653248) that includes 15 oysters, nutmeg, and a ton of butter.
-
 - UT Austin PhD candidate Bob Whitaker was [interviewed by NPR’s On the Media](http://www.onthemedia.org/story/spanish-prisoner/) about his *Appendix* article “[Proto-Spam](http://theappendix.net/issues/2013/10/proto-spam-spanish-prisoners-and-confidence-games).”
-
 - *The Toast* brought us [texts from William Blake.](http://the-toast.net/2013/10/23/texts-william-blake/)
-
 - *Public Domain Review* and *New Inquiry* dug up some great [eighteenth century witch lore](http://thenewinquiry.com/features/the-witch-of-the-woodlands/) (“they make him kiss their bums”). 
-
 - At *Not Even Past,* [a historian reads Machiavelli](http://www.notevenpast.org/discover/historian-reads-machiavelli).
 
 <hr class="special" />

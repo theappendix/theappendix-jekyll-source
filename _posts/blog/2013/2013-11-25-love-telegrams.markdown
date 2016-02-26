@@ -16,15 +16,10 @@ header_image_caption: "“Literature is a kind of intellectual light which, like
 ***
 
 - Mary Beard [wrote about the race to decode Linear B](http://www.nybooks.com/articles/archives/2013/dec/05/what-was-greek-to-them/) for *New York Review of Books*.
-
 - *The New Yorker* on the [self-driving car](http://www.newyorker.com/reporting/2013/11/25/131125fa_fact_bilger?currentPage=all&src=longreads&utm_content=buffer1e1a6&utm_source=buffer&utm_medium=twitter&utm_campaign=Buffer).
-
 - Archeologists [discovered](blogs.smithsonianmag.com/smartnews/2013/11/archeologists-discovered-a-stash-of-3700-year-old-psychotropic-wine/) a cache of pyschotropic spiced wine from 1700 BCE. 
-
 - A Native American [embroidered birch bark box](http://emotionalobjects.wordpress.com/2013/11/21/emotional-objects-archive-the-native-american-birch-box/) showing a colonial duel and a genteel couple drinking tea, among other interesting things, from the new [Emotional Objects](https://twitter.com/EmotionalObject) blog.
-
 - A joint project from the Smithsonian and the National Museum of Natural History [digitized over three hundred books of field notes](http://collections.si.edu/search/results.htm?tag.cstype=all&q=unit_code%3AFBR&fq=online_media_type:%22Electronic+resource%22) from nineteenth and early twentieth century scientists, and they’re amazing. Follow their team on Twitter [here](https://twitter.com/FieldBookProj).
-
 - Friend of *The Appendix* and Austin-based fiction writer [Travis Klunick](thesemightysecrets.tumblr.com) found a [surrealist love telegram](http://tumblr.theappendix.net/post/67165169004/thesemightysecrets-i-was-helping-my-grandma#notes) sent to his great aunt in 1937.
 
 <div class="inline-image">
@@ -40,9 +35,7 @@ header_image_caption: "“Literature is a kind of intellectual light which, like
 </div>
 
 - The *Los Angeles Review of Books* [reviewed a compendium of Brazilian poetry](https://lareviewofbooks.org/essay/brazilian-poetry-today-2/) in both English and Portuguese - neat. 
-
 - A [potential entanglement](http://bits.blogs.nytimes.com/2013/11/23/study-suggests-link-between-dread-pirate-roberts-and-satoshi-nakamoto/?_r=1&) between the former head of the Silk Road drug marketplace and the mysterious, pseudonymous creator of BitCoins? (Or, 2013: the year reality became a [William Gibson](https://twitter.com/GreatDismal) novel.)
-
 - Res Obscura found a [map of Enlightenment London’s Royal Exchange](http://books.google.com/books?id=0poHAAAAQAAJ&pg=PR1#v=onepage&q&f=false) showing the stalls of Jamaica merchants, druggists and others, and [transposed it](https://twitter.com/ResObscura/status/404671543218683904) onto a larger map of London.
 
 <div class="inline-image">
@@ -58,7 +51,6 @@ header_image_caption: "“Literature is a kind of intellectual light which, like
 </div>
 
 - The [true site](http://www.telegraph.co.uk/earth/environment/archaeology/10470443/Pictured-the-real-site-of-the-Hanging-Gardens-of-Babylon.html) of the Hanging Gardens of Babylon?
-
 - Two non reading links for good measure: we started selling this [narrative map of a 1912 expedition to Greenland](http://shop.theappendix.net/products/poster-of-1912-expedition-to-greenland-by-kevin-cannon) created for us by the brilliant cartoonist and illustrator Kevin Cannon. Plus, you can now [search the collections of the Cooper Hewitt Museum by color](http://collection.cooperhewitt.org/objects/colors/).
 
 <hr class="special" />

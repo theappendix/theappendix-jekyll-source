@@ -87,22 +87,20 @@ doubtless be staggered somewhat to find nothing but a large round hole eight tho
 
 Not with a bang, then, but with a quipster.
 
+<hr class="special" />
 
-
-**FURTHER READING:**
-
-Akasoy, Anna A. (2007).  “Islamic Attitudes to Disasters in the Middle Ages : A Comparison of Earthquakes and Plagues,” *The Medieval History Journal* 2007 10: 387 
-
-Bein, Amit (2008). “The Istanbul Earthquake of 1894 and Science in the Late Ottoman 
-Empire.” *Middle Eastern Studies* 44 (6): 909-924.
-
-Cook, David (2002). *Studies in Muslim Apocalyptic,* Princeton: Darwin Press.
-
-Köse, Ali, and Talip Küçükcan, (2006).  *Deprem ve Din: Marmara Depremi Üzerine 
-Psiko-Sosyolojik Bir Inceleme* (Earthquake and Religion: A Psycho-Sociological 
-Study on the Marmara Earthquake).  İstanbul, Emre Yayınları.
-
-Murray, James S (2005).   “The Urban Earthquake Imagery and Divine Judgment in 
-John’s Apocalypse,” *Novum Testamentum* XLVII 2: 142-161.
-
-Nur, Amos and Dawn Burgess (2008). *Apocalypse: Earthquakes, Archaeology, and the Wrath of God.*  Princeton: Princeton University Press.
+<p class="alternate-voice">
+<b>FURTHER READING:</b><br />
+<br />
+Akasoy, Anna A. (2007).  “Islamic Attitudes to Disasters in the Middle Ages : A Comparison of Earthquakes and Plagues,” <i>The Medieval History Journal</i> 2007 10: 387.<br />
+<br />
+Bein, Amit (2008). “The Istanbul Earthquake of 1894 and Science in the Late Ottoman Empire.” <i>Middle Eastern Studies</i> 44 (6): 909-924.<br />
+<br />
+Cook, David (2002). <i>Studies in Muslim Apocalyptic</i>, Princeton: Darwin Press.<br />
+<br />
+Köse, Ali, and Talip Küçükcan, (2006). <i>Deprem ve Din: Marmara Depremi Üzerine Psiko-Sosyolojik Bir Inceleme</i> (Earthquake and Religion: A Psycho-Sociological Study on the Marmara Earthquake). İstanbul, Emre Yayınları.<br />
+<br />
+Murray, James S (2005).   “The Urban Earthquake Imagery and Divine Judgment in John’s Apocalypse,” <i>Novum Testamentum</i> XLVII 2: 142-161.<br />
+<br />
+Nur, Amos and Dawn Burgess (2008). <i>Apocalypse: Earthquakes, Archaeology, and the Wrath of God.</i>  Princeton: Princeton University Press.
+</p>

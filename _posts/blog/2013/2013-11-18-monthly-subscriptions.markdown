@@ -34,7 +34,4 @@ We hope this change will encourage more of our readers to subscribe and help kee
 When we started *The Appendix* last year, we hoped we could make a place for quirky, complicated, often-longform history writing on the Internet, but knew it was a long shot. We’ve been overwhelmed and humbled by the excitement you’ve all shown us and can’t wait to share the next several issues, from Digs, to Bodies, to Futures of the Past. So thank you. We hope you’re with us for years Two through Fifty. 
  
 Warm regards from your *Appendix* co-founders, <br>
-[Ben](http://theappendix.net/contributors/profile/benjamin-breen),
-[Brian](http://theappendix.net/contributors/profile/brian-jones), 
-[Chris](http://theappendix.net/contributors/profile/christopher-heaney), and 
-[Felipe](http://theappendix.net/contributors/profile/felipe-fernandes-cruz) 
+Ben, Brian, Chris, and Felipe

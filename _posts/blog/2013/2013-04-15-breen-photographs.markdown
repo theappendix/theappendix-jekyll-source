@@ -21,7 +21,7 @@ Living in an [old quarter of Lisbon](http://en.wikipedia.org/wiki/Bairro_Alto) f
 But as the famously cryptic Greek philosopher Heraclitus [put it](http://en.wikipedia.org/wiki/Heraclitus#Panta_rhei.2C_.22everything_flows.22), “We both step and do not step in the same rivers. We are and are not.” Landscapes offer an impression of permanence, but they are as much in flux as the contents of our own memories. Regenerated each spring, continually reshaped by earthquakes, exposure, sedimentation, and human activity, a landscape is both constant and constantly changing – just as our own bodies recreate themselves, sloughing off molecules and generating new ones at such a rapid clip that it is estimated that [we replace most of our cells every decade or so]( http://www.nytimes.com/2005/08/02/science/02cell.html?pagewanted=all&_r=0).
 
 <div style="float: left; padding: 20 0 10px 20px; margin-right: 20px">
-    <a rel="lightbox" style="border-width: 0" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/336/large/Issue-_2-Cover.jpg?1363744315"><img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/336/medium/Issue-_2-Cover.jpg?1363744315" width="350" alt="cover" /></a>
+    <a rel="lightbox" style="border-width: 0" href="/images/blog/2013/04/Issue-_2-Cover-large.jpg"><img src="/images/blog/2013/04/Issue-_2-Cover-medium.jpg" width="350" alt="cover" /></a>
 </div>
 
 When we at *The Appendix* started thinking about the theme of “Illusions” for our second issue, we decided to construe the term [as broadly as possible](http://theappendix.net/issues/2013/4/issue-two-letter-from-the-editors). We wanted it to encompass magic tricks, deceit, forgery and lies, but also deeper illusions: illusions of permanence; illusions created by our own memories. For the cover of *The Appendix* Issue Two, we settled on a photograph-within-a-photograph depicting the same spot of ground in 2012 and circa 1960. The hand in the photo is mine as an adult; the photograph I’m holding shows my father and his sisters as children. Photographs are famously susceptible to trickery and hoaxes. Photography is also, as Susan Sontag noted, a process of metamorphosis that turns a moment in time into a frozen object, transforming “an event or person into something that can be possessed.” 
@@ -153,4 +153,3 @@ Photographs are passports.
   </p>
 </div>
 
-<hr class="special" />

@@ -73,5 +73,3 @@ It should also be noted that this map is my personal interpretation of events, a
 </div>
 
 <em> We made a custom-coded viewer for you to explore Cannon’s complete map [here](http://theappendix.net/issues/2013/10/the-appendix-appendixed).</em>
-
-*You can buy a poster of Cannon’s cartographic biography [at our shop](http://shop.theappendix.net/products/poster-of-1912-expedition-to-greenland-by-kevin-cannon).*

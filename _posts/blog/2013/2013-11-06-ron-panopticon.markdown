@@ -89,7 +89,12 @@ Somehow he also found time to be the “father of American forestry.” In this 
 
 Three or four generations down the line, somewhere in America, is it not inevitable that some truant teen is lighting a joint behind one of these trees, shielded from observation?
 
-**Works Cited:**
-Franklin B. Hough, *Planting Tress in School Grounds* (Washington: GPO, 1883);
-Franklin B. Hough, *History of Lewis County, in the State of New York* (Albany: Munsell & Rowland, 1860);
-Douglas G. Bucher and W. Richard Wheeler, *A Neat Plain Modern Stile: Philip Hooker and His Contemporaries, 1796-1836* (Amherst: University of Massachusetts Press, 1993).
+<p class="alternate-voice">
+<b>Works Cited:</b><br />
+<br />
+Franklin B. Hough, <i>Planting Tress in School Grounds</i> (Washington: GPO, 1883).<br />
+<br />
+Franklin B. Hough, <i>History of Lewis County, in the State of New York</i> (Albany: Munsell & Rowland, 1860).<br />
+<br />
+Douglas G. Bucher and W. Richard Wheeler, <i>A Neat Plain Modern Stile: Philip Hooker and His Contemporaries, 1796-1836</i> (Amherst: University of Massachusetts Press, 1993).
+</p>

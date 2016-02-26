@@ -95,4 +95,8 @@ On some level, the Piltdown “fossil” is all of these things. However, it is 
   </p>
 </div>  
 
-**Acknowledgments**: *The author would like to acknowledge the Pennoni Honors College, Drexel University and the generous time and conversations of Dr. Francis Thackery (University of Witwatersrand.)*
+<hr class="special" />
+
+<p class="alternate-voice">
+<b>Acknowledgments:</b> <i>The author would like to acknowledge the Pennoni Honors College, Drexel University and the generous time and conversations of Dr. Francis Thackery (University of Witwatersrand.)</i>
+</p>

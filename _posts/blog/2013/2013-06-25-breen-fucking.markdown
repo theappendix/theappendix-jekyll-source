@@ -101,5 +101,3 @@ There’s a lot more to analyze here—toward the end, Frances describes women w
 A small postscript about Samuel Pepys. In typical fashion, Pepys overcame his embarrassment and returned three weeks later to purchase the book, reasoning that “it was not amiss for a sober man once to read over to inform himself in the villainy of the world.” And read it over he did: Pepys skipped church the next day to peruse it in his study, [noting](http://twonerdyhistorygirls.blogspot.com/2009/12/men-behaving-badly-samuel-pepys-dirty.html) in pseudo-Spanish that “it did *hazer* my prick *para* stand all the while.” 
 
 He burnt it immediately afterward. 
-
-_If you enjoyed this post, please [subscribe](https://theappendix.net/subscribe) and support The Appendix._

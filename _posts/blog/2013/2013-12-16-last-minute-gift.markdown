@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "The Appendix Makes a Great Last-Minute Gift"
+title: "<i>The Appendix</i> Makes a Great Last-Minute Gift"
 authors:
 date: 2013-12-16 06:00:00
 permalink: "/posts/2013/12/the-appendix-makes-a-great-last-minute-gift"

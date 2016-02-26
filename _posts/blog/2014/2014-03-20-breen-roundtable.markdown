@@ -60,20 +60,24 @@ Josh Marshall, founder of *Talking Points Memo* and a former history PhD student
 
 **Brockey**: I was told in mock admiration that my first book “read like a novel.” What does it mean to write seriously and accessibly? Grad school trained me as an historian. It did not train me as a writer, rather good writers did—like Tony, for example.
 
-<p class="alternate-voice"> One thing we’ve learned from _The Appendix_ is that the medium in which history is presented can be hugely important: one suspects that few out of the 130,000 who read our piece on <a href="http://theappendix.net/blog/2013/6/this-misterie-of-fucking-a-sex-manual-from-1680"><em>The School of Venus</em> (1680)</a>  would have been interested if it didn’t feature bawdy woodcuts. Rich visual sources, quirky tales of forgotten histories, and topics of perennial interest like sex and war are naturally going leap to the forefront when it comes to popular history. </p>
+<p class="alternate-voice"> One thing we’ve learned from <i>The Appendix</i> is that the medium in which history is presented can be hugely important: one suspects that few out of the 130,000 who read our piece on <a href="http://theappendix.net/blog/2013/6/this-misterie-of-fucking-a-sex-manual-from-1680"><em>The School of Venus</em> (1680)</a>  would have been interested if it didn’t feature bawdy woodcuts. Rich visual sources, quirky tales of forgotten histories, and topics of perennial interest like sex and war are naturally going leap to the forefront when it comes to popular history. </p>
 
 <p class="alternate-voice"> But it’s a missed opportunity if we leave it at that: quality writing with a quality presentation (be it in print or pixels) will always find readers, regardless of subject matter. We passionately believe that there’s a place in the public sphere for what we, in our <a href="http://theappendix.net/from-the-editors">original editorial letter</a>, called “the people and events just outside what gets taught in school…  the marginalia of bored policemen and monks, the lost journals of the failed and forgotten.” Being popular, in short, doesn’t have to mean being obvious—or dumbed down. There’s plenty of room for experimentation.</p>
 
 <p class="alternate-voice"> This post is itself an experiment—an attempt to bring debates that are often restricted to back channels into a public space. And it’s not a closed off dialogue—send us your comments at editors@theappendix.net and we’ll update this post to incorporate them.</p>
 
-**About the participants**
+<hr class="special" />
 
-*Anthony Grafton is a former president of the American Historical Association and a professor of history at Princeton.*
-
-*Liam Brockey is a professor of history at Michigan State University.*
-
-*Josh Marshall is the founder and editor of* Talking Points Memo.
-
-*Jacob Soll is a professor of history at USC and a 2011 MacArthur Fellow.*
-
-*Emily Rutherford is a Marshall Scholar and graduate student in history at the University of Oxford.*
+<p class="alternate-voice">
+<b>About the Participants:</b><br />
+<br />
+<i>Anthony Grafton is a former president of the American Historical Association and a professor of history at Princeton.</i><br />
+<br />
+<i>Liam Brockey is a professor of history at Michigan State University.</i><br />
+<br />
+<i>Josh Marshall is the founder and editor of </i>Talking Points Memo<i>.</i><br />
+<br />
+<i>Jacob Soll is a professor of history at USC and a 2011 MacArthur Fellow.</i><br />
+<br />
+<i>Emily Rutherford is a Marshall Scholar and graduate student in history at the University of Oxford.</i>
+</p>
