@@ -1,3 +1,9 @@
+.issue-frontmatter-content div.table-of-contents ul li div.details span.title a {
+  &:hover {
+    color: $accentColor;
+  }
+}
+
 .article-content {
   p.alternate-voice {
     background-color: $alternateVoice;

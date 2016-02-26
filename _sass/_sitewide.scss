@@ -113,6 +113,16 @@ header.site-header {
   }
 }
 
+h1 {
+  @include sans-serif-font-stack;
+  color: $headerColor;
+  font: {
+    size: 2em;
+    weight: bold;
+  }
+  text-align: center;
+}
+
 article {
   padding-top: 2em;
 

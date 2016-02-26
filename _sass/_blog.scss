@@ -1,0 +1,50 @@
+.blog-index {
+  list-style-type: none;
+  margin-left: 0;
+  padding: 0;
+
+  li {
+    line-height: 125%;
+    margin-left: 0;
+    margin-bottom: 1.25em;
+    padding-left: 0;
+    
+    span.date-header {
+      @include sans-serif-font-stack;
+      color: $textColor;
+      display: block;
+      font: {
+        size: 1.25em;
+      }
+      margin: 2em 0 .5em 0;
+    }
+
+    span.title {
+      display: block;
+      font: {
+        size: 1.25em;
+        weight: bold;
+      }
+      line-height: 125%;
+
+      a {
+        color: $headerColor;
+        text-decoration: none;
+
+        &:hover {
+          color: $accentColor;
+          text-decoration: underline;
+        }
+      }
+    }
+
+    span.metadata {
+      @include sans-serif-font-stack;
+      color: $deemphasizedColor;
+      display: block;
+      font: {
+        size: .8em;
+      }
+    }
+  }
+}

@@ -5,7 +5,7 @@
 
   {% if page.title %}
     {% capture page_title %}
-      {{ page.title | remove: '_' | strip_html }}
+      {{ page.title | remove: '_' | strip_html }}—{{ site.title }}
     {% endcapture %}
   {% else %}
     {% assign page_title = site.title %}

@@ -1,6 +1,7 @@
 .issues-landing-content {
   h2 {
     @include sans-serif-font-stack;
+    color: $headerColor;
     font: {
       size: 2em; // 32px
       weight: bold;
@@ -78,6 +79,7 @@
 
         h3 {
           @include sans-serif-font-stack;
+          color: $headerColor;
           font: {
             size: 1.5em; // 24px
             weight: bold;
@@ -111,6 +113,7 @@
 
     h2 {
       @include sans-serif-font-stack;
+      color: $headerColor;
       font: {
         size: 2em; // 32px
         weight: bold;
@@ -155,6 +158,7 @@
 
     h3 {
       @include sans-serif-font-stack;
+      color: $headerColor;
       font-weight: bold;
     }
 
@@ -190,6 +194,7 @@
             line-height: 125%;
 
             a {
+              color: $headerColor;
               text-decoration: none;
 
               &:hover {
@@ -199,7 +204,10 @@
           }
 
           span.authors {
+            @include sans-serif-font-stack;
+            color: $deemphasizedColor;
             display: block;
+            font-size: .8em;
           }
         }
       }
