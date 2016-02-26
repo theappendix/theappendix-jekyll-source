@@ -4,6 +4,20 @@
   }
 }
 
+nav.header-navigation {
+  border-color: $accentColor;
+
+  li {
+    a {
+      color: $accentColor;
+
+      &:hover {
+        color: $hoverColor;
+      }
+    }
+  }
+}
+
 .article-content {
   p.alternate-voice {
     background-color: $alternateVoice;

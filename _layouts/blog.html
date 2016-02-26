@@ -34,6 +34,17 @@ leaflet: false
   <div class="article-content">
     {{ page.content }}
 
+    {% if page.links.size > 0 %}
+      <div class="recommended-links">
+        <h3>Recommended Links</h3>
+        <ul class="links">
+          {% for link in page.links %}
+            <li><a href="{{ link['url'] }}">{{ link['label'] }}</a></li>
+          {% endfor %}
+        </ul>
+      </div>
+    {% endif %}
+
     <div class="bio-footer">
       {% if page.authors.size > 0 %}
         {% for author in page.authors %}

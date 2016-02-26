@@ -76,6 +76,47 @@ header.site-header {
   }
 }
 
+nav.header-navigation {
+  border: {
+    color: $accentColor;
+    style: solid;
+    width: 0 0 3px 0;
+  }
+  padding: .25em 0;
+  text-align: center;
+
+  ul.links {
+    display: inline-block;
+    list-style-type: none;
+    margin: 0 auto;
+    padding: 0;
+  }
+
+  li {
+    display: inline-block;
+    margin: 0 1em 0 0;
+    padding: 0;
+
+    &:last-child {
+      margin-right: 0;
+    }
+
+    a {
+      @include sans-serif-font-stack;
+      color: $accentColor;
+      font: {
+        size: 1em;
+        weight: bold;
+      }
+      text-decoration: none;
+
+      &:hover {
+        color: $accentColorLinkHover;
+      }
+    }
+  }
+}
+
 .page-wrap {
   margin: 0 auto;
   max-width: 800px;
