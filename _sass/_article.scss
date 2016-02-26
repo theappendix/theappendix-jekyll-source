@@ -441,6 +441,19 @@
       background-color:$deemphasizedColor;
     }
   }
+
+  .bio-footer {
+    border: {
+      color: $accentColor;
+      style: dotted;
+      width: 1px 0 0 0;
+    }
+    margin-top: 2em;
+    padding: {
+      right: 2em;
+      left: 2em;
+    }
+  }
 }
 
 .issue-footer {
