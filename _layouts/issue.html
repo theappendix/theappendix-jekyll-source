@@ -14,7 +14,7 @@ leaflet: false
       <div class="details">
         <h2>{{ page.issue_title }}</h2>
         <p class="metadata">
-          {{ page.month | date: "%B" }} {{ page.year}} – 
+          {{ page.ymd | date: "%B" }} {{ page.year}} – 
           Volume {{ page.volume }}, Number {{ page.number }}
         </p>
         <p class="blurb">
