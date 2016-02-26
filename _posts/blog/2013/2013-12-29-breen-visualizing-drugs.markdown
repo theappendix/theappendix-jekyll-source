@@ -14,7 +14,7 @@ As an historian of the early modern drug trade, I struggle to recreate the subje
 I often turn to visual sources for ways of conveying the effects of drugs and tracing how they were used, like these paintings of seventeenth-century Dutch holiday feasters drinking gin (at the time a newly invented “medicine”) and smoking tobacco. 
 
 <div class="inline-image">
-<a rel="lightbox" href="/images/blog/2013/12/The_way_you_hear_it-large.jpg">
+<a class="fancybox" href="/images/blog/2013/12/The_way_you_hear_it-large.jpg">
 <img src="/images/blog/2013/12/The_way_you_hear_it-medium.jpg" width="640" alt="drugs" />
 </a>
 <p class="caption"> Jan Steen, “The way you hear it, is the way you sing it,” ca. 1665 Oil on canvas, The Hague. The gin is on the windowsill at left.
@@ -31,7 +31,7 @@ and revealed unique internal universes. Schönfeld explores the possibilities of
 The results are impressive as abstract compositions, but I also love how they offer a novel way of visualizing a poorly-understood corner of our contemporary world. Below are some favorites, and here’s [the complete collection](http://www.sarahschoenfeld.de/en/works/all-you-can-feel-2/).
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/12/Ketamine-large.png">
+  <a class="fancybox" href="/images/blog/2013/12/Ketamine-large.png">
     <img src="/images/blog/2013/12/Ketamine-medium.png" width="640" alt="Ketamin" />
   </a>
   <p class="caption">
@@ -43,7 +43,7 @@ The results are impressive as abstract compositions, but I also love how they of
 </div>
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/12/LSD-large.png">
+  <a class="fancybox" href="/images/blog/2013/12/LSD-large.png">
     <img src="/images/blog/2013/12/LSD-medium.png" width="640" alt="LSD" />
   </a>
   <p class="caption">
@@ -55,7 +55,7 @@ The results are impressive as abstract compositions, but I also love how they of
 </div>
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/12/Cocaine-large.png">
+  <a class="fancybox" href="/images/blog/2013/12/Cocaine-large.png">
     <img src="/images/blog/2013/12/Cocaine-medium.png" width="640" alt="Cocaine" />
   </a>
   <p class="caption">
@@ -67,7 +67,7 @@ The results are impressive as abstract compositions, but I also love how they of
 </div>
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/12/Opium-large.png">
+  <a class="fancybox" href="/images/blog/2013/12/Opium-large.png">
     <img src="/images/blog/2013/12/Opium-medium.png" width="640" alt="Opium" />
   </a>
   <p class="caption">
@@ -79,7 +79,7 @@ The results are impressive as abstract compositions, but I also love how they of
 </div>
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/12/Adrenaline-large.png">
+  <a class="fancybox" href="/images/blog/2013/12/Adrenaline-large.png">
     <img src="/images/blog/2013/12/Adrenaline-medium.png" width="640" alt="Adrenaline" />
   </a>
   <p class="caption">
@@ -91,7 +91,7 @@ The results are impressive as abstract compositions, but I also love how they of
 </div>
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/12/MDMA-large.png">
+  <a class="fancybox" href="/images/blog/2013/12/MDMA-large.png">
     <img src="/images/blog/2013/12/MDMA-medium.png" width="640" alt="MDMA and Fentanyl" />
   </a>
   <p class="caption">
@@ -103,7 +103,7 @@ The results are impressive as abstract compositions, but I also love how they of
 </div>
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/12/MDMA-alone-large.png">
+  <a class="fancybox" href="/images/blog/2013/12/MDMA-alone-large.png">
     <img src="/images/blog/2013/12/MDMA-alone-medium.png" width="640" alt="MDMA" />
   </a>
   <p class="caption">

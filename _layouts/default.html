@@ -39,9 +39,11 @@
           }
         });
 
-        soundManager.setup({
-          preferFlash: false
-        });
+        {% if page.audio %}
+          soundManager.setup({
+            preferFlash: false
+          });
+        {% endif %}
       });
     </script>
   </body>

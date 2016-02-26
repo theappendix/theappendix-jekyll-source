@@ -23,7 +23,7 @@ links:
 It occurred to me that the tale of Froger’s capybara—an engraving from a [1698 book](http://books.google.com/books?id=EVCq0Pv6aREC&printsec=frontcover&dq=inauthor:%22Fran%C3%A7ois+Froger%22&hl=en&sa=X&ei=_kz8UJipGIW89QTmqoDoCQ&ved=0CDgQ6AEwAg#v=onepage&q=capivard&f=false) of voyages to Africa and Brazil written when the author was just twenty-two years old—is a good case study of this process. First, the image itself, featured in the section of Froger’s narrative regarding his travels in the area around Rio de Janeiro:
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/01/capivard-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/01/capivard-large.jpg">
     <img src="/images/blog/2013/01/capivard-medium.jpg" width="640" alt="capybara" />
   </a>
   <p class="caption">
@@ -36,7 +36,7 @@ As you can see, there is something inherently striking about this image of what 
 I distinctly remember when I first saw the image: it was the 9th of April, 2012, and I was perusing Froger’s book in the reading room of the National Library of Portugal, in Lisbon. It was a lazy late afternoon, and sunlight passing through the tall, partially shuttered windows was casting stripes of light and shadow on the several dozen readers and librarians. Finding the engraving both energized me and distracted me. I found it instantly fascinating—too much so, in fact, since I proceeded to extract the image from the [Google book scan of Froger’s _Voyages_](http://books.google.com/books?id=EVCq0Pv6aREC&dq=inauthor%3A%22Fran%C3%A7ois%20Froger%22&pg=PA124#v=onepage&q&f=false), [post it to Facebook](https://www.facebook.com/photo.php?fbid=330798393641256&set=a.155975017790262.51084.129883137066117&type=1&theater) and lost the rest of the work day to internet browsing. Then I forgot about it.
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/01/l-Capybara-with-tiny-monkeys-riding-on-its-back-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/01/l-Capybara-with-tiny-monkeys-riding-on-its-back-large.jpg">
     <img src="/images/blog/2013/01/l-Capybara-with-tiny-monkeys-riding-on-its-back-medium.jpg" width="640" alt="capybara" />
   </a>
   <p class="caption">
@@ -55,7 +55,7 @@ I suspect that my posting was the root of the capivard “going viral” in its 
 Which, in the end, makes a strange kind of sense. After all, early modern Europeans had no modern sense of ownership over an image or text, and they reprinted and reused the “memes” of their day without qualms. Indeed, Froger’s capybara has been circulating throughout the world far before I laid eyes on it in Lisbon last April—or, for that matter, before a Google engineer first uploaded the image onto the web in 2010. In this engraving from 1745, for instance, we find our “water hog” flipped around, re-imagined, and rendered into English:
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/01/capivard2-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/01/capivard2-large.jpg">
     <img src="/images/blog/2013/01/capivard2-medium.jpg" width="640" alt="capybara 2" />
   </a>
   <p class="caption">
@@ -71,7 +71,7 @@ It would seem that eighteenth century readers found the image as compelling as t
 Finally, however, its worth reflecting on how the image even reached engravers and printers in Europe. Froger doesn’t say if the engraving was based on a drawing by himself or one of his companions, or if he narrated a description of the strange creature to an engraver in France. Yet we know from other, similar travel accounts that there could be significant differences between “on site” drawings by travelers in the New World and the engravings produced from them. 
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/01/threewomen-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/01/threewomen-large.jpg">
     <img src="/images/blog/2013/01/threewomen-medium.jpg" width="640" alt="three women" />
   </a>
   <p class="caption">

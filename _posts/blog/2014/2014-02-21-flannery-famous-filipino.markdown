@@ -21,7 +21,7 @@ This duo toured England together as part of a traveling show at some point betwe
 During his lifetime, Don Santiago de los Santos was undoubtedly the most famous Filipino in Britain. For me, a historian of the Philippines, this makes Don Santiago the most fascinating of the pair. 
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/02/AN00345346_001_l-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/02/AN00345346_001_l-large.jpg">
     <img src="/images/blog/2014/02/AN00345346_001_l-medium.jpg" width="640" alt="puck" />
   </a>
   <p class="caption">

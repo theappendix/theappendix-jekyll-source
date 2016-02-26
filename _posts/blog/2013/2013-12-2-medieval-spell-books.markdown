@@ -25,7 +25,7 @@ header_image_caption: "André Martins de Barros, “The Art Scholar,” (detail)
 - We [found out](https://twitter.com/appendixjournal/status/407363668569899008) that *Harper’s Weekly* misprinted Mark Twain’s name (“Mark Swain”) when it published his first magazine article. He wasn’t [happy](http://nwpressbooks.blogspot.com/2008/11/sold-1866-mark-twains-first-nationally.html) (“they put it ‘Mike Swain’ or ‘MacSwain,’ I do not remember which. At any rate, I was not celebrated”). h/t [@AdrianChen](https://twitter.com/AdrianChen/status/407359467442171904).
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/12/Bac_GSfCQAAsW6A-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/12/Bac_GSfCQAAsW6A-large.jpg">
     <img src="/images/blog/2013/12/Bac_GSfCQAAsW6A-medium.jpg" width="640" alt="Weekly Reading" />
   </a>
   <p class="caption">
@@ -41,7 +41,7 @@ header_image_caption: "André Martins de Barros, “The Art Scholar,” (detail)
 - The *Sefer Raziel*, an early medieval book of spells originally written in Hebrew and Aramaic. We came across [a transcription of it written by an English lawyer](http://www.esotericarchives.com/raziel/raziel.htm) in 1564 and it’s utterly nuts (“drinketh the milke of a white or red or a black cowe, know thou that it maketh a man say things to come.”)
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/12/1718_sefer_razeal-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/12/1718_sefer_razeal-large.jpg">
     <img src="/images/blog/2013/12/1718_sefer_razeal-medium.jpg" width="640" alt="Weekly Reading" />
   </a>
   <p class="caption">

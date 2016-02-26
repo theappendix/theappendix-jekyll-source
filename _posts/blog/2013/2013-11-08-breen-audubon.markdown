@@ -16,7 +16,7 @@ Welcome to our new *Magic Lantern* series, where we spotlight a singular image t
 Our first installment is a print by an anonymous Japanese artist from the 1870s. Remarkably, it depicts the famous naturalist John James Audubon. And even more remarkably, it shows Audubon looking forlornly at a fleeing rat:
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/11/tumblr_mkdtv1HWs61rl1rfao1_1280-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/11/tumblr_mkdtv1HWs61rl1rfao1_1280-large.jpg">
     <img src="/images/blog/2013/11/tumblr_mkdtv1HWs61rl1rfao1_1280-medium.jpg" width="640" alt="Richard’s Documents" />
   </a>
   <p class="caption">

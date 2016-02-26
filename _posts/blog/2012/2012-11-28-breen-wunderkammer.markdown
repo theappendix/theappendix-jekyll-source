@@ -36,7 +36,7 @@ This correspondence was likely what the English writer and physician Sir Thomas 
 The early modern curiosity cabinet stood at the intersection of this dual preoccupation with internal psychology (microcosms) and the exotic, rare, rich or unfamiliar (the cosmos). By building curiosity cabinets, early modern elites made their mental lives manifest: the curiosity cabinet displayed its owner’s interests, tastes, travels, and "wit," yet it was also an [assemblage](http://www.collageart.org/assemblage) of found objects, and thus a display of the external world in all its infinite variety. 
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2012/11/Frans_Francken_(II)__Kunst-_und_Raritätenkammer_(1636)-large.jpg">
+  <a class="fancybox" href="/images/blog/2012/11/Frans_Francken_(II)__Kunst-_und_Raritätenkammer_(1636)-large.jpg">
     <img src="/images/blog/2012/11/Frans_Francken_(II)__Kunst-_und_Raritätenkammer_(1636)-medium.jpg" width="640" />
   </a>
   <p class="caption">
@@ -48,7 +48,7 @@ The early modern curiosity cabinet stood at the intersection of this dual preocc
 </div>
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2012/11/francken_detail_2-large.png">
+  <a class="fancybox" href="/images/blog/2012/11/francken_detail_2-large.png">
     <img src="/images/blog/2012/11/francken_detail_2-medium.png" width="640" alt="FBI memo" />
   </a>
   <p class="caption">
@@ -64,7 +64,7 @@ In keeping with the Baroque taste for visual variety, asymmetry, organic forms a
 The obscure Venetian painter Domenico [Remps’](http://www.wga.hu/frames-e.html?/html/r/remps/cabinet.html) painting of a curiosity cabinet, created some 40 years after that of Francken, shows how the genre had evolved over the course of the seventeenth century. Remps’ cabinet is purpose-built for display of exotica, and features an elaborate blend of artifacts attesting to an acceleration of long-distance trade (corals, paintings and engravings of sailing vessels) along with objects of art, and items that were (at the time) high technology: optical glasses, a pocket watch, a pistol. 
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2012/11/Remps_curiosity_cabinet-large.jpg">
+  <a class="fancybox" href="/images/blog/2012/11/Remps_curiosity_cabinet-large.jpg">
     <img src="/images/blog/2012/11/Remps_curiosity_cabinet-medium.jpg" width="640" alt="Remps cabinet" />
   </a>
   <p class="caption">
@@ -82,7 +82,7 @@ Yet all was not chaos. As Met curator Wolfram Koeppe [explains](http://www.metmu
 As the loosely-defined Baroque era segued into the more empirically-minded Enlightenment of the eighteenth century, curiosity cabinets became correspondingly more orderly. They borrowed a page from Linnaeus—he [of species classification fame](http://en.wikipedia.org/wiki/Linnaean_taxonomy)—and started to order their objects according to rational classification schemes. Alexandre Isidore Leroy de Barde’s remarkably precise and disciplined [watercolors](http://www.minrec.org/artwork.asp?artistid=49&cat=1) of naturalia cabinets are perfect example of the shift: 
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2012/11/Alexandre-Isidore_Leroy_De_Barde_-_Selection_of_Shells_Arranged_on_Shelves_-_WGA12903-large.jpg">
+  <a class="fancybox" href="/images/blog/2012/11/Alexandre-Isidore_Leroy_De_Barde_-_Selection_of_Shells_Arranged_on_Shelves_-_WGA12903-large.jpg">
     <img src="/images/blog/2012/11/Alexandre-Isidore_Leroy_De_Barde_-_Selection_of_Shells_Arranged_on_Shelves_-_WGA12903-medium.jpg" width="640" alt="De Barde shells" />
   </a>
   <p class="caption">
@@ -94,7 +94,7 @@ As the loosely-defined Baroque era segued into the more empirically-minded Enlig
 </div>
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2012/11/Alexandre-Isidore_Leroy_De_Barde_-_Crystallised_Minerals_-_WGA12902-large.jpg">
+  <a class="fancybox" href="/images/blog/2012/11/Alexandre-Isidore_Leroy_De_Barde_-_Crystallised_Minerals_-_WGA12902-large.jpg">
     <img src="/images/blog/2012/11/Alexandre-Isidore_Leroy_De_Barde_-_Crystallised_Minerals_-_WGA12902-medium.jpg" width="640" alt="FBI memo" />
   </a>
   <p class="caption">
@@ -114,7 +114,7 @@ My thinking here was set in motion when I noticed that by far the most frequentl
 Reflecting on this, I began to notice _Wunderkammer_-like displays in contemporary web presentation. Perhaps the internet loves curiosity cabinets because it is, _itself_, a curiosity cabinet—in a manner of speaking, of course. Let’s take Pinterest as an example:
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2012/11/Screen_Shot_2012-11-27_at_9.34.48_PM-large.png">
+  <a class="fancybox" href="/images/blog/2012/11/Screen_Shot_2012-11-27_at_9.34.48_PM-large.png">
     <img src="/images/blog/2012/11/Screen_Shot_2012-11-27_at_9.34.48_PM-medium.png" width="640" alt="FBI memo" />
   </a>
   <p class="caption">

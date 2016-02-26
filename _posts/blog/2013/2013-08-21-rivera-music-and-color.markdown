@@ -19,7 +19,7 @@ links:
 *We poked around the Internet looking for more information, and found useful resources like this chart by <a href="http://rhythmiclight.com/archives/ideas/colorscales.html">Fred Collopy</a>, which visualizes three centuries of claims about the relationship between music and color*: 
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/08/Rivera0-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/08/Rivera0-large.jpg">
     <img src="/images/blog/2013/08/Rivera0-medium.jpg" width="640" alt="color chart" />
   </a>
   <p class="caption">
@@ -42,7 +42,7 @@ Fascination with the interplay between color and music dates to Hellenic times, 
 The primary colors were most singled out for the ways that they gestured toward musical intervals—an analogy which opened up space for Newtonian theory. In the sixteenth century, the composer and theorist [Gioseffo Zarlino](http://www.britannica.com/EBchecked/topic/655982/Gioseffo-Zarlino) associated the musical intervals of the unison and octave with the colors white and black, further speaking to the affinities of red, green, and blue.  In [*An Hypothesis explaining the Properties of Light, discoursed of in my several Papers*](http://www.newtonproject.sussex.ac.uk/view/texts/normalized/NATP00002) (1675), Newton himself associated the colors of the spectrum with tonal intervals, describing the strength of the vibrations produced by reds and yellows, the weakness of blues and violets, and the corresponding workings of the perception of diverse tones. As the harmony or dissonance of sounds proceeds from the proportions of vibrations in the air, the harmony of some colors like gold and blue proceeds from the proportions of ethereal vibrations.  
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/08/rivera2a-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/08/rivera2a-large.jpg">
     <img src="/images/blog/2013/08/rivera2a-medium.jpg" width="640" alt="color chart" />
   </a>
   <p class="caption">
@@ -58,7 +58,7 @@ Interestingly, almost a full century before Newton would develop his theories, t
 This genealogy of fascination with color and music held pride of place in Enlightenment and post-Enlightenment France, where the composer Jean-Philippe Rameau was an avid reader of Zarlino and where the vogue for such naturalistic colorists as the painter [Antoine Watteau](http://www.metmuseum.org/toah/hd/watt/hd_watt.htm) extended well into the eighteenth century. As the musicologist Georgia Cowart has pointed out, the popularity of Watteau maintained ties to the subjects of many of his portraits, including figures from the world of contemporary ballet and *commedia dell’arte*.  
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/08/rivera1-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/08/rivera1-large.jpg">
     <img src="/images/blog/2013/08/rivera1-medium.jpg" width="640" alt="Gilles" />
   </a>
   <p class="caption">
@@ -70,7 +70,7 @@ This genealogy of fascination with color and music held pride of place in Enligh
 </div>
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/08/Rivera2-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/08/Rivera2-large.jpg">
     <img src="/images/blog/2013/08/Rivera2-medium.jpg" width="640" alt="Gilles" />
   </a>
   <p class="caption">
@@ -90,7 +90,7 @@ As news of an “ocular harpsichord, with the capacity to paint sounds” spread
 Castel’s reading of Kircher’s [*Musurgia Universalis*](http://books.google.com/books?id=Fr1CAAAAcAAJ&dq=musurgia+universalis+kircher&source=gbs_navlinks_s) (1650) inspired him to imbue a musical instrument with visual properties. The idea was that listeners confronting its sounding material would “be astonished to see it sown with the most vivid colors.”
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/08/Rivera4-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/08/Rivera4-large.jpg">
     <img src="/images/blog/2013/08/Rivera4-medium.jpg" width="640" alt="Gilles" />
   </a>
   <p class="caption">

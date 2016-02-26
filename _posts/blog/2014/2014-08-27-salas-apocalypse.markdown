@@ -22,7 +22,7 @@ In April of 2014, televangelist Pat Robertson devoted a [segment]( http://www.ra
 As Robertson and his guest, author and biblically-oriented “privacy expert” Katherine Albrecht explain, matters on Earth are never merely as reported. For them, new developments in the world of techno-commerce align in troubling parallel with the Book of Revelation. RFID is nothing less than a strong candidate for the Mark of the Beast. According to chapter thirteen of John of Patmos’s book, this 666, “the number of his name,” shall be inscribed upon the bodies of “small and great, rich and poor, free and bond” so that none may buy or sell without such a mark. The mark divides the sinners from the Christians who will refuse branding and suffer persecution and martyrdom in the Last Days. 
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/08/Screen_Shot_2014-08-22_at_7.55.20_PM-large.png">
+  <a class="fancybox" href="/images/blog/2014/08/Screen_Shot_2014-08-22_at_7.55.20_PM-large.png">
     <img src="/images/blog/2014/08/Screen_Shot_2014-08-22_at_7.55.20_PM-medium.png" width="640" alt="rapture" />
   </a>
   <p class="caption">
@@ -40,7 +40,7 @@ Prognostications of doom abounded in nineteenth-century and twentieth-century Am
 An undercurrent of anti-government thought has long informed this particularly American brand of eschatological belief. 
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/08/MilleriteChart-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/08/MilleriteChart-large.jpg">
     <img src="/images/blog/2014/08/MilleriteChart-medium.jpg" width="640" alt="Millerite prophetic chart" />
   </a>
   <p class="caption">
@@ -51,7 +51,7 @@ An undercurrent of anti-government thought has long informed this particularly A
 Groups like the Millerites, who weathered numerous unfulfilled prophecies and subsequent schisms in the nineteenth century, exemplified this strain of American apocalypticism. From the very beginning, William Miller and his followers identified the United States as a potential enemy, drawing on “the apocalyptic visions of the biblical books of Daniel and Revelation, where he saw governments portrayed as wild beasts which hurt God’s people.”  Miller reversed America’s eschatological significance as the City on a Hill, positioning the appearance of the republic on the world stage not as a positive harbinger of a golden age, but as a dark force pointing towards a coming cataclysm.
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/08/nyhs_SY1844no63oversize_c1-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/08/nyhs_SY1844no63oversize_c1-large.jpg">
     <img src="/images/blog/2014/08/nyhs_SY1844no63oversize_c1-medium.jpg" width="640" alt="Millerite prophetic chart" />
   </a>
   <p class="caption">

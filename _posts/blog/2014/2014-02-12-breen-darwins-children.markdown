@@ -20,7 +20,7 @@ Yesterday was Darwin Day, marking the 205th anniversary of the great naturalist�
 Interested browsers can also check out the [Darwin Manuscripts Project](http://darwin.amnh.org/browse.php?mode=uc&id=72001), a collaborative initiative based at the American Museum of Natural History. Here you can read through Darwin’s personal notes, including gems like his [scratched out book title ideas](http://darwin.amnh.org/viewer.php?eid=15156&mode=clean). There are also a number of nature drawings that Darwin prepared while writing his masterpiece, *On the Origin of Species by Means of Natural Selection* (1859). Here, for example, is Darwin’s rather skillful drawing of the stamen of a *Strelitizia* flower:
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/02/76763_-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/02/76763_-large.jpg">
     <img src="/images/blog/2014/02/76763_-medium.jpg" width="640" alt="puck" />
   </a>
   <p class="caption">
@@ -33,7 +33,7 @@ Interested browsers can also check out the [Darwin Manuscripts Project](http://d
 But there are other drawings in Darwin’s papers that defy explanation - until we remember that Darwin and his wife Emma (who, famously, was also his cousin) had a huge family of ten children. Scholars believe that a young Francis Darwin, the naturalist’s third oldest son, drew this on the back of Darwin’s manuscript for *On the Origin of Species*. 
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/02/DArwin1-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/02/DArwin1-large.jpg">
     <img src="/images/blog/2014/02/DArwin1-medium.jpg" width="640" alt="puck" />
   </a>
   <p class="caption">
@@ -49,7 +49,7 @@ Remarkably, this is one of only twenty-eight pages of the manuscript that still 
 Here’s another drawing from the talented Darwin children, this one seemingly directly inspired by their father’s work. Birds are in the act of catching a spider and a gnat or bee, while flowers and a butterfly appear in remarkable detail. Clearly the family had a knack for acute observations of nature (in fact young Francis ended up becoming a naturalist as well).
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/02/Darwin2-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/02/Darwin2-large.jpg">
     <img src="/images/blog/2014/02/Darwin2-medium.jpg" width="640" alt="puck" />
   </a>
   <p class="caption">
@@ -62,7 +62,7 @@ Here’s another drawing from the talented Darwin children, this one seemingly d
 This one’s my personal favorite: a child’s-eye view of the Darwin family home with cozy details like a tea kettle on the boil and a fluffy orange cat in the attic window. 
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/02/BXMEXhRCcAAgp-N-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/02/BXMEXhRCcAAgp-N-large.jpg">
     <img src="/images/blog/2014/02/BXMEXhRCcAAgp-N-medium.jpg" width="640" alt="puck" />
   </a>
   <p class="caption">
@@ -77,7 +77,7 @@ Fascinatingly, this image might be detailed enough that it actually depicts Darw
 I poked around the items available at Darwin Online and came across [Emma Darwin’s diaries](http://darwin-online.org.uk/EmmaDiaries.html), which are a fascinating resource. Emma seems to have been a talented sketch artist in her own right, doodling profiles and faces in over her daily schedule:
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/02/Darwin3a_1824-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/02/Darwin3a_1824-large.jpg">
     <img src="/images/blog/2014/02/Darwin3a_1824-medium.jpg" width="640" alt="puck" />
   </a>
   <p class="caption">
@@ -90,7 +90,7 @@ I poked around the items available at Darwin Online and came across [Emma Darwin
 Here’s another, perhaps a self-portrait? Write us on [Twitter](https://twitter.com/appendixjournal) or [Facebook](https://www.facebook.com/TheAppendix) if you have any ideas as to whether this is Emma’s self-portrait or a drawing of another family member.
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/02/Darwin3-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/02/Darwin3-large.jpg">
     <img src="/images/blog/2014/02/Darwin3-medium.jpg" width="640" alt="puck" />
   </a>
   <p class="caption">
@@ -103,7 +103,7 @@ Here’s another, perhaps a self-portrait? Write us on [Twitter](https://twitter
 Amazingly, the Darwin kids even got into Emma’s diary, with several pages rendered unreadable by what is almost certainly a crazed toddler’s pencil. In fact, the back page of Emma’s potential self-portrait was defaced in precisely this way:
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/02/Darwin3b-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/02/Darwin3b-large.jpg">
     <img src="/images/blog/2014/02/Darwin3b-medium.jpg" width="640" alt="puck" />
   </a>
   <p class="caption">
@@ -123,7 +123,7 @@ A tip of the hat, by the way, to [Open Culture](http://www.openculture.com/), a 
 I also wanted to include a short note on Annie Darwin, who died from tuberculosis at age ten and was Charles’ favorite child (or so he [told](http://books.google.com/books?id=6ikIAQAAMAAJ&q=%22the+apple+of+her+proud+father%27s+eye,+his+favourite+child,%22&dq=%22the+apple+of+her+proud+father%27s+eye,+his+favourite+child,%22&hl=en&sa=X&ei=ewj9Uu3tLqbQ2wXYjoDICg&ved=0CC0Q6AEwAQ) his cousin). This box of items relating to Annie’s life that was collected by Emma Darwin offers another, sadder testimony to the tight-knit dynamic of the Darwin family, and to their artistic knack. Annie’s pink flowers in careful needlepoint seem to echo the exuberant nature drawings of her siblings:
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/02/darwin4-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/02/darwin4-large.jpg">
     <img src="/images/blog/2014/02/darwin4-medium.jpg" width="640" alt="puck" />
   </a>
   <p class="caption">
@@ -139,7 +139,7 @@ Darwin wrote about Annie after her death with touching earnestness as he tried t
 >Our poor child, Annie, was born in Gower St on March 2d. 1841. & expired at Malvern at1 Midday on the 23d. of April 1851.— I write these few pages, as I think in after years, if we live, the impressions now put down will recall more vividly her chief characteristics. From whatever point I look back at her, the main feature in her disposition which at once rises before me is her buoyant joyousness.
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/02/darwin5-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/02/darwin5-large.jpg">
     <img src="/images/blog/2014/02/darwin5-medium.jpg" width="640" alt="puck" />
   </a>
   <p class="caption">

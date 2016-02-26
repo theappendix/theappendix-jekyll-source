@@ -19,7 +19,7 @@ Earlier this year, you may have come across a dispatch from the New York World�
 To modern eyes, it looks a bit like Devo conducting a space launch:
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/07/new-york-worlds-fair-1964-2_GM_antarctica_-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/07/new-york-worlds-fair-1964-2_GM_antarctica_-large.jpg">
     <img src="/images/blog/2014/07/new-york-worlds-fair-1964-2_GM_antarctica_-medium.jpg" width="640" alt="world’s fair" />
   </a>
   <p class="caption">
@@ -35,7 +35,7 @@ But for Asimov and the hundreds of thousands of visitors who thronged to these d
 Isaac Asimov was especially thrilled by the General Electric pavilion, with its “cheerful, lifelike dummies” inhabiting model homes filled with twenty-first century conveniences. Asimov professed admiration for the historical dioramas that opened the display—“the scenes set in 1900, 1920, 1940 and 1960 [which] show the advances of electrical appliances and the changes they are bringing to living.” Altered versions of these dioramas still exist at Disney World, and they offer an interesting glimpse into how the World’s Fair cast its glance backwards as well as forwards. (They’re also super creepy in an uncanny valley sort of way).
 
 <div class="inline-image"> 
-  <a rel="lightbox" href="/images/blog/2014/07/General_Electric_Carousel_of_Progress_1972-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/07/General_Electric_Carousel_of_Progress_1972-large.jpg">
     <img src="/images/blog/2014/07/General_Electric_Carousel_of_Progress_1972-medium.jpg" width="640" alt="world’s fair" />
   </a>
   <p class="caption">
@@ -58,7 +58,7 @@ Asimov’s fixation on home technology has a distinctly contemporary ring to it,
 Asimov believed that “robots will neither be common nor very good in 2014,” but that [gadgets]( http://wythoff.net/dissertation/) will have proliferated: food replicators that can be pre-programmed to serve up coffee and toast on demand, wireless appliances powered by nuclear batteries, self-driving cars with what Asimov calls “robot brains,” moving sidewalks, and the like. 
 
 <div class="inline-image"> 
-  <a rel="lightbox" href="/images/blog/2014/07/1957_driverless_cars_paleo-future-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/07/1957_driverless_cars_paleo-future-large.jpg">
     <img src="/images/blog/2014/07/1957_driverless_cars_paleo-future-medium.jpg" width="640" alt="world’s fair" />
   </a>
   <p class="caption">
@@ -72,7 +72,7 @@ Asimov believed that “robots will neither be common nor very good in 2014,” 
 “As for television, wall screens will have replaced the ordinary set,” Asimov wrote, anticipating both LED flat screens and emerging glasses-free 3-D technology, “but transparent cubes will be making their appearance in which three-dimensional viewing will be possible.” And his predictions about space turn out to be accurately pessimistic (aside from the assumption of a lunar colony): “by 2014, only unmanned ships will have landed on Mars, though a manned expedition will be in the works.”
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/07/64-09-46-01_Kodak_Pavilion-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/07/64-09-46-01_Kodak_Pavilion-large.jpg">
     <img src="/images/blog/2014/07/64-09-46-01_Kodak_Pavilion-medium.jpg" width="640" alt="world’s fair" />
   </a>
   <p class="caption">
@@ -84,7 +84,7 @@ Asimov believed that “robots will neither be common nor very good in 2014,” 
 </div>
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/07/1964-new-york-worlds-fair_Mashable_lunar_colony_GE-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/07/1964-new-york-worlds-fair_Mashable_lunar_colony_GE-large.jpg">
     <img src="/images/blog/2014/07/1964-new-york-worlds-fair_Mashable_lunar_colony_GE-medium.jpg" width="640" alt="world’s fair" />
   </a>
   <p class="caption">
@@ -100,7 +100,7 @@ Asimov even anticipates the rise of vegan favorites like Tofurkey: “the 2014 f
 The only point at which Asimov’s predictive skills really fail him, crucially, is in predicting the future of labor. By 2014, he believes, the human race will “have become largely a race of machine tenders,” living lives of “enforced leisure” as machines take care of virtually all mechanical tasks. Granted, there’s something to this—Asimov’s prediction of a future classroom oriented around machine learning rather than live human instruction is the [flipped classroom](http://en.wikipedia.org/wiki/Flip_teaching), *avant la lettre.* 
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/07/Williams4-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/07/Williams4-large.jpg">
     <img src="/images/blog/2014/07/Williams4-medium.jpg" width="640" alt="Shonen Sunday illustration" />
   </a>
   <p class="caption">
@@ -114,7 +114,7 @@ The only point at which Asimov’s predictive skills really fail him, crucially,
 Yet as we point out in our [editorial letter](http://theappendix.net/issues/2014/7/letter-from-the-editors-futures-of-the-past), thinking about the future can often lead us into restrictive binaries: we’ll live in either a utopia or a dystopia, a work-free wonderland of gadgets or a post-apocalyptic, nuked-out hellscape. The articles in “Futures of the Past” engage with both of these imagined futures, from Rebecca Onion [writing](http://theappendix.net/issues/2014/7/honey-youre-scaring-the-kids) about how 1980s kids grappled with fears of nuclear annihilation to [Anna Marie Roos](http://theappendix.net/issues/2014/7/perchance-to-dream-science-and-the-future) on the optimistic predictions of the 17th century scientist Robert Boyle, who hoped for everything from new drugs and scratch ’n sniff technology (“Varnishes perfumable by Rubbing”) to “A perpetuall Light.”
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/07/Roos3-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/07/Roos3-large.jpg">
     <img src="/images/blog/2014/07/Roos3-medium.jpg" width="640" alt="page from Boyle’s papers" />
   </a>
   <p class="caption">
@@ -135,7 +135,7 @@ Yet as we [point out](http://theappendix.net/issues/2014/7/letter-from-the-edito
 Just the other day, my mother forwarded me a chain email called “Old Memories…” that her octagenarian friend had sent her. It started out with the typical scenes of Space Age nostalgia, seas of smiling faces wearing 3D glasses, an X-Ray beauty pageant from 1956, and the like. And then I hit this picture:
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/07/rh8PIT0-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/07/rh8PIT0-large.jpg">
     <img src="/images/blog/2014/07/rh8PIT0-medium.jpg" width="640" alt="page from Boyle’s papers" />
   </a>
   <p class="caption">

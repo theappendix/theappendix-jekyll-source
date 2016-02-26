@@ -29,7 +29,7 @@ This is (appropriately) carefully qualified, but even so, I do not think it is q
 First, it has long been argued that professional healers at least as far back as the Middle Ages generally were not focused on alleviating their patients’ pain.  Of course, then, as now, pain is a multivalent, rich, and highly ambiguous phenomenon, one that lends easily to metaphor and account in a wide variety of social domain.  So, as Esther Cohen [shows](http://books.google.com/books/about/The_Modulated_Scream.html?id=9WkBvu-wfjAC), most discussions of pain in Western medieval culture tend to appear in theological contexts, whereas early modern and modern expressions of pain often appear more in [literary formats](http://ukcatalogue.oup.com/product/9780198187172.do).  It is actually surprisingly difficult to find people discussing their own phenomenologies of pain specifically in therapeutic contexts.
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/04/quack-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/04/quack-large.jpg">
     <img src="/images/blog/2014/04/quack-medium.jpg" width="640" alt="wheelie" />
   </a>
   <p class="caption">

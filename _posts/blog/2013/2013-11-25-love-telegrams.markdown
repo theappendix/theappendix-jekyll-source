@@ -23,7 +23,7 @@ header_image_caption: "“Literature is a kind of intellectual light which, like
 - Friend of *The Appendix* and Austin-based fiction writer [Travis Klunick](thesemightysecrets.tumblr.com) found a [surrealist love telegram](http://tumblr.theappendix.net/post/67165169004/thesemightysecrets-i-was-helping-my-grandma#notes) sent to his great aunt in 1937.
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/11/tumblr_mvnojkmmRh1qzmympo1_1280-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/11/tumblr_mvnojkmmRh1qzmympo1_1280-large.jpg">
     <img src="/images/blog/2013/11/tumblr_mvnojkmmRh1qzmympo1_1280-medium.jpg" width="640" alt="Weekly Reading" />
   </a>
   <p class="caption">
@@ -39,7 +39,7 @@ header_image_caption: "“Literature is a kind of intellectual light which, like
 - Res Obscura found a [map of Enlightenment London’s Royal Exchange](http://books.google.com/books?id=0poHAAAAQAAJ&pg=PR1#v=onepage&q&f=false) showing the stalls of Jamaica merchants, druggists and others, and [transposed it](https://twitter.com/ResObscura/status/404671543218683904) onto a larger map of London.
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/11/royal_exchange-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/11/royal_exchange-large.jpg">
     <img src="/images/blog/2013/11/royal_exchange-medium.jpg" width="640" alt="Weekly Reading" />
   </a>
   <p class="caption">

@@ -9,7 +9,7 @@ excerpt: >
   Artist Justin Berry explores the process by which he creates his unique landscapes of imaginary worlds, one of which, <i>Dual Horizon</i>, we recently featured in the pages of <i>The Appendix</i>.
 ---
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/06/gildner1-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/06/gildner1-large.jpg">
     <img src="/images/blog/2013/06/gildner1-medium.jpg" width="640" alt="Image by Justin Berry" />
   </a>
   <p class="caption">

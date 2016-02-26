@@ -1,6 +1,8 @@
 ---
 layout: default
 issue_layout: true
+audio: false
+leaflet: false
 ---
 {% for issue in site.issues %}{% if issue.volume == page.volume %}{% if issue.number == page.number %}
   {% assign this_issue = issue %}

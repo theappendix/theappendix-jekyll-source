@@ -28,7 +28,7 @@ In 1985, while prepping for a trip to Patagonia, my wife Anne Meadows and I read
 ), a grizzled, stoved-up gaucho whose father had taken a lease on the property not many years after the bandits had fled. Born there in the early 1920s, Sepúlveda had lived in the cabin his entire life. He was more than a little fuzzy about the bandits, though he did repeat several times that he was one of 15 brothers and sisters. We interviewed a few neighbors, who added some anecdotes, and thought that we might write an article about the Wild Bunch trio in Cholila.
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/04/edl639-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/04/edl639-large.jpg">
     <img src="/images/blog/2014/04/edl639-medium.jpg" width="640" alt="Cholila" />
   </a>
   <p class="caption">
@@ -45,7 +45,7 @@ Welcome to, as Bruce Chatwin once [put it]( http://books.google.com/books?id=-U7
 ), “ the murk of outlaw history.” Chatwin had been in Chubut a decade before us, fell head over heels for the Butch and Sundance saga, and featured it in his classic travelogue, *In Patagonia.*
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/04/butch-cassidy-screen1-in-bolivia-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/04/butch-cassidy-screen1-in-bolivia-large.jpg">
     <img src="/images/blog/2014/04/butch-cassidy-screen1-in-bolivia-medium.jpg" width="640" alt="Cholila" />
   </a>
   <p class="caption">

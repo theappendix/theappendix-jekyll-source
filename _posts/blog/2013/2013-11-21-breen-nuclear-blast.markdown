@@ -20,7 +20,7 @@ links:
 This week, a strangely beautiful image of an atomic bomb detonating at 30,000 feet, an altitude higher than Mt. Everest. The explosion, which occurred in October of 1962, was part of a series of experimental nuclear blasts called Operation Fishbowl Bluegill.
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/11/tumblr_muze05SLOX1rl1rfao1_1280-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/11/tumblr_muze05SLOX1rl1rfao1_1280-large.jpg">
     <img src="/images/blog/2013/11/tumblr_muze05SLOX1rl1rfao1_1280-medium.jpg" width="640" alt="Magic Lantern" />
   </a>
   <p class="caption">
@@ -37,7 +37,7 @@ This week, a strangely beautiful image of an atomic bomb detonating at 30,000 fe
 Shortly after the test shown here, the Outer Space Treaty was adopted by the UN General Assembly, which mandated that signers must “undertake not to place in orbit around the Earth any object carrying nuclear weapons or any other weapons of mass destruction, install such weapons on celestial bodies, or station such weapons in outer space.”
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/11/tumblr_mvpzjyEMlA1rl1rfao1_500-large.gif">
+  <a class="fancybox" href="/images/blog/2013/11/tumblr_mvpzjyEMlA1rl1rfao1_500-large.gif">
     <img src="/images/blog/2013/11/tumblr_mvpzjyEMlA1rl1rfao1_500-medium.gif" width="640" alt="Magic Lantern" />
   </a>
   <p class="caption">
@@ -49,7 +49,7 @@ Shortly after the test shown here, the Outer Space Treaty was adopted by the UN 
 </div>
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/11/Johnston_Island_facility_immedately_prior_and_after_detonation_of_an_exoatmospheric_nuke._1_August_1958__United_States_Government__Department_of_Energy-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/11/Johnston_Island_facility_immedately_prior_and_after_detonation_of_an_exoatmospheric_nuke._1_August_1958__United_States_Government__Department_of_Energy-large.jpg">
     <img src="/images/blog/2013/11/Johnston_Island_facility_immedately_prior_and_after_detonation_of_an_exoatmospheric_nuke._1_August_1958__United_States_Government__Department_of_Energy-medium.jpg" width="640" alt="Magic Lantern" />
   </a>
   <p class="caption">

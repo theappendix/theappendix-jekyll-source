@@ -19,7 +19,7 @@ So on the occasion of the end of our first issue we’re offering a one-week 10%
 We hope you do, and that you spread the word. We’re even more excited about ‘Illusions’ than we were about ‘The End?’ and we promise to give you plenty to share. In fact, let’s start now. Here’s a few entries from the table of contents. Aztec crystal skulls, anyone?
 
 <div style="float: right; padding: 0 0 10px 20px; margin-right: -10px">
-    <a rel="lightbox" style="border-width: 0" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/336/large/Issue-_2-Cover.jpg?1363744315"><img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/336/medium/Issue-_2-Cover.jpg?1363744315" width="200" alt="cover" /></a>
+    <a class="fancybox" style="border-width: 0" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/336/large/Issue-_2-Cover.jpg?1363744315"><img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/336/medium/Issue-_2-Cover.jpg?1363744315" width="200" alt="cover" /></a>
 </div>
 
 - Open Source: “Lieutenant Nun.” _In 1600, a young novitiate named Catalina de Erauso fled her Basque convent, cut her hair, dressed like a man, and marauded her way through South America as a Spanish soldier. She lived to tell the tale. In this Open Source for our second issue, ‘Illusions,’ Catalina—who also went by Antonio, or Alonso, or Francisco—shares the story in her own words, in a translation by Gabriel and Michele Stepto._

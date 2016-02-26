@@ -41,7 +41,7 @@ Below this note, the author (AH?) had calculated the duration of the same trip i
 Times, as the Victorian author of the annotation suggested, had changed. And times continue to change. Today, documents like Sibbald’s books or the ministers’ budget don’t need to be carried as physical copies at all; they can be transmitted almost instantly online. From 100 days in the 17th century to nine hours in the 19th and nine milliseconds in the 21st. 
 
 <div class="inline-image">
-    <a rel="lightbox" href="/images/blog/2012/11/Printer_in_1568-large.jpg">
+    <a class="fancybox" href="/images/blog/2012/11/Printer_in_1568-large.jpg">
       <img src="/images/blog/2012/11/Printer_in_1568-medium.jpg" alt="Printed in 1568" />
     </a>
     <p class="caption">
@@ -61,7 +61,7 @@ Finding a way to incorporate both these two approaches—the narrative and the e
 One of the most publicized new digital tools for understanding the past was the Google Ngram viewer, launched in December 2010 and [updated in October 2012](http://www.theatlantic.com/technology/archive/2012/10/bigger-better-google-ngrams-brace-yourself-for-the-power-of-grammar/263487/). Users can now analyze the contents of a total of 8 million books to find patterns in word usage. <img src="/images/blog/2012/11/Long-s-US-Bill-of-Rights.jpg" align="right"> Of course, critics were quick to point out that many aspects of Google’s data set were inadequate—text recognition has advanced rapidly in the past few years, but it still struggles with pre-20th century orthography, and the metadata for many Google Books is plainly wrong. Some of best uses of Ngram cleverly exploited the weaknesses of current text recognition technology, for instance by recognizing that computers (and many humans) mistake the pre-1800 ["long s"](http://en.wikipedia.org/wiki/Long_s) as an "f." The exact moment when the long s was abandoned can therefore be mapped by searching for "best" and "beft": 
 
 <div class="inline-image">
-    <a rel="lightbox" href="/images/blog/2012/11/beftbest-large.png">
+    <a class="fancybox" href="/images/blog/2012/11/beftbest-large.png">
       <img src="/images/blog/2012/11/beftbest-medium.png" width="640" alt="Ngram of beft and best" />
     </a>
     <p class="caption">
@@ -80,7 +80,7 @@ As an exercise in trying to join forces between these two flawed tools of histor
 
 Here’s what I came up with:
 <div class="inline-image">
-    <a rel="lightbox" href="/images/blog/2012/11/blogpostchart-large.jpg">
+    <a class="fancybox" href="/images/blog/2012/11/blogpostchart-large.jpg">
       <img src="/images/blog/2012/11/blogpostchart-medium.jpg" width="640" alt="Bookworm graph of apocalypse and comet" />
     </a>
     <p class="caption">
@@ -93,7 +93,7 @@ At a few points—particularly the 1800-1815 period—I discerned what seemed to
 Could it be that the types of comets which attract millenarian prophecies and doomsday predictions are those that immediately follow periods of political or military unrest? In other words, do human events predict how people conceptualize comets, rather than comets influencing human events?
 
 <div class="inline-image">
-    <a rel="lightbox" href="/images/blog/2012/11/blogpost2-large.jpg">
+    <a class="fancybox" href="/images/blog/2012/11/blogpost2-large.jpg">
       <img src="/images/blog/2012/11/blogpost2-medium.jpg" width="640" alt="Ngram of comet and apocalypse" />
     </a>
     <p class="caption">

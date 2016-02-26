@@ -17,7 +17,7 @@ Sometime in 1792, too weak to finish the last leg of a journey from Bombay to Lo
 Ahmed did not speak French—yet—but he did speak Persian, then the language of diplomacy, poetry, and prestige throughout the Subcontinent. So did Pierre Ruffin, the French government’s official translator of ‘Oriental’ languages, which, at the time, meant Arabic and Persian. Ruffin, who had survived the fall of his former employers, had been in office for over a decade. His moment of glory had come in 1788, when an embassy from Tipu Sultan, ruler of the southern Indian state of Mysore, arrived in Paris to seal an alliance against Britain. 
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/12/jefferson_letter-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/12/jefferson_letter-large.jpg">
     <img src="/images/blog/2013/12/jefferson_letter-medium.jpg" width="640" alt="Tipu" />
   </a>
   <p class="caption">
@@ -29,7 +29,7 @@ Ahmed did not speak French—yet—but he did speak Persian, then the language o
 The monarchy, cash-strapped and already collapsing, sent them away with platitudes and a lovely porcelain set (stolen by British soldiers in 1799, many of these pieces are now housed in Powis Castle in Wales), but Ruffin had briefly shone at the center of court life thanks to his language skills. Ahmed presented Ruffin an opportunity not only to make himself useful to France’s new republican government, but also, the translator imagined, to make history.
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/12/Image1-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/12/Image1-large.jpg">
     <img src="/images/blog/2013/12/Image1-medium.jpg" width="640" alt="Tipu" />
   </a>
   <p class="caption">
@@ -53,7 +53,7 @@ The Foreign Affairs desk wrote back in raptures, asking for a duplicate copy and
 As has Ahmed: whether he died of his illness, continued his journey, returned to Bombay, or settled in France, he disappeared from the record, no longer of interest to French officialdom, or, it seems to Ruffin, his former caregiver, teacher, and warden. Ahmed and his manuscript had been briefly of interest to them as a symbol—but of what?
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/12/Tipu's_Tiger_with_keyboard_on_display_2006AH4168-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/12/Tipu's_Tiger_with_keyboard_on_display_2006AH4168-large.jpg">
     <img src="/images/blog/2013/12/Tipu's_Tiger_with_keyboard_on_display_2006AH4168-medium.jpg" width="640" alt="Tipu" />
   </a>
   <p class="caption">
@@ -65,7 +65,7 @@ As has Ahmed: whether he died of his illness, continued his journey, returned to
 </div>
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/12/Tipu's_Tiger_front_view_2006AH4173-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/12/Tipu's_Tiger_front_view_2006AH4173-large.jpg">
     <img src="/images/blog/2013/12/Tipu's_Tiger_front_view_2006AH4173-medium.jpg" width="640" alt="Tipu" />
   </a>
   <p class="caption">
@@ -81,7 +81,7 @@ One would expect an answer along the lines of ‘the universality of republican 
 Thanks to his French military advisers, Tipu Sultan, France’s not-quite-ally in Mysore, had been the first to show that “Muslim soldiers could be equipped with bayonets and drilled in the European manner.” But this had only been a superficial Westernization, an imitation of the European arts of making weapons and disciplining bodies. There had not yet been “a man born in their country, and preserving his faith, who would learn to read and write our language. This phenomenon has been reserved for the Republican era.” For Ruffin, Ahmed’s progress confirmed the superiority of republican government and European civilization, and showed that the former was the most effective means of spreading the latter among the less-advanced nations of Asia.
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/12/image3-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/12/image3-large.jpg">
     <img src="/images/blog/2013/12/image3-medium.jpg" width="640" alt="Tipu" />
   </a>
   <p class="caption">

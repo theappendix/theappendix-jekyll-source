@@ -43,7 +43,7 @@ Sa rive ke mwen te gen anpil chans. Yon jou, mwen te voye di yon zanmi m: “Dlo
 Rechèch mwen an te kondui m a youn nan ajan Nugent yo ki rele Edward Corbet, ki te pote yon kopi Deklarasyon Endepandans Ayiti a nan peyi Jamayik. Corbet te ekri Nugent yon lèt e nan lèt sa a, li te presize ke li te voye avèl yon dokiman enprime. Aprè li te tounnen sot Ayiti a li te di: “Ekselans, kounya pèmèt mwen prezante w Deklarasyon Endepandans yo a. Kèlkeswa kote dokiman sa a te ekri a, li pat ko pibliye jiskaprè lèm rive Pòtoprens lan, sa ki fè ke kopi sa a ke m gen onè prezante w la fèk te soti nan près la.”  An aprè, mwen ta pral dekouvri ke dokiman sa a te trè enpòtan. Mwen te jwenn nan kès ki te gen achiv yo yon transkripsyon Deklarasyon Endepandans Ayiti a ki te ekri a la men. Men le fèt ke te gen lòt vèsyon, ekri a la men oubyen enprime, ki te egziste nan lòt repètwa, sa vin fè ke dokiman an, nan li menm, pat yon twò gwo dekouvèt pou kòmansman peryòd istwa Dayiti a. 
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/02/gaffield1a-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/02/gaffield1a-large.jpg">
     <img src="/images/blog/2014/02/gaffield1a-medium.jpg" width="640" alt="Map of Hispaniola" />
   </a>
   <p class="caption">
@@ -74,7 +74,7 @@ Deklarasyon ofisyèl Endepandans la se te yon panflè ki te gen uit paj, e anlè
 Menm si dokiman an te enprime nan Pòtoprens, Deklarasyon Endepandans Ayisyèn nan te pwoklame pou la premyè fwa sou fòm yon diskou nan Gonayiv. Kòm prèv mwen te jwenn Jamayik la te revele ke Corbet te ale Jamayik ak panflè a nan zòn 21 janvye 1804, nou kapab dedui ke tèks dokiman ke Louis Felix Boisrond Tonnerre te ekri a e ke Dessalines te voye mande a te pakouri 112 kilomèt soti Gonayiv rive Pòtoprens nan de a twa semèn aprè premye janvye 1804.
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/02/Gaffield2-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/02/Gaffield2-large.jpg">
     <img src="/images/blog/2014/02/Gaffield2-medium.jpg" width="640" alt="Map of Hispaniola" />
   </a>
   <p class="caption">
@@ -86,7 +86,7 @@ Menm si dokiman an te enprime nan Pòtoprens, Deklarasyon Endepandans Ayisyèn n
 </div>
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/02/Gaffield3-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/02/Gaffield3-large.jpg">
     <img src="/images/blog/2014/02/Gaffield3-medium.jpg" width="640" alt="Map of Hispaniola" />
   </a>
   <p class="caption">
@@ -115,7 +115,7 @@ Pandan li tap pale byen fò nan telefòn etan li Pòtoprens yon fason pou yo te 
 Apèn yon lane aprè premye vwayaj mwen te fè nan achiv vil Lond yo, mwen te retounen pou mwen te ale konplete rechèch pou tèz mwen an, kote ke mwen te al etidye dokiman ke Marin peyi Jamayik genyen nan Achiv Nasyonal yo. Sa ki te etonan, sè ke m te jwenn yon lòt kopi Deklarasyon Endepandans Ayisyèn nan ki te enprime e ki te fèt yon lòt jan; se yon paj ki tankou yon afich ke yo te fè pou mete nan zòn piblik yo. Nan ka dokiman sa a li menm, yo te retire l pami achiv Marin nan e yo te reklase l kòm yon kat jewografi, yon fason pou fèy li pa t pliye nan rejis la.
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/02/gaffield4-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/02/gaffield4-large.jpg">
     <img src="/images/blog/2014/02/gaffield4-medium.jpg" width="640" alt="Document MFQ 1/184" />
   </a>
   <p class="caption">
@@ -130,7 +130,7 @@ Dezyèm dekouvèt sa a soulinye youn nan prensipal eksplikasyon konsènan rezon 
 
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/02/Gaffield5-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/02/Gaffield5-large.jpg">
     <img src="/images/blog/2014/02/Gaffield5-medium.jpg" width="640" alt="Online Catalog" />
   </a>
   <p class="caption">

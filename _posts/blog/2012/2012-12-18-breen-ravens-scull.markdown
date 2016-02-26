@@ -31,7 +31,7 @@ I spent much of the past year in Lisbon, Portugal, researching the development o
 Others, however, (like the [Farmácia Andrade](http://www.farmaciaandrade.pt/?a-farmacia&cod=122), which I walked by nearly every day) looked more like this: 
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2012/12/Apoteket_Storken-large.jpg">
+  <a class="fancybox" href="/images/blog/2012/12/Apoteket_Storken-large.jpg">
     <img src="/images/blog/2012/12/Apoteket_Storken-medium.jpg" width="640" alt="Stockholm Apothecary" />
   </a>
   <p class="caption">
@@ -47,7 +47,7 @@ Observant readers will note that this is a Stockholm *apoteket* rather than a Li
 What is striking about these displays is how pre-modern they are. Indeed, the same basic design (ceramic jars of herbs, minerals and animal products lined on wooden shelves along with the occasional specimen of exotica) can be seen in engravings and paintings from the eighteenth century:
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2012/12/Longhi-large.jpg">
+  <a class="fancybox" href="/images/blog/2012/12/Longhi-large.jpg">
     <img src="/images/blog/2012/12/Longhi-medium.jpg" width="640" alt="Longhi Apothecary" />
   </a>
   <p class="caption">
@@ -58,7 +58,7 @@ What is striking about these displays is how pre-modern they are. Indeed, the sa
 
 Or the seventeenth:
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2012/12/apothecary_1695_curiosa_aucta-large.jpg">
+  <a class="fancybox" href="/images/blog/2012/12/apothecary_1695_curiosa_aucta-large.jpg">
     <img src="/images/blog/2012/12/apothecary_1695_curiosa_aucta-medium.jpg" width="640" alt="German Apothecary" />
   </a>
   <p class="caption">
@@ -74,7 +74,7 @@ Trying to actually learn the craft of early modern pharmacy is a difficult proce
 What emerges when one overcomes these various obstacles and actually gets to the bottom of what was being prescribed, however, is a fascinating picture. It turns out early modern Europeans were prescribing some very familiar items—things found in herb teas sold in grocery stores today, like chamomile, fennel, licorice, and cardamom—alongside some utterly bizarre ones, like powdered crab’s eyes, Egyptian mummies, and human skull, or “[cranium humanum](http://www.flickr.com/photos/botalex/6407756811/).”
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2012/12/Albarelli_Axung_Hominis_(1)-large.jpg">
+  <a class="fancybox" href="/images/blog/2012/12/Albarelli_Axung_Hominis_(1)-large.jpg">
     <img src="/images/blog/2012/12/Albarelli_Axung_Hominis_(1)-medium.jpg" width="640" alt="Apothecary jar" />
   </a>
   <p class="caption">

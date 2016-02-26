@@ -18,7 +18,7 @@ links:
 </p>
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/08/Teal1-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/08/Teal1-large.jpg">
     <img src="/images/blog/2013/08/Teal1-medium.jpg" width="640" alt="Gillray cartoon" />
   </a>
   <p class="caption">
@@ -31,7 +31,7 @@ links:
 There are countless Gillrays I could choose, but this one is a *tour de force* of draughtsmanship and satire. It shows the two main clubs of the day, Brooks’s and White’s—scenes of many a debauched evening—and Gillray’s image-defining portrayal of [Charles James Fox](http://en.wikipedia.org/wiki/Charles_James_Fox) as a swarthy, unshaven revolutionary whipping [William Pitt’s](http://en.wikipedia.org/wiki/William_Pitt_the_Younger) arse.
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/08/teal2-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/08/teal2-large.jpg">
     <img src="/images/blog/2013/08/teal2-medium.jpg" width="640" alt="Hogarth cartoon" />
   </a>
   <p class="caption">
@@ -44,7 +44,7 @@ There are countless Gillrays I could choose, but this one is a *tour de force* o
 It would have been very easy to pick Hogarth’s [*Gin Lane*](http://en.wikipedia.org/wiki/Beer_Street_and_Gin_Lane), which is utterly iconic, but I’ve chosen this one because it refers to two of my favourite [*Gin Lane Gazette*](http://www.amazon.com/The-Lane-Gazette-Adrian-Teal/dp/1908717750) stories: [Mary Toft](http://en.wikipedia.org/wiki/Mary_Toft), who ‘gave birth’ to 17 rabbits, and another infamous hoax known as ‘Scratching Fanny’, the [ghost of Cock Lane](http://en.wikipedia.org/wiki/Cock_Lane_ghost). Technically, of course, Hogarth wasn’t a caricaturist, but he did satirise the age.
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/08/teal3-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/08/teal3-large.jpg">
     <img src="/images/blog/2013/08/teal3-medium.jpg" width="640" alt="Rowlandson cartoon" />
   </a>
   <p class="caption">

@@ -19,7 +19,7 @@ In the Victorian era, the smart and the curious fell in love with experimental t
 Galton doubled down on Quetelet’s  insights and transformed everything in sight into graphs and numbers: fingerprints, faces, skulls, “intelligence.” He invented IQs and [craniometry](http://en.wikipedia.org/wiki/Anthropometry#Craniometry_and_paleoanthropology). Galton and his Victorian peers became enamored of numerical regularities to be found in large “databases.”
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2012/12/galton-weather-large.jpg">
+  <a class="fancybox" href="/images/blog/2012/12/galton-weather-large.jpg">
     <img src="/images/blog/2012/12/galton-weather-medium.jpg" width="640" alt="FBI memo" />
   </a>
   <p class="caption">

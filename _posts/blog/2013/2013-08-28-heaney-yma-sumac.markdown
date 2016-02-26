@@ -17,7 +17,7 @@ But the haters are wrong.
 Mostly. 
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/08/yma_sumac_12-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/08/yma_sumac_12-large.jpg">
     <img src="/images/blog/2013/08/yma_sumac_12-medium.jpg" />
   </a>
   <p class="caption">

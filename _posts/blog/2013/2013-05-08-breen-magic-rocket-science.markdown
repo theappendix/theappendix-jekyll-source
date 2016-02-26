@@ -24,7 +24,7 @@ Every spring, residents of Pasadena, California confront a phenomenon they call 
 And surprisingly, the rocket science and the black magic sprang from the same source.
 
 <div class="inline-image"> 
-  <a rel="lightbox" href="/images/blog/2013/05/pasadena-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/05/pasadena-large.jpg">
     <img src="/images/blog/2013/05/pasadena-medium.jpg" width="640" alt="pasadena" />
   </a>
   <p class="caption">
@@ -51,7 +51,7 @@ Four times that day they tried to test fire their small rocket motor. On the las
 In 1941, at a crucial moment in the arms race between the Allies and Axis powers, Parsons had a brilliant insight which led to the development of modern rocketry. Following his intuition, Parsons claimed, he struck on the combination of potassium perchlorate and common roofing tar as components in solid rocket fuel. The technology would later make possible both intercontinental nuclear missiles and the Apollo moon landing. 
 
 <div class="inline-image"> 
-  <a rel="lightbox" href="/images/blog/2013/05/RocketBoys-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/05/RocketBoys-large.jpg">
     <img src="/images/blog/2013/05/RocketBoys-medium.jpg" width="640" alt="Parsons and team" />
   </a>
   <p class="caption">
@@ -69,7 +69,7 @@ Strikingly, however, Parsons appears to have conceived of his work almost as an 
 Crowley soon became convinced of Parsons’ potential as an occult leader—but by the late 1940s, he had grown disappointed by what he regarded as the American scientist’s overly enthusiastic nature. Parsons had by this time become obsessed with the idea of performing magical rituals which would give material form to a spiritual being which he called an “elemental.” To his well-heeled neighbors’ dismay, he had also converted his sprawling Pasadena mansion into an enclave of bohemian writers and fellow mystics (in the undated photo below, Parsons poses with Smith and Regina Kahl, the leaders of Agape Lodge).
 
 <div style="float: right; padding: 0 0 10px 20px; margin-right: -10px">
-    <a rel="lightbox" style="border-width: 0" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/369/medium/Jack-Parsons-with-fellow-members-of-the-Agape-lodge.jpg?1367988804"><img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/369/medium/Jack-Parsons-with-fellow-members-of-the-Agape-lodge.jpg?1367988804" width="450" alt="agape" /></a>
+    <a class="fancybox" style="border-width: 0" href="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/369/medium/Jack-Parsons-with-fellow-members-of-the-Agape-lodge.jpg?1367988804"><img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/369/medium/Jack-Parsons-with-fellow-members-of-the-Agape-lodge.jpg?1367988804" width="450" alt="agape" /></a>
 </div>
 
 Parsons’ closest friend during this period was an ex-Navy officer with a shadowy past: [L. Ron Hubbard](http://en.wikipedia.org/wiki/L._Ron_Hubbard). Before long, the future founder of Scientology had seduced Parsons’ young wife and embroiled him in a dubious business venture involving the purchase of East Asian yachts, but Parsons was unphased. “I need a magical partner,” he wrote of Hubbard. “I have many experiments in mind.”

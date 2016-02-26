@@ -26,7 +26,7 @@ As Richard Holmes notes in [*The Age of Wonder*](http://www.amazon.com/The-Age-W
 By the end of Cook’s third voyage in 1779, however, earlier impressions of Polynesia as a heaven on earth had grown more complicated. [Veneral disease]( http://www.jstor.org/stable/25168208) was already beginning to take a toll on island populations, sailors were growing restless, and even the normally steadyhanded Captain Cook had begun to act erratically. Recounting events in an official report, Cook’s lieutenant James King wrote that he “firmly believed matters would not have been carried to the extremities they were, had not Capt. Cook attempted to chastise a man.”
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/10/Cook1-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/10/Cook1-large.jpg">
     <img src="/images/blog/2013/10/Cook1-medium.jpg" width="640" alt="bay" />
   </a>
   <p class="caption">
@@ -45,7 +45,7 @@ Pareea had by this time recovered from the blow and (to his credit) actually beg
 In the confusion, a high-ranking Hawaiian noble named Kalimu was shot, and the violence escalated rapidly. The villagers took up their weapons and armor and charged Cook and his crew. The marines surrounding Cook had far superior weaponry with their flint-lock muskets, but no room to maneouvre and no time to fire, and four were killed almost instantly. Cook retreated to the shore, but was hit over the head with a club and then repeatedly stabbed. He died in the surf.
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/10/'A_Man_of_the_Sandwich_Islands_with_His_Helmet'_(unknown_artist__c._1830)_may_have_been_chief_who_killed_cook-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/10/'A_Man_of_the_Sandwich_Islands_with_His_Helmet'_(unknown_artist__c._1830)_may_have_been_chief_who_killed_cook-large.jpg">
     <img src="/images/blog/2013/10/'A_Man_of_the_Sandwich_Islands_with_His_Helmet'_(unknown_artist__c._1830)_may_have_been_chief_who_killed_cook-medium.jpg" width="640" alt="bay" />
   </a>
   <p class="caption">
@@ -61,7 +61,7 @@ After his death, Cook’s second-in-command Charles Clerke assumed control of th
 A remarkable artifact owned by the State Library of New South Wales in Australia confirms that Cook’s men also venerated his mortal remains. This small, intricately-carved coffin was created by an anonymous craftsman on Cook’s ship, the HMS Resolution, during the return journey from Hawai’i to Britain. 
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/10/Cook2-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/10/Cook2-large.jpg">
     <img src="/images/blog/2013/10/Cook2-medium.jpg" width="640" alt="coffin" />
   </a>
   <p class="caption">
@@ -75,7 +75,7 @@ A remarkable artifact owned by the State Library of New South Wales in Australia
 It features a number of striking details: the top lid swivels open in two pieces, revealing a watercolor painting of Cook’s death on the beach and, below that, a lock of his hair.
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/10/Cook3-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/10/Cook3-large.jpg">
     <img src="/images/blog/2013/10/Cook3-medium.jpg" width="640" alt="coffin" />
   </a>
   <p class="caption">
@@ -86,7 +86,7 @@ It features a number of striking details: the top lid swivels open in two pieces
 </div>
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/10/Cook4-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/10/Cook4-large.jpg">
     <img src="/images/blog/2013/10/Cook4-medium.jpg" width="640" alt="coffin" />
   </a>
   <p class="caption">
@@ -99,7 +99,7 @@ It features a number of striking details: the top lid swivels open in two pieces
 A silver plate set into the base of the box reveals that the wood itself had once been part of the ship (and that the box was a memento mori intended for Cook’s widow): “Made of Resolution oak for Mrs Cook by crew.” There’s also a curious detail: another silver plate offers up the cryptic inscription “Lono and the Seaman’s Idol.”
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/10/Cook5-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/10/Cook5-large.jpg">
     <img src="/images/blog/2013/10/Cook5-medium.jpg" width="640" alt="coffin" />
   </a>
   <p class="caption">

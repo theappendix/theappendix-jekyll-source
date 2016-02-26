@@ -25,7 +25,7 @@ But here’s the thing: despite his gingham checked shirts, and homespun rhythm,
 This is a radical power, turned to a popular end. Narrative history, a cousin of oral history, I’d argue, can thus be a hundred times more complex and meaningful a technology than Ngram, the Google search engine that lets you trace (published) word use (in books that Google has scanned) over time. To re-jigger my co-editor Ben’s [experiment](http://theappendix.net/blog/2012/11/tempora-mutantur:-between-experimental-and-narrative-history): I enter case-senstive, comma-separated ‘happiness, divorce’ into the Ngram Viewer and get a long decay and a mild rise. I add ‘love’ and see something else: 
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2012/11/Screen_Shot_2012-11-18_at_5.15.37_PM-large.png">
+  <a class="fancybox" href="/images/blog/2012/11/Screen_Shot_2012-11-18_at_5.15.37_PM-large.png">
     <img src="/images/blog/2012/11/Screen_Shot_2012-11-18_at_5.15.37_PM-medium.png" width="640" alt="If you want" />
   </a>
   <p class="caption">

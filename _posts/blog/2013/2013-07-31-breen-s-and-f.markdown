@@ -17,7 +17,7 @@ links:
 Last month, I came across a [recently digitized book](http://books.google.com/books?id=_9dNAAAAcAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false) from 1680 with the innocuous-sounding title *The School of Venus*. After browsing it for a few moments, however, I realized I’d stumbled onto something truly interesting. It was a sex manual, and a rather free-spirited one at that, as the frontispiece engraving suggests:
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/07/venus2-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/07/venus2-large.jpg">
     <img src="/images/blog/2013/07/venus2-medium.jpg" width="640" alt="school of venus" />
   </a>
 </div>
@@ -27,7 +27,7 @@ It occurred to me that this was the sort of thing that would appeal to people ou
 “If this has the reach I think it might,” he said, “you need to explain that.” I initially thought the suggestion was slightly condescending to my readers: doesn’t everyone know about the old-timey S? Its right there in the [first line of the Bill of Rights](http://commons.wikimedia.org/wiki/File:Long-s-US-Bill-of-Rights.jpg), after all.
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/07/Venus2a-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/07/Venus2a-large.jpg">
     <img src="/images/blog/2013/07/Venus2a-medium.jpg" width="640" alt="school of venus" />
   </a>
   <p class="caption">
@@ -42,7 +42,7 @@ So I write today to give an accessible overview of how to read books and manuscr
 So far so good. Things get trickier, however, when we try to read the earliest books printed in English, which typically featured variants of the German blackletter font. Here’s a two page spread from one of the earliest English medical texts, Thomas Elyot’s [*The Castell of Helth*](http://babel.hathitrust.org/cgi/pt?id=uc2.ark:/13960/t4gm84w94;view=1up;seq=9) (1536):
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/07/paleography2castel-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/07/paleography2castel-large.jpg">
     <img src="/images/blog/2013/07/paleography2castel-medium.jpg" width="640" alt="castle of health" />
   </a>
   <p class="caption">
@@ -61,7 +61,7 @@ The top of the second page is intended to help with diagnosing sexual trouble, a
 And so forth. I remember being a bit taken aback the first few times I tried to read books in this font, but it ends up registering in the brain as just that: a different font, but the same alphabet. Reading early modern manuscripts (the practice of which is called ‘paleography’) can be a different matter, however. To start us off easy, here’s a lovely script from the late 17th century written by a clerk or secretary at the Royal Society of London:
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/07/paleography3-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/07/paleography3-large.jpg">
     <img src="/images/blog/2013/07/paleography3-medium.jpg" width="640" alt="school of venus" />
   </a>
   <p class="caption">
@@ -77,7 +77,7 @@ The script and language here is not all that different from modern English. The 
 Moving backwards in time to milieu of the great poet John Donne in the 1610s and ’20s, we find things a little more unfamiliar. (Note that the original version of this post assumed that this text was actually written by Donne; two Donne specialists have informed me that this is quite unlikely, and that it is most likely a copy by a different hand).
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/07/paleography4donne-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/07/paleography4donne-large.jpg">
     <img src="/images/blog/2013/07/paleography4donne-medium.jpg" width="640" alt="Donne 'Triple Fool'" />
   </a>
   <p class="caption">
@@ -93,7 +93,7 @@ The ‘E’s here are typical of Donne’s era in that they resembled reversed �
 Now lets move on to some truly difficult paleography. This is a photograph I took of a book at the John Carter Brown Library called *The Sea Surgeon, or the Guinea-Mans Vade Mecum* (1729). The inside flaps of this copy of the book feature some fascinating notes by an actual practicing marine surgeon who was trying out various cures for scurvy, plague and fevers found in the book. He used a handwriting that was marked by his profession, featuring a number of abbreviations that it took me some time to puzzle out. I’d say this is fairly advanced-level paleography - although I should add that compared to my colleagues who work on things like sixteenth-century French bankruptcy cases or Scottish witchcraft trials, reading this is absolute child’s play. 
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/07/paleography5-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/07/paleography5-large.jpg">
     <img src="/images/blog/2013/07/paleography5-medium.jpg" width="640" alt="sea surgeon" />
   </a>
   <p class="caption">
@@ -109,7 +109,7 @@ At upper left, we find the heading “Rubarb given wt. ye Bark,” which is to s
 Of the ingredients of this witches brew, the most familiar to modern readers is probably wormwood, the [possibly intoxicating](http://www.erowid.org/plants/wormwood/wormwood_article1.shtml) herb which makes absinthe so infamous. There’s a good amount of shorthand being used here, of the sort that a doctor or apothecary would use in jotting notes to others in the field. But in fact this is a fairly easy to read example of how early modern apothecaries wrote - I’ve seen much, much worse, and there are countless pages of documents which even after five years of training, I’m still unable to read. With practice and patience, though, virtually [anything is readable](http://news.nationalgeographic.com/news/2005/04/0425_050425_papyrus.html). 
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/07/paleography6-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/07/paleography6-large.jpg">
     <img src="/images/blog/2013/07/paleography6-medium.jpg" width="640" alt="lobo" />
   </a>
   <p class="caption">

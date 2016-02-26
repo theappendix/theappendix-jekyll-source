@@ -31,7 +31,7 @@ Scuttling along the bottom of the Atlantic, the lobster was not so much a trans-
 Lobster sustained indigenous populations from the Americas to the antipodes long before the arrival of Europeans on their shores. While lobster could be consumed fresh, it was commonly smoked or salted for later consumption. [Tupaia](http://en.wikipedia.org/wiki/Tupaia_%28navigator%29), Captain Cook’s Polynesian navigator, sketched a Maori man exchanging a large, live spiny lobster for a piece of cloth when the Endeavour landed in New Zealand in 1769.
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/12/Tupaia_bartering_lobster_high_res-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/12/Tupaia_bartering_lobster_high_res-large.jpg">
     <img src="/images/blog/2014/12/Tupaia_bartering_lobster_high_res-medium.jpg" width="640" alt="lobsters" />
   </a>
   <p class="caption">
@@ -53,7 +53,7 @@ The recipes for Roast Lobster and an accompanying sauce transcribed below are fr
 Native American tribes, like the Algonquin, often baked or roasted seafood and these “clambakes” usually included lobster. British colonials followed suit and roasted lobsters in their new settlements. They also adopted indigenous methods for salting and smoking lobster, however disenchanted they were with the appearance and taste of this abundant shellfish. In eighteenth-century England lobsters were roasted in the fire or potted in oil and preserved. By contrast, [seventeenth-century French recipes](http://books.google.com/books?id=u034x6M7_ncC&dq=Le%20Cuisinier%20francois&pg=PP7#v=onepage&q&f=false) instruct cooks to boil lobster in seasoned bouillon or season it with creamy sauces. Pepys never describes how, exactly, his lobsters were prepared in his diary. He may have eaten something rather like the hybrid lobster preparation included in MS LJS 165.
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/12/roast_lobster-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/12/roast_lobster-large.jpg">
     <img src="/images/blog/2014/012/roast_lobster-medium.jpg" width="640" alt="lobsters" />
   </a>
   <p class="caption">

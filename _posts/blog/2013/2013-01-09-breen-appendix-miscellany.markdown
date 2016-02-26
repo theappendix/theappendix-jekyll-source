@@ -30,7 +30,7 @@ Today seemed an especially auspicious day for such a list, because it ties in wi
 - **Harry “the Hipster” Gibson** was an up-and-coming New York-based singer known for his rakish persona in 1947, when his risque song “[Who Put the Benzadrine in Mrs. Murphy’s Ovaltine?](http://www.youtube.com/watch?v=l2WJqnK3gAY)” earned him a spot on the music industry’s blacklist. **Benzadrine** was a trade name for amphetamine, popular both as “pep pills” among WW2 pilots and among the emerging Post-War counterculture, including jazz, blues and rockabilly musicians and writers of the Beat Generation. Gibson is today mainly remembered for the song that torpedoed his career; it is one of the earliest pop songs to feature explicit reference to drug use in its title. 
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/01/HarryGibson-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/01/HarryGibson-large.jpg">
     <img src="/images/blog/2013/01/HarryGibson-medium.jpg" width="640" alt="Harry the Hipster" />
   </a>
   <p class="caption">
@@ -46,7 +46,7 @@ Today seemed an especially auspicious day for such a list, because it ties in wi
 - **Methamphetamine** is still approved by the FDA as a weight-loss drug, although it is almost never prescribed for this purpose these days. In the 1950s, however, it appears to have been quite normal for a doctor to prescribe meth for, say, a plump child to lose weight, or for a housewife who wanted to put a little more pep in her step. Pharmaceutical ads touting meth bragged of its safety profile. 
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/01/meth_ad-large.gif">
+  <a class="fancybox" href="/images/blog/2013/01/meth_ad-large.gif">
     <img src="/images/blog/2013/01/meth_ad-medium.gif" width="640" alt="Meth ad" />
   </a>
   <p class="caption">
@@ -64,7 +64,7 @@ Today seemed an especially auspicious day for such a list, because it ties in wi
 - The quinine in tonic water (which was originally derived from the Amazonian plant *Cinchona officinalis*) possesses the unusual property of flourescing under ultraviolet light. Indeed, pure cinchona infused in water apparently even gives off a faint glow in direct sunlight, owing to the UV rays present in full spectrum light.
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/01/tonic_water_for_blog_post_on_res_obscura_or_appendix-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/01/tonic_water_for_blog_post_on_res_obscura_or_appendix-large.jpg">
     <img src="/images/blog/2013/01/tonic_water_for_blog_post_on_res_obscura_or_appendix-medium.jpg" width="640" alt="quinine" />
   </a>
   <p class="caption">

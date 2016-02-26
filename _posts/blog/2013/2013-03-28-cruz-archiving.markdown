@@ -30,7 +30,7 @@ Some have also taken on the archiving of old software (especially games) no long
 But perhaps one of the most impressive of such projects is the [Internet Archive](http://archive.org/). Besides holding an enormous collection of all sorts of media, such as public domain books, videos and audio, they also offer a web site archive, called the *Way Back Machine.* In it, you can type the adress of any web site and you will get a list of dates when that web site was saved, so you can visit it and see what it looked like then. Wondering what google.com looked like in 1998? or how about aol.com in 1996? Visit the *[Way Back Machine](http://archive.org/web/web.php)* and find out!
 
 <div class="inline-image"> 
-  <a rel="lightbox" href="/images/blog/2013/03/Google_1998-large.png">
+  <a class="fancybox" href="/images/blog/2013/03/Google_1998-large.png">
     <img src="/images/blog/2013/03/Google_1998-medium.png" width="640" alt="Google" />
   </a>
   <p class="caption">
@@ -39,7 +39,7 @@ But perhaps one of the most impressive of such projects is the [Internet Archive
 </div>
 
 <div class="inline-image"> 
-  <a rel="lightbox" href="/images/blog/2013/03/AOL1996-large.png">
+  <a class="fancybox" href="/images/blog/2013/03/AOL1996-large.png">
     <img src="/images/blog/2013/03/AOL1996-medium.png" width="640" alt="AOL" />
   </a>
   <p class="caption">

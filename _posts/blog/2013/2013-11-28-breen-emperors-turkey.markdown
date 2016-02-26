@@ -17,7 +17,7 @@ Turkey doesn’t exactly give off an exotic aura today. But four hundred years a
 The opium-addicted, artistically inclined emperor was an animal lover, and he kept this turkey (a gift from the Portuguese viceroy) in his private bestiary. Judging from his detailed appreciation of the turkey’s aesthetic virtues, we can guess that it numbered among Jahangir’s favorite exotic beasts.
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/11/jahangir_turkey-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/11/jahangir_turkey-large.jpg">
     <img src="/images/blog/2013/11/jahangir_turkey-medium.jpg" width="640" alt="Turkey" />
   </a>
   <p class="caption">
@@ -29,7 +29,7 @@ The opium-addicted, artistically inclined emperor was an animal lover, and he ke
 Around sixty years later, the bird had become familiar enough to appear in an English cookbook with the wonderful title [*The Way to Get Wealth*](http://books.google.com/books?id=u99QAQAAIAAJ&dq=turkey%20fowl&pg=PA77#v=onepage&q&f=false). “Slice good store of Onions,” add “good sore of Gravy that comes from the Turky, and boyl them very well together” with water, pepper, salt, breadcrumbs, sugar, and vinegar, the book advised. “And so serve it up with the Turky.” Alternately, you could mix “the blood of a Swan” with “stewed Prunes,” then boil it with sugar and cinnamon and serve. 
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/11/turkey3-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/11/turkey3-large.jpg">
     <img src="/images/blog/2013/11/turkey3-medium.jpg" width="640" alt="Turkey" />
   </a>
   <p class="caption">

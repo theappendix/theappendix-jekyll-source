@@ -27,7 +27,7 @@ Best wishes from your Appendix co-founders,
 Ben, Brian, Chris, and Felipe
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/12/800px-1914_Santa_Claus-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/12/800px-1914_Santa_Claus-large.jpg">
     <img src="/images/blog/2013/12/800px-1914_Santa_Claus-medium.jpg" width="640" alt="British Library" />
   </a>
   <p class="caption">

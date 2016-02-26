@@ -34,7 +34,7 @@ I’m sure this all comes as something of a disappointment to you *Breaking Bad*
 <hr class="special" />
 
 <div class="inline-image alternate-voice">
-  <a rel="lightbox" href="/images/blog/2013/09/dscn0113-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/09/dscn0113-large.jpg">
     <img src="/images/blog/2013/09/dscn0113-medium.jpg" width="640" alt="Mormon tea" />
   </a>
   <p class="caption">

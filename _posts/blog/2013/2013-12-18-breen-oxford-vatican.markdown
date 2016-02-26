@@ -20,7 +20,7 @@ Below I’ve extracted some images from one of the newly digitized books, one of
 I found the illustrations to be remarkably beautiful. You can browse the complete book [here](http://digi.vatlib.it/view/Stamp.Ross.283/0001/thumbs?sid=e6ddebea6e8cc348498dbfed6a99d04c#current_page). In addition to all the stories you’d expect, the illustrations to follow also include a mermaid and her merdog, among other surprising finds.
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/12/Stamp.Ross.283_0013_fa_0001r-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/12/Stamp.Ross.283_0013_fa_0001r-large.jpg">
     <img src="/images/blog/2013/12/Stamp.Ross.283_0013_fa_0001r-medium.jpg" width="640" alt="Borders" />
   </a>
   <p class="caption">
@@ -32,7 +32,7 @@ I found the illustrations to be remarkably beautiful. You can browse the complet
 </div>
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/12/Stamp.Ross.283_0019_fa_0004r-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/12/Stamp.Ross.283_0019_fa_0004r-large.jpg">
     <img src="/images/blog/2013/12/Stamp.Ross.283_0019_fa_0004r-medium.jpg" width="640" alt="Genesis creation scene" />
   </a>
   <p class="caption">
@@ -44,7 +44,7 @@ I found the illustrations to be remarkably beautiful. You can browse the complet
 </div>
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/12/Stamp.Ross.283_0024_fa_0006v-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/12/Stamp.Ross.283_0024_fa_0006v-large.jpg">
     <img src="/images/blog/2013/12/Stamp.Ross.283_0024_fa_0006v-medium.jpg" width="640" alt="Noah’s ark" />
   </a>
   <p class="caption">
@@ -56,7 +56,7 @@ I found the illustrations to be remarkably beautiful. You can browse the complet
 </div>
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/12/Stamp.Ross.283_0104_fa_0046v-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/12/Stamp.Ross.283_0104_fa_0046v-large.jpg">
     <img src="/images/blog/2013/12/Stamp.Ross.283_0104_fa_0046v-medium.jpg" width="640" alt="Gabriel at Sodom" />
   </a>
   <p class="caption">
@@ -68,7 +68,7 @@ I found the illustrations to be remarkably beautiful. You can browse the complet
 </div>
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/12/Stamp.Ross.283_0105_fa_0047r-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/12/Stamp.Ross.283_0105_fa_0047r-large.jpg">
     <img src="/images/blog/2013/12/Stamp.Ross.283_0105_fa_0047r-medium.jpg" width="640" alt="Moses" />
   </a>
   <p class="caption">
@@ -80,7 +80,7 @@ I found the illustrations to be remarkably beautiful. You can browse the complet
 </div>
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/12/Stamp.Ross.283_0119_fa_0054r-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/12/Stamp.Ross.283_0119_fa_0054r-large.jpg">
     <img src="/images/blog/2013/12/Stamp.Ross.283_0119_fa_0054r-medium.jpg" width="640" alt="God’s wrath" />
   </a>
   <p class="caption">
@@ -92,7 +92,7 @@ I found the illustrations to be remarkably beautiful. You can browse the complet
 </div>
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/12/Stamp.Ross.283_0499_fa_0244r-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/12/Stamp.Ross.283_0499_fa_0244r-large.jpg">
     <img src="/images/blog/2013/12/Stamp.Ross.283_0499_fa_0244r-medium.jpg" width="640" alt="King David" />
   </a>
   <p class="caption">
@@ -104,7 +104,7 @@ I found the illustrations to be remarkably beautiful. You can browse the complet
 </div>
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/12/Stamp.Ross.283_0469_fa_0229r-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/12/Stamp.Ross.283_0469_fa_0229r-large.jpg">
     <img src="/images/blog/2013/12/Stamp.Ross.283_0469_fa_0229r-medium.jpg" width="640" alt="Job" />
   </a>
   <p class="caption">
@@ -116,7 +116,7 @@ I found the illustrations to be remarkably beautiful. You can browse the complet
 </div>
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/12/Screen_Shot_2013-12-17_at_6.27.36_PM-large.png">
+  <a class="fancybox" href="/images/blog/2013/12/Screen_Shot_2013-12-17_at_6.27.36_PM-large.png">
     <img src="/images/blog/2013/12/Screen_Shot_2013-12-17_at_6.27.36_PM-medium.png" width="640" alt="British Library" />
   </a>
   <p class="caption">

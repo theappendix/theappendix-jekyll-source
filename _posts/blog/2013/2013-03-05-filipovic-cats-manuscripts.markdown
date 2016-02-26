@@ -18,7 +18,7 @@ It is a pleasant and heartwarming experience to see a photo I took receive so mu
 But why could a simple photo of cat paw prints on a medieval manuscript become so popular on the Internet? Do [manuscripts and felines make a good combination](http://bookriot.com/2012/12/03/7-pictures-of-cats-and-books/), or can this popularity be ascribed to the fact that many contemporary cat owners identify themselves with the unfortunate medieval scribe? I cannot give a straightforward answer to these questions because it is clear to me that there is no formula or recipe for determining whether anything on the Internet will become a success or not. Despite the obvious power of social networks, blogs, and the Internet in general, I still could not ever have thought that one of my photographs would become so coveted, especially since I did not intentionally seek the exposure it received.
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/03/cat1-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/03/cat1-large.jpg">
     <img src="/images/blog/2013/03/cat1-medium.jpg" width="640" alt="cat pawprints" />
   </a>
   <p class="caption">
@@ -38,7 +38,7 @@ After a couple of days the enthusiasm waned and people stopped contacting me wit
 For those unfamiliar with the history of Dubrovnik, it is perhaps most important to say that in the Middle Ages it was a commune governed by the local aristocracy and that one of the main aspects of its medieval economy was seafaring trade. Owing to its strategic location Dubrovnik was ideally placed to connect the rough Balkan hinterland with all the other places that lay across the sea, exchanging goods, knowledge and experience in the process. As is the case with all businessmen, the inhabitants of Dubrovnik liked to record their actions and a notary and archives were set up in the second half of the thirteenth century with that goal in mind. 
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/03/dubrovnik-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/03/dubrovnik-large.jpg">
     <img src="/images/blog/2013/03/dubrovnik-medium.jpg" width="640" alt="dubrovnik" />
   </a>
   <p class="caption">
@@ -52,7 +52,7 @@ For those unfamiliar with the history of Dubrovnik, it is perhaps most important
 The fact that this commune maintained its independence as a free state (despite recognizing Venetian, Hungarian, and Ottoman authority during different periods in its history) until the beginning of the nineteenth century meant that the records of its archives were spared and they now represent one of the best sources for studying all kinds of medieval and early modern topics. In fact, the medieval Mediterranean comes alive in the Dubrovnik Archives. The sources we find there give us a picture of a bustling port town full of activity, with different people coming from different places to engage in various commercial or legal activities. The famous historian [Fernand Braudel](http://books.google.com/books/about/The_Mediterranean_and_the_Mediterranean.html?id=yAMe0bu3Jt4C) wrote that the Dubrovnik Archives were “far and away the most valuable for our knowledge of the Mediterranean … To anyone with the time and patience to study the voluminous *Acta Consiliorum*, they afford an opportunity to observe the extraordinarily well-preserved spectacle of a medieval town in action. For reasons of registration or through legal disputes an amazing collection of documents has survived.”
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/03/doodle_1-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/03/doodle_1-large.jpg">
     <img src="/images/blog/2013/03/doodle_1-medium.jpg" width="640" alt="scribe doodle" />
   </a>
   <p class="caption">
@@ -69,7 +69,7 @@ The photo of the cat paw prints represents one such situation which forces the h
 
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/03/worm_hole-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/03/worm_hole-large.jpg">
     <img src="/images/blog/2013/03/worm_hole-medium.jpg" width="640" alt="wormhole" />
   </a>
   <p class="caption">
@@ -83,7 +83,7 @@ The photo of the cat paw prints represents one such situation which forces the h
 But there are other similar instances when you feel compelled to think about people (or indeed animals) involved in the creation of historical documents. In one case, in the minutes of a council meeting, I noticed the scribe became tired as the meeting went on, his writing growing more garbled and sloppy as the day progressed. On other occasions I came across the doodles and drawings of a bored notary, who scribbled them while waiting for his next assignment, or just to show that he possessed more skills than just pretty writing alone. The same can be said of the beautifully decorated initials that one associates with the richly illuminated medieval manuscripts, but which pop up in the records every now and then. They often look out of place in the strict and formal context of the archival book. There are also times when one can find natural holes in the vellum and see how the writer attempted to work his text around it. And perhaps we should also spare a thought about the bookworms who made holes of their own in the manuscripts.
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/03/hole_2-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/03/hole_2-large.jpg">
     <img src="/images/blog/2013/03/hole_2-medium.jpg" width="640" alt="wormhole" />
   </a>
   <p class="caption">

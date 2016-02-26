@@ -40,7 +40,7 @@ This was controversial, but it wasn’t grounds for being declared a heretic. Ho
 Bruno expressed the idea in strong terms: “The Supreme Ruler cannot have a seat so narrow, so miserable a throne, so trivial, so scanty a court, so small and feeble a simulacrum” as our earth alone, he scoffed. Instead, Bruno argued that God must be “glorified not in one, but in countless suns; not in a single earth, a single world, but in a thousand thousand, indeed in an infinity of worlds.”
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/09/bruno-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/09/bruno-large.jpg">
     <img src="/images/blog/2013/09/bruno-medium.jpg" />
   </a>
   <p class="caption">
@@ -57,7 +57,7 @@ In fact, though, what Bruno was proposing was actually the feel-good variant of 
 Artist Jed McGowan [recently commemorated](http://www.jedmcgowan.com/2013/02/voyager_4.html) the *Voyager* probe’s journey out of our solar system with a beautiful series of illustrations that evoke this fundamentally lonely vision of space:
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/09/voyager_comic_12-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/09/voyager_comic_12-large.jpg">
     <img src="/images/blog/2013/09/voyager_comic_12-medium.jpg" />
   </a>
   <p class="caption">
@@ -68,7 +68,7 @@ Artist Jed McGowan [recently commemorated](http://www.jedmcgowan.com/2013/02/voy
 </div>
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/09/voyager_comic_19-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/09/voyager_comic_19-large.jpg">
     <img src="/images/blog/2013/09/voyager_comic_19-medium.jpg" />
   </a>
   <p class="caption">
@@ -81,7 +81,7 @@ Artist Jed McGowan [recently commemorated](http://www.jedmcgowan.com/2013/02/voy
 After awhile, you can’t help but empathize with *Voyager* and admire its WALL-E-esque pluck in the face of adversity, doing its thing out there in the empty wastes:
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/09/voyager_comic_30-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/09/voyager_comic_30-large.jpg">
     <img src="/images/blog/2013/09/voyager_comic_30-medium.jpg" />
   </a>
   <p class="caption">
@@ -92,7 +92,7 @@ After awhile, you can’t help but empathize with *Voyager* and admire its WALL-
 </div>
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/09/voyager_comic_32-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/09/voyager_comic_32-large.jpg">
     <img src="/images/blog/2013/09/voyager_comic_32-medium.jpg" />
   </a>
   <p class="caption">
@@ -110,7 +110,7 @@ His name was Jimmy Carter.
 “This is a present from a small distant world” to an “awesome universe,” Carter wrote in 1977, ever the courteous Southerner. *Star Wars* had hit theaters a couple months before, and you can detect its influence in the President’s choice of words: “We hope someday, having solved the problems we face, to join a community of galactic civilizations,” he enthused. Carter also assumed the mantle of cosmic DJ, inviting any beings who found *Voyager* to give its [golden LP](https://en.wikipedia.org/wiki/Voyager_Golden_Record) a spin.
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/09/cater_voyager-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/09/cater_voyager-large.jpg">
     <img src="/images/blog/2013/09/cater_voyager-medium.jpg" />
   </a>
   <p class="caption">
@@ -126,7 +126,7 @@ But what happens if there are no other civilizations, no alien Jesuses, no [man-
 Perhaps we can imagine Voyager as an emissary not only of the human species, but of history itself. By being a human artifact made in a particular place and time—the summer when Luke Skywalker hit theaters, Rod Stewart’s “Tonight’s the Night” was a hit, and Carl Sagan and Anne Druyan [were falling in love](http://www.npr.org/2010/02/12/123534818/carl-sagan-and-ann-druyans-ultimate-mix-tape)—Voyager is a mobile bubble of history. 
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/09/sagan1-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/09/sagan1-large.jpg">
     <img src="/images/blog/2013/09/sagan1-medium.jpg" />
   </a>
   <p class="caption">

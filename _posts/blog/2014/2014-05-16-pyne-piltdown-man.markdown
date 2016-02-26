@@ -22,7 +22,7 @@ Few scientific forgeries have captured the scientific and public imaginations as
 It would seem that just about everyone who is anyone in the paleo-community of the last sixty years has a theory about who perpetrated the fossil hoax; why it lasted as long as it did (forty years); and what Piltdown meant (and means) to paleoanthropology.  Suspects charged with perpetrating the hoax have included the fossil’s discoverer Charles Dawson, scientific notables like William J. Sollas and Sir Arthur Keith, and even Sir Arthur Conan Doyle and the philosopher Pierre Teilhard de Chardin.  
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/05/Piltdown_gang_(dark)-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/05/Piltdown_gang_(dark)-large.jpg">
     <img src="/images/blog/2014/05/Piltdown_gang_(dark)-medium.jpg" width="640" alt="Piltdown" />
   </a>
   <p class="caption">
@@ -38,7 +38,7 @@ In the first decade of twentieth-century, the fledgling discipline had few fossi
 The Piltdown material itself came to the attention of British intellectuals, like paleontologist Arthur Smith Woodward, via the British Museum upon the fossil’s excavation in 1912.  The Piltdown fossil consisted of a mandibular fragment (the lower jaw) as well as portions of the crania (the skull), recovered from the Piltdown gravels of East Sussex by antiquarian Charles Dawson.  The find was promptly and rather grandiosely named *Eoanthropus dawsoni.*
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/05/Figure_2_Piltdown_fossil-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/05/Figure_2_Piltdown_fossil-large.jpg">
     <img src="/images/blog/2014/05/Figure_2_Piltdown_fossil-medium.jpg" width="640" alt="Piltdown" />
   </a>
   <p class="caption">
@@ -54,7 +54,7 @@ Woodward claimed that the find pointed to a “missing link” in the chain of h
 Woodward wasn’t alone in his interpretation. The Piltdown fossils became readily accepted by the paleo-community. Indeed, many fossils found in subsequent decades (such as the 1925 Taung Child in South Africa) were ignored due to the influence of Piltdown.  Even prominent American paleontologist Henry Fairfield Osborn (then-president of the American Museum of Natural History) declared the skull and jaw a perfect fit and the specimen fascinating.  
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/05/Figure_5_UckfdPiltdown12-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/05/Figure_5_UckfdPiltdown12-large.jpg">
     <img src="/images/blog/2014/05/Figure_5_UckfdPiltdown12-medium.jpg" width="640" alt="Piltdown" />
   </a>
   <p class="caption">
@@ -66,7 +66,7 @@ Woodward wasn’t alone in his interpretation. The Piltdown fossils became readi
 </div>
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/05/Figure_6_UckfdPiltown12a-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/05/Figure_6_UckfdPiltown12a-large.jpg">
     <img src="/images/blog/2014/05/Figure_6_UckfdPiltown12a-medium.jpg" width="640" alt="Piltdown" />
   </a>
   <p class="caption">
@@ -84,7 +84,7 @@ But what was it? A forgery?  A hoax?  A joke?  A gross error in bending facts to
 On some level, the Piltdown “fossil” is all of these things. However, it is also an important lesson not only about early twentieth-century science’s search for a missing link, but also our own.  In a discourse where chains, links, and linearity are treated not only as helpful metaphors (“the Great Chain of Being,” “the Tree of Life”), but as actual explanation for biological phenomenon, Piltdown Man serves as a reminder that missing links can also be invented ones.
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/05/Figure_3_Piltdown_reconstruction-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/05/Figure_3_Piltdown_reconstruction-large.jpg">
     <img src="/images/blog/2014/05/Figure_3_Piltdown_reconstruction-medium.jpg" width="640" alt="Piltdown" />
   </a>
   <p class="caption">

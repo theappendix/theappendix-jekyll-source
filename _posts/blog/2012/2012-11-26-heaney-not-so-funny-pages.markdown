@@ -17,7 +17,7 @@ In a word, Comics! It’s become almost a cliché to say so, but comics have exp
 For our first issue, we’ve been able to excerpt a section from one very talented graphic novelist’s most recent work, but I wanted to share a panel from a brand new comic we commissioned, from [Andrew Cohen](http://howzitfunnies.blogspot.com/), an artist in Washington, D.C., who recently contributed to the very cool compendium of little-known capitol lore, [_District Comics_](http://www.amazon.com/District-Comics-Unconventional-History-Washington/dp/1555917518/ref=sr_1_1?ie=UTF8&qid=1346929841&sr=8-1&keywords=district+comics). Andrew and I had two years of being smart alecks together in our high school’s American history class. Through we decided against teaming up for our long-planned Jefferson vs. T. Roosevelt zombie statue comic, Andrew very kindly made us a comic on a 16th century shipwreck in Southeast Asia instead. Here’s a taste:
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2012/11/AA_Cohen_sample_panel_web-large.jpg">
+  <a class="fancybox" href="/images/blog/2012/11/AA_Cohen_sample_panel_web-large.jpg">
     <img src="/images/blog/2012/11/AA_Cohen_sample_panel_web-medium.jpg" width="640" alt="If you want" />
   </a>
   <p class="caption">

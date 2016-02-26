@@ -29,7 +29,7 @@ Royal births have often been focal points for historic upheavals. But even in th
 Images of infants in the ancient world are exceedingly rare, but some depictions of the progeny of powerful figures do exist. Egyptian funerary monuments, for instance, occasionally commemorate royal or aristocratic infants who died young: 
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/07/5371023632_5974e9d77c_z-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/07/5371023632_5974e9d77c_z-large.jpg">
     <img src="/images/blog/2013/07/5371023632_5974e9d77c_z-medium.jpg" width="640" alt="royal birth" />
   </a>
   <p class="caption">
@@ -43,7 +43,7 @@ Images of infants in the ancient world are exceedingly rare, but some depictions
 The French historian [Phillippe Aries famously argued](http://www.amazon.com/Centuries-Childhood-Social-History-Family/dp/0394702867) that “childhood” was an invention of modernity. Medieval people, he claimed, tended to envision even the youngest children as miniature adults, capable of laboring from a young age. Medieval children were rarely sheltered from the facts of life (whether sex or violence) and they did indeed live appallingly harsh lives by modern standards. Skepticism continues to prevail about Aries’ core claim, but it is true that medieval depictions of royal births (and children in general) tend to focus on the adult figures. The 19th and 20th century fascination with “cuteness” isn’t much in evidence here. 
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/07/royal-16-g-viii-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/07/royal-16-g-viii-large.jpg">
     <img src="/images/blog/2013/07/royal-16-g-viii-medium.jpg" width="640" alt="royal birth" />
   </a>
   <p class="caption">
@@ -57,7 +57,7 @@ The French historian [Phillippe Aries famously argued](http://www.amazon.com/Cen
 The Renaissance witnessed a new level of public scrutiny of royal families, as new means of displaying princely power (via newspapers, engravings and paintings, pageants, theater, and other media) brought the cloistered lives of the nobility into public life. The trend is clearly seen in the rise of official royal portraits of infants, for instance in [Hans Holbein’s brilliant painting](http://www.gardenofpraise.com/art26.htm) of Edward, the fifteen-month-old son of Henry VIII:
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/07/h_holbein_y_edward_prince_of_wales-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/07/h_holbein_y_edward_prince_of_wales-large.jpg">
     <img src="/images/blog/2013/07/h_holbein_y_edward_prince_of_wales-medium.jpg" width="640" alt="royal birth" />
   </a>
   <p class="caption">
@@ -71,7 +71,7 @@ The Renaissance witnessed a new level of public scrutiny of royal families, as n
 The Italian painter Bronzino, famed for his [surreal allegories](http://en.wikipedia.org/wiki/Venus,_Cupid,_Folly_and_Time), achieved an even more creepily-cute realism in his 1545 portrait of the son of Cosimo di Medici, Grand Duke of Tuscany. The inert babies of medieval art have here been replaced by psychological realism, but the glassy eyes of the Medici princeling still have something of the doll to them.
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/07/Don_Giovanni_de'_Medici_(1543-1562)__Archbishop_of_Pisa_and_Cardinal-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/07/Don_Giovanni_de'_Medici_(1543-1562)__Archbishop_of_Pisa_and_Cardinal-large.jpg">
     <img src="/images/blog/2013/07/Don_Giovanni_de'_Medici_(1543-1562)__Archbishop_of_Pisa_and_Cardinal-medium.jpg" width="640" alt="Bronzino portrait" />
   </a>
   <p class="caption">
@@ -85,7 +85,7 @@ The Italian painter Bronzino, famed for his [surreal allegories](http://en.wikip
 The rise of newspapers and the popular press in the eighteenth century ushered in a new artistic form: the satirical cartoon. It was swiftly wielded to poke fun at royal births (and royalty in general). 
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/07/AN00987123_001_l-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/07/AN00987123_001_l-large.jpg">
     <img src="/images/blog/2013/07/AN00987123_001_l-medium.jpg" width="640" alt="royal birth" />
   </a>
   <p class="caption">
@@ -99,7 +99,7 @@ The rise of newspapers and the popular press in the eighteenth century ushered i
 By the childhood of Queen Victoria, however, a shift toward sentimentality can be observed. Georgian wit had segued into the blend of forced naivete and stagy “cuteness” that has been associated with Victorian aesthetics ever after: 
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/07/Emanuel_Thomas_Peter__Queen_Victoria__1821__Royal_Collection-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/07/Emanuel_Thomas_Peter__Queen_Victoria__1821__Royal_Collection-large.jpg">
     <img src="/images/blog/2013/07/Emanuel_Thomas_Peter__Queen_Victoria__1821__Royal_Collection-medium.jpg" width="640" alt="Infant Victoria" />
   </a>
   <p class="caption">

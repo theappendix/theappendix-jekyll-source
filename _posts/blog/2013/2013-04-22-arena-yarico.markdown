@@ -15,7 +15,7 @@ The French monk, traveler and botanist Jean Baptiste du Tertre repeated the sayi
 Historians know little about European and Indian women in the 17th century Caribbean, mostly because the rugged and war-besieged colonies attracted far more men as settlers. However, Du Tertre and his counterpart in the English Caribbean, Richard Ligon, did write about a few exceptional European and indigenous Caribbean women. Du Tertre wrote that the women transported to the Caribbean at this time had the reputation of being mostly “*debauchees*.” Like Defoe’s fictional prostitute [Moll Flanders](http://en.wikipedia.org/wiki/Moll_Flanders), they were women who had better social and economic opportunities in the Americas. Colonial demographic historians Lois Carr & Lorena Walsh have [established](http://www.jstor.org/discover/10.2307/2936182?uid=3739560&uid=2&uid=4&uid=3739256&sid=21102070693881) that women, whether transported for crimes or simply down on their luck, indeed found better work or marriage opportunities in colonial North America. As with Moll, these women showed that if you could brave the sickness, choppy water, and sexual aggressions of sailors, you might be able to make it in the Americas.
 
 <div class="inline-image"> 
-  <a rel="lightbox" href="/images/blog/2013/04/arena1-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/04/arena1-large.jpg">
     <img src="/images/blog/2013/04/arena1-medium.jpg" width="640" alt="west indian woman" />
   </a>
   <p class="caption">
@@ -36,7 +36,7 @@ His sympathetic treatment of Bellette, however, is nothing compared to the defen
 Du Tertre also refers to the captive population (mostly Arawak) within Carib communities as “slaves.” However, the work of free women did not differ greatly from that of captive women in Caribbean Indian societies. These captive women, married into neighboring indigenous societies, did not experience slavery in the sense that they were owned, exchanged at will, or used for economic exploitation. Socially, they were not equals with their free counterparts, however, and Du Tertre himself notes that their major markers of status-distinction were that they were not allowed to wear the decorative belts and skirts of the other women.
 
 <div class="inline-image"> 
-  <a rel="lightbox" href="/images/blog/2013/04/arena2-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/04/arena2-large.jpg">
     <img src="/images/blog/2013/04/arena2-medium.jpg" width="640" alt="west indian woman" />
   </a>
   <p class="caption">

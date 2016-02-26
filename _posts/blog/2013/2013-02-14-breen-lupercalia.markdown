@@ -16,7 +16,7 @@ The story of Valentine’s Day begins with the legend of King Lycaon ("The Wolfi
 >They set sails to the wind, though as yet the seamen had poor knowledge of their use, and the ships’ keels that once were trees standing amongst high mountains, now leaped through uncharted waves. The land that was once common to all, as the light of the sun is, and the air, was marked out to its furthest boundaries by wary surveyors. Not only did they demand the crops and the food the rich soil owed them, but they entered the bowels of the earth, and excavating brought up the wealth it had concealed in Stygian shade, wealth that incites men to crime... [I: 125-50](http://ovid.lib.virginia.edu/trans/Metamorph.htm#488381095)
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/02/lupercal3-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/02/lupercal3-large.jpg">
     <img src="/images/blog/2013/02/lupercal3-medium.jpg" width="640" alt="Wolf" />
   </a>
   <p class="caption">
@@ -34,7 +34,7 @@ Lycaon was among the worst of a bad lot. His infamous crime was to attempt to tr
 So how does this macabre tale connect to Valentine’s Day? [Mount Lykaion](http://en.wikipedia.org/wiki/Lycaeus) (“Wolf Mountain”), the mighty peak in Arcadia where King Lycaon was thought to have been transformed into a wolf, [became the site of a secret ritual](http://en.wikipedia.org/wiki/Lykaia) honoring the “Wolf-Zeus,” during which adolescent boys (_epheboi_) celebrated the symbolic transformation between wolf and man. Modern archeology has revealed that this mountain was a religious center long before the name Zeus was even known in Greece: [in 2008, it was announced](http://www.sciencedaily.com/releases/2008/01/080123114601.htm) that ritual activity dating from 3,000 BCE was evident at the site. The deep history of werewolves, then, pushes back into the Neolithic era.
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/02/lupercalia2-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/02/lupercalia2-large.jpg">
     <img src="/images/blog/2013/02/lupercalia2-medium.jpg" width="640" alt="Wolf mountain" />
   </a>
   <p class="caption">
@@ -45,7 +45,7 @@ So how does this macabre tale connect to Valentine’s Day? [Mount Lykaion](http
 The wolf-rites of Mount Lykaion appear to have been the direct inspiration for the more famous Roman holiday of Lupercalia. This festival, which spanned February 13-15, was a fertility rite intended to purify and protect the city of Rome. The rite centered around the Lupercal, which was supposedly the very cave in which the she-wolf had suckled Romulus and Remus, mythical founders of Rome (as depicted in the famous bronze statue of the ‘Capitoline Wolf’ below):
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/02/she-wolf-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/02/she-wolf-large.jpg">
     <img src="/images/blog/2013/02/she-wolf-medium.jpg" width="640" alt="Wolf" />
   </a>
   <p class="caption">
@@ -59,7 +59,7 @@ The wolf-rites of Mount Lykaion appear to have been the direct inspiration for t
 [An Italian archeologist announced in 2007](http://news.nationalgeographic.com/news/2007/01/070126-rome-palatine.html) that the remains of the Lupercal were believed to have been found directly beneath the ruins of the palace of the Emperor Augustus.
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/02/lupercal-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/02/lupercal-large.jpg">
     <img src="/images/blog/2013/02/lupercal-medium.jpg" width="640" alt="Wolf grotto" />
   </a>
   <p class="caption">
@@ -77,7 +77,7 @@ The priests of Lupercalia were the Luperci, or “Brothers of the Wolf,” who [
 Now, at last, we approach the reasons why a Bronze Age wolf-ritual was the direct ancestor of our modern commercialized holiday of love. By the fifth century C.E., the Roman Empire was beset by external foes and had become officially Christian. Lupercalia continued to be celebrated by the populace, but it increasingly became an object of concern from the Christian authorities. [Pope Gelasius I](http://en.wikipedia.org/wiki/Pope_Gelasius_I) (492-496) went so far as to write an epistle mocking and condemning the rites, and was ultimately responsible for their suppression on grounds of improper behavior. 
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/02/Valentineanddisciples-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/02/Valentineanddisciples-large.jpg">
     <img src="/images/blog/2013/02/Valentineanddisciples-medium.jpg" width="640" alt="St. Valentine" />
   </a>
   <p class="caption">

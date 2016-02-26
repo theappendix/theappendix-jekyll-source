@@ -28,7 +28,7 @@ Josh Marshall, founder of *Talking Points Memo* and a former history PhD student
 ***
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/03/Appendix_announcement_banner_1-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/03/Appendix_announcement_banner_1-large.jpg">
     <img src="/images/blog/2014/03/Appendix_announcement_banner_1-medium.jpg" width="640" alt="popular history" />
   </a>
 </div>

@@ -24,7 +24,7 @@ Let us consider some of the questions raised by Dr Holman in his blog:
 First a little background as to the German community in Brazil. Germans had been immigrating to Brazil since the mid 19th century, and had established large German speaking communities, especially in the southern portion of the country. By the 1930s, as Hitler came to power and German airline subsidiaries became major players in Brazilian aviation, there was already a sizable population of Germans and their descendants living in Brazil. There was also a Brazilian fascist political party, the *Integralistas*, which was composed of Brazilians as well as their German immigrant counterparts. The *Integralistas* wore green shirts (much like the Nazi brown shirts) and black armbands with the Sigma (like their German counterparts with Swastikas).
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/01/JuventudeIntegralista-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/01/JuventudeIntegralista-large.jpg">
     <img src="/images/blog/2013/01/JuventudeIntegralista-medium.jpg" width="640" alt="Integralista Youth" />
   </a>
   <p class="caption">
@@ -42,7 +42,7 @@ Now, back to our documents. It is hard to tell the particular source for the [th
 As to Nazi infiltration in the Amazon specifically, we cannot tell from the documents how many, if any, German agents were present in the region during the war. One thing we can tell, however, is that they were very active in the area throughout the 1930s. One German scientist, Otto Schulz-Kampfhenkel, spent two years traveling throughout the Amazon valley with a large expedition and a hydroplane — collecting biological specimens but also rendering detailed maps of the region. The biological, cartographic and even ethnographic information they collected was valuable also to the Brazilian government, which was still trying to extend its power in the region. When Otto returned home, he suggested to Heinrich Himmler that the Amazon could offer “spacious immigration and settlement possibilities for the Nordic peoples”—revealing that at least some of their motivations were ultimately of a colonial nature. The Japanese, for one, in fact did have a colony in the Amazon which among other things produced black pepper. They even considered it to be their territory, as I have read the account of one Brazilian pilot who, after making an emergency landing there, was held captive by the Japanese “consul,” despite obviously being in Brazil.
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/01/Kreuz-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/01/Kreuz-large.jpg">
     <img src="/images/blog/2013/01/Kreuz-medium.jpg" width="640" alt="cross" />
   </a>
   <p class="caption">
@@ -54,7 +54,7 @@ As to Nazi infiltration in the Amazon specifically, we cannot tell from the docu
 Another expedition involved an over flight of the Amazon river by a Zeppelin—and while the Brazilian military forbade them to film their trip while passing over an Army base, they extensively filmed and photographed the rest of their route. That is, before World War Two rolled around, the Germans had collected extensive information on the Amazonian region, maybe even more than the Americans, who started building their bases there in 1942 as Brazil finally joined the war on the Allied side.
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/01/zeppelin-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/01/zeppelin-large.jpg">
     <img src="/images/blog/2013/01/zeppelin-medium.jpg" width="640" alt="Zeppelin" />
   </a>
   <p class="caption">

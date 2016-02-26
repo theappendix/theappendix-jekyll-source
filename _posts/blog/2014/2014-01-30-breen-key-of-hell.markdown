@@ -20,7 +20,7 @@ links:
 Cyprianus was, by all accounts, a shady character. In her book *Remedies and Rituals: Folk Medicine in Norway and the New Land*, Kathleen Stokker [writes](http://www.amazon.com/Remedies-Rituals-Folk-Medicine-Norway/dp/0873515765?ie=UTF8&tag=ro067-20&link_code=btl&camp=213689&creative=392969) that medieval Scandinavians spun tales of a Dane named Cyprianus who was so evil that Satan cast him out of hell: “This act so enraged Cyprianus that he dedicated himself to writing the nine Books of the Black Arts that underlie all subsequent Scandinavian black books.”
 
 <div style="float: right; padding: 0 0 10px 20px; margin-right: -10px">
-    <a rel="lightbox" style="border-width: 0" href="/images/blog/2014/01/justine_vignay-large.jpg"><img src="/images/blog/2014/01/justine_vignay-medium.jpg" width="450" alt="agape" /></a>
+    <a class="fancybox" style="border-width: 0" href="/images/blog/2014/01/justine_vignay-large.jpg"><img src="/images/blog/2014/01/justine_vignay-medium.jpg" width="450" alt="agape" /></a>
 </div>
 
 Bizarrely, another tradition maintained that the *true* Cyprianus was “a ravishingly beautiful, irrestistibly seductive, prodigiously knowledgeable, pious Mexican nun.” And yet another tradition traces the name back to [St. Cyprian of Antioch](https://en.wikipedia.org/wiki/The_Great_Book_of_Saint_Cyprian), a powerful Greek wizard who was famed as a demon-summoner before converting to Christianity. Despite Cyprian’s saintly later life, medieval authors appear to have been more interested in the demon part—here’s a 15th century [French painting](http://saints.bestlatin.net/gallery/justina_vignay.htm) of Cyprian striking up a bargain with two devilish characters, for instance.
@@ -28,7 +28,7 @@ Bizarrely, another tradition maintained that the *true* Cyprianus was “a ravis
 What we know for sure is that “Cyprian” became a common pseudonym for people at the edges of society who were trying to do real black magic. And thus we find “Pseudo-Cyprianus” listed as the author of this [jaw-dropping book of magical spells](http://wellcomeimages.org/indexplus/image/F0002901.html) from the late 18th century, which the Wellcome Trust has just made public domain. The title is *Clavis Inferni* (The Key of Hell) and the images are magnificent and thrillingly mysterious:
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/01/NE_corner-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/01/NE_corner-large.jpg">
     <img src="/images/blog/2014/01/NE_corner-medium.jpg" width="640" alt="spells" />
   </a>
   <p class="caption">
@@ -40,7 +40,7 @@ What we know for sure is that “Cyprian” became a common pseudonym for people
 </div>
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/01/NW_corner-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/01/NW_corner-large.jpg">
     <img src="/images/blog/2014/01/NW_corner-medium.jpg" width="640" alt="spells" />
   </a>
   <p class="caption">
@@ -52,7 +52,7 @@ What we know for sure is that “Cyprian” became a common pseudonym for people
 </div>
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/01/SE_corner-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/01/SE_corner-large.jpg">
     <img src="/images/blog/2014/01/SE_corner-medium.jpg" width="640" alt="spells" />
   </a>
   <p class="caption">
@@ -64,7 +64,7 @@ What we know for sure is that “Cyprian” became a common pseudonym for people
 </div>
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/01/SW_corner-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/01/SW_corner-large.jpg">
     <img src="/images/blog/2014/01/SW_corner-medium.jpg" width="640" alt="Cuba" />
   </a>
   <p class="caption">
@@ -76,7 +76,7 @@ What we know for sure is that “Cyprian” became a common pseudonym for people
 </div>
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/01/L0036628-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/01/L0036628-large.jpg">
     <img src="/images/blog/2014/01/L0036628-medium.jpg" width="640" alt="spells" />
   </a>
   <p class="caption">
@@ -96,7 +96,7 @@ Beyond this type of basic iconographic reading, those looking for reliable answe
 Hoping to find out more, I posted about this bizarre text [on my blog *Res Obscura*](http://resobscura.blogspot.com/2011/05/key-of-hell-eighteenth-century-sorcery.html) three years ago, and some knowledgeable fans of early modern magic came out of the woodwork to help me with translations. One pointed out to me that the cipher alphabet being used here is Cornelius Agrippa’s [*Transitus Fluvii*](https://en.wikipedia.org/wiki/Transitus_Fluvii) “Passing through the River” script, adapted from Hebrew by the famed occultist in 1510 (fun fact: it was also used in the Blair Witch Project):
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/01/Three_Books_of_Occult_Philosophy-Book_III-Page_441-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/01/Three_Books_of_Occult_Philosophy-Book_III-Page_441-large.jpg">
     <img src="/images/blog/2014/01/Three_Books_of_Occult_Philosophy-Book_III-Page_441-medium.jpg" width="640" alt="spells" />
   </a>
   <p class="caption">
@@ -110,7 +110,7 @@ Hoping to find out more, I posted about this bizarre text [on my blog *Res Obscu
 The book also uses actual Hebrew, such as in this gold-leaf sigil. (A challenge to readers: can anyone translate this?)
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/01/L0036629-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/01/L0036629-large.jpg">
     <img src="/images/blog/2014/01/L0036629-medium.jpg" width="640" alt="spells" />
   </a>
   <p class="caption">
@@ -130,7 +130,7 @@ And this wasn’t necessarily a contradiction: in his fabulous book [*The Dark S
 Today they circulate still, buoyed by the more sophisticated global networks of the internet. Since this post is an invocation of these spells, of a sort, I thought I’d end with the final page of the book, and a rough translation which shows it to be a magical command to a summoned creature to return from whence it came. 
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/01/564929ea9319ad40b88602d78344-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/01/564929ea9319ad40b88602d78344-large.jpg">
     <img src="/images/blog/2014/01/564929ea9319ad40b88602d78344-medium.jpg" width="640" alt="Cuba" />
   </a>
   <p class="caption">
@@ -144,7 +144,7 @@ Today they circulate still, buoyed by the more sophisticated global networks of 
 “I truly, from the law of that Majesty, do receive and take the treasure requested by you in the sent proclamation. Go away now most calmly to your place, without murmur and commotion, and without harm to us and to the circle of other men. In the name of the Father, the Son and the Holy Ghost, AMEN.”
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/01/last-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/01/last-large.jpg">
     <img src="/images/blog/2014/01/last-medium.jpg" width="640" alt="Cuba" />
   </a>
   <p class="caption">
@@ -161,7 +161,7 @@ You can browse high resolution scans of the complete book at [Wellcome Images](h
 Thought I’d add a translation note from a reader, plus this new image from the manuscript which garnered one of my favorite responses to an *Appendix* post to date:
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/01/L0036620-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/01/L0036620-large.jpg">
     <img src="/images/blog/2014/01/L0036620-medium.jpg" width="640" alt="spells" />
   </a>
   <p class="caption">

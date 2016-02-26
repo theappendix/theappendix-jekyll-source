@@ -20,7 +20,7 @@ Our first stroke of luck was Nick’s nationality. Simply by virtue of being Eng
 The information emerged in dribs and drabs; our new friend had a cryptic manner. But he said he knew one of Jagari’s sons. We toasted our good fortune, looking out over the freshly mown polo field, wondering if it could possibly be so simple.
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/09/5021193271_278f83082e_o-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/09/5021193271_278f83082e_o-large.jpg">
     <img src="/images/blog/2014/09/5021193271_278f83082e_o-medium.jpg" width="640" alt="Jagari Chanda" />
   </a>
   <p class="caption">
@@ -32,7 +32,7 @@ The information emerged in dribs and drabs; our new friend had a cryptic manner.
 </div>
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/09/5021208279_9853db2525_o-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/09/5021208279_9853db2525_o-large.jpg">
     <img src="/images/blog/2014/09/5021208279_9853db2525_o-medium.jpg" width="640" alt="Jagari Chanda" />
   </a>
   <p class="caption">
@@ -53,7 +53,7 @@ Kitwe, the center of Zambia’s industrial heartland, had a lush, sinister air, 
 A few hours later we met Jagari. He held court for the next three hours over rump steak and Coca-Cola, an Internet rumor made flesh. We had been in the country less than 72 hours, and we had found our man. It had been laughably easy. 
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/09/Zamrock2-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/09/Zamrock2-large.jpg">
     <img src="/images/blog/2014/09/Zamrock2-medium.jpg" width="640" alt="Jagari Chanda" />
   </a>
   <p class="caption">
@@ -71,7 +71,7 @@ Jagari didn’t have any footage, but he thought some must exist. He recommended
 Armed with those rather vague coordinates, we spent a half-day asking around. When we found Nyati, he was dressed in a hip-looking safari suit and a baseball cap emblazoned with a dollar sign—pretty close, actually, to my fanciful idea of what a Zamrock record magnate might look like. He didn’t have any footage, but he graciously showed us a backroom stacked with piles of old reel-to-reel recordings of Zamrock, disco, Congolese, and kalindula music. Nyati seemed nonplussed by the mess. “I must organize it,” he said.
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/09/14361305502_17fd826a3f_o-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/09/14361305502_17fd826a3f_o-large.jpg">
     <img src="/images/blog/2014/09/14361305502_17fd826a3f_o-medium.jpg" width="640" alt="The Copperbelt in 2010" />
   </a>
   <p class="caption">
@@ -88,7 +88,7 @@ The quest continued back in Lusaka. Searches at The Times and The Post came up e
 Everyone, though, pointed us to ZNBC, the state broadcaster, which documented everything during the first few decades of the country’s existence. People told us there had been a devastating fire there at one point. We wondered, too, if the state archives were any better maintained than the Music Parlour’s—the 1970s were turbulent years, and funding was scarce. Still, if anyone had footage it would be ZNBC.
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/09/Zamrock10-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/09/Zamrock10-large.jpg">
     <img src="/images/blog/2014/09/Zamrock10-medium.jpg" width="640" alt="Witch Touring Van" />
   </a>
   <p class="caption">
@@ -111,7 +111,7 @@ Nick and I looked at each other. The large copper mines were owned by foreign co
 I told him the truth. It must have sounded absurd, because his face clouded for a moment. Then he smiled politely and walked off. He didn’t believe me for a second. 
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/09/Zamrock12-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/09/Zamrock12-large.jpg">
     <img src="/images/blog/2014/09/Zamrock12-medium.jpg" width="640" alt="The Copperbelt in 2010" />
   </a>
   <p class="caption">

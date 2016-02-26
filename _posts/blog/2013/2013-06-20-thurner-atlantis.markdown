@@ -33,7 +33,7 @@ We have an apartment in [Palermo Viejo](http://en.wikipedia.org/wiki/Palermo,_Bu
 It is a scale model cast or reproduction of the frieze on the fabled Sungate or “Puerta del Sol.” What is the Sungate doing in Buenos Aires? Like the Inca Sun on the Argentine flag, the Sungate is an emblem of Argentine nationhood. It is not only that, upon its solid threshold, Casteli had declared, in an airy speech act, that Indians should share “in the miserable condition of man” as nationals. It is rather that, at least since the great Argentine historian and author of [*Les races aryennes du Pérou*](http://archive.org/stream/lesracesaryennes00lopeiala#page/n9/mode/2up) (1871), Vicente Fidel López (1815-1903), the archeological and ethnolinguistic tatters of “Inca” and “American” civilization have provided solid illusions of history for South America’s contemporary nations.
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/06/Thurner1-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/06/Thurner1-large.jpg">
     <img src="/images/blog/2013/06/Thurner1-medium.jpg" width="640" alt="Museo de la Plata" />
   </a>
   <p class="caption">
@@ -49,7 +49,7 @@ Perhaps the most convincing evidence of this solidity of illusion that is the na
 A more impressive iteration of the solid face of Tiawanaku is found on the façade of Lima’s Museo Nacional de la Cultura Peruana. The museum was designed in the “Neo-Incan” style by the Polish architect Malachowski for the private collector, Victor Larco Herrera. It was purchased in 1924 for the nation by President Augusto Leguía, just in time for the close of the extended centennial celebrations of Peruvian independence (1921-24, that is, from San Martin to Bolivar). Initially it was an archaeological museum called, simply, Museo Arqueológico. Notably, the museum’s successor, today called the Museo Nacional de Arqueología, Antropología e Historia del Peru (which served Bolivar as his headquarters in Peru) also sports a neo-Tiawanaku façade reminiscent of Inward’s vision in Temple of the Andes.
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/06/Thurner2-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/06/Thurner2-large.jpg">
     <img src="/images/blog/2013/06/Thurner2-medium.jpg" width="640" alt="View of Museo de la Cultura Peruana" />
   </a>
   <p class="caption">
@@ -63,7 +63,7 @@ A more impressive iteration of the solid face of Tiawanaku is found on the faça
 Perhaps inspiration for Malachowski’s museum was drawn from the frontispiece of volume 2 of Mariano de Rivero and Jacob von Tschudi’s [*Antigüedades Peruanas*](http://babel.hathitrust.org/cgi/pt?id=hvd.32044094185626;view=1up;seq=11) (Vienna, 1851). This frontispiece was an expression of the National Museum’s collections and mission, articulated by Rivero himself, who was the museum’s founding director.
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/06/thurner3-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/06/thurner3-large.jpg">
     <img src="/images/blog/2013/06/thurner3-medium.jpg" width="640" alt="Frontispiece with Inca" />
   </a>
   <p class="caption">
@@ -77,7 +77,7 @@ Perhaps inspiration for Malachowski’s museum was drawn from the frontispiece o
 The Museum that once proudly stood on the edge of an upscale urbanization now languishes on a noisy thoroughfare in a rundown barrio, completely off Lima’s tourist circuit. But there is another, newer iteration of the face or façade of the Sungate that attracts larger crowds. This “Tiahuanaco” is located in the shopping and casino district near the airport. It is, in fact, a casino. Its neon Sungate beckons casual gamblers and hookers of the Lima night to wager on her alluring promise of spectacular treasure.
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/06/Thurner4-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/06/Thurner4-large.jpg">
     <img src="/images/blog/2013/06/Thurner4-medium.jpg" width="640" alt="Tiahuanaco Casino in Lima" />
   </a>
   <p class="caption">
@@ -95,7 +95,7 @@ We may find solid evidence of this demanding lover’s truth in the reconstructi
 Some of my favorites, though, are found on the internet, where websites like [www.atlantisbolivia.org](http://atlantisbolivia.org) are only the tip of the virtual iceberg. Given O’Gorman’s reflections, it seems fitting to close these musings with a hyperlink to a foundational scene from “The Real Atlantis.” This image evokes earlier, nineteenth-century illusions of Manco Capac and Mama Ocllo, for example, the frontispiece of Volume 1 of Rivero and Tschudi’s *Antiguedades Peruanas*, which presents the mythical founders of Peruvian or American (if not Atlantan) civilization:
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/06/Thurner5-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/06/Thurner5-large.jpg">
     <img src="/images/blog/2013/06/Thurner5-medium.jpg" width="640" alt="Inca frontispiece" />
   </a>
   <p class="caption">

@@ -19,7 +19,7 @@ The good people at the British Library have been killing it lately.
 First, their Medieval Manuscripts blog brought us the phenomenon of [knights jousting with snails](http://britishlibrary.typepad.co.uk/digitisedmanuscripts/2013/09/knight-v-snail.html), which was deservedly picked up by [*the Guardian*](http://www.theguardian.com/books/gallery/2013/oct/24/british-library-knight-snail-illustration), among other publications. Now, they’ve done the one thing guaranteed to make the internet love you: they gave it free stuff.
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/12/6a00d8341c464853ef019aff97efdf970b-800wi-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/12/6a00d8341c464853ef019aff97efdf970b-800wi-large.jpg">
     <img src="/images/blog/2013/12/6a00d8341c464853ef019aff97efdf970b-800wi-medium.jpg" width="640" alt="British Library" />
   </a>
   <p class="caption"> 
@@ -42,7 +42,7 @@ Or you can just browse. I looked at around two hundred out of the 10,200 pages o
 One neat feature that helps create some structure: the illustrations from each book are linked, making it possible to browse at random and then hone in on a single text or set of texts. So for instance when I came across this neat but hard to interpret image: 
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/12/GUNNING__William_D_%22Life-history_of_our_planet_..._Illustrated_by_M._Gunning%22_(Chicago__1876)-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/12/GUNNING__William_D_%22Life-history_of_our_planet_..._Illustrated_by_M._Gunning%22_(Chicago__1876)-large.jpg">
     <img src="/images/blog/2013/12/GUNNING__William_D_%22Life-history_of_our_planet_..._Illustrated_by_M._Gunning%22_(Chicago__1876)-medium.jpg" width="640" alt="Life-history of our planet" />
   </a>
   <p class="caption"> 
@@ -55,7 +55,7 @@ One neat feature that helps create some structure: the illustrations from each b
 I was able to click a link and then [see it in context](http://www.flickr.com/photos/britishlibrary/tags/sysnum001544493):
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/12/british_library3-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/12/british_library3-large.jpg">
     <img src="/images/blog/2013/12/british_library3-medium.jpg" width="640" alt="British Library" />
   </a>
   <p class="caption"> 
@@ -70,7 +70,7 @@ Needless to say, we’re super excited by this new resource ([here’s the link 
 For now, here are nine more favorite images from the collection. And if you feel like it, please send us your own favorites [on Twitter](https://twitter.com/appendixjournal). 
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/12/Stephens__Frederic_George__%22Normandy__its_Gothic_Architecture_and_History_(London__1865)-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/12/Stephens__Frederic_George__%22Normandy__its_Gothic_Architecture_and_History_(London__1865)-large.jpg">
     <img src="/images/blog/2013/12/Stephens__Frederic_George__%22Normandy__its_Gothic_Architecture_and_History_(London__1865)-medium.jpg" width="640" alt="Stephens architectural photograph" />
   </a>
   <p class="caption">
@@ -82,7 +82,7 @@ For now, here are nine more favorite images from the collection. And if you feel
 </div>
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/12/THORNBURY__George_Walter._%22Old___New_London._By_W._Thornbury_and_Edward_Walford._Illustrated%22_(London__1897)-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/12/THORNBURY__George_Walter._%22Old___New_London._By_W._Thornbury_and_Edward_Walford._Illustrated%22_(London__1897)-large.jpg">
     <img src="/images/blog/2013/12/THORNBURY__George_Walter._%22Old___New_London._By_W._Thornbury_and_Edward_Walford._Illustrated%22_(London__1897)-medium.jpg" width="640" alt="The dangers of gin" />
   </a>
   <p class="caption">
@@ -94,7 +94,7 @@ For now, here are nine more favorite images from the collection. And if you feel
 </div>
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/12/HIND__Henry_Youle._%22Explorations_in_the_interior_of_the_Labrador_Peninsula__the_country_of_the_Montagnais_and_Nasquappe_Indians%22_(London__1863)-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/12/HIND__Henry_Youle._%22Explorations_in_the_interior_of_the_Labrador_Peninsula__the_country_of_the_Montagnais_and_Nasquappe_Indians%22_(London__1863)-large.jpg">
     <img src="/images/blog/2013/12/HIND__Henry_Youle._%22Explorations_in_the_interior_of_the_Labrador_Peninsula__the_country_of_the_Montagnais_and_Nasquappe_Indians%22_(London__1863)-medium.jpg" width="640" alt="Colorized photo of Labrador Peninsula" />
   </a>
   <p class="caption">
@@ -106,7 +106,7 @@ For now, here are nine more favorite images from the collection. And if you feel
 </div>
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/12/CRAMPTON__Thomas._%22_A_collection_of_ballads_printed_in_London._Formed_by_T._Crampton._%22_(London__1860)-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/12/CRAMPTON__Thomas._%22_A_collection_of_ballads_printed_in_London._Formed_by_T._Crampton._%22_(London__1860)-large.jpg">
     <img src="/images/blog/2013/12/CRAMPTON__Thomas._%22_A_collection_of_ballads_printed_in_London._Formed_by_T._Crampton._%22_(London__1860)-medium.jpg" width="640" alt="ballads" />
   </a>
   <p class="caption">
@@ -118,7 +118,7 @@ For now, here are nine more favorite images from the collection. And if you feel
 </div>
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/12/ROTH__Abraham._%22The_Doldenhorn_and_Weisse_Frau._Ascended_for_the_first_time_by_A._Roth_and_E._von_Fellenberg._(Leipzig__1863)-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/12/ROTH__Abraham._%22The_Doldenhorn_and_Weisse_Frau._Ascended_for_the_first_time_by_A._Roth_and_E._von_Fellenberg._(Leipzig__1863)-large.jpg">
     <img src="/images/blog/2013/12/ROTH__Abraham._%22The_Doldenhorn_and_Weisse_Frau._Ascended_for_the_first_time_by_A._Roth_and_E._von_Fellenberg._(Leipzig__1863)-medium.jpg" width="640" alt="British Library" />
   </a>
   <p class="caption">
@@ -130,7 +130,7 @@ For now, here are nine more favorite images from the collection. And if you feel
 </div>
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/12/Paul_Heichen_Afrika._Hand-Lexikon._Mit_..._Abbildungen_und_Karten_(Leipzig__1885)-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/12/Paul_Heichen_Afrika._Hand-Lexikon._Mit_..._Abbildungen_und_Karten_(Leipzig__1885)-large.jpg">
     <img src="/images/blog/2013/12/Paul_Heichen_Afrika._Hand-Lexikon._Mit_..._Abbildungen_und_Karten_(Leipzig__1885)-medium.jpg" width="640" alt="British Library" />
   </a>
   <p class="caption">
@@ -142,7 +142,7 @@ For now, here are nine more favorite images from the collection. And if you feel
 </div>
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/12/QUINTON__R._%22The_Chromatographic_Chronicle_of_English_History__illustrated_by_..._coloured_charts__(London__1864)-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/12/QUINTON__R._%22The_Chromatographic_Chronicle_of_English_History__illustrated_by_..._coloured_charts__(London__1864)-large.jpg">
     <img src="/images/blog/2013/12/QUINTON__R._%22The_Chromatographic_Chronicle_of_English_History__illustrated_by_..._coloured_charts__(London__1864)-medium.jpg" width="640" alt="early data visualization" />
   </a>
   <p class="caption">
@@ -154,7 +154,7 @@ For now, here are nine more favorite images from the collection. And if you feel
 </div>
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/12/MARTIN__Bon_Louis_Henri._%22Histoire_de_France_populaire__depuis_les_temps_les_plus_reculés_jusqu'à_nos_jours%22_(Paris__1867)-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/12/MARTIN__Bon_Louis_Henri._%22Histoire_de_France_populaire__depuis_les_temps_les_plus_reculés_jusqu'à_nos_jours%22_(Paris__1867)-large.jpg">
     <img src="/images/blog/2013/12/MARTIN__Bon_Louis_Henri._%22Histoire_de_France_populaire__depuis_les_temps_les_plus_reculés_jusqu'à_nos_jours%22_(Paris__1867)-medium.jpg" width="640" alt="A French dandy" />
   </a>
   <p class="caption">
@@ -166,7 +166,7 @@ For now, here are nine more favorite images from the collection. And if you feel
 </div>
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/12/SCHMELTZ__Johannes_Diedrich_Eduard__Ethnographische_beschrijving_van_de_West-_en_Noordkust_von_Nederlandsch_Nieuw-Guinea_(1893)-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/12/SCHMELTZ__Johannes_Diedrich_Eduard__Ethnographische_beschrijving_van_de_West-_en_Noordkust_von_Nederlandsch_Nieuw-Guinea_(1893)-large.jpg">
     <img src="/images/blog/2013/12/SCHMELTZ__Johannes_Diedrich_Eduard__Ethnographische_beschrijving_van_de_West-_en_Noordkust_von_Nederlandsch_Nieuw-Guinea_(1893)-medium.jpg" width="640" alt="British Library" />
   </a>
   <p class="caption"> 

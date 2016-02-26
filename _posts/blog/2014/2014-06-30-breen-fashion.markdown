@@ -21,7 +21,7 @@ commissioned of himself at various ages and stages of life. I hesitate to call t
 This week marks the end of the Appendixl’s sixth issue, “[Bodies](http://theappendix.net/issues/2014/4),” and in the past three months we’ve covered a lot of ground in the realm of the human form, from [Lincoln’s quasi-beard](http://theappendix.net/issues/2014/4/abe-lincolns-whiskers) to [Tipu’s tiger](http://theappendix.net/issues/2014/4/robot-of-jihad-a-guide-to-tipus-tiger). But we haven’t done much on fashion and its history, and I wanted to remedy that with this post. We can debate to what degree these paintings are early manifestations of a distinctly modern ethos or simply a reflection of the abiding narcissism and love for self-display of all human beings (on this, see more below). But I think we can agree that they’re a remarkable testimony of a life in clothes. 
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/06/image4-l_final-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/06/image4-l_final-large.jpg">
     <img src="/images/blog/2014/06/image4-l_final-medium.jpg" width="640" alt="fashion" />
   </a>
   <p class="caption">
@@ -35,7 +35,7 @@ A bit more about Schwarz and his remarkable book, the early pages of which you c
 
 ##Age One
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/06/MS_1-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/06/MS_1-large.jpg">
     <img src="/images/blog/2014/06/MS_1-medium.jpg" width="640" alt="fashion" />
   </a>
   <p class="caption">
@@ -48,7 +48,7 @@ A bit more about Schwarz and his remarkable book, the early pages of which you c
 
 ##Age Five
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/06/MS5-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/06/MS5-large.jpg">
     <img src="/images/blog/2014/06/MS5-medium.jpg" width="640" alt="fashion" />
   </a>
   <p class="caption">
@@ -61,7 +61,7 @@ A bit more about Schwarz and his remarkable book, the early pages of which you c
 
 ##Age Eight
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/06/MS_8.5-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/06/MS_8.5-large.jpg">
     <img src="/images/blog/2014/06/MS_8.5-medium.jpg" width="640" alt="fashion" />
   </a>
   <p class="caption">
@@ -74,7 +74,7 @@ A bit more about Schwarz and his remarkable book, the early pages of which you c
 
 ##Age Nine
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/06/MS_9-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/06/MS_9-large.jpg">
     <img src="/images/blog/2014/06/MS_9-medium.jpg" width="640" alt="fashion" />
   </a>
   <p class="caption">
@@ -87,7 +87,7 @@ A bit more about Schwarz and his remarkable book, the early pages of which you c
 
 ##Age Fourteen
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/06/MS_14-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/06/MS_14-large.jpg">
     <img src="/images/blog/2014/06/MS_14-medium.jpg" width="640" alt="fashion" />
   </a>
   <p class="caption">
@@ -100,7 +100,7 @@ A bit more about Schwarz and his remarkable book, the early pages of which you c
 
 ##Age Fifteen
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/06/MS_15-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/06/MS_15-large.jpg">
     <img src="/images/blog/2014/06/MS_15-medium.jpg" width="640" alt="fashion" />
   </a>
   <p class="caption">
@@ -113,7 +113,7 @@ A bit more about Schwarz and his remarkable book, the early pages of which you c
 
 ##Age Nineteen
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/06/MS_19-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/06/MS_19-large.jpg">
     <img src="/images/blog/2014/06/MS_19-medium.jpg" width="640" alt="fashion" />
   </a>
   <p class="caption">
@@ -126,7 +126,7 @@ A bit more about Schwarz and his remarkable book, the early pages of which you c
 
 ##Age Nineteen
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/06/MS_19.8-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/06/MS_19.8-large.jpg">
     <img src="/images/blog/2014/06/MS_19.8-medium.jpg" width="640" alt="fashion" />
   </a>
   <p class="caption">
@@ -139,7 +139,7 @@ A bit more about Schwarz and his remarkable book, the early pages of which you c
 
 ##Age Twenty-One
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/06/MS_21-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/06/MS_21-large.jpg">
     <img src="/images/blog/2014/06/MS_21-medium.jpg" width="640" alt="fashion" />
   </a>
   <p class="caption">
@@ -152,7 +152,7 @@ A bit more about Schwarz and his remarkable book, the early pages of which you c
 
 ##Age Twenty-Two
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/06/MS_22-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/06/MS_22-large.jpg">
     <img src="/images/blog/2014/06/MS_22-medium.jpg" width="640" alt="fashion" />
   </a>
   <p class="caption">
@@ -165,7 +165,7 @@ A bit more about Schwarz and his remarkable book, the early pages of which you c
 
 ##Age Twenty-Three
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/06/MS_23_father_death-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/06/MS_23_father_death-large.jpg">
     <img src="/images/blog/2014/06/MS_23_father_death-medium.jpg" width="640" alt="fashion" />
   </a>
   <p class="caption">
@@ -178,7 +178,7 @@ A bit more about Schwarz and his remarkable book, the early pages of which you c
 
 ##Age Twenty-Six
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/06/MS_26-large.png">
+  <a class="fancybox" href="/images/blog/2014/06/MS_26-large.png">
     <img src="/images/blog/2014/06/MS_26-medium.png" width="640" alt="fashion" />
   </a>
   <p class="caption">
@@ -191,7 +191,7 @@ A bit more about Schwarz and his remarkable book, the early pages of which you c
 
 ##Age Twenty-Nine
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/06/MS_29-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/06/MS_29-large.jpg">
     <img src="/images/blog/2014/06/MS_29-medium.jpg" width="640" alt="fashion" />
   </a>
   <p class="caption">
@@ -204,7 +204,7 @@ A bit more about Schwarz and his remarkable book, the early pages of which you c
 
 ##Age Twenty-Nine
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/06/MS_46-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/06/MS_46-large.jpg">
     <img src="/images/blog/2014/06/MS_46-medium.jpg" width="640" alt="fashion" />
   </a>
   <p class="caption">
@@ -217,7 +217,7 @@ A bit more about Schwarz and his remarkable book, the early pages of which you c
 
 ##Age Forty-Eight
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/06/MS_48-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/06/MS_48-large.jpg">
     <img src="/images/blog/2014/06/MS_48-medium.jpg" width="640" alt="fashion" />
   </a>
   <p class="caption">
@@ -230,7 +230,7 @@ A bit more about Schwarz and his remarkable book, the early pages of which you c
 
 #Age Sixty-Three
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/06/MS_63-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/06/MS_63-large.jpg">
     <img src="/images/blog/2014/06/MS_63-medium.jpg" width="640" alt="fashion" />
   </a>
   <p class="caption">

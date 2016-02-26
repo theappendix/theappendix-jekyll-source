@@ -22,7 +22,7 @@ header_image_caption: "“To acquire the habit of reading is to construct for yo
 - John Glassie, the author of a recent book about the Jesuit polymath (and *Appendix* inspiration) Athanasius Kircher, [shared this dragon](https://www.facebook.com/photo.php?fbid=565070450234362&set=a.382403245167751.90178.378904818850927&type=1) from Kircher’s 1664 *Mundus Subterraneus.*
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/11/1453536_565070450234362_357451349_n-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/11/1453536_565070450234362_357451349_n-large.jpg">
     <img src="/images/blog/2013/11/1453536_565070450234362_357451349_n-medium.jpg" width="640" alt="Weekly Reading" />
   </a>
   <p class="caption">

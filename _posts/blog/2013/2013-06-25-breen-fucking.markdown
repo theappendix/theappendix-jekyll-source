@@ -20,7 +20,7 @@ Samuel Pepys, the famous womanizer and diarist, was certainly no prude. This is 
 So what was the book that made even Pepys blush? It turns out to be a surprisingly modern exploration of sexuality written in the form of a dialogue between a teenage girl and her more experienced cousin. Originally written in French and published in English in 1680 as *The School of Venus, or the Ladies Delight Reduced into Rules of Practice*, the anonymous book’s frontispiece engraving made its subject matter clear:
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/06/venus2-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/06/venus2-large.jpg">
     <img src="/images/blog/2013/06/venus2-medium.jpg" width="640" alt="early modern sex manual" />
   </a>
 </div>
@@ -30,7 +30,7 @@ The 166-page text, which has been [digitized by Google Books]( http://books.goog
 The main narrative then begins, introducing its two principle characters: Katherine, “a Virgin of admirable beauty” and “a Kins-Woman of hers named Frances.” Frances “come[s] to chat” with Katherine one morning, finding her alone and working “as if it were a Nunnery.” Frances reproaches her cousin for being “such a Fool [as] to believe you can‘t enjoy a mans company without being Married.” Katherine naively explains that she enjoys the companionship of many men (“my two Unkles, my Cousins, Mr. Richards and many others”) but Frances explains that she means something altogether different (note that the early modern ‘s’ can sometimes look like an ‘f’): 
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/06/Venus2a-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/06/Venus2a-large.jpg">
     <img src="/images/blog/2013/06/Venus2a-medium.jpg" width="640" alt="early modern sex manual" />
   </a>
 </div>
@@ -38,7 +38,7 @@ The main narrative then begins, introducing its two principle characters: Kather
 Frances reveals that even Katy‘s parents indulge in “this mistery of Fucking,” and not necessarily with one another (she speculates that “your Father had often his pleasure of your Maid Servant Margaret” and that “your Mother herself” might have “some private friend”). Next, we’re treated to a seventeenth-century explication of the male and female anatomy:
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/06/Venus3-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/06/Venus3-large.jpg">
     <img src="/images/blog/2013/06/Venus3-medium.jpg" width="640" alt="early modern sex manual" />
   </a>
 </div>
@@ -56,7 +56,7 @@ At page thirty-four, the text shifts gears into a full-fledged sex manual. Popul
 The dialogue ends, well, with a bang. A series of crude mezzotints illustrate the various positions suggested by Frances:
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/06/Venus4-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/06/Venus4-large.jpg">
     <img src="/images/blog/2013/06/Venus4-medium.jpg" width="640" alt="early modern sex manual" />
   </a>
   <p class="caption">
@@ -65,7 +65,7 @@ The dialogue ends, well, with a bang. A series of crude mezzotints illustrate th
 </div>
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/06/Venus5-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/06/Venus5-large.jpg">
     <img src="/images/blog/2013/06/Venus5-medium.jpg" width="640" alt="early modern sex manual" />
   </a>
   <p class="caption">
@@ -74,7 +74,7 @@ The dialogue ends, well, with a bang. A series of crude mezzotints illustrate th
 </div>
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/06/Venus6-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/06/Venus6-large.jpg">
     <img src="/images/blog/2013/06/Venus6-medium.jpg" width="640" alt="early modern sex manual" />
   </a>
   <p class="caption">
@@ -83,7 +83,7 @@ The dialogue ends, well, with a bang. A series of crude mezzotints illustrate th
 </div>
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/06/Venus7-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/06/Venus7-large.jpg">
     <img src="/images/blog/2013/06/Venus7-medium.jpg" width="640" alt="early modern sex manual" />
   </a>
   <p class="caption">

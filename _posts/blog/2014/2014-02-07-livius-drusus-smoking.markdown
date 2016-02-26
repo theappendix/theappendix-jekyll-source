@@ -20,7 +20,7 @@ Last year, a cartoon by illustrator Harry Grant Dart that appeared in the center
 It’s a scene set in a fictional New York bar called Cleopatra’s Cafe, Mrs. P.J. Gilligan proprietrix, which is populated entirely by women. Captioned “Why Not Go the Limit?,” it’s meant to be a gasp-worthy image of a hellish future in which widows play cards over the police blotter, mothers neglect their children and women assiduously follow news transmitted over a ticker that is not a stock ticker, by the way, but a sporting ticker reporting the results of horse races and boxing matches on which these degenerates have doubtless placed bets. It strikes a different note to many a modern viewer, however. Its charming cocktails (I’ll have a Hot Maud and Eliza, thank you), fashionably dressed, liberated Edwardian ladies and its free lunch banquet of almonds and fudge make it look like a pretty great place to hang out.
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/02/punch_poster-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/02/punch_poster-large.jpg">
     <img src="/images/blog/2014/02/punch_poster-medium.jpg" width="640" alt="puck" />
   </a>
   <p class="caption">
@@ -38,7 +38,7 @@ Most of the explanations of this image as it flew around the web saw it as an an
 That’s actually the reverse of what is really going on at Cleopatra’s Cafe. Dart’s entire point was to lampoon women smoking in public, an issue that had exploded in the public conversation and was happening as he took pencil to paper, unlike women’s suffrage which was still a dozen years in the future. The subheading under the caption is “For the benefit of those ladies who ask the right to smoke in public.” That isn’t code for a wider campaign of women’s rights, like women demanding the right to smoke in public along with the right to vote. The suffrage movement had no interest in addressing the question of women smoking because it wasn’t a political issue but rather a debate over social mores and bore no relevance to the struggle for voting rights. 
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/02/Caricature-of-aggressive-smoking-woman-emasculated-man-large.gif">
+  <a class="fancybox" href="/images/blog/2014/02/Caricature-of-aggressive-smoking-woman-emasculated-man-large.gif">
     <img src="/images/blog/2014/02/Caricature-of-aggressive-smoking-woman-emasculated-man-medium.gif" width="640" alt="smoking woman" />
   </a>
   <p class="caption">
@@ -54,7 +54,7 @@ Suffragettes were, in the main, society ladies -- educated, moneyed, and <a href
 This was not the case in Europe, where women smoking were a common sight by 1906 when <a href="http://query.nytimes.com/mem/archive-free/pdf?res=F30916FF3A5A12738DDDAC0A94DB405B868CF1D3" target="_blank">New York <em>Times</em> correspondent Elizabeth Biddle reported from London</a> how English ladies, even very proper young ladies who would never dream of going to a restaurant with a man without an appropriate married female chaperone, felt entirely free to light one up in front of everyone. When Biddle’s visitor from the US saw two “thoroughly respectable looking” women wearing no make-up and dowdy clothes (in contrast to slatternly actresses and other morally questionable women easily identifiable by their caked on the slap and vulgar, showy dresses) smoke in a restaurant, he begged her forgiveness for mistaking the restaurant for a reputable establishment and hustled her out the door.
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/02/Café-Martin-1908-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/02/Café-Martin-1908-large.jpg">
     <img src="/images/blog/2014/02/Café-Martin-1908-medium.jpg" width="640" alt="smoking woman" />
   </a>
   <p class="caption">
@@ -82,7 +82,7 @@ There were perhaps a dozen women smoking the café at one time, a little before 
 Others appeared to be used to cigarettes and to enjoy them thoroughly. The smoking, however, was only a small part of the fun, for there was plenty to eat and to drink, songs to be sung, and jokes to be played, and every one was a good fellow, worth wishing a Happy New Year to.
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/02/First-New-Years-Eve-ball-One-Times-Square-1907-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/02/First-New-Years-Eve-ball-One-Times-Square-1907-large.jpg">
     <img src="/images/blog/2014/02/First-New-Years-Eve-ball-One-Times-Square-1907-medium.jpg" width="640" alt="smoking woman" />
   </a>
   <p class="caption">
@@ -108,7 +108,7 @@ The response to the ordinance was not entirely positive.  Some <a href="http://q
 >Here we have a Bowery politician in his native atmosphere, the Bowery saloon and all it represents, vice in all forms unveiled, originating arbitrary laws for one-half of New York’s citizens, as if they were slaves or incompetents, without for one moment thinking it necessary to consult their wishes or opinions on the matter, just as if these citizens were not for the most part better educated, more moral, more law-abiding, and more self-respecting that the said Mr. Sullivan.
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/02/Horatius-at-the-Bridge-Puck-Nov-1-1905-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/02/Horatius-at-the-Bridge-Puck-Nov-1-1905-large.jpg">
     <img src="/images/blog/2014/02/Horatius-at-the-Bridge-Puck-Nov-1-1905-medium.jpg" width="640" alt="smoking woman" />
   </a>
   <p class="caption">

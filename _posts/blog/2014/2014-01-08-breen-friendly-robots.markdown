@@ -21,7 +21,7 @@ The robot greeted visitors by confessing: “Right now I can’t do much, just t
 Shaw’s piece intrigued me, especially because I’d just picked up a copy of this official guide to the 1939 New York World’s fair:
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/01/91JJAJ6qqdL-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/01/91JJAJ6qqdL-large.jpg">
     <img src="/images/blog/2014/01/91JJAJ6qqdL-medium.jpg" width="640" alt="robot" />
   </a>
 </div>
@@ -35,7 +35,7 @@ Robots strike me as a particularly interesting space where the technological com
 I’ve been interested in socialist bloc technology lately, like this [cosmonaut survival kit](http://theappendix.net/blog/2013/11/the-cosmonauts-survival-kit), or the [Agat 4](http://tumblr.theappendix.net/post/58976311662/the-agat-4-an-apple-ii-clone-that-was-the-most), a Soviet copy of the Apple II that features some seriously bold exterior styling: 
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/01/tumblr_mrwx5cW18A1rl1rfao1_1280-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/01/tumblr_mrwx5cW18A1rl1rfao1_1280-large.jpg">
     <img src="/images/blog/2014/01/tumblr_mrwx5cW18A1rl1rfao1_1280-medium.jpg" width="640" alt="robot" />
   </a>
   <p class="caption">
@@ -49,7 +49,7 @@ I’ve been interested in socialist bloc technology lately, like this [cosmonaut
 I couldn’t find out more about the robot in Shaw’s piece—but thanks to UT Austin professor of Russian history (and editor of [*Not Even Past*](http://www.notevenpast.org/)) Joan Neuburger, I found out about [this wonderful post](http://en.metkere.com/2013/11/13-weird-soviet-robots.html) about Soviet robots from the Russian website Metkere.
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/01/metkere-robots03-704x463-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/01/metkere-robots03-704x463-large.jpg">
     <img src="/images/blog/2014/01/metkere-robots03-704x463-medium.jpg" width="640" alt="robot" />
   </a>
   <p class="caption">
@@ -61,7 +61,7 @@ I couldn’t find out more about the robot in Shaw’s piece—but thanks to UT 
 </div>
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/01/metkere-robots07-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/01/metkere-robots07-large.jpg">
     <img src="/images/blog/2014/01/metkere-robots07-medium.jpg" width="640" alt="robot" />
   </a>
   <p class="caption">
@@ -73,7 +73,7 @@ I couldn’t find out more about the robot in Shaw’s piece—but thanks to UT 
 </div>
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/01/metkere-robots10-704x990-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/01/metkere-robots10-704x990-large.jpg">
     <img src="/images/blog/2014/01/metkere-robots10-704x990-medium.jpg" width="640" alt="robot" />
   </a>
   <p class="caption">
@@ -85,7 +85,7 @@ I couldn’t find out more about the robot in Shaw’s piece—but thanks to UT 
 </div>
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/01/metkere-robots04a-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/01/metkere-robots04a-large.jpg">
     <img src="/images/blog/2014/01/metkere-robots04a-medium.jpg" width="640" alt="robot" />
   </a>
   <p class="caption">
@@ -98,7 +98,7 @@ I couldn’t find out more about the robot in Shaw’s piece—but thanks to UT 
 
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/01/metkere-robots06-704x706-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/01/metkere-robots06-704x706-large.jpg">
     <img src="/images/blog/2014/01/metkere-robots06-704x706-medium.jpg" width="640" alt="robot" />
   </a>
   <p class="caption">
@@ -110,7 +110,7 @@ I couldn’t find out more about the robot in Shaw’s piece—but thanks to UT 
 </div>
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/01/metkere-robots13-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/01/metkere-robots13-large.jpg">
     <img src="/images/blog/2014/01/metkere-robots13-medium.jpg" width="640" alt="robot" />
   </a>
   <p class="caption">
@@ -126,7 +126,7 @@ Thanks again to Joan Neuberger of UT Austin and [*Not Even Past*](notevenpast.or
 Bonus image: here’s a photograph of East German computers on parade in 1987 (on the Fourth of July no less!) that’s been making the rounds online. The great thing is that its actually real.
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/01/tumblr_mibqdqRh0a1s2jikwo1_1280-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/01/tumblr_mibqdqRh0a1s2jikwo1_1280-large.jpg">
     <img src="/images/blog/2014/01/tumblr_mibqdqRh0a1s2jikwo1_1280-medium.jpg" width="640" alt="robot" />
   </a>
   <p class="caption">

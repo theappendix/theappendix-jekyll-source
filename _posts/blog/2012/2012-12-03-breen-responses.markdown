@@ -19,7 +19,7 @@ On our [Facebook page](https://www.facebook.com/TheAppendix), historian Jorge Ca
 This featuring of human beings is an aspect of early modern curiosity cabinets that I neglected to mention, and it is surely the most unsettling and saddening aspect of the phenomenon. Below is a portrait of [Petrus Gonsalvus](http://en.wikipedia.org/wiki/Petrus_Gonsalvus), the Canary Islander born with hypertrichosis (hirsutism) who was traded between various European royal houses as a curiosity. The preserved remains of “monstrous” or otherwise unusual humans also featured prominently in these displays—in fact, the library of St. Johns College at Oxford University apparently possessed the tattooed skin of [Giolo, a Filipino man kidnapped by the privateer William Dampier](http://resobscura.blogspot.com/2010/06/giolo-painted-prince.html) until the [early 20th century](http://books.google.com/books?id=hlJ3fnzdHVIC&pg=PA122&lpg=PA122&dq=skin+of+%22painted+prince%22+oxford&source=bl&ots=5W2Ag_bYng&sig=45iJp_CYFAQbvgdtnKW2c81EoPg&hl=en&sa=X&ei=89m8UMy8Guj62AWBooCABQ&ved=0CC4Q6AEwAA#v=onepage&q=skin%20of%20%22painted%20prince%22%20oxford&f=false). A macabre and sad reminder that curiosity cabinets came from the age of slavery as well as the era of Rembrandt and Vermeer. And also, I think, another link with the present—contemporary readers of the Internet, after all, love the “monstrous” at least as much as Europeans of the Baroque era did.
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2012/12/appendix_petrus_gonsalvus_copy-large.jpg">
+  <a class="fancybox" href="/images/blog/2012/12/appendix_petrus_gonsalvus_copy-large.jpg">
     <img src="/images/blog/2012/12/appendix_petrus_gonsalvus_copy-medium.jpg" width="640" alt="FBI memo" />
   </a>
   <p class="caption">
@@ -37,7 +37,7 @@ Meanwhile, on Twitter, [Annalisa](https://twitter.com/LisaRocaille), an art hist
 Likewise, [The Vault](http://www.slate.com/blogs/the_vault.html), a new blog of “historical treasures, oddities and delights” on Slate, had [this to say](https://twitter.com/SlateVault):
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2012/12/Screen_Shot_2012-12-03_at_8.40.43_AM-large.png">
+  <a class="fancybox" href="/images/blog/2012/12/Screen_Shot_2012-12-03_at_8.40.43_AM-large.png">
     <img src="/images/blog/2012/12/Screen_Shot_2012-12-03_at_8.40.43_AM-medium.png" width="640" alt="Slate" />
   </a>
   <p class="caption">

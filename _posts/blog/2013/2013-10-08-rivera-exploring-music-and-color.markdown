@@ -24,7 +24,7 @@ links:
 *We poked around the Internet looking for more information, and found useful resources like this chart by <a href=" http://rhythmiclight.com/archives/ideas/colorscales.html">Fred Collopy</a>, which visualizes three centuries of claims about the relationship between music and color*: 
 
 <div class="inline-image">
-    <a rel="lightbox" href="/images/blog/2013/10/Rivera0-large.jpg"><img src="/images/blog/2013/10/Rivera0-medium.jpg" width="640" alt="color chart" /></a>
+    <a class="fancybox" href="/images/blog/2013/10/Rivera0-large.jpg"><img src="/images/blog/2013/10/Rivera0-medium.jpg" width="640" alt="color chart" /></a>
     <p class="caption"> <span class="credit"> Fred Collopy
  </span>
     </p>
@@ -46,7 +46,7 @@ Choron and Fétis seized on tonality and tone color alongside warnings that the 
 It was only one year after the French Revolution that Choron began dedicated work on a translation of the *Gründliche Anweisung zur Composition* (1790), the disquisition on composing by [Johann Georg Albrechtsberger]( http://en.wikipedia.org/wiki/Johann_Georg_Albrechtsberger). In a citation early in the translation, Choron calls attention to the distinction between *tonalité antique* (“ancient tonality”) and *tonalité modern* (“modern tonality”). For Fétis, the difference arose from the early modern reliance on dominant seventh harmonies.  This was the dominant seventh that Choron had described as the invention of the baroque madrigalist and priest Claudio Monteverdi, who also composed works of sacred music and opera. 
 
 <div class="inline-image">
-    <a rel="lightbox" href="/images/blog/2013/10/Rivera1-large.jpg"><img src="/images/blog/2013/10/Rivera1-medium.jpg" /></a>
+    <a class="fancybox" href="/images/blog/2013/10/Rivera1-large.jpg"><img src="/images/blog/2013/10/Rivera1-medium.jpg" /></a>
     <p class="caption">Monteverdi as a young man, circa 1597.
         <span class="credit"> Wikimedia Commons
 </span>
@@ -58,7 +58,7 @@ While a number of subtle differences distinguish Choron’s from Fétis’s acco
 At this point in the post-Revolutionary decades, eighteenth-century tonal theory still lingered in collective consciousness. The composer and theorist Jean-Philippe Rameau had described [the tonic](http://en.wikipedia.org/wiki/Tonic_%28music%29) as something of a magnet, attracting other harmonies as well as the listener’s attention, whereas the mathematician and philosophe Jean Le Rond d’Alembert took a page from the music theories of Jean-Jacques Rousseau, waxing somewhat coloristic in his references to the *aigreur du triton* (“sourness of the tritone”) and the *état doux* (“sweet state”) of consonance. The emergence of the concept of timbre in the eighteenth century implied a new awareness of music as an expressive medium: even the collective of instruments and players making up the orchestra came to be understood as an engaging, autonomous entity dedicated to the production of expressive, colorful sounds. At the same time, Choron and Fétis both spoke to early Romantic concerns that chromaticism and rich tonal color were never necessarily good things. 
 
 <div class="inline-image">
-    <a rel="lightbox" href="/images/blog/2013/10/Rivera2-large.jpg"><img src="/images/blog/2013/10/Rivera2-medium.jpg" /></a>
+    <a class="fancybox" href="/images/blog/2013/10/Rivera2-large.jpg"><img src="/images/blog/2013/10/Rivera2-medium.jpg" /></a>
     <p class="caption">Alexandre Choron  and François-Joseph Fétis.
         <span class="credit"> Bibliothèque nationale de France, département Musique
 </span>

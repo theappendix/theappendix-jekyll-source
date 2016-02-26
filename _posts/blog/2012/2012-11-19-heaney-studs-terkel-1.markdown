@@ -26,7 +26,7 @@ It is 1975. A thirty year-old midwife from an English-Australian family of eight
 </i></p>
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2012/11/Heaney_2_re-sized-large.jpg">
+  <a class="fancybox" href="/images/blog/2012/11/Heaney_2_re-sized-large.jpg">
     <img src="/images/blog/2012/11/Heaney_2_re-sized-medium.jpg" width="640" alt="Residents of the Wahgi Valley, Papua New Guinea" />
   </a>
   <p class="caption">

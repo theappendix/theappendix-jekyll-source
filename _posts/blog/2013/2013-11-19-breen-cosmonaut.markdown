@@ -17,7 +17,7 @@ links:
 NASA spent nearly 20 years developing a form of [space ice cream](http://www.hickorees.com/brand/astronaut-ice-creams/product/astronaut-ice-cream-neapolitan) that astronauts found palatable. Meanwhile, the Soviet space program was working on stuff like this:
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/11/naz3-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/11/naz3-large.jpg">
     <img src="/images/blog/2013/11/naz3-medium.jpg" width="640" alt="cosmonaut kit" />
   </a>
   <p class="caption"> 
@@ -48,7 +48,7 @@ That’s the NAZ-3 survival kit. It was designed in 1968 for the Soviet Soyuz sp
 The pistol was intended to scare off “wolves, bears, tigers, etc.” on the event of a crash landing. Later Soviet survival kits expanded to include fishing tackle, improved cold suits, royal blue knit caps with the Cyrillic initials of each cosmonaut (shades of *The Life Aquatic*) and “ugh boots” lined with fur.
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/11/Moscow_Polytechnical_Museum__cosmonaut's_survival_kit-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/11/Moscow_Polytechnical_Museum__cosmonaut's_survival_kit-large.jpg">
     <img src="/images/blog/2013/11/Moscow_Polytechnical_Museum__cosmonaut's_survival_kit-medium.jpg" width="640" alt="cosmonaut kit" />
   </a>
   <p class="caption">
@@ -60,7 +60,7 @@ The pistol was intended to scare off “wolves, bears, tigers, etc.” on the ev
 </div>
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/11/soviet_kit-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/11/soviet_kit-large.jpg">
     <img src="/images/blog/2013/11/soviet_kit-medium.jpg" width="640" alt="cosmonaut kit" />
   </a>
   <p class="caption">
@@ -76,7 +76,7 @@ These kits also featured a special “combination gun” (a rifle, shotgun and f
 >American astronauts who trained for the 1995-1997 Mir visits, and later as part of the Soyuz spacecraft crews for the International Space Station, encountered a unique feature that cosmonauts need to master: target practice. They have to know how to load, aim, and fire the special survival gun that has been on board all Soyuz spacecraft throughout their 30-year history.
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/11/TP-82-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/11/TP-82-large.jpg">
     <img src="/images/blog/2013/11/TP-82-medium.jpg" width="640" alt="cosmonaut kit" />
   </a>
   <p class="caption">
@@ -95,7 +95,7 @@ By 2007, ammunition for this exceptionally rare firearm had become impossible to
 Special Russian space program bonus: just for the hell of it, here are the three coolest-looking cosmonauts I found while researching this post.
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/11/manarov_musa-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/11/manarov_musa-large.jpg">
     <img src="/images/blog/2013/11/manarov_musa-medium.jpg" width="640" alt="cosmonaut" />
   </a>
   <p class="caption">
@@ -107,7 +107,7 @@ Special Russian space program bonus: just for the hell of it, here are the three
 </div>
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/11/RIAN_archive_612748_Valentina_Tereshkova-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/11/RIAN_archive_612748_Valentina_Tereshkova-large.jpg">
     <img src="/images/blog/2013/11/RIAN_archive_612748_Valentina_Tereshkova-medium.jpg" width="640" alt="cosmonaut" />
   </a>
   <p class="caption">
@@ -119,7 +119,7 @@ Special Russian space program bonus: just for the hell of it, here are the three
 </div>
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/11/kovalyonok_vladimir-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/11/kovalyonok_vladimir-large.jpg">
     <img src="/images/blog/2013/11/kovalyonok_vladimir-medium.jpg" width="640" alt="cosmonaut" />
   </a>
   <p class="caption">

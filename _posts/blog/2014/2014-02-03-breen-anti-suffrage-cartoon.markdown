@@ -18,7 +18,7 @@ In early 1908, a magazine illustrator named Harry Grant Dart settled down to wor
 Dart was a cartoonist from the golden age of newspaper illustration, when photographs were still rare in daily periodicals and innovative comics like *Little Nemo in Slumberland* and *Krazy Kat* were winning huge audiences. Dart’s specialty was slickly-executed visions of the future, particularly shiny airships like the ones featured in his comic strip [*The Explorigators,*](http://www.theatlantic.com/entertainment/archive/2011/06/the-king-of-the-sunday-funnies/240188/) or this cover for the magazine *The All-Story*:
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/02/Dart_aerostatic_cabrio_13554u-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/02/Dart_aerostatic_cabrio_13554u-large.jpg">
     <img src="/images/blog/2014/02/Dart_aerostatic_cabrio_13554u-medium.jpg" width="640" alt="puck" />
   </a>
   <p class="caption">
@@ -32,7 +32,7 @@ Dart was a cartoonist from the golden age of newspaper illustration, when photog
 For his *Puck* assignment, however, Dart was inspired by a different vision of the future: a parodic, misogynistic one that imagined a world where women could vote and, consequently, had taken the traditional place of men as drinking, smoking, gambling barflies.
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/02/punch_poster-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/02/punch_poster-large.jpg">
     <img src="/images/blog/2014/02/punch_poster-medium.jpg" width="640" alt="puck" />
   </a>
   <p class="caption">
@@ -72,7 +72,7 @@ It seems safe to say that the image hit a nerve, playing to the internet’s lov
 There’s another more prosaic angle to the image’s contemporary fascination, of course: it’s incredibly detailed.
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/02/puck_detail_5-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/02/puck_detail_5-large.jpg">
     <img src="/images/blog/2014/02/puck_detail_5-medium.jpg" width="640" alt="puck" />
   </a>
   <p class="caption">
@@ -84,7 +84,7 @@ There’s another more prosaic angle to the image’s contemporary fascination, 
 </div>
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/02/puck_detail-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/02/puck_detail-large.jpg">
     <img src="/images/blog/2014/02/puck_detail-medium.jpg" width="640" alt="puck" />
   </a>
   <p class="caption">
@@ -96,7 +96,7 @@ There’s another more prosaic angle to the image’s contemporary fascination, 
 </div>
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/02/puck_detail_2-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/02/puck_detail_2-large.jpg">
     <img src="/images/blog/2014/02/puck_detail_2-medium.jpg" width="640" alt="puck" />
   </a>
   <p class="caption">
@@ -114,7 +114,7 @@ This last detail is one of the oddest—why in the world would Dart have chosen 
 Dart was by no means the only artist from this period to envision the futuristic consequences of the women’s movement. In our upcoming Summer 2014 issue “Futures of the Past,” we’ll feature more on the topic, including explanations of related images like this prediction of a wedding in the year 2001:
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/02/Standard18950427int08-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/02/Standard18950427int08-large.jpg">
     <img src="/images/blog/2014/02/Standard18950427int08-medium.jpg" width="640" alt="puck" />
   </a>
   <p class="caption">

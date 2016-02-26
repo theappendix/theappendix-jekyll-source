@@ -23,7 +23,7 @@ Like Machiavelli, we hope you’re received by them kindly.
 - At the Slate Vault, [Rebecca Onion explored](http://www.slate.com/blogs/the_vault/2013/10/31/blood_book_victorian_scrapbook_given_as_betrothal_gift_and_collected_by.html) one of our favorite pieces of book art, the Victorian “Blood Book” owned by the Harry Ransom Center.
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2013/11/BloodBook2Final_jpg.jpg.CROP.original-original-large.jpg">
+  <a class="fancybox" href="/images/blog/2013/11/BloodBook2Final_jpg.jpg.CROP.original-original-large.jpg">
     <img src="/images/blog/2013/11/BloodBook2Final_jpg.jpg.CROP.original-original-medium.jpg" width="640" alt="Page from Blood Book" />
   </a>
   <p class="caption">

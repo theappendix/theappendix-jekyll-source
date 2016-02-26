@@ -15,7 +15,7 @@ Techno is black music. True, there’s more to it, but that statement can be jus
 Preliminaries out of the way, let us now praise Cybotron’s *Enter*, released in 1983 and [reissued last month by Fantasy Records](http://www.discogs.com/Cybotron-Clear/master/133). Enter is not really a Techno album. You see, it has guitar solos in it. But it is a Techno album. You see, it has the driving beats, the hollow snares, the squelchy bass lines, the sweeping atmospherics. Most of all, *Enter* is an unlikely album, the product of a Hendrix-riffing Vietnam vet collaborating with a precocious teenage futurist within the very specific context of deindustrializing, urban-crisis Detroit. There will never be another album like it. 
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/01/Detroit1967-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/01/Detroit1967-large.jpg">
     <img src="/images/blog/2014/01/Detroit1967-medium.jpg" width="640" alt="techno" />
   </a>
   <p class="caption">
@@ -35,7 +35,7 @@ The name Cybotron apparently had something to do with the anxious futurology of 
 Still, Toffler knew how to turn a phrase, and *Future Shock*’s central thesis that the pace of social change is as important as the substance of the change itself is a respectable bit of sociological wisdom that receives more-or-less canonical treatment in Karl Polanyi’s classic, *The Great Transformation*, probably the single most important theoretical statement of the principles of social democracy after Keynes’s *General Theory*.  It seems worth noting that the kind of change that was happening in Detroit when Cybotron came together at the dawn of the Reagan Era was just the kind of rapid social disintegration that Polanyi predicted would inevitably ensue if policymakers untethered the market economy from it social moorings. That plus [residential racism](http://press.princeton.edu/titles/8029.html).  But, anyway, in the same 1983 that Cybotron released *Enter*, Toffler came up again in Herbie Hancock’s electro-funk-jazz excursion, *Future Shock*, which featured the Grammy-winning masterpiece of early hip-hop futurism, “[Rockit](http://www.youtube.com/watch?v=XSxMtDnRS24).” So Toffler seems to have had a point when he wrote that, “in dealing with the future . . . it is more important to be imaginative and insightful than to be one hundred percent ‘right.’”
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/01/FutureShock-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/01/FutureShock-large.jpg">
     <img src="/images/blog/2014/01/FutureShock-medium.jpg" width="640" alt="techno" />
   </a>
   <p class="caption"> 
@@ -101,7 +101,7 @@ And now, finally, mercifully, “Clear,” the track that invented modern Techno
 After “Clear,” Cybotron split up. Davis wanted to go in more of a rock direction and eventually did so with two albums released in the nineties under the Cybotron moniker. Atkins had different ideas. He thought that a track called “Nightdrive (Thru Babylon),” which he made largely on his own but that Davis helped complete, ought to be the next step. “You can’t come behind a record like Clear with a rock-n-roll record,” he would later say. A lot of the guys who returned from Vietnam, he thought, were stuck on Hendrix and the psychedelic rock that came out of the sixties. Davis “was like Jimi Hendrix on the synthesizer,” Atkins said. It wasn’t a bad thing, just not what he was trying to do.  
 
 <div class="inline-image">
-  <a rel="lightbox" href="/images/blog/2014/01/Model500Classics-large.jpg">
+  <a class="fancybox" href="/images/blog/2014/01/Model500Classics-large.jpg">
     <img src="/images/blog/2014/01/Model500Classics-medium.jpg" width="640" alt="techno" />
   </a>
   <p class="caption"> 
