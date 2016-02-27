@@ -1,0 +1,29 @@
+---
+layout: default
+title: Contributors
+---
+
+<div class="page-wrap">
+  <h1>Contributors</h1>
+  <div class="contributors-content">
+    <ul class="contributors"><!--
+      {% for contributor in site.contributors %}
+        --><li>
+        <span class="name">{{ contributor.slug | person_full_name }}</span><!--
+          {% for post in site.posts %}
+            {% assign include_post_flag = false %}
+            {% if post.authors contains contributor.slug %}
+              {% assign include_post_flag = true %}
+            {% endif %}
+            {% if post.illustrators contains contributor.slug %}
+              {% assign include_post_flag = true %}
+            {% endif %}
+            {% if include_post_flag %}
+              --><a class="bubble" href="{{ post.permalink }}"><span class="invisible-text">{{ post.title }}</span></a><!--
+            {% endif %}
+          {% endfor %}
+        --></li><!--
+      {% endfor %}
+    --></ul>
+  </div>
+</div>
