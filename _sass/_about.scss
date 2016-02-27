@@ -1,0 +1,43 @@
+.about-content {
+  p {
+    color: $headerColor;
+    font-size: 1.25em;
+    line-height: 150%;
+    margin: 1em auto;
+
+    a {
+      color: $accentColor;
+
+      &:hover {
+        color: $accentColorLinkHover;
+      }
+    }
+  }
+
+  ul.personnel {
+    color: $headerColor;
+    font-size: 1.25em;
+    font-weight: bold;
+    list-style-type: none;
+    margin: 2em auto;
+    padding: 0;
+
+    li {
+      margin: 0 0 .75em 0;
+      padding: 0;
+    }
+
+    span.roles {
+      @include sans-serif-font-stack;
+      color: $textColor;
+      display: block;
+      font-size: .8em;
+      font-weight: normal;
+
+      span.numbers {
+        color: $deemphasizedColor;
+        font-size: .8em;
+      }
+    }
+  }
+}
