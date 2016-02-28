@@ -115,6 +115,22 @@ header.site-header {
   border-color: $accentColor;
 }
 
+footer.site-footer {
+  border-color: $accentColor;
+
+  a {
+    color: $accentColor;
+
+    &:hover {
+      color: $hoverColor;
+    }
+  }
+
+  ul.links {
+    border-color: $accentColor;
+  }
+}
+
 .page-content {
   background: {
     image: $backgroundFooter;
