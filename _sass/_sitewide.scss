@@ -76,6 +76,15 @@ header.site-header {
   }
 }
 
+footer.site-footer {
+  border: {
+    color: $accentColor;
+    style: solid;
+    width: 3px 0 0 0;
+  }
+  width: 100%;
+}
+
 nav.header-navigation {
   border: {
     color: $accentColor;
