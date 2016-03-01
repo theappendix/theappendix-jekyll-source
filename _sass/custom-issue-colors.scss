@@ -4,6 +4,18 @@
   }
 }
 
+.issue-frontmatter-content div.header {
+  border-color: $accentColor;
+
+  p.archive {
+    border-color: $accentColor;
+
+    a {
+      color: $accentColor;
+    }
+  }
+}
+
 nav.header-navigation {
   border-color: $accentColor;
 

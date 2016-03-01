@@ -106,6 +106,14 @@
   padding: 2em 0;
 
   div.header {
+    border: {
+      color: $accentColor;
+      style: dotted;
+      width: 0 0 1px 0;
+    }
+    margin-bottom: 3em;
+    padding-bottom: 2em;
+
     div.details {
       padding-top: 1em;
       margin-left: 300px;
@@ -131,7 +139,26 @@
       margin-top: -2em;
     }
 
+    p.archive {
+      @include sans-serif-font-stack;
+      border: 1px dotted $accentColor;
+      margin: 2em auto;
+      padding: .5em 1em;
+      text-align: center;
+
+      a {
+        color: $accentColor;
+        font-weight: bold;
+        text-decoration: none;
+
+        &:hover {
+          text-decoration: underline;
+        }
+      }
+    }
+
     ul.personnel {
+      @include sans-serif-font-stack;
       list-style-type: none;
       padding-left: 0;
 

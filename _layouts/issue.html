@@ -20,6 +20,9 @@ leaflet: false
         <p class="blurb">
           {{ page.blurb | markdownify | remove: '<p>' | remove: '</p>' }}
         </p>
+        <p class="archive">
+          <a href="{{ page.archive_url }}">Download e-books from Archive.org</a>
+        </p>
         <ul class="personnel">
           {% for listing in page.personnel %}
             <li>
