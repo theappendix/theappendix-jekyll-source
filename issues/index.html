@@ -2,22 +2,22 @@
 layout: default
 ---
 
-{% assign issues = site.issues | sort: 'number' | reverse %}
+{% assign issues = site.issues | sort: 'number' %}
 
 <h1>Issue Archive</h1>
 
 <div class="page-wrap">
   <div class="issues-landing-content">
-    <p class="section-bar"><span class="wrapper">Volume 2 (2014)</span></p>
+    <p class="section-bar"><span class="wrapper">Volume 1 (2012-2013)</span></p>
     <ul>
-      {% for issue in issues %}{% if issue.volume == 2 %}
+      {% for issue in issues %}{% if issue.volume == 1 %}
         {% include issues/issue-line-item.html issue=issue %}
       {% endif %}{% endfor %}
     </ul>
 
-    <p class="section-bar"><span class="wrapper">Volume 1 (2012-2013)</span></p>
+    <p class="section-bar"><span class="wrapper">Volume 2 (2014)</span></p>
     <ul>
-      {% for issue in issues %}{% if issue.volume == 1 %}
+      {% for issue in issues %}{% if issue.volume == 2 %}
         {% include issues/issue-line-item.html issue=issue %}
       {% endif %}{% endfor %}
     </ul>
