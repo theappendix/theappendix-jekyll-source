@@ -1,0 +1,89 @@
+---
+layout: article
+title: _The Appendix_, Appendixed.
+authors:
+  - breen-benjamin
+excerpt: >
+  Even <i>The Appendix</i> needs an appendix. For this issue, we share a timeline of apocalypses, real or (happily) imagined.
+permalink: /issues/2012/12/appendix-appendix
+toc: 23
+volume: 1
+number: 1
+---
+<link rel="stylesheet" href="/images/issues/1/1/appendixed/styles.css" />
+<p>
+The inaugural issue of <i>The Appendix</i> has covered a lot of ground, from the cults of Maya saints to murder in 19th century Manhattan. The final page of this issue introduces a reoccurring feature that we’re calling "<i>The Appendix</i>, Appendixed.” Here we step back to take a geographic view of apocalypses in history: from those that were predicted but never came to pass, to those that did in fact destroy civilizations and cultures.
+</p>
+
+    <div id="appendixed-map-container" class="map">
+        <div class="loader">
+            <img src="/images/issues/1/1/appendixed/images/ajax-loader.gif" width="220" height="19" />
+        </div>
+    </div>
+
+    <div id="appendixed-timeline-wrapper" class="timeline-wrapper">
+        <div id="appendixed-timeline-container" class="timeline"></div>
+    </div>
+
+    <script type="text/javascript" src="/images/issues/1/1/appendixed/map_data.js"></script>
+    <script type="text/javascript" src="/images/issues/1/1/appendixed/scripts.js"></script>
+    <script type="text/javascript">
+        var the_map
+        var the_timeline
+        var image_loader
+
+        $(document).on("ready", function() {
+            image_loader = new ImageLoader()
+
+            image_loader.addImage('/images/issues/1/1/appendixed/images/main-map-background.jpg')
+            image_loader.addImage('/images/issues/1/1/appendixed/images/icons/predicted-apocalypse.png')
+            image_loader.addImage('/images/issues/1/1/appendixed/images/icons/natural-disaster.png')
+            image_loader.addImage('/images/issues/1/1/appendixed/images/icons/divine-intervention.png')
+
+            $(map_data).each(function() {
+                image_loader.addImage(this.image)
+            })
+
+            image_loader.startLoadQueue()
+
+            var interval_id = setInterval(function() {
+                if (image_loader.done) {
+                    var start_date = null, end_date = null
+
+                    the_map = new AppendixedMap('appendixed-map-container','/images/issues/1/1/appendixed/images/main-map-background.jpg',960,691)
+
+                    $(map_data).each(function() {
+                        start_date = (start_date < this.date) ? start_date : this.date
+                        end_date = (end_date > this.date) ? end_date : this.date
+                    })
+                    
+                    the_timeline = new Timeline('appendixed-timeline-container',start_date,end_date,957)
+
+                    the_map.timeline = the_timeline
+                    the_timeline.map = the_map
+
+                    var marker
+                    var start_date = null, end_date = null
+                    $(map_data).each(function() {
+                        marker = new MapMarker(this.x,this.y,
+                                        new Apocalypse(this.type,this.title,this.dateline,this.description,this.date,this.image,this.id))
+                        marker.addToMap(the_map)
+
+                    })
+
+                    $(map_data).each(function() {
+                        if (this.date != 0) {
+                            marker = new TimelineMarker(new Apocalypse(this.type,this.title,this.dateline,this.description,this.date,this.image,this.id))
+                            marker.addToTimeline(the_timeline)
+                        }
+                    })
+                    the_timeline.addBreaks(2)
+                    the_timeline.addTicks()
+                    the_timeline.redraw()
+
+                    clearInterval(interval_id)
+                }
+            },250)
+
+        })
+    </script>
