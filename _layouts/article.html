@@ -87,3 +87,13 @@ leaflet: false
     {% endif %}
   </div>
 </article>
+{% if page.supernotes %}
+<script type="text/javascript" src="/scripts/supernotes.js"></script>
+<script type="text/javascript">
+$(document).on('ready', function() {
+  $.getJSON('/scripts/supernotes{{ page.supernotes }}', function(data) {
+    buildSupernotes(data);
+  });
+});
+</script>
+{% endif %}
