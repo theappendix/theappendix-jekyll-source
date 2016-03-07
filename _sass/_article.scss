@@ -24,6 +24,24 @@
     &:hover {
       color: $accentColorLinkHover;
     }
+
+    &.supernote-icon {
+      @include transition-stack;
+      border-radius: .25em;
+      background-color: transparent;
+      display: inline-block;
+      line-height: 100%;
+      margin-right: .25em;
+      margin-right: .25em;
+      padding: .25em .25em 0 .25em;
+      text-decoration: none;
+      vertical-align: middle;
+
+      &:hover {
+        background-color: $accentColorLinkHover;
+        color: negativeColor;
+      }
+    }
   }
 
   h3 {

@@ -61,6 +61,12 @@ nav.header-navigation {
     &:hover {
       color: $hoverColor;
     }
+
+    &.supernote-icon {
+      &:hover {
+        background-color: $accentBackgroundColor;
+      }
+    }
   }
 
   table td {
