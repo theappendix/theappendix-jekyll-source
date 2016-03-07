@@ -92,7 +92,7 @@ leaflet: false
 <script type="text/javascript">
 $(document).on('ready', function() {
   $.getJSON('/scripts/supernotes{{ page.supernotes }}', function(data) {
-    buildSupernotes(data);
+    buildSupernotes(data, {{ page.volume }}, {{ page.number }});
   });
 });
 </script>
