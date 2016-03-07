@@ -4,7 +4,7 @@ title: "How the Space Age Imagined 2014: Asimov’s Predictions, Revisited"
 authors:
   - breen-benjamin
 date: 2014-07-03 06:00:00
-permalink: "/2014/07/isaac-asimovs-predictions-of-life-in-2014-revisited"
+permalink: "/blog/2014/07/isaac-asimovs-predictions-of-life-in-2014-revisited"
 excerpt: >
   When Isaac Asimov visited the 1964 World’s Fair, he was inspired to imagine life fifty years later.
 header_image: header-banner.jpg
