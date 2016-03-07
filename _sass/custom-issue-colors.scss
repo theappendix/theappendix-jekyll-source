@@ -160,3 +160,35 @@ footer.site-footer {
     repeat: no-repeat;
   }
 }
+
+#special-thefever-wrapper {
+  #sidebar {
+    li {
+      &:hover {
+        color: $accentColor;
+      }
+
+      a {
+        &:hover {
+          color: $accentColor;
+        }
+      }
+    }
+
+    #snapback, #restart, #bookmark {
+      a:hover {
+        color: $accentColor;
+      }
+    }
+  }
+  
+  .passage {
+    a {
+      color: $accentColor;
+
+      &:hover {
+        color: $hoverColor;
+      }
+    }
+  }
+}
