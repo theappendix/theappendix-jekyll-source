@@ -1,3 +1,37 @@
+.launch-letter-content {
+  p.date {
+    color: $deemphasizedColor;
+    font-size: 1em;
+    margin-top: 4em;
+  }
+
+  ul.editors {
+    li {
+      margin-bottom: 0;
+    }
+  }
+
+  span.title, span.appendix {
+    font-style: italic;
+    font-weight: bold;
+  }
+
+  p.bio {
+    @include sans-serif-font-stack;
+    color: $deemphasizedColor;
+    font-size: 1em;
+    font-style: italic;
+
+    span.title {
+      font-style: normal;
+    }
+
+    i {
+      font-style: normal;
+    }
+  }
+}
+
 #special-thefever-wrapper {
     margin: 0 auto;
     padding: 3em 0;

@@ -125,6 +125,7 @@
     background-color: $accentBackgroundColor;
     display: block;
     margin-top: 1em;
+    margin-bottom: 1em;
     padding: 1em;
 
     ul.supernote-commentary, ul.supernote-citation, ul.supernote-link {
@@ -137,6 +138,10 @@
 
         div.contents {
           color: $textColor;
+        }
+
+        &:last-child {
+          margin-bottom: 0;
         }
       }
     }
@@ -177,6 +182,23 @@
 
     ul.supernote-video {
       list-style-type: none;
+      margin: 0 auto;
+      max-width: 640px;
+      padding: 0;
+      width: 100%;
+
+      iframe {
+        width: 100%;
+      }
+
+      p {
+        color: $headerColor;
+        font-size: .75em;
+        font-weight: bold;
+        margin: 0 auto;
+        text-align: left;
+        width: 100%;
+      }
     }
 
     ul.supernote-map {
@@ -364,7 +386,7 @@
     margin-top: 40px;
     margin-bottom: 40px;
     padding: 0 20px;
-    width: 580px;
+    // width: 580px;
 
     p {
       width: auto;
