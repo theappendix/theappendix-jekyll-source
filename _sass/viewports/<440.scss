@@ -1,0 +1,36 @@
+@media all and (max-width: 440px) {
+  body {
+    font-size: 14px;
+  }
+
+  header.site-header {
+    div#title-banner a.logomark {
+      display: none;
+    }
+
+    div.issue-meta {
+      font-size: .9em;
+    }
+  }
+
+  .page-wrap {
+    width: 85%;
+  }
+
+  .page-content {
+    padding-top: 0;
+  }
+
+  .post-header-image {
+    margin-top: 0;
+  }
+
+  .article-content p.alternate-voice {
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .issues-landing-content ul li .cover {
+    display: none;
+  }
+}

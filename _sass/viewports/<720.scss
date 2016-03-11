@@ -1,0 +1,26 @@
+@media all and (max-width: 720px) {
+  body {
+    font-size: 15px;
+  }
+
+  .page-wrap {
+    width: 80%;
+  }
+  
+  .issue-frontmatter-content {
+    div.header {
+      div.cover {
+        float: none;
+      }
+
+      div.details {
+        margin-left: 0;
+      }
+    }
+  }
+
+  .issue-footer ul.table-of-contents li {
+    width: 100%;
+    margin-right: 0;
+  }
+}
