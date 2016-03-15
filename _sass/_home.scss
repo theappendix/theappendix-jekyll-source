@@ -1,0 +1,68 @@
+div.home {
+  h1 {
+    text-align: left;
+  }
+
+  p {
+    font-size: 1.5em;
+    line-height: 1.5em;
+    margin: 1.5em auto;
+
+    a {
+      color: $accentColor;
+      font-weight: bold;
+
+      &:hover {
+        color: $accentColorLinkHover;
+      }
+    }
+  }
+
+  hr {
+    border: {
+      color: $accentColor;
+      style: dotted;
+      width: 1px 0 0 0;
+    }
+    margin: 3em auto;
+    width: 33.3333%;
+  }
+
+  ul.covers {
+    margin: 3em 0;
+    padding: 0;
+
+    li {
+      display: block;
+      float: left;
+      list-style-type: none;
+      margin: 0 1.333333333% 1.333333333% 0;
+      padding: 0;
+      width: 24%;
+
+      &:nth-child(4n) {
+        margin-right: 0;
+      }
+
+      a {
+        display: block;
+        height: 0;
+        padding: 71.0479574% 0;
+        position: relative;
+      }
+
+      img {
+        position: absolute;
+          top: 0;
+          left: 0;
+        width: 100%;
+      }
+    }
+  }
+
+  div.balloon {
+    margin: 4em auto 2em auto;
+    height: 120px;
+    width: 64px;
+  }
+}
