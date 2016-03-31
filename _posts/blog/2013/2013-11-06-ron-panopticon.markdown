@@ -12,8 +12,6 @@ header_image_caption: "Stateville Correction Center, Chicago, as shown in the 19
 links: 
   - label: "Seeing Like a State: How Certain Schemes to Improve the Human Condition Have Failed"
     url: http://books.google.com/books/about/Seeing_Like_a_State.html?id=PqcPCgsr2u0C
-  - label: "Ironically enough, Jeremy Bentham’s mummy is today on continual public view at University College, London."
-    url: http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/784/medium/Presidio-modelo2.JPG?1383756249
 ---
 What is a Panopticon? A prison with a central tower that can peer into every cell. An all-seeing eye that cannot itself be seen. The epitome of Enlightenment and a metaphor for modernity. A conversation piece at certain kinds of parties.
 
