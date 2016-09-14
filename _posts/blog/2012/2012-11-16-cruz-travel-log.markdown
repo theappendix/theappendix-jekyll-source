@@ -4,7 +4,7 @@ title: 'Travel Log: How to Manage Your Own Amputation'
 authors:
   - fernandes-cruz-felipe
 date: 2012-11-16 06:00:00
-permalink: "/posts/2012/11/travel-log:-how-to-manage-your-own-amputation"
+permalink: "/posts/2012/11/travel-log-how-to-manage-your-own-amputation"
 header_image: "header-cruz-header.jpg"
 header_image_caption: "Map of the Tocantins River"
 ---
