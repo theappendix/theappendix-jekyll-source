@@ -15,7 +15,7 @@ pray that the journey be long,
 full of adventures, full of knowledge.    
 - [C. P. Cavafy, “Ithaka”](http://www.cavafy.com/poems/content.asp?id=74&cat=1)
 
-I was reading our first blog piece last week—Ben Breen’s [excellent](http://theappendix.net/blog/2012/11/tempora-mutantur:-between-experimental-and-narrative-history) meditation on how digital technologies shape the humanities—and was nodding along until I came to this great line, near the end:
+I was reading our first blog piece last week—Ben Breen’s [excellent](http://theappendix.net/blog/2012/11/tempora-mutantur-between-experimental-and-narrative-history) meditation on how digital technologies shape the humanities—and was nodding along until I came to this great line, near the end:
 
 > “I hope that The Appendix can point a way toward a middle ground between the narrative and the experimental, one that pushes us to examine the consequences of human actions, but which doesn't let the individual get lost in the torrents of data that pervade our present, and, increasingly, our past as well.”
 
@@ -37,7 +37,7 @@ It is 1975. A thirty year-old midwife from an English-Australian family of eight
   </p>
 </div>
 
-This blog is not the place to get into a debate over whether or not language itself is a technology—we’ll leave that to the [cognitive scientists](http://www.amazon.com/Harnessed-Language-Mimicked-Nature-Transformed/dp/1935618539) and evolutionary psychologists—and I’m about to turn Ben into a bit of a straw man, knowing full well that he’ll see this post before it runs. But what I think Ben’s piece does is treat ‘narrative’—how we sequence events—as a bit of a ‘[black box](http://en.wikipedia.org/wiki/Black_box).’ We plug details of individual lives in, and ‘narrative’ pops out. ‘Experimental history’ might then take these individual narratives and run them against increasingly detailed data-sets, but otherwise they’re opposed. 
+This blog is not the place to get into a debate over whether or not language itself is a technology—we’ll leave that to the [cognitive scientists](http://www.amazon.com/Harnessed-Language-Mimicked-Nature-Transformed/dp/1935618539) and evolutionary psychologists—and I’m about to turn Ben into a bit of a straw man, knowing full well that he’ll see this post before it runs. But what I think Ben’s piece does is treat ‘narrative’—how we sequence events—as a bit of a ‘[black box](http://en.wikipedia.org/wiki/Black_box).’ We plug details of individual lives in, and ‘narrative’ pops out. ‘Experimental history’ might then take these individual narratives and run them against increasingly detailed data-sets, but otherwise they’re opposed.
 
 This isn’t wrong. ‘Narrative history’ has often been used to tell the big stories of the big figures of history whose names we know by heart. This ‘great man’ tradition was what the “[new social history](http://www.historytoday.com/raphael-samuel/what-social-history)” helped buck in the 1960s, when new ways of using demography, statistics, and archival methodologies made it possible to tell a collective story about women, workers, slaves, and other oppressed peoples who left no great archive of letters. If the ‘new social history’ was occasionally dry, a turn to ‘[cultural history](http://en.wikipedia.org/wiki/Cultural_history),’ informed by anthropology, could sometimes keep it moisturized with messy everyday life. Today, we have a ‘what happened’—‘History’—that is radically different, improved, and we see its effects rippling throughout the public sphere. The field is rebounding, as the number of history majors has been steadily rising since the early [2000s](http://www.historians.org/perspectives/issues/2012/1210/Clio's-Charm-Holding-Fast.cfm). By walking the road that Ben lays out, The Appendix will strengthen the field by balancing big data with forgotten stories.
 
@@ -49,13 +49,13 @@ It is 1982. My father is seated at a desk in his ‘office’—the spare room�
 
 What I want to propose, by saying that ‘narrative is experimental,’ is that there is deep, deep power in _how we write_; that some of us should embrace ‘big data,’ but others should paddle off into the territory of subjective experience as often as possible. We can explore the strange choices we make when we tell stories of individual lives—especially our own. We can make our historical story-telling compelling and odd. By doing so, we can get to some very humane truths we simply can’t reach through ‘digital humanities,’ which sometimes resembles a ‘black box’ as well.
 
-In other words, historians need to play with genre, form, and voice. 
+In other words, historians need to play with genre, form, and voice.
 
 <p class="alternate-voice"><i>
 It is 1989. My parents have separated. My mother has gone back to nursing, in the New Jersey suburb where my sister and I will grow up. My father moves into Manhattan, having left academia for jobs in finance and management. We spend weekends with him, alternating between dinosaurs of the American Museum of Natural History, the Temple of Dendur at the Metropolitan Museum of Art, and the office of my father’s mentor in anthropology, Lambros. At home, at my mother’s house, I dream of being a paleontologist, archaeologist, or designer of twenty-fourth century bioelectric rifles, beneath the carvings and spears my parents collected in Papua New Guinea and my mother left hanging on the wall.
 </i></p>
 
-It isn’t self-indulgent to explore the ‘I’ that rests inside the word ‘history.’ On the contrary, it’s arrogant to suggest that it doesn’t exist—that historians somehow comb themselves out of the narrative when they put pen to paper or thumb to spacebar.  If ‘every film is a documentary of its actors,’ as Jean Luc-Godard [observed](http://www.nytimes.com/2010/08/22/movies/22hybrid.html?_r=0), then every book or essay of history is also a record of the hours spent writing it. 
+It isn’t self-indulgent to explore the ‘I’ that rests inside the word ‘history.’ On the contrary, it’s arrogant to suggest that it doesn’t exist—that historians somehow comb themselves out of the narrative when they put pen to paper or thumb to spacebar.  If ‘every film is a documentary of its actors,’ as Jean Luc-Godard [observed](http://www.nytimes.com/2010/08/22/movies/22hybrid.html?_r=0), then every book or essay of history is also a record of the hours spent writing it.
 
 Making ‘history’ is work, and it bears the thumbprint of the maker.
 

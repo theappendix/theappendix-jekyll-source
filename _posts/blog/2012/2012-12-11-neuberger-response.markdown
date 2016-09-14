@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Response to ‘A Nineteenth Century “Digital” Humanities?’"
-authors: 
+authors:
   - neuberger-joan
 date: 2012-12-11 06:00:00
 permalink: "/posts/2012/12/response-to-a-nineteenth-century-digital-humanities"
@@ -12,7 +12,7 @@ excerpt: >
 Fellow University of Texas at Austin Professor Joan Neuberger wrote in with the following interesting response to Jorge Cañizares’s post, ‘A Nineteenth Century “Digital” Humanities?’ We’re excited to keep up the dialogue.
 </p>
 
-It is good to be reminded that, at least since the Enlightenment, there have always been thinkers who wanted to replace stories with science, or narrative with numbers. But I think Prof Cañizares-Esguerra’s examples say more about mainstream historians’ anxiety about quantitative data than about today’s digitizers. The best of the “big data” projects make no claims to “do away with narrative,” or to yield truer, deeper insights, as our nineteenth-century predecessors did. Projects like [ORBIS: The Stanford Geospatial Network Model of the Roman World](http://orbis.stanford.edu/), or [The French Book Trade in Enlightenment Europe](http://chop.leeds.ac.uk/stn/), or [The Holocaust Geographies Spatial History Project](http://www.stanford.edu/group/spatialhistory/cgi-bin/site/project.php?id=1015), all offer themselves as additional tools for studying the past—one might even say for writing new and better narratives of the past. Typically, on the page introducing the animated map showing the evolution of the Nazi concentration camp system, the authors write: 
+It is good to be reminded that, at least since the Enlightenment, there have always been thinkers who wanted to replace stories with science, or narrative with numbers. But I think Prof Cañizares-Esguerra’s examples say more about mainstream historians’ anxiety about quantitative data than about today’s digitizers. The best of the “big data” projects make no claims to “do away with narrative,” or to yield truer, deeper insights, as our nineteenth-century predecessors did. Projects like [ORBIS: The Stanford Geospatial Network Model of the Roman World](http://orbis.stanford.edu/), or [The French Book Trade in Enlightenment Europe](http://chop.leeds.ac.uk/stn/), or [The Holocaust Geographies Spatial History Project](http://www.stanford.edu/group/spatialhistory/cgi-bin/site/project.php?id=1015), all offer themselves as additional tools for studying the past—one might even say for writing new and better narratives of the past. Typically, on the page introducing the animated map showing the evolution of the Nazi concentration camp system, the authors write:
 
 > This animation is intended to be used as a tool for exploring the historical evolution and geographical context of one of the Nazis’ chief systems of exploitation and control: the concentration camps administered by the SS. The spatial and temporal patterns revealed in this visualization raise questions that we hope will spur further inquiry. These include (but are certainly not limited to):
 >
@@ -28,11 +28,11 @@ Explicitly recognizing that such projects raise questions and require interpreta
 
 The problem I see with such projects is that they still require an enormous amount of labor and technological expertise and they still produce relatively limited findings.
 
-The potential I see, though, is two-fold, and slightly different from Ben Breen’s [initial](http://theappendix.net/blog/2012/11/tempora-mutantur:-between-experimental-and-narrative-history) thoughts on the subject. First, applying new technologies to old questions can produce extremely interesting results. Lev Manovich’s [study of _Time Magazine_ covers (1923-2009)](http://www.youtube.com/watch?v=d_OceOpCmf8)  offers insights into links between ideological and visual strategies, but so far the results of their studies have said more about the visual than the ideological.
+The potential I see, though, is two-fold, and slightly different from Ben Breen’s [initial](http://theappendix.net/blog/2012/11/tempora-mutantur-between-experimental-and-narrative-history) thoughts on the subject. First, applying new technologies to old questions can produce extremely interesting results. Lev Manovich’s [study of _Time Magazine_ covers (1923-2009)](http://www.youtube.com/watch?v=d_OceOpCmf8)  offers insights into links between ideological and visual strategies, but so far the results of their studies have said more about the visual than the ideological.
 
 <iframe width="640" height="365" src="http://www.youtube.com/embed/d_OceOpCmf8" frameborder="0" allowfullscreen></iframe>
 
-But second, we still just don’t know much about how visualizing information about the past will change the ways we think about the past and write history. 
+But second, we still just don’t know much about how visualizing information about the past will change the ways we think about the past and write history.
 
 What happens when it becomes common for graduate students, who are asking the new questions, to spend a larger part of their time visualizing data sets and looking at visualizations?
 
