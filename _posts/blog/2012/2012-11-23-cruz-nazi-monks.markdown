@@ -4,7 +4,7 @@ title: "DECLASSIFIED: Nazi Monks Against The Panama Canal"
 authors:
   - fernandes-cruz-felipe
 date: 2012-11-23 06:00:00
-permalink: "/posts/2012/11/declassified:-nazi-monks-against-the-panama-canal"
+permalink: "/posts/2012/11/declassified-nazi-monks-against-the-panama-canal"
 excerpt: >
   In July 1942, the U.S. military worried that Nazi monks in the Amazon were building a secret air base to attack the Panama Canal. Based on declassified documents from U.S. Army Air Forces Intelligence.
 header_image: header-nazi-monks.jpg

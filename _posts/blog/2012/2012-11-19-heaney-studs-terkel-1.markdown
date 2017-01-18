@@ -4,7 +4,7 @@ title: 'The Studs Terkel Effect Pt. 1: When Narrative History <i>Is</i> Experime
 authors:
   - heaney-christopher
 date: 2012-11-19 06:00:00
-permalink: "/posts/2012/11/the-studs-terkel-effect-pt-1:-when-narrative-history-is-experimental-history"
+permalink: "/posts/2012/11/the-studs-terkel-effect-pt-1-when-narrative-history-is-experimental-history"
 excerpt: >
   Part One of a two-part post on how personal, narrative writing can yield insights for history as experimental, and perhaps more meaningful, as the tools of ‘digital humanities.’
 header_image: "header-Heaney_1_re-sized.jpg"

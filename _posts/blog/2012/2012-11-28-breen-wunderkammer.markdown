@@ -4,7 +4,7 @@ title: "Cabinets of Curiosity: the Web as Wunderkammer"
 authors:
   - breen-benjamin
 date: 2012-11-28 06:00:00
-permalink: "/posts/2012/11/cabinets-of-curiosity:-the-web-as-wunderkammer"
+permalink: "/posts/2012/11/cabinets-of-curiosity-the-web-as-wunderkammer"
 excerpt: >
   Curiosity cabinets are usually thought of as antique oddities from another age. But isn’t the internet a bit like a curiosity cabinet? If so, is that a good or bad thing?
 header_image: header-banner_curiosity_cabinet.jpg

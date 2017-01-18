@@ -4,7 +4,7 @@ title: "The Studs Terkel Effect Pt. 2: When Experimental History Is Personal His
 authors:
   - heaney-christopher
 date: 2012-11-21 06:00:00
-permalink: "/posts/2012/11/the-studs-terkel-effect-pt-2:-when-experimental-history-is-personal-history"
+permalink: "/posts/2012/11/the-studs-terkel-effect-pt-2-when-experimental-history-is-personal-history"
 excerpt: >
   Part Two of a two-part post on how personal, narrative writing can yield insights for history as experimental, and perhaps more meaningful, as the tools of ‘digital humanities.’  
 header_image: "header-Arnold_Boecklin_-_Island_of_the_Dead__Third_Version_Edit.jpg"
